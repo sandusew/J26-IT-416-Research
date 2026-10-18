@@ -1,0 +1,33 @@
+component: c1_behaviour
+task: oulad_behavioural_clustering
+seed: 42
+observation_cutoff_days: 13  # course days 0..13 inclusive
+registration_window_note: "Cutoff is course-relative, distinct from days after application registration"
+exclude_outcomes: true
+exclude_identifiers: true
+handling:
+  late_registration: separate_flag
+  withdrawal: separate_cohort_label
+  no_activity: insufficient_data_state
+features:
+  - total_clicks
+  - active_days
+  - click_regularity_cv
+  - recency_last_active_day
+  - prop_resource
+  - prop_oucontent
+  - prop_forumng
+  - prop_quiz
+  - prop_other
+kmeans:
+  k_range: [3, 4, 5, 6]
+  n_init: 10
+  max_iter: 300
+selection_metric: silhouette
+validation_fraction: 0.2
+test_fraction: 0.2
+n_jobs: 2
+digital_twin:
+  min_events_for_profile: 5
+  observation_windows_days: [7, 14, 28]
+  insufficient_data_state: insufficient_data

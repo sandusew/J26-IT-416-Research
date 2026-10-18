@@ -1,0 +1,115 @@
+{
+  "topic_id": "pol_citizen",
+  "subject_id": "sub_political",
+  "topic_title": "Citizenship and political values",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Political culture describes how culture impacts politics. Every political system is embedded in a particular political culture.\nPolitical culture is what the people, the voters, the electorates believe and do based on their understanding of the political system in which they have found themselves. These may be regarded as good or bad when compared with global best practices or norms.\n\nSamuel P. Huntington classified political cultures according to civilizations on the basis of geography and history:",
+      "source_ids": [
+        "wiki_en_political_culture"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Political_culture"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Parochial – Where citizens are only remotely aware of the presence of central government, and live their lives near enough regardless of the decisions taken by the state, distant and unaware of political phenomena. They have neither knowledge nor interest in politics. This type of political culture is generally congruent with a traditional political structure.\nSubject – Where citizens are aware of central government, and are heavily subjected to its decisions with little scope for dissent. The individual is aware of politics, its actors, and institutions. It is effectively oriented towards politics, yet it is on the \"downward flow\" side of politics. In general, it is congruent with a centralized authoritarian structure.\nParticipant – Citizens can influence the government in various ways, and they are affected by it. The individual is oriented toward the system as a whole, to both the political and administrative structures and processes (to both the input and output aspects). In general, it is congruent with a democratic political structure.\nAlmond and Verba wrote that these types of political culture can combine to create the civic culture, which mixes the best elements of each.\n\nWestern civilization\nJapanese civilization\nIslamic civilization\nHindu civilization\nSlavic-Orthodox civilization\nLatin American civilization\nChinese civilization\nAfrican civilization",
+      "source_ids": [
+        "wiki_en_civic_engagement"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Civic_engagement"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Individualistic culture – In which politics is a marketplace between individuals seeking to maximize their self-interest, with minimal community involvement and opposition to the government, as well as a high degree of patronage. See also: Neopatrimonialism.\nMoralistic culture – Whereby government is seen as important and as a way to improve people's lives.\nTraditionalistic culture – One which seeks to preserve the status quo under which elites have all the power and citizen participation is not expected.\n\nThe background of its early immigrants heavily influenced the political culture of the United States, as it is a settler society. Samuel P. Huntington identified American politics as having a \"Tudor\" character, with elements of English political culture of that period, such as common law, strong courts, local self-rule, decentralized sovereignty across institutions, and reliance on popular militias instead of a standing army, having been imported by early settlers. Another source of political culture was the arrival of Scotch-Irish Americans, who came from a violent region of the United Kingdom, and brought with them a strong sense of individualism and support for the right to bear arms. These settlers provided the support for Jacksonian democracy, which was a revolution of its time against the established elites, and remnants of which can still be seen in modern American populism.",
+      "source_ids": [
+        "wiki_en_political_culture"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Political_culture"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Citizenship",
+      "definition": "Citizenship: a key idea for Citizenship and political values (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_political_culture"
+      ]
+    },
+    {
+      "term": "Political culture",
+      "definition": "Every political system is embedded in a particular political culture.",
+      "source_ids": [
+        "wiki_en_political_culture"
+      ]
+    },
+    {
+      "term": "Civic engagement",
+      "definition": "Civic engagement includes communities working together or individuals working alone in both political and non-political actions to protect public values or make a change in a community.",
+      "source_ids": [
+        "wiki_en_political_culture"
+      ]
+    },
+    {
+      "term": "political",
+      "definition": "Every political system is embedded in a particular political culture.",
+      "source_ids": [
+        "wiki_en_political_culture"
+      ]
+    },
+    {
+      "term": "values",
+      "definition": "The sociocultural system, in turn, gives meaning to a political culture through shared symbols and rituals (such as a national independence day) which reflect common values.",
+      "source_ids": [
+        "wiki_en_political_culture"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_political_culture",
+    "wiki_en_civic_engagement"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_political_culture",
+      "title": "Political culture",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Political_culture",
+      "retrieved_at_utc": "2026-10-14T17:29:07.150843+00:00",
+      "edition_or_revision": "pageid=1183635",
+      "subject_id": "sub_political",
+      "topic_id": "pol_citizen",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "3322613713256776f98c32025f715088dcd1d791aee675a831bc2fdee2cb0709",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_civic_engagement",
+      "title": "Civic engagement",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Civic_engagement",
+      "retrieved_at_utc": "2026-10-14T17:29:08.381074+00:00",
+      "edition_or_revision": "pageid=2931151",
+      "subject_id": "sub_political",
+      "topic_id": "pol_citizen",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "48ae650cca9af28ad81a1be3287c28dd4b638ade65164017e35bd6f453cfdadf",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "2b923bd521bbdfe88fc51904776bcca31ccb13cc68fd85798ba00cf13a2af6d9",
+  "authored_at_utc": "2026-10-14T17:29:08.988506+00:00"
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "questionId": "prac_geo_agriculture_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Agriculture in Sri Lanka",
+      "World",
+      "Explanations",
+      "Agriculture"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Agriculture in Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "World"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Agriculture"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_agriculture). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture",
+    "sourceIds": [
+      "wiki_en_agriculture"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «Agriculture is the practice of cultivating the soil, planting, raising, and harvesting both food and non-food crops, as well as livestock production.»?",
+    "options": [
+      "regional",
+      "Agriculture",
+      "Agriculture in Sri Lanka",
+      "World"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "regional"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Agriculture"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Agriculture in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "World"
+      }
+    ],
+    "correctAnswerOrRubric": "Agriculture",
+    "explanation": "Source-grounded AI practice item. The passage supports «Agriculture». Full sentence: Agriculture is the practice of cultivating the soil, planting, raising, and harvesting both food and non-food crops, as well as livestock production. (source_id=wiki_en_agriculture_in_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture_in_sri_lanka",
+    "sourceIds": [
+      "wiki_en_agriculture_in_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture_in_sri_lanka",
+        "passage": "Agriculture is the practice of cultivating the soil, planting, raising, and harvesting both food and non-food crops, as well as livestock production."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «Agriculture was a key factor in the rise of sedentary human civilization, whereby farming of domesticated plants and animals created food surpluses that enabled people to live in the cities.»?",
+    "options": [
+      "Agriculture",
+      "Agriculture in Sri Lanka",
+      "World",
+      "regional"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Agriculture"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Agriculture in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "World"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "regional"
+      }
+    ],
+    "correctAnswerOrRubric": "Agriculture",
+    "explanation": "Source-grounded AI practice item. The passage supports «Agriculture». Full sentence: Agriculture was a key factor in the rise of sedentary human civilization, whereby farming of domesticated plants and animals created food surpluses that enabled people to live in the cities. (source_id=wiki_en_agriculture). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture",
+    "sourceIds": [
+      "wiki_en_agriculture"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture",
+        "passage": "Agriculture was a key factor in the rise of sedentary human civilization, whereby farming of domesticated plants and animals created food surpluses that enabled people to live in the cities."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «While humans started gathering grains at least 105,000 years ago, nascent farmers only began planting them around 11,500 years ago.»?",
+    "options": [
+      "Agriculture",
+      "Agriculture in Sri Lanka",
+      "World",
+      "While"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Agriculture"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Agriculture in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "World"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "While"
+      }
+    ],
+    "correctAnswerOrRubric": "While",
+    "explanation": "Source-grounded AI practice item. The passage supports «While». Full sentence: While humans started gathering grains at least 105,000 years ago, nascent farmers only began planting them around 11,500 years ago. (source_id=wiki_en_agriculture_in_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture_in_sri_lanka",
+    "sourceIds": [
+      "wiki_en_agriculture_in_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture_in_sri_lanka",
+        "passage": "While humans started gathering grains at least 105,000 years ago, nascent farmers only began planting them around 11,500 years ago."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «Sheep, goats, pigs, and cattle were domesticated around 10,000 years ago.»?",
+    "options": [
+      "Agriculture in Sri Lanka",
+      "World",
+      "Sheep",
+      "Agriculture"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Agriculture in Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "World"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sheep"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Agriculture"
+      }
+    ],
+    "correctAnswerOrRubric": "Sheep",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sheep». Full sentence: Sheep, goats, pigs, and cattle were domesticated around 10,000 years ago. (source_id=wiki_en_agriculture). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture",
+    "sourceIds": [
+      "wiki_en_agriculture"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture",
+        "passage": "Sheep, goats, pigs, and cattle were domesticated around 10,000 years ago."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «Plants were independently cultivated in at least 11 regions of the world.»?",
+    "options": [
+      "World",
+      "Plants",
+      "Agriculture",
+      "Agriculture in Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "World"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Plants"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Agriculture"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Agriculture in Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Plants",
+    "explanation": "Source-grounded AI practice item. The passage supports «Plants». Full sentence: Plants were independently cultivated in at least 11 regions of the world. (source_id=wiki_en_agriculture_in_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture_in_sri_lanka",
+    "sourceIds": [
+      "wiki_en_agriculture_in_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture_in_sri_lanka",
+        "passage": "Plants were independently cultivated in at least 11 regions of the world."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «In the 20th century, industrial agriculture based on large-scale monocultures came to dominate agricultural output.»?",
+    "options": [
+      "agriculture",
+      "Agriculture in Sri Lanka",
+      "World",
+      "regional"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "agriculture"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Agriculture in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "World"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "regional"
+      }
+    ],
+    "correctAnswerOrRubric": "agriculture",
+    "explanation": "Source-grounded AI practice item. The passage supports «agriculture». Full sentence: In the 20th century, industrial agriculture based on large-scale monocultures came to dominate agricultural output. (source_id=wiki_en_agriculture). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture",
+    "sourceIds": [
+      "wiki_en_agriculture"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture",
+        "passage": "In the 20th century, industrial agriculture based on large-scale monocultures came to dominate agricultural output."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for World / regional agriculture: «World / regional agriculture can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for World / regional agriculture. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture",
+    "sourceIds": [
+      "wiki_en_agriculture",
+      "wiki_en_agriculture_in_sri_lanka"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for World / regional agriculture: «Listing names alone demonstrates understanding of World / regional agriculture» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for World / regional agriculture. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture",
+    "sourceIds": [
+      "wiki_en_agriculture",
+      "wiki_en_agriculture_in_sri_lanka"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for World / regional agriculture: «World / regional agriculture is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for World / regional agriculture. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture",
+    "sourceIds": [
+      "wiki_en_agriculture",
+      "wiki_en_agriculture_in_sri_lanka"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «Food classes include cereals (grains), vegetables, fruits, cooking oils, meat, milk, eggs, and fungi.»?",
+    "options": [
+      "Food",
+      "Agriculture",
+      "Agriculture in Sri Lanka",
+      "World"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Food"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Agriculture"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Agriculture in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "World"
+      }
+    ],
+    "correctAnswerOrRubric": "Food",
+    "explanation": "Source-grounded AI practice item. The passage supports «Food». Full sentence: Food classes include cereals (grains), vegetables, fruits, cooking oils, meat, milk, eggs, and fungi. (source_id=wiki_en_agriculture). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture",
+    "sourceIds": [
+      "wiki_en_agriculture"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture",
+        "passage": "Food classes include cereals (grains), vegetables, fruits, cooking oils, meat, milk, eggs, and fungi."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_agriculture_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_agriculture",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for World / regional agriculture, which term or name is supported by this passage: «Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers and 4 billion m3 of wood.»?",
+    "options": [
+      "Agriculture",
+      "Agriculture in Sri Lanka",
+      "World",
+      "Global"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Agriculture"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Agriculture in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "World"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Global"
+      }
+    ],
+    "correctAnswerOrRubric": "Global",
+    "explanation": "Source-grounded AI practice item. The passage supports «Global». Full sentence: Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers and 4 billion m3 of wood. (source_id=wiki_en_agriculture_in_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_agriculture_in_sri_lanka",
+    "sourceIds": [
+      "wiki_en_agriculture_in_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_agriculture_in_sri_lanka",
+        "passage": "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers and 4 billion m3 of wood."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "document_id": "wiki_en_anuradhapura",
+  "title": "Anuradhapura (Wikipedia extract)",
+  "source_url": "https://en.wikipedia.org/wiki/Anuradhapura",
+  "supplied_file_origin": "backend/ml/data/arts_content/approved/wiki_en_anuradhapura.txt",
+  "publisher_author": "Wikipedia contributors",
+  "publication_version": "pageid=285857",
+  "subject_id": "sub_history",
+  "topic_id": "hist_sl_rajarata_politics",
+  "grade_year": "A/L",
+  "language": "en",
+  "acquisition_timestamp_utc": "2026-10-14T00:18:56.370952+00:00",
+  "file_hash": "4847a30c5c361eb11597dfcf248b0a687d5a65796e685534b53ce0fd4bc4212e",
+  "text_hash": "0419f10bb01c36141ad0344cadf9f45353dfaa8128686849e521cec87e1f864a",
+  "usage_permission_or_license": "CC-BY-SA-4.0",
+  "usage_permitted": true,
+  "curriculum_relevance_checked": true,
+  "curriculum_relevance_note": null,
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "curriculum_mapping_basis": "manual_map_to_canonical_topic_id_provisional_registry",
+  "learning_outcomes_supported": [
+    "Analyse rise/fall of Anuradhapura and Polonnaruwa politics"
+  ],
+  "role": "supplemental_not_complete_al_teaching_corpus",
+  "review_status": "unreviewed",
+  "content_review_status": "unreviewed",
+  "review_evidence": null,
+  "teacher_reviewed": false,
+  "extraction_method": "utf8_text",
+  "extraction_quality_status": "ok",
+  "ocr_required": false,
+  "extraction_quality": {
+    "n_chars": 9859,
+    "n_sinhala_chars": 10,
+    "ok": true,
+    "status": "ok"
+  },
+  "data_origin": "authentic_public_cc_by_sa_supplemental",
+  "acquired": true,
+  "sinhala_support_claimed": false
+}

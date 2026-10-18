@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_international_trade",
+    "title": "International trade",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/International_trade",
+    "retrieved_at_utc": "2026-10-14T17:30:14.887321+00:00",
+    "edition_or_revision": "pageid=14567",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_intl_trade",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "2dd64da22e8c2a39d4bd87bf12f4d357381fbec7f1a139e61e002abbf0bb1d87",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_comparative_advantage",
+    "title": "Comparative advantage",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+    "retrieved_at_utc": "2026-10-14T17:30:16.413393+00:00",
+    "edition_or_revision": "pageid=62018",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_intl_trade",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "4fa173ec324bb43a63386676f6e609c5495620c9701041ff04b68a2d5a442e02",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_balance_of_trade",
+    "title": "Balance of trade",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Balance_of_trade",
+    "retrieved_at_utc": "2026-10-14T17:30:17.828846+00:00",
+    "edition_or_revision": "pageid=4810",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_intl_trade",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "f682eb03206cd1dc82c400174e037081c959a98edfc529fba3df08d4fe586957",
+    "origin": "wikipedia_api"
+  }
+]

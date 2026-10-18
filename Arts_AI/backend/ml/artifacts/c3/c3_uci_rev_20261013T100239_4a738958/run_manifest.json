@@ -1,0 +1,91 @@
+{
+  "run_id": "c3_uci_rev_20261013T100239_4a738958",
+  "component": "c3",
+  "task": "uci_revised",
+  "config_name": "c3_risk.yaml",
+  "config": {},
+  "data_hashes": {},
+  "sample_counts": {
+    "train": 630,
+    "validation": 208,
+    "test": 206
+  },
+  "feature_schema": [],
+  "split_manifest_path": null,
+  "seeds": {},
+  "hyperparameters": {},
+  "dependency_versions": {},
+  "metrics": {
+    "experiment": "uci_revised",
+    "data_category": "authentic_public",
+    "dataset": "UCI Student Performance",
+    "combine_courses": true,
+    "include_g1_g2": false,
+    "prediction_time_assumption": "before period grades (no G1/G2)",
+    "split_by": "student_key",
+    "math_por_key_overlap": 245,
+    "original_math_g1g2_run_preserved": {
+      "f1": 0.8787878787878788,
+      "note": "See artifacts/c3/c3_uci_20261013T025936_dcef4496"
+    },
+    "validation": {
+      "f1": 0.417910447761194,
+      "roc_auc": 0.7441193344807803,
+      "n": 208,
+      "positive_rate": 0.20192307692307693,
+      "calibration_curve": {
+        "fraction_positives": [
+          0.07142857142857142,
+          0.07317073170731707,
+          0.19047619047619047,
+          0.1951219512195122,
+          0.47619047619047616
+        ],
+        "mean_predicted_value": [
+          0.03569098456193806,
+          0.07871026960961787,
+          0.1590828723266378,
+          0.2828091869458078,
+          0.6225846919040501
+        ]
+      }
+    },
+    "test": {
+      "f1": 0.3870967741935484,
+      "roc_auc": 0.7671686746987951,
+      "n": 206,
+      "positive_rate": 0.1941747572815534,
+      "calibration_curve": {
+        "fraction_positives": [
+          0.047619047619047616,
+          0.07317073170731707,
+          0.17073170731707318,
+          0.1951219512195122,
+          0.4878048780487805
+        ],
+        "mean_predicted_value": [
+          0.03001238654713132,
+          0.07601721024544451,
+          0.14106591468858143,
+          0.254097180042932,
+          0.5770496466999674
+        ]
+      },
+      "f1_at_val_selected_threshold": 0.43478260869565216,
+      "threshold_selected_on_val": 0.30000000000000004
+    },
+    "positive_class": "G3 < 10 (fail-like)",
+    "note": "G1/G2 are period grades available after those periods — included only when include_g1_g2=True. G3 is the target and never a predictor. No weekly event histories. Math/Portuguese quasi-identifier overlap size=245.",
+    "test_set_status": "revised split protocol — original test metrics retained separately"
+  },
+  "artifact_paths": {
+    "model": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c3\\c3_uci_rev_20261013T100239_4a738958\\uci_risk.joblib"
+  },
+  "artifact_hashes": {
+    "model": "aa3e736aabbc6dabc8a7d63d3636d471558481856606cfd57db52a68f0510342"
+  },
+  "model_card_path": null,
+  "status": "completed",
+  "notes": "G1/G2 are period grades available after those periods — included only when include_g1_g2=True. G3 is the target and never a predictor. No weekly event histories. Math/Portuguese quasi-identifier overlap size=245.",
+  "created_at": "2026-10-13T10:02:39.857289+00:00"
+}

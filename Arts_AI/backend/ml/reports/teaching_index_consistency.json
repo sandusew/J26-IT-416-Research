@@ -1,0 +1,22 @@
+{
+  "generated_at_utc": "2026-10-15T04:03:03.504416+00:00",
+  "serving_index": "c4_index_20261014T173535_894e48ef",
+  "index_status": {
+    "n_documents": null,
+    "n_chunks": 295,
+    "status": null
+  },
+  "n_practice_packages": 45,
+  "n_indexed_docs_known": 61,
+  "missing_practice_packages_in_index": [],
+  "extra_practice_packages_in_index": [],
+  "hash_compared": 0,
+  "hash_mismatches": [],
+  "rebuild_needed": false,
+  "note": "Question-bank changes alone do not require index rebuild when teaching_package.body.txt hashes match indexed practice packages. Wiki approved extracts are separate documents.",
+  "evidence": "Questions changed in deficit-fill; teaching package bodies checked against index membership.",
+  "chunk_jaccard_matched_practice_packages": 45,
+  "chunk_jaccard_mismatches": 0,
+  "verified_at_utc": "2026-10-15T04:03:46.191625+00:00",
+  "method": "token_jaccard>=0.85 between teaching_package.body.txt and joined index chunks per prac_pkg_* document_id"
+}

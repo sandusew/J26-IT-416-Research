@@ -1,0 +1,195 @@
+{
+  "generated_at_utc": "2026-10-14T00:20:25.618680+00:00",
+  "method": "joblib.load of trusted LATEST_* serving pointers + training source cross-check",
+  "models": [
+    {
+      "component": "C4 topic classification (NL closed-set) \u2014 also exposed as chat topic hint; not C2",
+      "run_id": "c4_topic_nl_20261013T105116_04964504",
+      "artifact_path": "backend/ml/artifacts/c4/c4_topic_nl_20261013T105116_04964504/topic_nl_classifier.joblib",
+      "sha256": "ecc4220b80c96bfd31d5bea06628271ce19649e4f18666355a28e6cfd41d6b82",
+      "bundle_keys": [
+        "classes",
+        "input_policy",
+        "model",
+        "run_id",
+        "task",
+        "unseen_threshold"
+      ],
+      "pipeline_steps": [
+        {
+          "name": "tfidf",
+          "class": "sklearn.feature_extraction.text.TfidfVectorizer"
+        },
+        {
+          "name": "clf",
+          "class": "sklearn.linear_model._logistic.LogisticRegression"
+        }
+      ],
+      "estimator_class": "sklearn.linear_model._logistic.LogisticRegression",
+      "vectorizer_class": "sklearn.feature_extraction.text.TfidfVectorizer",
+      "feature_preprocessing": {
+        "input": "raw text string",
+        "input_policy": "strip_label_shortcuts",
+        "vectorizer_params": {
+          "ngram_range": [
+            1,
+            2
+          ],
+          "min_df": 1,
+          "max_df": 1.0,
+          "analyzer": "word",
+          "lowercase": true
+        }
+      },
+      "n_labels": 35,
+      "label_vocabulary_sample": [
+        "sub_economics_t00",
+        "sub_economics_t01",
+        "sub_economics_t02",
+        "sub_economics_t04",
+        "sub_economics_t05",
+        "sub_economics_t06",
+        "sub_economics_t07",
+        "sub_geography_t00"
+      ],
+      "training_provenance": "generated_content closed-set (source A\u2192train, B\u2192val/test); not teacher-reviewed syllabus",
+      "evaluation_report": "backend/ml/artifacts/c4/c4_topic_nl_20261013T105116_04964504/metrics.json (if present) / MODEL_STATUS NL metrics",
+      "serving_endpoint": "POST /v1/topic/classify",
+      "architecture_claim": "sklearn Pipeline(TfidfVectorizer \u2192 LogisticRegression). NOT DistilBERT / transformers."
+    },
+    {
+      "component": "C1 OULAD behaviour clustering",
+      "run_id": "c1_20261013T030329_134eeb26",
+      "artifact_path": "backend/ml/artifacts/c1/c1_20261013T030329_134eeb26/kmeans_pipeline.joblib",
+      "sha256": "ba9c92e82bf58f71fa2c67d28024b1313b9d28c83288bb20acb2f53abfea8987",
+      "pipeline_steps": [
+        {
+          "name": "scaler",
+          "class": "sklearn.preprocessing._data.StandardScaler"
+        },
+        {
+          "name": "kmeans",
+          "class": "sklearn.cluster._kmeans.KMeans"
+        }
+      ],
+      "estimator_class": "sklearn.pipeline.Pipeline",
+      "feature_preprocessing": {
+        "feature_cols": [
+          "total_clicks",
+          "active_days",
+          "click_regularity_cv",
+          "recency_last_active_day",
+          "prop_resource",
+          "prop_oucontent",
+          "prop_forumng",
+          "prop_quiz",
+          "prop_other"
+        ]
+      },
+      "training_provenance": "authentic_public OULAD",
+      "serving_endpoint": "POST /v1/behaviour/cluster"
+    },
+    {
+      "component": "C2 EdNet correctness v2",
+      "run_id": "c2_ednet_v2_20261013T153128_f83023f6",
+      "artifact_path": "backend/ml/artifacts/c2/c2_ednet_v2_20261013T153128_f83023f6/correctness_pipeline.joblib",
+      "sha256": "5fe584c752497fd35394d0f1bd23615439a2ed5621d64291ea32b7a333f0aa73",
+      "pipeline_steps": [
+        {
+          "name": "scaler",
+          "class": "sklearn.preprocessing._data.StandardScaler"
+        },
+        {
+          "name": "clf",
+          "class": "sklearn.linear_model._logistic.LogisticRegression"
+        }
+      ],
+      "estimator_class": "sklearn.pipeline.Pipeline",
+      "feature_preprocessing": {
+        "feature_cols": [
+          "hist_count",
+          "hist_accuracy",
+          "hist_accuracy_10",
+          "hist_mean_elapsed",
+          "hist_std_elapsed",
+          "question_difficulty_train"
+        ]
+      },
+      "training_provenance": "authentic_public EdNet KT1 subset",
+      "evaluation_report": "backend/ml/reports/c2_ednet_metrics_V2.json",
+      "serving_endpoint": "POST /v1/correctness/predict"
+    },
+    {
+      "component": "C2 Arts simulation ranker (opt-in)",
+      "run_id": "c2_rank_rev_20261013T105157_40d91e8c",
+      "artifact_path": "backend/ml/artifacts/c2/c2_rank_rev_20261013T105157_40d91e8c/ranker_pointwise.joblib",
+      "sha256": "3eed7793713963c641aa09e1216242a35f8b3e39a944ac696bd001fe082ce62d",
+      "pipeline_steps": [
+        {
+          "name": "scaler",
+          "class": "sklearn.preprocessing._data.StandardScaler"
+        },
+        {
+          "name": "clf",
+          "class": "sklearn.linear_model._logistic.LogisticRegression"
+        }
+      ],
+      "estimator_class": "sklearn.pipeline.Pipeline",
+      "feature_preprocessing": {
+        "feature_cols": [
+          "difficulty",
+          "stu_open_rate"
+        ],
+        "topic_vocabulary": "historical synthetic sub_*_tNN only \u2014 not canonical curriculum IDs"
+      },
+      "training_provenance": "synthetic_learner simulation",
+      "evaluation_report": "backend/ml/reports/c2_ranking_REVISED.json",
+      "serving_endpoint": "POST /v1/recommendations/score (Express opt-in trained_ranker)"
+    },
+    {
+      "component": "C3 OULAD academic risk",
+      "run_id": "c3_oulad_20261013T030421_2f6e0ea2",
+      "artifact_path": "backend/ml/artifacts/c3/c3_oulad_20261013T030421_2f6e0ea2/risk_pipeline.joblib",
+      "sha256": "7f4c60f2ab5e67344ac87b9d2bb0570ddc82bdd858d18e7237689f9a3b9ec69b",
+      "pipeline_steps": [
+        {
+          "name": "estimator",
+          "class": "lightgbm.sklearn.LGBMClassifier"
+        }
+      ],
+      "estimator_class": "lightgbm.sklearn.LGBMClassifier",
+      "selected_model_key": "lightgbm",
+      "feature_preprocessing": {
+        "feature_cols": [
+          "total_clicks",
+          "active_days",
+          "click_regularity_cv",
+          "recency_last_active_day",
+          "prop_resource",
+          "prop_oucontent",
+          "prop_forumng",
+          "prop_quiz",
+          "prop_other",
+          "num_of_prev_attempts",
+          "studied_credits"
+        ],
+        "cutoff_days": 13,
+        "fillna_semantics": "zero activity \u2192 clicks/props=0, recency=cutoff+1 (training)"
+      },
+      "label_vocabulary": {
+        "positive_class": "Fail",
+        "excluded": "Withdrawn"
+      },
+      "training_provenance": "authentic_public OULAD",
+      "evaluation_report": "backend/ml/reports/c3_oulad_metrics.json",
+      "serving_endpoint": "POST /v1/risk/predict"
+    }
+  ],
+  "corrections": [
+    {
+      "was": "MODEL_GAP_TABLE claimed DistilBERT NL",
+      "actual": "sklearn TfidfVectorizer + LogisticRegression Pipeline",
+      "action": "documentation corrected; model not retrained"
+    }
+  ]
+}

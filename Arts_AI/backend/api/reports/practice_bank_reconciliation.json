@@ -1,0 +1,465 @@
+{
+  "generated_at_utc": "2026-10-15T04:07:57.299Z",
+  "mongo": {
+    "source": "dotenv_file",
+    "isAtlas": true,
+    "database": "arts_ai",
+    "hostHint": "cluster0.ote0uca.mongodb.net"
+  },
+  "quality_report_claims": {
+    "eligible_questions_after_repair": 540,
+    "topics_with_ge_12_questions": 45
+  },
+  "batch_file": {
+    "path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\arts_content\\practice\\batches\\combined_import_batch.json",
+    "n_questions": 540,
+    "n_resources": 45,
+    "unique_questionId_version": 540,
+    "duplicate_keys_in_batch": [],
+    "n_topics": 45
+  },
+  "atlas": {
+    "n_ai_question_rows": 1171,
+    "n_unique_logical_questionIds": 541,
+    "n_multi_version_logical": 540,
+    "n_published_rows": 540,
+    "n_published_distinct_logical": 540,
+    "n_draft_rows": 631,
+    "n_withdrawn_rows": 0,
+    "n_validation_passed": 1171,
+    "n_validation_failed": 0,
+    "n_superseded_unpublished_rows": 629,
+    "n_ai_resources": 45,
+    "n_published_resources": 45
+  },
+  "reconciliation_531_vs_486": {
+    "explanation": "Prior \"531 eligible questions\" conflated import nAccepted (questions+resources) or package-sum with published logical count. Current batch file question count and Atlas published distinct logical IDs are the authoritative published figures.",
+    "batch_questions": 540,
+    "batch_resources": 45,
+    "batch_questions_plus_resources": 585,
+    "atlas_published_distinct_logical": 540,
+    "atlas_published_rows": 540,
+    "batch_missing_in_atlas": 0,
+    "batch_present_not_published": 0,
+    "published_not_in_batch": 0
+  },
+  "batch_missing_in_atlas": [],
+  "batch_present_not_published_sample": [],
+  "published_not_in_batch_sample": [],
+  "topics_meeting_12": 45,
+  "topics_below_12": 0,
+  "total_deficit_slots": 0,
+  "deficit_topics": [],
+  "topic_rows": [
+    {
+      "topicId": "eco_demand_supply",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "eco_development",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "eco_gov_policy",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "eco_intl_trade",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "eco_intro",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "eco_money_banking",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "eco_national_income",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "eco_scarcity_choice",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "geo_agriculture",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "geo_basic_concepts",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "geo_climate",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "geo_landforms",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "geo_physical_nature",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "geo_population",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "geo_practical_maps",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "geo_settlement_urban",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_eu_civilization",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_eu_modern",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_in_geography",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_in_indus_vedic",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_in_sources",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_mw_since_1500",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_sl_buddhism",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_sl_colonial_modern",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_sl_geography",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_sl_post_polonnaruwa",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_sl_prehistoric",
+      "batch_questions": 12,
+      "atlas_rows": 27,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_sl_rajarata_politics",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_sl_rajarata_society",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "hist_sl_sources",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_citizen",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_colonial",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_comparative",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_conflict",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_constitution_1978",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_democracy",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_forms_gov",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_ideologies",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_international",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_nature",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_parties",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_public_policy",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_state",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_subfields",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    },
+    {
+      "topicId": "pol_westminster",
+      "batch_questions": 12,
+      "atlas_rows": 26,
+      "published_rows": 12,
+      "published_distinct_logical": 12,
+      "deficit_vs_12": 0,
+      "meets_12": true
+    }
+  ],
+  "package_stats_summary": {
+    "n_packages": 45,
+    "packages_below_12": 0,
+    "quarantine_total": 0
+  }
+}

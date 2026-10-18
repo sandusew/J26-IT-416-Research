@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_agriculture",
+    "title": "Agriculture",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Agriculture",
+    "retrieved_at_utc": "2026-10-14T17:26:12.778248+00:00",
+    "edition_or_revision": "pageid=627",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_agriculture",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "c158ed9baf48e6f5a739950dc64cec79bee714f27312abaebb9463ca12d5b397",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_agriculture_in_sri_lanka",
+    "title": "Agriculture in Sri Lanka",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Agriculture_in_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-14T17:26:13.985615+00:00",
+    "edition_or_revision": "pageid=12094339",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_agriculture",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "be9b71ec4e7c7430f35d9c26d8af1d491dbb93b80097e4ee8715686fd237fd59",
+    "origin": "wikipedia_api"
+  }
+]

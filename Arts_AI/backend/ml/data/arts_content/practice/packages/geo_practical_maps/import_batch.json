@@ -1,0 +1,793 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_geo_practical_maps_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Map projection",
+        "Topographic map",
+        "Explanations",
+        "Cartography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Cartography"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_topographic_map). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_topographic_map",
+      "sourceIds": [
+        "wiki_en_topographic_map"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_topographic_map",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «Combining science, aesthetics and technique, cartography builds on the premise that reality (or an imagined reality) can be modeled in ways that communicate spatial information effectively.»?",
+      "options": [
+        "Topographic map",
+        "Combining",
+        "Cartography",
+        "Map projection"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Combining"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Cartography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Map projection"
+        }
+      ],
+      "correctAnswerOrRubric": "Combining",
+      "explanation": "Source-grounded AI practice item. The passage supports «Combining». Full sentence: Combining science, aesthetics and technique, cartography builds on the premise that reality (or an imagined reality) can be modeled in ways that communicate spatial information effectively. (source_id=wiki_en_cartography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_cartography",
+      "sourceIds": [
+        "wiki_en_cartography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_cartography",
+          "passage": "Combining science, aesthetics and technique, cartography builds on the premise that reality (or an imagined reality) can be modeled in ways that communicate spatial information effectively."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «The fundamental objectives of traditional cartography are to:\n\nThe ancient Greeks and Romans created maps from the time of Anaximander in the 6th century BCE.»?",
+      "options": [
+        "Cartography",
+        "Map projection",
+        "Topographic map",
+        "Greeks"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Cartography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Greeks"
+        }
+      ],
+      "correctAnswerOrRubric": "Greeks",
+      "explanation": "Source-grounded AI practice item. The passage supports «Greeks». Full sentence: The fundamental objectives of traditional cartography are to:\n\nThe ancient Greeks and Romans created maps from the time of Anaximander in the 6th century BCE. (source_id=wiki_en_topographic_map). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_topographic_map",
+      "sourceIds": [
+        "wiki_en_topographic_map"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_topographic_map",
+          "passage": "The fundamental objectives of traditional cartography are to:\n\nThe ancient Greeks and Romans created maps from the time of Anaximander in the 6th century BCE."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «In the 2nd century CE, Ptolemy wrote his treatise on cartography, Geographia.»?",
+      "options": [
+        "Map projection",
+        "Topographic map",
+        "Ptolemy",
+        "Cartography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Ptolemy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Cartography"
+        }
+      ],
+      "correctAnswerOrRubric": "Ptolemy",
+      "explanation": "Source-grounded AI practice item. The passage supports «Ptolemy». Full sentence: In the 2nd century CE, Ptolemy wrote his treatise on cartography, Geographia. (source_id=wiki_en_cartography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_cartography",
+      "sourceIds": [
+        "wiki_en_cartography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_cartography",
+          "passage": "In the 2nd century CE, Ptolemy wrote his treatise on cartography, Geographia."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «This contained Ptolemy's world map – the world then known to Western society (Ecumene).»?",
+      "options": [
+        "Topographic map",
+        "Ptolemy",
+        "Cartography",
+        "Map projection"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Ptolemy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Cartography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Map projection"
+        }
+      ],
+      "correctAnswerOrRubric": "Ptolemy",
+      "explanation": "Source-grounded AI practice item. The passage supports «Ptolemy». Full sentence: This contained Ptolemy's world map – the world then known to Western society (Ecumene). (source_id=wiki_en_map_projection). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_map_projection",
+      "sourceIds": [
+        "wiki_en_map_projection"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_map_projection",
+          "passage": "This contained Ptolemy's world map – the world then known to Western society (Ecumene)."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «As early as the 8th century, Arab scholars were translating the works of the Greek geographers into Arabic.»?",
+      "options": [
+        "Arab",
+        "Cartography",
+        "Map projection",
+        "Topographic map"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Arab"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Cartography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Topographic map"
+        }
+      ],
+      "correctAnswerOrRubric": "Arab",
+      "explanation": "Source-grounded AI practice item. The passage supports «Arab». Full sentence: As early as the 8th century, Arab scholars were translating the works of the Greek geographers into Arabic. (source_id=wiki_en_topographic_map). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_topographic_map",
+      "sourceIds": [
+        "wiki_en_topographic_map"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_topographic_map",
+          "passage": "As early as the 8th century, Arab scholars were translating the works of the Greek geographers into Arabic."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «Roads were essential in the Roman world, motivating the creation of maps, called itinerarium, that portrayed the world as experienced via the roads.»?",
+      "options": [
+        "Cartography",
+        "Map projection",
+        "Topographic map",
+        "Roads"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Cartography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Roads"
+        }
+      ],
+      "correctAnswerOrRubric": "Roads",
+      "explanation": "Source-grounded AI practice item. The passage supports «Roads». Full sentence: Roads were essential in the Roman world, motivating the creation of maps, called itinerarium, that portrayed the world as experienced via the roads. (source_id=wiki_en_cartography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_cartography",
+      "sourceIds": [
+        "wiki_en_cartography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_cartography",
+          "passage": "Roads were essential in the Roman world, motivating the creation of maps, called itinerarium, that portrayed the world as experienced via the roads."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «(Source: https://en.wikipedia.org/wiki/Cartography)\n\n## Historical or systematic development\nSet the map's agenda and select traits of the object to be mapped.»?",
+      "options": [
+        "Map projection",
+        "Topographic map",
+        "Source",
+        "Cartography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Source"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Cartography"
+        }
+      ],
+      "correctAnswerOrRubric": "Source",
+      "explanation": "Source-grounded AI practice item. The passage supports «Source». Full sentence: (Source: https://en.wikipedia.org/wiki/Cartography)\n\n## Historical or systematic development\nSet the map's agenda and select traits of the object to be mapped. (source_id=wiki_en_map_projection). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_map_projection",
+      "sourceIds": [
+        "wiki_en_map_projection"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_map_projection",
+          "passage": "(Source: https://en.wikipedia.org/wiki/Cartography)\n\n## Historical or systematic development\nSet the map's agenda and select traits of the object to be mapped."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «Traits may be physical, such as roads or land masses, or may be abstract, such as toponyms or political boundaries.»?",
+      "options": [
+        "Topographic map",
+        "Traits",
+        "Cartography",
+        "Map projection"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Traits"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Cartography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Map projection"
+        }
+      ],
+      "correctAnswerOrRubric": "Traits",
+      "explanation": "Source-grounded AI practice item. The passage supports «Traits». Full sentence: Traits may be physical, such as roads or land masses, or may be abstract, such as toponyms or political boundaries. (source_id=wiki_en_topographic_map). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_topographic_map",
+      "sourceIds": [
+        "wiki_en_topographic_map"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_topographic_map",
+          "passage": "Traits may be physical, such as roads or land masses, or may be abstract, such as toponyms or political boundaries."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «In the United States, the national map-making function which had been shared by both the Army Corps of Engineers and the Department of the Interior migrated to the newly created United States Geologic…»?",
+      "options": [
+        "United States",
+        "Cartography",
+        "Map projection",
+        "Topographic map"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "United States"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Cartography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Topographic map"
+        }
+      ],
+      "correctAnswerOrRubric": "United States",
+      "explanation": "Source-grounded AI practice item. The passage supports «United States». Full sentence: In the United States, the national map-making function which had been shared by both the Army Corps of Engineers and the Department of the Interior migrated to the newly created United States Geological Survey in 1879, where it has remained since. (source_id=wiki_en_cartography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_cartography",
+      "sourceIds": [
+        "wiki_en_cartography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_cartography",
+          "passage": "In the United States, the national map-making function which had been shared by both the Army Corps of Engineers and the Department of the Interior migrated to the newly created United States Geological Survey in 1879, where it has remained since."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «1913 saw the beginning of the International Map of the World initiative, which set out to map all of Earth's significant land areas at a scale of 1:1 million, on about one thousand sheets, each coveri…»?",
+      "options": [
+        "Cartography",
+        "Map projection",
+        "Topographic map",
+        "International Map"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Cartography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "International Map"
+        }
+      ],
+      "correctAnswerOrRubric": "International Map",
+      "explanation": "Source-grounded AI practice item. The passage supports «International Map». Full sentence: 1913 saw the beginning of the International Map of the World initiative, which set out to map all of Earth's significant land areas at a scale of 1:1 million, on about one thousand sheets, each covering four degrees latitude by six or more degrees longitude. (source_id=wiki_en_map_projection). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_map_projection",
+      "sourceIds": [
+        "wiki_en_map_projection"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_map_projection",
+          "passage": "1913 saw the beginning of the International Map of the World initiative, which set out to map all of Earth's significant land areas at a scale of 1:1 million, on about one thousand sheets, each covering four degrees latitude by six or more degrees longitude."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q05",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_practical_maps",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Practical Geography and map skills, which term or name is supported by this passage: «Excluding borders, each sheet was 44 cm high and (depending on latitude) up to 66 cm wide.»?",
+      "options": [
+        "Map projection",
+        "Topographic map",
+        "Excluding",
+        "Cartography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Map projection"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Topographic map"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Excluding"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Cartography"
+        }
+      ],
+      "correctAnswerOrRubric": "Excluding",
+      "explanation": "Source-grounded AI practice item. The passage supports «Excluding». Full sentence: Excluding borders, each sheet was 44 cm high and (depending on latitude) up to 66 cm wide. (source_id=wiki_en_topographic_map). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_topographic_map",
+      "sourceIds": [
+        "wiki_en_topographic_map"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_topographic_map",
+          "passage": "Excluding borders, each sheet was 44 cm high and (depending on latitude) up to 66 cm wide."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_geo_practical_maps_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicIds": [
+        "geo_practical_maps"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Practical Geography and map skills — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Cartography",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_cartography",
+        "wiki_en_map_projection",
+        "wiki_en_topographic_map"
+      ],
+      "bodyText": "# Practical Geography and map skills\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Practical Geography and map skills」 (geo_practical_maps) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nCartography () is the study and practice of making and using maps. Combining science, aesthetics and technique, cartography builds on the premise that reality (or an imagined reality) can be modeled in ways that communicate spatial information effectively.\nThe fundamental objectives of traditional cartography are to:\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate competency related to: Practical Geography and map skills\n- [inferred_not_official] Explain core ideas of Practical Geography and map skills\n- [inferred_not_official] Apply concepts from Practical Geography and map skills using cited public sources\n\n## Core concepts and definitions\nCartography () is the study and practice of making and using maps. Combining science, aesthetics and technique, cartography builds on the premise that reality (or an imagined reality) can be modeled in ways that communicate spatial information effectively.\nThe fundamental objectives of traditional cartography are to:\n\nThe ancient Greeks and Romans created maps from the time of Anaximander in the 6th century BCE. In the 2nd century CE, Ptolemy wrote his treatise on cartography, Geographia. This contained Ptolemy's world map – the world then known to Western society (Ecumene). As early as the 8th century, Arab scholars were translating the works of the Greek geographers into Arabic. Roads were essential in the Roman world, motivating the creation of maps, called itinerarium, that portrayed the world as experienced via the roads. The Tabula Peutingeriana is the only surviving example.\n(Source: https://en.wikipedia.org/wiki/Cartography)\n\n## Historical or systematic development\nSet the map's agenda and select traits of the object to be mapped. This is the concern of map editing. Traits may be physical, such as roads or land masses, or may be abstract, such as toponyms or political boundaries.\nRepresent the terrain of the mapped object on flat media. This is the concern of map projections.\nEliminate the mapped object's characteristics that are irrelevant to the map's purpose. This is the concern of generalization.\nReduce the complexity of the characteristics that will be mapped. This is also the concern of generalization.\nOrchestrate the elements of the map to best convey its message to its audience. This is the concern of map design.\nModern cartography constitutes many theoretical and practical foundations of geographic information systems (GIS) and geographic information science (GISc).\n\nIn ancient China, geographical literature dates to the 5th century BCE. The oldest extant Chinese maps come from the State of Qin, dated back to the 4th century BCE, during the Warring States period. In the book Xin Yi Xiang Fa Yao, published in 1092 by the Chinese scientist Su Song, a star map on the equidistant cylindrical projection. Although this method of charting seems to have existed in China even before this publication and scientist, the greatest significance of the star maps by Su Song is that they represent the oldest surviving star maps in printed form.\nEarly forms of cartography of India included depictions of the pole star and surrounding constellations. These charts may have been used for navigation.\n(Source: https://en.wikipedia.org/wiki/Map_projection)\n\n## Applications, evidence, and Sri Lankan / comparative context\nWhat is the earliest known map is a matter of some debate, both because the term \"map\" is not well-defined and because some artifacts that might be maps might actually be something else. A wall painting that might depict the ancient Anatolian city of Çatalhöyük (previously known as Catal Huyuk or Çatal Hüyük) has been dated to the late 7th millennium BCE. Among the prehistoric alpine rock carvings of Mount Bego (France) and Valcamonica (Italy), dated to the 4th millennium BCE, geometric patterns consisting of dotted rectangles and lines are widely interpreted in archaeological literature as depicting cultivated plots. Other known maps of the ancient world include the Minoan \"House of the Admiral\" wall painting from c. 1600 BCE, showing a seaside community in an oblique perspective, and an engraved map of the holy Babylonian city of Nippur, from the Kassite period (14th – 12th centuries BCE). The oldest surviving world maps are from 9th century BCE Babylonia. One shows Babylon on the Euphrates, surrounded by Assyria, Urartu and several cities, all, in turn, surrounded by a \"bitter river\" (Oceanus). Another depicts Babylon as being north of the center of the world.\n\nMappae mundi ('maps of the world') are the medieval European maps of the world. About 1,100 of these are known to have survived: of these, some 900 are found illustrating manuscripts, and the remainder exist as stand-alone documents.\n(Source: https://en.wikipedia.org/wiki/Topographic_map)\n\n## Key terms\n- **Cartography**: Cartography () is the study and practice of making and using maps.\n- **Map projection**: This was an equal-area, heart-shaped world map projection (generally called a cordiform projection) that was used in the 16th and 17th centuries.\n- **Topographic map**: The ellipsoidal model is commonly used to construct topographic maps and for other large- and medium-scale maps that need to accurately depict the land surface.\n- **Practical**: Modern cartography constitutes many theoretical and practical foundations of geographic information systems (GIS) and geographic information science (GISc).\n- **Geography**: Geography: a key idea for Practical Geography and map skills (see cited sources; AI-authored gloss).\n- **skills**: skills: a key idea for Practical Geography and map skills (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Practical Geography and map skills, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Practical Geography and map skills can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Practical Geography and map skills\n- Practical Geography and map skills is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_cartography: Cartography — https://en.wikipedia.org/wiki/Cartography (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:26:15.464001+00:00; checksum 965e6cb9c704…)\n- wiki_en_map_projection: Map projection — https://en.wikipedia.org/wiki/Map_projection (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:26:16.895022+00:00; checksum e7ae32bea17f…)\n- wiki_en_topographic_map: Topographic map — https://en.wikipedia.org/wiki/Topographic_map (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:26:18.013592+00:00; checksum e4293675c28b…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:36.870673+00:00",
+  "before_distinct": 11,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

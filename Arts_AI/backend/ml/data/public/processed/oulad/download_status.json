@@ -1,0 +1,10 @@
+{
+  "dataset": "oulad",
+  "status": "ok",
+  "errors": [],
+  "local_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\oulad\\extracted",
+  "manifest": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\processed\\oulad\\dataset_manifest.json",
+  "archive_size_bytes": 46748244,
+  "extracted_size_bytes": 464413754,
+  "checksum_sha256": "f2ed1902616c1fe8d2824d872c0b7d2d72be435bf0124d077044fe4be2c6d3e4"
+}

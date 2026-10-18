@@ -1,0 +1,32 @@
+Arts AI concurrency and workflow pass — 2026-10-16
+Isolated tests use mongodb-memory-server. They do not write the Atlas arts_ai database.
+Browser checks used the running app at http://127.0.0.1:5173 with the Atlas arts_ai API.
+
+Backend, from backend/api:
+  node --test tests/twin_concurrency.test.js tests/peer_consultation_workflow.test.js
+  6 passed, 0 failed
+  node --test tests/quiz_submission_recovery.test.js tests/fixture_derived_state.test.js tests/canonical_catalogue.test.js tests/ownership_teacher.test.js tests/frontend_gateway_extensions.test.js
+  22 passed, 0 failed
+
+Frontend, from frontend:
+  npm test
+  5 files, 14 passed
+  npx tsc -b
+  exit 0
+  npx oxlint src
+  exit 0, existing warnings only
+  npm run build
+  exit 0 (chunk size warning only)
+
+Browser, cursor-ide-browser, viewport 390x844 then desktop 1406px:
+  Mobile menu visible while sidebar display is none.
+  Escape, backdrop, and route selection close the menu. Logout stays available.
+  Student routes quiz, twin, progress, chat, consultations, peers, notifications, subjects render.
+  /models and /catalogue redirect to Access denied for a student.
+  Main overflow was 0 on those routes.
+  Chat: one failed request restored the question and left no assistant turn; the retry added one domain extractive answer.
+  Peer group grp_2213bd99 created in the UI, join requested by stu, teacher approve returned 403, owner approved in the UI, membership visible after stu relogin, a further join returned 409 capacity_full.
+  Consultation con_98633d25-5 requested in the UI, shown 10:00–10:30 Asia/Colombo, approved with meetingUrl null.
+  Newest consultation notification remained read after reload.
+
+The consultation Approve button initially posted instead of patched and received 404. frontend/src/api/endpoints.ts now sends PATCH. A later Approve in the teacher inbox returned the approved state.

@@ -1,0 +1,115 @@
+{
+  "topic_id": "pol_public_policy",
+  "subject_id": "sub_political",
+  "topic_title": "Public policy (introductory)",
+  "grade": "13",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs. These policies govern various aspects of life, including education, health care, employment, finance, economics, transportation, and society as a whole. The implementation of public policy is known as public administration. Public policy can be considered the sum of a government's direct and indirect activities and has been conceptualized in a variety of ways.\n\nPolicy analysis or public policy analysis is a technique used in the public administration sub-field of political science to enable civil servants, nonprofit organizations, and others to examine and evaluate the available options to implement the goals of laws and elected officials. People who regularly use policy analysis in their work, particularly those who use it as a major part of their job duties are generally known by the title policy analyst. The process is also used in the administration of large organizations with complex policies. It has been defined as the process of \"determining which of various policies will achieve a given set of goals in light of the relations between the policies and the goals.\"\nPolicy analysis can be divided into two major fields:",
+      "source_ids": [
+        "wiki_en_public_policy"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Public_policy"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "They are created and/or enacted on behalf of the public, typically by a government. Sometimes they are made by Non-state actors or are made in co-production with communities or citizens, which can include potential experts, scientists, engineers and stakeholders or scientific data, or sometimes use some of their results. They are typically made by policy-makers affiliated with (in democratic polities) currently elected politicians. Therefore, the \"policy process is a complex political process in which there are many actors: elected politicians, political party leaders, pressure groups, civil servants, publicly employed professionals, judges, non-governmental organizations, international agencies, academic experts, journalists and even sometimes citizens who see themselves as the passive recipients of policy.\"\nA popular way of understanding and engaging in public policy is through a series of stages known as \"the policy cycle\", which was first discussed by the political scientist Harold Laswell in his book The Decision Process: Seven Categories of Functional Analysis, published in 1956. The characterization of particular stages can vary, but a basic sequence is agenda setting, policy formulation, legitimation, implementation, and evaluation. \"It divides the policy process into a series of stages, from a notional starting point at which policymakers begin to think about a policy problem to a notional end point at which a policy has been implemented, and policymakers think about how successful it has been before deciding what to do next.\"\nOfficials considered that policymakers bear responsibility for advancing the interests of various stakeholders. Policy design entails conscious and deliberate effort to define policy aims and map them instrumentally. Academics and other experts in policy studies have developed a range of tools and approaches to help in this task. Government action is the decisions, policies, and actions taken by governments, which can have a significant impact on individuals, organizations, and society at large. Regulations, subsidies, taxes, and spending plans are just a few of the various shapes it might take. Government action aims to achieve certain social or economic objectives, such as fostering economic growth, reducing inequality, or safeguarding the environment.\n\nAnalysis of existing policy, which is analytical and descriptive – it attempts to explain policies and their development\nAnalysis for new policy, which is prescriptive – it is involved with formulating policies and proposals (for example: to improve social welfare)\nOne definition states that:",
+      "source_ids": [
+        "wiki_en_policy_analysis"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Policy_analysis"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Direct government action involving the use of money can be classified into 2 subsections. A government can either use its available resources to address the issue (Make) or contract out to the private sector (Buy).\n\nPolicy Analysis is the process of identifying potential policy options that could address your problem and then comparing those options to choose the most effective, efficient, and feasible one.\nAnother definition considers policy analysis as a method employed in the administration of the state to empower civil servants, activists, etc. for identifying, analyzing and scrutinizing the available alternatives to execute the agenda of laws and elected officials. This makes policy analysis both a process for public and the private sector.\nThe purpose and area of interest determine the type of analysis conducted. A combination of two kinds of policy analyses together with program evaluation is defined as policy studies. Policy analysis is frequently deployed in the public sector, but is equally applicable elsewhere, such as nonprofit organizations and non-governmental organizations. Policy analysis has its roots in systems analysis, an approach used by United States Secretary of Defense Robert McNamara in the 1960s.",
+      "source_ids": [
+        "wiki_en_public_policy"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Public_policy"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Public policy",
+      "definition": "Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs.",
+      "source_ids": [
+        "wiki_en_public_policy"
+      ]
+    },
+    {
+      "term": "Policy analysis",
+      "definition": "professional association of public policy practitioners, researchers, scholars, and students is the Association for Public Policy Analysis and Management.",
+      "source_ids": [
+        "wiki_en_public_policy"
+      ]
+    },
+    {
+      "term": "Public",
+      "definition": "Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs.",
+      "source_ids": [
+        "wiki_en_public_policy"
+      ]
+    },
+    {
+      "term": "policy",
+      "definition": "Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs.",
+      "source_ids": [
+        "wiki_en_public_policy"
+      ]
+    },
+    {
+      "term": "introductory",
+      "definition": "introductory: a key idea for Public policy (introductory) (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_public_policy"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_public_policy",
+    "wiki_en_policy_analysis"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_public_policy",
+      "title": "Public policy",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "retrieved_at_utc": "2026-10-14T17:31:46.575855+00:00",
+      "edition_or_revision": "pageid=153324",
+      "subject_id": "sub_political",
+      "topic_id": "pol_public_policy",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "a129d30e7adbc0ae8f8293fd34960dceaf75965b1798293e2b162caca6a480b0",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_policy_analysis",
+      "title": "Policy analysis",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Policy_analysis",
+      "retrieved_at_utc": "2026-10-14T17:31:48.051925+00:00",
+      "edition_or_revision": "pageid=639389",
+      "subject_id": "sub_political",
+      "topic_id": "pol_public_policy",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "fa2b163ecd587323e5ad9763fef90be37ab30b42658c25bad6bf0291340b8ea6",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "e0ebf25af3c1b347c1a3fbd36c98782104ccc150847b6ef77a9863b70a4a77be",
+  "authored_at_utc": "2026-10-14T17:31:48.668502+00:00"
+}

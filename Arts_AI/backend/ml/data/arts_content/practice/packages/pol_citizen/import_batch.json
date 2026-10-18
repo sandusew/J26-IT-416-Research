@@ -1,0 +1,792 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_citizen_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Political culture",
+        "Civic engagement",
+        "Explanations",
+        "Citizenship"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Political culture"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Civic engagement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Citizenship"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_political_culture). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_culture",
+      "sourceIds": [
+        "wiki_en_political_culture"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_culture",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_citizen_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «Political culture is what the people, the voters, the electorates believe and do based on their understanding of the political system in which they have found themselves.»?",
+      "options": [
+        "Civic engagement",
+        "Political",
+        "Citizenship",
+        "Political culture"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Civic engagement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Political"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political culture"
+        }
+      ],
+      "correctAnswerOrRubric": "Political",
+      "explanation": "Source-grounded AI practice item. The passage supports «Political». Full sentence: Political culture is what the people, the voters, the electorates believe and do based on their understanding of the political system in which they have found themselves. (source_id=wiki_en_civic_engagement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_civic_engagement",
+      "sourceIds": [
+        "wiki_en_civic_engagement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_civic_engagement",
+          "passage": "Political culture is what the people, the voters, the electorates believe and do based on their understanding of the political system in which they have found themselves."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_citizen_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «These may be regarded as good or bad when compared with global best practices or norms.»?",
+      "options": [
+        "compared",
+        "Citizenship",
+        "Political culture",
+        "Civic engagement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "compared"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political culture"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Civic engagement"
+        }
+      ],
+      "correctAnswerOrRubric": "compared",
+      "explanation": "Source-grounded AI practice item. The passage supports «compared». Full sentence: These may be regarded as good or bad when compared with global best practices or norms. (source_id=wiki_en_political_culture). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_culture",
+      "sourceIds": [
+        "wiki_en_political_culture"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_culture",
+          "passage": "These may be regarded as good or bad when compared with global best practices or norms."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_citizen_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «This type of political culture is generally congruent with a traditional political structure.»?",
+      "options": [
+        "Civic engagement",
+        "generally",
+        "Citizenship",
+        "Political culture"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Civic engagement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "generally"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political culture"
+        }
+      ],
+      "correctAnswerOrRubric": "generally",
+      "explanation": "Source-grounded AI practice item. The passage supports «generally». Full sentence: This type of political culture is generally congruent with a traditional political structure. (source_id=wiki_en_civic_engagement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_civic_engagement",
+      "sourceIds": [
+        "wiki_en_civic_engagement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_civic_engagement",
+          "passage": "This type of political culture is generally congruent with a traditional political structure."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_citizen_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «Subject – Where citizens are aware of central government, and are heavily subjected to its decisions with little scope for dissent.»?",
+      "options": [
+        "Subject",
+        "Citizenship",
+        "Political culture",
+        "Civic engagement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Subject"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political culture"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Civic engagement"
+        }
+      ],
+      "correctAnswerOrRubric": "Subject",
+      "explanation": "Source-grounded AI practice item. The passage supports «Subject». Full sentence: Subject – Where citizens are aware of central government, and are heavily subjected to its decisions with little scope for dissent. (source_id=wiki_en_political_culture). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_culture",
+      "sourceIds": [
+        "wiki_en_political_culture"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_culture",
+          "passage": "Subject – Where citizens are aware of central government, and are heavily subjected to its decisions with little scope for dissent."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_citizen_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «It is effectively oriented towards politics, yet it is on the \"downward flow\" side of politics.»?",
+      "options": [
+        "Citizenship",
+        "Political culture",
+        "Civic engagement",
+        "towards"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Political culture"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Civic engagement"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "towards"
+        }
+      ],
+      "correctAnswerOrRubric": "towards",
+      "explanation": "Source-grounded AI practice item. The passage supports «towards». Full sentence: It is effectively oriented towards politics, yet it is on the \"downward flow\" side of politics. (source_id=wiki_en_civic_engagement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_civic_engagement",
+      "sourceIds": [
+        "wiki_en_civic_engagement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_civic_engagement",
+          "passage": "It is effectively oriented towards politics, yet it is on the \"downward flow\" side of politics."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_citizen_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «In general, it is congruent with a centralized authoritarian structure.»?",
+      "options": [
+        "Political culture",
+        "Civic engagement",
+        "centralized",
+        "Citizenship"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Political culture"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Civic engagement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "centralized"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Citizenship"
+        }
+      ],
+      "correctAnswerOrRubric": "centralized",
+      "explanation": "Source-grounded AI practice item. The passage supports «centralized». Full sentence: In general, it is congruent with a centralized authoritarian structure. (source_id=wiki_en_political_culture). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_culture",
+      "sourceIds": [
+        "wiki_en_political_culture"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_culture",
+          "passage": "In general, it is congruent with a centralized authoritarian structure."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_citizen_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «Participant – Citizens can influence the government in various ways, and they are affected by it.»?",
+      "options": [
+        "Civic engagement",
+        "Participant",
+        "Citizenship",
+        "Political culture"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Civic engagement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Participant"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political culture"
+        }
+      ],
+      "correctAnswerOrRubric": "Participant",
+      "explanation": "Source-grounded AI practice item. The passage supports «Participant». Full sentence: Participant – Citizens can influence the government in various ways, and they are affected by it. (source_id=wiki_en_civic_engagement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_civic_engagement",
+      "sourceIds": [
+        "wiki_en_civic_engagement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_civic_engagement",
+          "passage": "Participant – Citizens can influence the government in various ways, and they are affected by it."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_citizen_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «== Classifications ==\nDifferent typologies of political culture have been proposed.»?",
+      "options": [
+        "Classifications",
+        "Citizenship",
+        "Political culture",
+        "Civic engagement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Classifications"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political culture"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Civic engagement"
+        }
+      ],
+      "correctAnswerOrRubric": "Classifications",
+      "explanation": "Source-grounded AI practice item. The passage supports «Classifications». Full sentence: == Classifications ==\nDifferent typologies of political culture have been proposed. (source_id=wiki_en_political_culture). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_culture",
+      "sourceIds": [
+        "wiki_en_political_culture"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_culture",
+          "passage": "== Classifications ==\nDifferent typologies of political culture have been proposed."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_citizen_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «The individual is oriented toward the system as a whole, to both the political and administrative structures and processes (to both the input and output aspects).»?",
+      "options": [
+        "Political culture",
+        "Civic engagement",
+        "toward",
+        "Citizenship"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Political culture"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Civic engagement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "toward"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Citizenship"
+        }
+      ],
+      "correctAnswerOrRubric": "toward",
+      "explanation": "Source-grounded AI practice item. The passage supports «toward». Full sentence: The individual is oriented toward the system as a whole, to both the political and administrative structures and processes (to both the input and output aspects). (source_id=wiki_en_civic_engagement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_civic_engagement",
+      "sourceIds": [
+        "wiki_en_civic_engagement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_civic_engagement",
+          "passage": "The individual is oriented toward the system as a whole, to both the political and administrative structures and processes (to both the input and output aspects)."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_citizen_q06",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «Almond and Verba wrote that these types of political culture can combine to create the civic culture, which mixes the best elements of each.»?",
+      "options": [
+        "Civic engagement",
+        "Almond",
+        "Citizenship",
+        "Political culture"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Civic engagement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Almond"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political culture"
+        }
+      ],
+      "correctAnswerOrRubric": "Almond",
+      "explanation": "Source-grounded AI practice item. The passage supports «Almond». Full sentence: Almond and Verba wrote that these types of political culture can combine to create the civic culture, which mixes the best elements of each. (source_id=wiki_en_political_culture). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_culture",
+      "sourceIds": [
+        "wiki_en_political_culture"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_culture",
+          "passage": "Almond and Verba wrote that these types of political culture can combine to create the civic culture, which mixes the best elements of each."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_citizen_q07",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_citizen",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Citizenship and political values, which term or name is supported by this passage: «Moralistic culture – Whereby government is seen as important and as a way to improve people's lives.»?",
+      "options": [
+        "Moralistic",
+        "Citizenship",
+        "Political culture",
+        "Civic engagement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Moralistic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Citizenship"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political culture"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Civic engagement"
+        }
+      ],
+      "correctAnswerOrRubric": "Moralistic",
+      "explanation": "Source-grounded AI practice item. The passage supports «Moralistic». Full sentence: Moralistic culture – Whereby government is seen as important and as a way to improve people's lives. (source_id=wiki_en_civic_engagement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_civic_engagement",
+      "sourceIds": [
+        "wiki_en_civic_engagement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_civic_engagement",
+          "passage": "Moralistic culture – Whereby government is seen as important and as a way to improve people's lives."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_citizen_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_citizen"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Citizenship and political values — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Political_culture",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_political_culture",
+        "wiki_en_civic_engagement"
+      ],
+      "bodyText": "# Citizenship and political values\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Citizenship and political values」 (pol_citizen) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nPolitical culture describes how culture impacts politics. Every political system is embedded in a particular political culture.\nPolitical culture is what the people, the voters, the electorates believe and do based on their understanding of the political system in which they have found themselves. These may be regarded as good or bad when compared with global best practices or norms.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Citizenship and political values\n- [inferred_not_official] Explain core ideas of Citizenship and political values\n- [inferred_not_official] Apply concepts from Citizenship and political values using cited public sources\n\n## Core concepts and definitions\nPolitical culture describes how culture impacts politics. Every political system is embedded in a particular political culture.\nPolitical culture is what the people, the voters, the electorates believe and do based on their understanding of the political system in which they have found themselves. These may be regarded as good or bad when compared with global best practices or norms.\n\nSamuel P. Huntington classified political cultures according to civilizations on the basis of geography and history:\n(Source: https://en.wikipedia.org/wiki/Political_culture)\n\n## Historical or systematic development\nParochial – Where citizens are only remotely aware of the presence of central government, and live their lives near enough regardless of the decisions taken by the state, distant and unaware of political phenomena. They have neither knowledge nor interest in politics. This type of political culture is generally congruent with a traditional political structure.\nSubject – Where citizens are aware of central government, and are heavily subjected to its decisions with little scope for dissent. The individual is aware of politics, its actors, and institutions. It is effectively oriented towards politics, yet it is on the \"downward flow\" side of politics. In general, it is congruent with a centralized authoritarian structure.\nParticipant – Citizens can influence the government in various ways, and they are affected by it. The individual is oriented toward the system as a whole, to both the political and administrative structures and processes (to both the input and output aspects). In general, it is congruent with a democratic political structure.\nAlmond and Verba wrote that these types of political culture can combine to create the civic culture, which mixes the best elements of each.\n\nWestern civilization\nJapanese civilization\nIslamic civilization\nHindu civilization\nSlavic-Orthodox civilization\nLatin American civilization\nChinese civilization\nAfrican civilization\n(Source: https://en.wikipedia.org/wiki/Civic_engagement)\n\n## Applications, evidence, and Sri Lankan / comparative context\nIndividualistic culture – In which politics is a marketplace between individuals seeking to maximize their self-interest, with minimal community involvement and opposition to the government, as well as a high degree of patronage. See also: Neopatrimonialism.\nMoralistic culture – Whereby government is seen as important and as a way to improve people's lives.\nTraditionalistic culture – One which seeks to preserve the status quo under which elites have all the power and citizen participation is not expected.\n\nThe background of its early immigrants heavily influenced the political culture of the United States, as it is a settler society. Samuel P. Huntington identified American politics as having a \"Tudor\" character, with elements of English political culture of that period, such as common law, strong courts, local self-rule, decentralized sovereignty across institutions, and reliance on popular militias instead of a standing army, having been imported by early settlers. Another source of political culture was the arrival of Scotch-Irish Americans, who came from a violent region of the United Kingdom, and brought with them a strong sense of individualism and support for the right to bear arms. These settlers provided the support for Jacksonian democracy, which was a revolution of its time against the established elites, and remnants of which can still be seen in modern American populism.\n(Source: https://en.wikipedia.org/wiki/Political_culture)\n\n## Key terms\n- **Citizenship**: Citizenship: a key idea for Citizenship and political values (see cited sources; AI-authored gloss).\n- **Political culture**: Every political system is embedded in a particular political culture.\n- **Civic engagement**: Civic engagement includes communities working together or individuals working alone in both political and non-political actions to protect public values or make a change in a community.\n- **political**: Every political system is embedded in a particular political culture.\n- **values**: The sociocultural system, in turn, gives meaning to a political culture through shared symbols and rituals (such as a national independence day) which reflect common values.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Citizenship and political values, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Citizenship and political values can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Citizenship and political values\n- Citizenship and political values is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_political_culture: Political culture — https://en.wikipedia.org/wiki/Political_culture (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:07.150843+00:00; checksum 332261371325…)\n- wiki_en_civic_engagement: Civic engagement — https://en.wikipedia.org/wiki/Civic_engagement (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:08.381074+00:00; checksum 48ae650cca9a…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:42.227872+00:00",
+  "before_distinct": 10,
+  "after_distinct": 12,
+  "newly_authored_here": 4
+}

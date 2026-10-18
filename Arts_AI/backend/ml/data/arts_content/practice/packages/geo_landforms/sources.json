@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_landform",
+    "title": "Landform",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Landform",
+    "retrieved_at_utc": "2026-10-14T17:25:10.076322+00:00",
+    "edition_or_revision": "pageid=250515",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_landforms",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "b2eca7bb9f546301e5290a1ddde50e67f882a5064c3a22466e68a09f40d3c1ac",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_mountain",
+    "title": "Mountain",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Mountain",
+    "retrieved_at_utc": "2026-10-14T17:25:11.447250+00:00",
+    "edition_or_revision": "pageid=37754",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_landforms",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "5bfc875d7b07a7887ebda05018a254b878e6c3aa46addffb363f508caa741d97",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_plateau",
+    "title": "Plateau",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Plateau",
+    "retrieved_at_utc": "2026-10-14T17:25:12.601240+00:00",
+    "edition_or_revision": "pageid=538005",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_landforms",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "f5c0d31b7d2c040b605eaeb6abf75f197e45bbea1cfbe30a203a9f502c661fda",
+    "origin": "wikipedia_api"
+  }
+]

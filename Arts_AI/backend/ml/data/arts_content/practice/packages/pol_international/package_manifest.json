@@ -1,0 +1,165 @@
+{
+  "topic_id": "pol_international",
+  "subject_id": "sub_political",
+  "topic_title": "International politics and implications for Sri Lanka",
+  "grade": "13",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Sri Lanka is a unitary multi-party semi-presidential representative democratic republic, whereby the President of Sri Lanka is both head of state and head of government. Executive power is exercised by the President on the advice of the Prime Minister and the Cabinet of Ministers. Legislative power is vested in the Parliament. The judiciary is independent of the executive and the legislature.\n\nThe president appoints and heads a cabinet of ministers responsible to Parliament. The president's deputy is the prime minister, who leads the ruling party in Parliament. A parliamentary no-confidence vote requires dissolution of the cabinet and the appointment of a new one by the President.",
+      "source_ids": [
+        "wiki_en_politics_sri_lanka"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Politics_of_Sri_Lanka"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Starting from the early 1950s, the two main parties of Sri Lanka were the social democratic Sri Lanka Freedom Party and the liberal conservative United National Party for several decades. Recently, however, the influence of the two parties has diminished significantly; currently, the two main parties are the National People's Power, a left-wing alliance led by the Janatha Vimukthi Peramuna, and the Samagi Jana Balawegaya, which split from the UNP in 2020. Other notable parties include the Sri Lanka Podujana Peramuna, the Ilankai Tamil Arasu Kachchi, and the Sri Lanka Muslim Congress.\n\nThe Parliament has 225 members, elected for a five-year term: 196 members elected in multi-seat constituencies and 29 by proportional representation.",
+      "source_ids": [
+        "wiki_en_international_relations"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/International_relations"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "The president, directly elected for a five-year term, is the head of state, head of government, and commander-in-chief of the armed forces. The election occurs under the Sri Lankan form of the contingent vote. Responsible to Parliament for the exercise of duties under the constitution and laws, the president may be removed from office by a two-thirds vote of Parliament with the concurrence of the Supreme Court.\n\nThe primary modification is that the party that receives the largest number of valid votes in each constituency gains a unique \"bonus seat\" (see Hickman, 1999). The president may summon, suspend, or end a legislative session and can dissolve Parliament at any time once a year has passed since the last general elections (except in a few limited circumstances). The President can also dissolve Parliament before the completion of one year, if requested to do so by a resolution signed by at least half the MPs. Parliament reserves the power to make all laws. Since its independence in 1948, Sri Lanka has remained a member of the Commonwealth of Nations.",
+      "source_ids": [
+        "wiki_en_foreign_relations_of_sri_lanka"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Foreign_relations_of_Sri_Lanka"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "International relations",
+      "definition": "175–193\n\n\n\n\n\n== External links ==\n\nOffice of the Governor –  Uva / ඌව පලාත් ආණ්ඩුකාරවර කාර්යාලය\n\nInternational relations (IR, and also referred to as international studies, international politics, or international affairs) is an academic discipline.",
+      "source_ids": [
+        "wiki_en_politics_sri_lanka"
+      ]
+    },
+    {
+      "term": "Foreign relations of Sri Lanka",
+      "definition": "Foreign relations of Sri Lanka: a key idea for International politics and implications for Sri Lanka (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_politics_sri_lanka"
+      ]
+    },
+    {
+      "term": "Non-Aligned Movement",
+      "definition": "Sri Lanka was a founding member of the Non-Aligned Movement (NAM).",
+      "source_ids": [
+        "wiki_en_politics_sri_lanka"
+      ]
+    },
+    {
+      "term": "International",
+      "definition": "It also is a member of the Commonwealth, the South Asian Association for Regional Cooperation (SAARC), the World Bank, International Monetary Fund, Asian Development Bank, and the Colombo Plan.",
+      "source_ids": [
+        "wiki_en_politics_sri_lanka"
+      ]
+    },
+    {
+      "term": "politics",
+      "definition": "Professionals, civil society groups, and media rarely play significant roles in Sri Lankan politics, and as a result many aspects of the lives of ordinary citizens are politicized.",
+      "source_ids": [
+        "wiki_en_politics_sri_lanka"
+      ]
+    },
+    {
+      "term": "implications",
+      "definition": "implications: a key idea for International politics and implications for Sri Lanka (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_politics_sri_lanka"
+      ]
+    },
+    {
+      "term": "Lanka",
+      "definition": "Sri Lanka is a unitary multi-party semi-presidential representative democratic republic, whereby the President of Sri Lanka is both head of state and head of government.",
+      "source_ids": [
+        "wiki_en_politics_sri_lanka"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_politics_sri_lanka",
+    "wiki_en_international_relations",
+    "wiki_en_foreign_relations_of_sri_lanka",
+    "wiki_en_non_aligned_movement"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_politics_sri_lanka",
+      "title": "Politics of Sri Lanka (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Sri_Lanka",
+      "retrieved_at_utc": "2026-10-13T17:57:36.405884+00:00",
+      "edition_or_revision": "pageid=27414; acquired snapshot",
+      "subject_id": "sub_political",
+      "topic_id": "pol_international",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "0b8d362622ff23828172d1dd284759b7c48293d4cc1ccb07bd184a805918fa0e",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_international_relations",
+      "title": "International relations",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/International_relations",
+      "retrieved_at_utc": "2026-10-14T17:26:23.458539+00:00",
+      "edition_or_revision": "pageid=82533",
+      "subject_id": "sub_political",
+      "topic_id": "pol_international",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "cdea988bfc6337be30971a7af9645f992df6aaed52f352a74cc003fdf86120e6",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_foreign_relations_of_sri_lanka",
+      "title": "Foreign relations of Sri Lanka",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Foreign_relations_of_Sri_Lanka",
+      "retrieved_at_utc": "2026-10-14T17:28:19.589497+00:00",
+      "edition_or_revision": "pageid=410050",
+      "subject_id": "sub_political",
+      "topic_id": "pol_international",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "5e08f29552f8eb013a4fb2a2cd2fdffa91aa51ec886c2ae94ec071fffb0106ca",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_non_aligned_movement",
+      "title": "Non-Aligned Movement",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Non-Aligned_Movement",
+      "retrieved_at_utc": "2026-10-14T17:28:21.073531+00:00",
+      "edition_or_revision": "pageid=68702564",
+      "subject_id": "sub_political",
+      "topic_id": "pol_international",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "40d65649575c6f93e86481846594c9d8549d6381423800c95ffff2156844d687",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "6ef62e16a092c7fcbbde8454e83afb0b3cf9aaf6bb9a88de56575a9411149ee6",
+  "authored_at_utc": "2026-10-14T17:28:21.707428+00:00"
+}

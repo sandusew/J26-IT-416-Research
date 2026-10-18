@@ -1,0 +1,31 @@
+{
+  "dataset_id": "ednet_kt1_subset",
+  "name": "EdNet KT1 student-level subset",
+  "data_category": "authentic_public",
+  "source_url": "https://github.com/riiid/ednet",
+  "license": "CC BY-NC-SA 4.0 (EdNet)",
+  "schema_version": "0.1.0",
+  "local_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\processed\\ednet\\ednet_kt1_subset.csv",
+  "checksum_sha256": "fdc13654e05ee55b2af744430d699cfbbf1329dd9ef17900c5316635a82e5a17",
+  "archive_size_bytes": 10538929,
+  "extracted_size_bytes": 13347925,
+  "selected_sample_size": 600,
+  "record_counts": {
+    "students": 600,
+    "interactions": 300851,
+    "eligible_students": 1769
+  },
+  "filters": {
+    "max_students": 600,
+    "min_interactions": 50,
+    "seed": 42,
+    "selection": "stable_sha256_order"
+  },
+  "domain": "online_learning_platform",
+  "intended_use": "C2 next-answer correctness (public track)",
+  "generator_version": null,
+  "seed": 42,
+  "scenario_id": null,
+  "notes": "Complete histories retained for 600 selected students. Archive size = sum of selected source files; extracted size = subset CSV.",
+  "created_at": "2026-10-13T15:30:59.402376+00:00"
+}

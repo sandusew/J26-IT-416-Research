@@ -1,0 +1,794 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_geo_climate_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Climate of Sri Lanka",
+        "Monsoon",
+        "Explanations",
+        "Climate"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Climate"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_climate_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_climate_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate_of_sri_lanka",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_climate_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes.»?",
+      "options": [
+        "Monsoon",
+        "Sri Lanka",
+        "Climate",
+        "Climate of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Climate of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes. (source_id=wiki_en_monsoon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_monsoon",
+      "sourceIds": [
+        "wiki_en_monsoon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_monsoon",
+          "passage": "Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_climate_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water.»?",
+      "options": [
+        "square",
+        "Climate",
+        "Climate of Sri Lanka",
+        "Monsoon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "square"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Monsoon"
+        }
+      ],
+      "correctAnswerOrRubric": "square",
+      "explanation": "Source-grounded AI practice item. The passage supports «square». Full sentence: The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water. (source_id=wiki_en_climate_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate_sri_lanka",
+      "sourceIds": [
+        "wiki_en_climate_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate_sri_lanka",
+          "passage": "The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_climate_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania.»?",
+      "options": [
+        "Climate",
+        "Climate of Sri Lanka",
+        "Monsoon",
+        "Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania. (source_id=wiki_en_climate). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate",
+      "sourceIds": [
+        "wiki_en_climate"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate",
+          "passage": "The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_climate_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480.»?",
+      "options": [
+        "According",
+        "Climate",
+        "Climate of Sri Lanka",
+        "Monsoon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "According"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Monsoon"
+        }
+      ],
+      "correctAnswerOrRubric": "According",
+      "explanation": "Source-grounded AI practice item. The passage supports «According». Full sentence: According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480. (source_id=wiki_en_climate_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate_sri_lanka",
+      "sourceIds": [
+        "wiki_en_climate_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate_sri_lanka",
+          "passage": "According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_climate_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama.»?",
+      "options": [
+        "Climate",
+        "Climate of Sri Lanka",
+        "Monsoon",
+        "Rama"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Rama"
+        }
+      ],
+      "correctAnswerOrRubric": "Rama",
+      "explanation": "Source-grounded AI practice item. The passage supports «Rama». Full sentence: The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama. (source_id=wiki_en_climate). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate",
+      "sourceIds": [
+        "wiki_en_climate"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate",
+          "passage": "The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_climate_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October).»?",
+      "options": [
+        "Climate of Sri Lanka",
+        "Monsoon",
+        "Sri Lanka",
+        "Climate"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Climate"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October). (source_id=wiki_en_climate_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_climate_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate_of_sri_lanka",
+          "passage": "Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October)."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_climate_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior.»?",
+      "options": [
+        "Monsoon",
+        "rolling",
+        "Climate",
+        "Climate of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "rolling"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Climate of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "rolling",
+      "explanation": "Source-grounded AI practice item. The passage supports «rolling». Full sentence: Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior. (source_id=wiki_en_monsoon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_monsoon",
+      "sourceIds": [
+        "wiki_en_monsoon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_monsoon",
+          "passage": "Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_climate_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «When this happened, cold waters in the Pacific were impeded from flowing into the Indian Ocean.»?",
+      "options": [
+        "Pacific",
+        "Climate",
+        "Climate of Sri Lanka",
+        "Monsoon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Pacific"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Monsoon"
+        }
+      ],
+      "correctAnswerOrRubric": "Pacific",
+      "explanation": "Source-grounded AI practice item. The passage supports «Pacific». Full sentence: When this happened, cold waters in the Pacific were impeded from flowing into the Indian Ocean. (source_id=wiki_en_climate_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate_sri_lanka",
+      "sourceIds": [
+        "wiki_en_climate_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate_sri_lanka",
+          "passage": "When this happened, cold waters in the Pacific were impeded from flowing into the Indian Ocean."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_climate_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «It is believed that the resulting increase in sea surface temperatures in the Indian Ocean increased the intensity of monsoons.»?",
+      "options": [
+        "Climate",
+        "Climate of Sri Lanka",
+        "Monsoon",
+        "Indian Ocean"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Indian Ocean"
+        }
+      ],
+      "correctAnswerOrRubric": "Indian Ocean",
+      "explanation": "Source-grounded AI practice item. The passage supports «Indian Ocean». Full sentence: It is believed that the resulting increase in sea surface temperatures in the Indian Ocean increased the intensity of monsoons. (source_id=wiki_en_climate). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate",
+      "sourceIds": [
+        "wiki_en_climate"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate",
+          "passage": "It is believed that the resulting increase in sea surface temperatures in the Indian Ocean increased the intensity of monsoons."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_climate_q07",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «In 2018, a study of the SAM's variability over the past million years found that precipitation resulting from the monsoon was significantly reduced during glacial periods compared to interglacial peri…»?",
+      "options": [
+        "Climate of Sri Lanka",
+        "Monsoon",
+        "million",
+        "Climate"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Climate of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "million"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Climate"
+        }
+      ],
+      "correctAnswerOrRubric": "million",
+      "explanation": "Source-grounded AI practice item. The passage supports «million». Full sentence: In 2018, a study of the SAM's variability over the past million years found that precipitation resulting from the monsoon was significantly reduced during glacial periods compared to interglacial periods like the present day. (source_id=wiki_en_climate_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_climate_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_climate_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_climate_of_sri_lanka",
+          "passage": "In 2018, a study of the SAM's variability over the past million years found that precipitation resulting from the monsoon was significantly reduced during glacial periods compared to interglacial periods like the present day."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_climate_q08",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_climate",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Though the ISM was relatively weak for much of the Late Holocene, significant glacial accumulation in the Himalayas still occurred due to cold temperatures brought by westerlies from the west.»?",
+      "options": [
+        "Monsoon",
+        "Though",
+        "Climate",
+        "Climate of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Monsoon"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Though"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Climate"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Climate of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Though",
+      "explanation": "Source-grounded AI practice item. The passage supports «Though». Full sentence: Though the ISM was relatively weak for much of the Late Holocene, significant glacial accumulation in the Himalayas still occurred due to cold temperatures brought by westerlies from the west. (source_id=wiki_en_monsoon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_monsoon",
+      "sourceIds": [
+        "wiki_en_monsoon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_monsoon",
+          "passage": "Though the ISM was relatively weak for much of the Late Holocene, significant glacial accumulation in the Himalayas still occurred due to cold temperatures brought by westerlies from the west."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_geo_climate_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicIds": [
+        "geo_climate"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Climate systems — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Climate_of_Sri_Lanka",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_climate_sri_lanka",
+        "wiki_en_climate",
+        "wiki_en_climate_of_sri_lanka",
+        "wiki_en_monsoon"
+      ],
+      "bodyText": "# Climate systems\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Climate systems」 (geo_climate) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nSri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes. The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water. Its coastline is 1,340 kilometres (830 mi) long. The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania. Dozens of offshore islands account for the remaining 1552 km2 area. The largest offshore island, Jaffna Island is separated by Chundikulam lagoon and Mannar Island, is linked to Adam's Bridge, a land connection to the Indian mainland, which is now mostly submerged with only a chain of limestone shoals remaining above sea level. According to temple records, this natural\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate competency related to: Climate systems\n- [inferred_not_official] Explain core ideas of Climate systems\n- [inferred_not_official] Apply concepts from Climate systems using cited public sources\n\n## Core concepts and definitions\nSri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes. The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water. Its coastline is 1,340 kilometres (830 mi) long. The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania. Dozens of offshore islands account for the remaining 1552 km2 area. The largest offshore island, Jaffna Island is separated by Chundikulam lagoon and Mannar Island, is linked to Adam's Bridge, a land connection to the Indian mainland, which is now mostly submerged with only a chain of limestone shoals remaining above sea level. According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480. The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama.\nSri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October). Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior. The highest point is Pidurutalagala at 2,524 m (8,281 ft). Natural resources include limestone, graphite, mineral sands, gems, phosphates, and clay.\n\nSri Lanka's climate can be described as tropical, and quite hot. Its position between 5 and 10 north latitude endows the country with year-round warm weather, moderated by ocean winds and considerable moisture. The average temperature ranges from a low of 16 °C (60.8 °F) in Nuwara Eliya in the Central Highlands (where frost may occur for several days in the winter) to a high of 32 °C (89.6 °F) in Trincomalee on the northeast coast (where temperatures may reach 38 °C or 100.4 °F). The average yearly temperature for the country as a whole ranges from 28 to 30 °C (82.4 to 86.0 °F). Day and night temperatures may vary by 4 to 7 °C (7.2 to 12.6 °F). January is the coolest month, especially in the highlands, where overnight temperatures may fall to 5 °C (41 °F). May, the hottest period, precedes the summer monsoon rains.\nThe rainfall pattern is influenced by the monsoon winds of the Indian Ocean and Bay of Bengal and is marked by four seasons. The first is from mid-May to October, when winds originate in the southwest, bringing moisture from the Indian Ocean. When these winds encounter the slopes of the Central Highlands, they unload heavy rains on the mountain slopes and the southwestern sector of the island. Some of the windward slopes receive up to 2,500 mm (98.4 in) of rain per month, but the leeward slopes in the east and northeast receive little rain. The second season occurs in October and November, the intermonsoonal months. During this season, periodic squalls occur and sometimes tropical cyclones bring overcast skies and rains to the southwest, northeast, and eastern parts of the island. During the third season, December to March, monsoon winds come from the northeast, bringing moisture from the Bay of Bengal. The northeastern slopes of the mountains may be inundated with up to 1,250 mm (49.2 in) of rain during these months. Another intermonsoonal period occurs from March until mid-May, with light, variable winds and evening thundershowers.\nAn increase in average rainfall coupled with heavier rainfall events has resulted in recurrent flooding and related damages to infrastructure, utility supply and the urban economy.\n(Source: https://en.wikipedia.org/wiki/Climate_of_Sri_Lanka)\n\n## Historical or systematic development\nExtensive faulting and erosion over time have produced a wide range of topographic features. Three zones are distinguishable by elevation: the Central Highlands, the plains, and the coastal belt.\nThe south-central part of Sri Lanka—the rugged Central Highlands—is the heart of the country. The core of this area is a high plateau, running north–south for approximately 65 kilometers. This area includes Sri Lanka's highest mountains. (Pidurutalagala is the highest at 2,524 m) At the plateau's southern end, mountain ranges stretch 50 kilometers to the west toward Adam's Peak (2,243 meters) and 50 kilometers to the east toward Namunukula (2,036 m). Flanking the high central ridges are two lower plateaus. On the west is the Hatton Plateau, a deeply dissected series of ridges sloping downward toward the north. On the east, the Uva Basin consists of rolling hills covered with grasses, traversed by some deep valleys and gorges. To the north, separated from the main body of mountains and plateaus by broad valleys, lies the Knuckles Massif: steep escarpments, deep gorges, and peaks rising to more than 1,800 meters. South of Adam's Peak lie the parallel ridges of the Rakwana Hills, with several peaks over 1,400 meters. The land descends from the Central Highlands to a series of escarpments and ledges at 400 to 500 meters above sea level before sloping down toward the coastal plains.\nMost of the island's surface consists of plains between 30 and 200 meters above sea level. In the southwest, ridges and valleys rise gradually to merge with the Central Highlands, giving a dissected appearance to the plain. Extensive erosion in this area has worn down the ridges and deposited rich soil for agriculture downstream. In the southeast, a red, lateritic soil covers relatively level ground that is studded with bare, monolithic hills. The transition from the plain to the Central Highlands is abrupt in the southeast, and the mountains appear to rise up like a wall. In the east and the north, the plain is flat, dissected by long, narrow ridges of granite running from the Central Highlands.\n\nClimate is the long-term weather pattern in a region, typically averaged over 30 years. More rigorously, it is the mean and variability of meteorological variables over a time spanning from months to millions of years. Some of the meteorological variables that are commonly measured are temperature, humidity, atmospheric pressure, wind, and precipitation. In a broader sense, climate is the state of the components of the climate system, including the atmosphere, hydrosphere, cryosphere, lithosphere and biosphere and the interactions between them. The climate of a location is affected by its latitude, longitude, terrain, altitude, land use and nearby water bodies and their currents.\nClimates can be classified according to the average and typical variables, most commonly temperature and precipitation. The most widely used classification scheme is the Köppen climate classification. The Thornthwaite system, in use since 1948, incorporates evapotranspiration along with temperature and precipitation information and is used in studying biological diversity and how climate change affects it. The major classifications in Thornthwaite's climate classification are microthermal, mesothermal, and megathermal. Finally, the Bergeron and Spatial Synoptic Classification systems focus on the origin of air masses that define the climate of a region.\nPaleoclimatology is the study of ancient climates. Paleoclimatologists seek to explain climate variations for all parts of the Earth during any given geologic period, beginning with the time of the Earth's formation. Since very few direct observations of climate were available before the 19th century, paleoclimates are inferred from proxy variables. They include non-biotic evidence—such as sediments found in lake beds and ice cores—and biotic evidence—such as tree rings and coral. Climate models are mathematical models of past, present, and future climates. Climate change may occur over long and short timescales due to various factors. Recent warming is discussed in terms of global warming, which results in redistributions of biota. For example, as climate scientist Lesley Ann Hughes has written: \"a 3 °C [5 °F] change in mean annual temperature corresponds to a shift in isotherms of approximately 300–400 km [190–250 mi] in latitude (in the temperate zone) or 500 m [1,600 ft] in elevation. Therefore, species are expected to move upwards in elevation or towards the poles in latitude in response to shifting climate zones.\"\n(Source: https://en.wikipedia.org/wiki/Climate)\n\n## Applications, evidence, and Sri Lankan / comparative context\nA coastal belt about thirty meters above sea level surrounds the island. Much of the coast consists of scenic sandy beaches indented by coastal lagoons. In the Jaffna Peninsula, limestone beds are exposed to the waves as low-lying cliffs in a few places. In the northeast and the southwest, where the coast cuts across the stratification of the crystalline rocks, rocky cliffs, bays, and offshore islands can be found; these conditions have created one of the world's best natural harbors at Trincomalee on the northeast coast, and a smaller rock harbor at Galle on the southwestern coast.\nSri Lanka's rivers rise in the Central Highlands and flow in a radial pattern toward the sea. Most of these rivers are short. There are 16 principal rivers longer than 100 kilometers in length, with twelve of them carrying about 75% of the mean river discharge in the entire country. The longest rivers are the Mahaweli Ganga (335 km) and the Malvathu River (170 km). In the highlands, river courses are frequently broken by discontinuities in the terrain, and where they encounter escarpments, numerous waterfalls and rapids have eroded a passage. Once they reach the plain, the rivers slow down and the waters meander across flood plains and deltas. The upper reaches of the rivers are wild and usually unnavigable, and the lower reaches are prone to seasonal flooding. Human intervention has altered the flows of some rivers in order to create hydroelectric, irrigation, and transportation projects. In the north, east, and southeast, the rivers feed numerous artificial lakes or reservoirs (tanks) that store water during the dry season. During the 1970s and 1980s, large-scale projects dammed the Mahaweli Ganga and neighboring streams to create large lakes along their courses. Several hundred kilometers of canals, most of which were built by the Dutch in the 18th century, link inland waterways in the southwestern part of Sri Lanka.\n\n\"Climate in a narrow sense is usually defined as the \"average weather\", or more rigorously, as the statistical description in terms of the mean and variability of relevant quantities over a period ranging from months to thousands or millions of years. The classical period is 30 years, as defined by the World Meteorological Organization (WMO). These quantities are most often surface variables such as temperature, precipitation, and wind. Climate in a wider sense is the state, including a statistical description, of the climate system.\"\nThe World Meteorological Organization (WMO) describes \"climate normals\" as \"reference points used by climatologists to compare current climatological trends to that of the past or what is considered typical. A climate normal is defined as the arithmetic average of a climate element (e.g. temperature) over a 30-year period. A 30-year period is used as it is long enough to filter out any interannual variation or anomalies such as El Niño–Southern Oscillation, but also short enough to be able to show longer climatic trends.\"\nThe WMO originated from the International Meteorological Organization which set up a technical commission for climatology in 1929. At its 1934 Wiesbaden meeting, the technical commission designated the thirty-year period from 1901 to 1930 as the reference time frame for climatological standard normals. In 1982, the WMO agreed to update climate normals, and these were subsequently completed on the basis of climate data from 1 January 1961 to 31 December 1990. The 1961–1990 climate normals serve as the baseline reference period. The next set of climate normals to be published by WMO is from 1991 to 2020. Aside from collecting from the most common atmospheric variables (air temperature, pressure, precipitation and wind), other variables such as humidity, visibility, cloud amount, solar radiation, soil temperature, pan evaporation rate, days with thunder and days with hail are also collected to measure change in climate conditions.\nThe difference between climate and weather is usefully summarized by the popular phrase \"Climate is what you expect, weather is what you get.\" Over historical time spans, there are a number of nearly constant variables that determine climate, including latitude, altitude, proportion of land to water, and proximity to oceans and mountains. All of these variables change only over periods of millions of years due to processes such as plate tectonics. Other climate determinants are more dynamic: the thermohaline circulation of the ocean leads to a 5 °C (9 °F) warming of the northern Atlantic Ocean compared to other ocean basins. Other ocean currents redistribute heat between land and water on a more regional scale. The density and type of vegetation coverage affects solar heat absorption, water retention, and rainfall on a regional level. Alterations in the quantity of atmospheric greenhouse gases (particularly carbon dioxide and methane) determines the amount of solar energy retained by the planet, leading to global warming or global cooling. The variables which determine climate are numerous and the interactions complex, but there is general agreement that the broad outlines are understood, at least insofar as the determinants of historical climate change are concerned.\n(Source: https://en.wikipedia.org/wiki/Climate_of_Sri_Lanka)\n\n## Key terms\n- **Climate**: Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October).\n- **Climate of Sri Lanka**: Climate of Sri Lanka: a key idea for Climate systems (see cited sources; AI-authored gloss).\n- **Monsoon**: Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October).\n- **systems**: Finally, the Bergeron and Spatial Synoptic Classification systems focus on the origin of air masses that define the climate of a region.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Climate systems, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Climate systems can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Climate systems\n- Climate systems is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_climate_sri_lanka: Geography of Sri Lanka — https://en.wikipedia.org/wiki/Climate_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:25:13.291471+00:00; checksum 70f87bb6524d…)\n- wiki_en_climate: Climate — https://en.wikipedia.org/wiki/Climate (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:25:13.855996+00:00; checksum 3f11ba3637cc…)\n- wiki_en_climate_of_sri_lanka: Geography of Sri Lanka — https://en.wikipedia.org/wiki/Climate_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:25:15.257968+00:00; checksum 349625c6405d…)\n- wiki_en_monsoon: Monsoon — https://en.wikipedia.org/wiki/Monsoon (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:25:16.702186+00:00; checksum bf25fd8400fa…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:35.738600+00:00",
+  "before_distinct": 10,
+  "after_distinct": 12,
+  "newly_authored_here": 4
+}

@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_hist_eu_modern_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Industrial Revolution",
+      "French Revolution",
+      "Explanations",
+      "Early modern Europe"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Early modern Europe"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_french_revolution). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_french_revolution",
+    "sourceIds": [
+      "wiki_en_french_revolution"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_french_revolution",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «Early modern Europe, also referred to as the post-medieval period, is the period of European history between the end of the Middle Ages and the beginning of the Industrial Revolution, roughly the mid …»?",
+    "options": [
+      "French Revolution",
+      "Early",
+      "Early modern Europe",
+      "Industrial Revolution"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Early"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Early modern Europe"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Industrial Revolution"
+      }
+    ],
+    "correctAnswerOrRubric": "Early",
+    "explanation": "Source-grounded AI practice item. The passage supports «Early». Full sentence: Early modern Europe, also referred to as the post-medieval period, is the period of European history between the end of the Middle Ages and the beginning of the Industrial Revolution, roughly the mid 15th century to the late 18th century. (source_id=wiki_en_early_modern_europe). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_early_modern_europe",
+    "sourceIds": [
+      "wiki_en_early_modern_europe"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_early_modern_europe",
+        "passage": "Early modern Europe, also referred to as the post-medieval period, is the period of European history between the end of the Middle Ages and the beginning of the Industrial Revolution, roughly the mid 15th century to the late 18th century."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «The precise dates of its end point also vary and are usually linked with either the start of the French Revolution in 1789 or with the more vaguely defined beginning of the Industrial Revolution in la…»?",
+    "options": [
+      "French Revolution",
+      "Early modern Europe",
+      "Industrial Revolution",
+      "Europe"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Early modern Europe"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Europe"
+      }
+    ],
+    "correctAnswerOrRubric": "French Revolution",
+    "explanation": "Source-grounded AI practice item. The passage supports «French Revolution». Full sentence: The precise dates of its end point also vary and are usually linked with either the start of the French Revolution in 1789 or with the more vaguely defined beginning of the Industrial Revolution in late 18th century England. (source_id=wiki_en_industrial_revolution). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_industrial_revolution",
+    "sourceIds": [
+      "wiki_en_industrial_revolution"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_industrial_revolution",
+        "passage": "The precise dates of its end point also vary and are usually linked with either the start of the French Revolution in 1789 or with the more vaguely defined beginning of the Industrial Revolution in late 18th century England."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «Some of the more notable trends and events of the early modern period included the first circumnavigation of the Earth, the establishment of regular European contact with the Americas and South and Ea…»?",
+    "options": [
+      "Industrial Revolution",
+      "French Revolution",
+      "Some",
+      "Early modern Europe"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Some"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Early modern Europe"
+      }
+    ],
+    "correctAnswerOrRubric": "Some",
+    "explanation": "Source-grounded AI practice item. The passage supports «Some». Full sentence: Some of the more notable trends and events of the early modern period included the first circumnavigation of the Earth, the establishment of regular European contact with the Americas and South and East Asia and the European colonization of the Americas. (source_id=wiki_en_early_modern_europe). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_early_modern_europe",
+    "sourceIds": [
+      "wiki_en_early_modern_europe"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_early_modern_europe",
+        "passage": "Some of the more notable trends and events of the early modern period included the first circumnavigation of the Earth, the establishment of regular European contact with the Americas and South and East Asia and the European colonization of the Americas."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «Modern science emerged during the 17th century and was followed by increasingly rapid technological progress, as well as the establishment of secularized civic politics, law courts and the nation stat…»?",
+    "options": [
+      "French Revolution",
+      "Modern",
+      "Early modern Europe",
+      "Industrial Revolution"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Modern"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Early modern Europe"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Industrial Revolution"
+      }
+    ],
+    "correctAnswerOrRubric": "Modern",
+    "explanation": "Source-grounded AI practice item. The passage supports «Modern». Full sentence: Modern science emerged during the 17th century and was followed by increasingly rapid technological progress, as well as the establishment of secularized civic politics, law courts and the nation state. (source_id=wiki_en_industrial_revolution). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_industrial_revolution",
+    "sourceIds": [
+      "wiki_en_industrial_revolution"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_industrial_revolution",
+        "passage": "Modern science emerged during the 17th century and was followed by increasingly rapid technological progress, as well as the establishment of secularized civic politics, law courts and the nation state."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «Capitalist economies began to develop in a nascent form, first in the Low Countries, and later in France, Germany and England.»?",
+    "options": [
+      "Capitalist",
+      "Early modern Europe",
+      "Industrial Revolution",
+      "French Revolution"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Capitalist"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Early modern Europe"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "French Revolution"
+      }
+    ],
+    "correctAnswerOrRubric": "Capitalist",
+    "explanation": "Source-grounded AI practice item. The passage supports «Capitalist». Full sentence: Capitalist economies began to develop in a nascent form, first in the Low Countries, and later in France, Germany and England. (source_id=wiki_en_french_revolution). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_french_revolution",
+    "sourceIds": [
+      "wiki_en_french_revolution"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_french_revolution",
+        "passage": "Capitalist economies began to develop in a nascent form, first in the Low Countries, and later in France, Germany and England."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «The period is often associated with the rise and dominance of the economic theory of mercantilism and the decline and eventual disappearance (at least in Western Europe) of feudalism and serfdom.»?",
+    "options": [
+      "Early modern Europe",
+      "Industrial Revolution",
+      "French Revolution",
+      "Western Europe"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Early modern Europe"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Western Europe"
+      }
+    ],
+    "correctAnswerOrRubric": "Western Europe",
+    "explanation": "Source-grounded AI practice item. The passage supports «Western Europe». Full sentence: The period is often associated with the rise and dominance of the economic theory of mercantilism and the decline and eventual disappearance (at least in Western Europe) of feudalism and serfdom. (source_id=wiki_en_early_modern_europe). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_early_modern_europe",
+    "sourceIds": [
+      "wiki_en_early_modern_europe"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_early_modern_europe",
+        "passage": "The period is often associated with the rise and dominance of the economic theory of mercantilism and the decline and eventual disappearance (at least in Western Europe) of feudalism and serfdom."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «The ensuing rise of global systems of international economic, cultural and intellectual exchange played an important role in the development of capitalism and represents an identifiable early phase of…»?",
+    "options": [
+      "Industrial Revolution",
+      "French Revolution",
+      "systems",
+      "Early modern Europe"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "systems"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Early modern Europe"
+      }
+    ],
+    "correctAnswerOrRubric": "systems",
+    "explanation": "Source-grounded AI practice item. The passage supports «systems». Full sentence: The ensuing rise of global systems of international economic, cultural and intellectual exchange played an important role in the development of capitalism and represents an identifiable early phase of globalization. (source_id=wiki_en_industrial_revolution). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_industrial_revolution",
+    "sourceIds": [
+      "wiki_en_industrial_revolution"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_industrial_revolution",
+        "passage": "The ensuing rise of global systems of international economic, cultural and intellectual exchange played an important role in the development of capitalism and represents an identifiable early phase of globalization."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «The five great powers of Europe that emerged by the end of the 18th century—Austria, France, Prussia, Russia, and the United Kingdom—formed the Concert of Europe that dominated European politics in th…»?",
+    "options": [
+      "French Revolution",
+      "Europe",
+      "Early modern Europe",
+      "Industrial Revolution"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Europe"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Early modern Europe"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Industrial Revolution"
+      }
+    ],
+    "correctAnswerOrRubric": "Europe",
+    "explanation": "Source-grounded AI practice item. The passage supports «Europe». Full sentence: The five great powers of Europe that emerged by the end of the 18th century—Austria, France, Prussia, Russia, and the United Kingdom—formed the Concert of Europe that dominated European politics in the 19th century and up to World War I. (source_id=wiki_en_french_revolution). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_french_revolution",
+    "sourceIds": [
+      "wiki_en_french_revolution"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_french_revolution",
+        "passage": "The five great powers of Europe that emerged by the end of the 18th century—Austria, France, Prussia, Russia, and the United Kingdom—formed the Concert of Europe that dominated European politics in the 19th century and up to World War I."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «1453: The conquest of Constantinople by the Ottomans signalled the end of the Byzantine Empire; the Battle of Castillon concluded the Hundred Years' War.»?",
+    "options": [
+      "Constantinople",
+      "Early modern Europe",
+      "Industrial Revolution",
+      "French Revolution"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Constantinople"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Early modern Europe"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "French Revolution"
+      }
+    ],
+    "correctAnswerOrRubric": "Constantinople",
+    "explanation": "Source-grounded AI practice item. The passage supports «Constantinople». Full sentence: 1453: The conquest of Constantinople by the Ottomans signalled the end of the Byzantine Empire; the Battle of Castillon concluded the Hundred Years' War. (source_id=wiki_en_early_modern_europe). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_early_modern_europe",
+    "sourceIds": [
+      "wiki_en_early_modern_europe"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_early_modern_europe",
+        "passage": "1453: The conquest of Constantinople by the Ottomans signalled the end of the Byzantine Empire; the Battle of Castillon concluded the Hundred Years' War."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «1485: The last Plantagenet king of England, Richard III, was killed at Bosworth and the medieval Wars of the Roses gave way to early modern Tudor monarchy, in the person of Henry VII.»?",
+    "options": [
+      "Early modern Europe",
+      "Industrial Revolution",
+      "French Revolution",
+      "Plantagenet"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Early modern Europe"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Plantagenet"
+      }
+    ],
+    "correctAnswerOrRubric": "Plantagenet",
+    "explanation": "Source-grounded AI practice item. The passage supports «Plantagenet». Full sentence: 1485: The last Plantagenet king of England, Richard III, was killed at Bosworth and the medieval Wars of the Roses gave way to early modern Tudor monarchy, in the person of Henry VII. (source_id=wiki_en_industrial_revolution). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_industrial_revolution",
+    "sourceIds": [
+      "wiki_en_industrial_revolution"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_industrial_revolution",
+        "passage": "1485: The last Plantagenet king of England, Richard III, was killed at Bosworth and the medieval Wars of the Roses gave way to early modern Tudor monarchy, in the person of Henry VII."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_eu_modern_q06",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_modern",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Europe 1500–1989 selected themes, which term or name is supported by this passage: «1492: The first documented European voyage to the Americas by the Genoese explorer Christopher Columbus; the end of the Reconquista, with the final expulsion of the Moors from the Iberian Peninsula; t…»?",
+    "options": [
+      "Industrial Revolution",
+      "French Revolution",
+      "European",
+      "Early modern Europe"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Industrial Revolution"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "French Revolution"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "European"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Early modern Europe"
+      }
+    ],
+    "correctAnswerOrRubric": "European",
+    "explanation": "Source-grounded AI practice item. The passage supports «European». Full sentence: 1492: The first documented European voyage to the Americas by the Genoese explorer Christopher Columbus; the end of the Reconquista, with the final expulsion of the Moors from the Iberian Peninsula; the Spanish government expels the Jews. (source_id=wiki_en_french_revolution). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_french_revolution",
+    "sourceIds": [
+      "wiki_en_french_revolution"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_french_revolution",
+        "passage": "1492: The first documented European voyage to the Americas by the Genoese explorer Christopher Columbus; the end of the Reconquista, with the final expulsion of the Moors from the Iberian Peninsula; the Spanish government expels the Jews."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

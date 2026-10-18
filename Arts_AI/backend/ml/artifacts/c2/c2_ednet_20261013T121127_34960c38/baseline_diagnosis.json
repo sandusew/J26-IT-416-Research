@@ -1,0 +1,133 @@
+{
+  "diagnosed_run_id": "c2_ednet_20261013T121127_34960c38",
+  "selection_rule_original": {
+    "metric": "f1_positive on validation",
+    "tie_break": "logistic_regression if val_f1 >= baseline_f1 else majority_baseline",
+    "selected": "majority_baseline",
+    "why_majority_often_wins": "Positive class ~65\u201367%. Majority always predicts correct=1, yielding high positive-F1 (~0.80) while ROC-AUC=0.5. Logistic may improve ROC-AUC slightly but lose on positive-F1 \u2192 selection prefers majority."
+  },
+  "join_audit": {
+    "n_rows": 84259,
+    "n_students": 200,
+    "has_correct": true,
+    "correct_nulls": 0,
+    "correct_rate": 0.6517167305569731,
+    "unknown_answer_policy": "Join Contents correct_answer to user_answer; unmatched question_id \u2192 None then dropped or coerced in earlier pipeline \u2014 current subset reports 0 nulls"
+  },
+  "counts": {
+    "train_students": 130,
+    "val_students": 35,
+    "test_students": 35,
+    "train_responses": 45715,
+    "val_responses": 22468,
+    "test_responses": 15076,
+    "class_balance": {
+      "train_pos_rate": 0.6527616755988188,
+      "val_pos_rate": 0.6428698593555279,
+      "test_pos_rate": 0.6668877686388962
+    }
+  },
+  "validation_expanded": {
+    "majority_baseline": {
+      "accuracy": 0.6428698593555279,
+      "balanced_accuracy": 0.5,
+      "precision": 0.6428698593555279,
+      "recall": 1.0,
+      "macro_f1": 0.391309059384482,
+      "f1_positive": 0.782618118768964,
+      "positive_prevalence": 0.6428698593555279,
+      "roc_auc": 0.5,
+      "pr_auc": 0.6428698593555279,
+      "brier": 0.3571301406444721,
+      "log_loss": 4.933935871500881
+    },
+    "logistic_regression": {
+      "accuracy": 0.6454958162720313,
+      "balanced_accuracy": 0.5135918573551017,
+      "precision": 0.6493338865071682,
+      "recall": 0.9752146219883688,
+      "macro_f1": 0.43718614262024275,
+      "f1_positive": 0.7795887871156986,
+      "positive_prevalence": 0.6428698593555279,
+      "roc_auc": 0.6097568724179165,
+      "pr_auc": 0.7230325416783208,
+      "brier": 0.22224066513244795,
+      "log_loss": 0.6356297289706638
+    }
+  },
+  "test_expanded_secondary": {
+    "note": "Reported for diagnosis; do not use to change selection of this frozen run",
+    "majority_baseline": {
+      "accuracy": 0.6668877686388962,
+      "balanced_accuracy": 0.5,
+      "precision": 0.6668877686388962,
+      "recall": 1.0,
+      "macro_f1": 0.40007958615200956,
+      "f1_positive": 0.8001591723040191,
+      "positive_prevalence": 0.6668877686388962,
+      "roc_auc": 0.5,
+      "pr_auc": 0.6668877686388962,
+      "brier": 0.33311223136110374,
+      "log_loss": 4.602116216234889
+    },
+    "logistic_regression": {
+      "accuracy": 0.6723268771557442,
+      "balanced_accuracy": 0.5171335639795205,
+      "precision": 0.6747300806341396,
+      "recall": 0.9820966779391287,
+      "macro_f1": 0.44790161300882747,
+      "f1_positive": 0.799902786779002,
+      "positive_prevalence": 0.6668877686388962,
+      "roc_auc": 0.5702741733864531,
+      "pr_auc": 0.7147730660758707,
+      "brier": 0.21862224328499505,
+      "log_loss": 0.6286204677886997
+    }
+  },
+  "selected_behaviour": {
+    "selected": "majority_baseline",
+    "always_predicts": "correct=1 (majority class)",
+    "predictions_vary_with_history": false
+  },
+  "history_trace_examples": [
+    {
+      "label": "low_hist_acc",
+      "student_id": "u113441",
+      "features": {
+        "hist_count": 1.0,
+        "hist_accuracy": 0.0,
+        "hist_accuracy_10": 0.0,
+        "hist_mean_elapsed": 24000.0,
+        "hist_std_elapsed": 0.0
+      },
+      "majority_pred": 1,
+      "majority_proba": 1.0,
+      "logreg_pred": 0,
+      "logreg_proba": 0.24266034041948362,
+      "true": 1
+    },
+    {
+      "label": "high_hist_acc",
+      "student_id": "u140316",
+      "features": {
+        "hist_count": 1.0,
+        "hist_accuracy": 1.0,
+        "hist_accuracy_10": 1.0,
+        "hist_mean_elapsed": 25000.0,
+        "hist_std_elapsed": 0.0
+      },
+      "majority_pred": 1,
+      "majority_proba": 1.0,
+      "logreg_pred": 1,
+      "logreg_proba": 0.7701013592755044,
+      "true": 1
+    }
+  ],
+  "feature_leakage_notes": {
+    "current_correct_in_features": false,
+    "current_elapsed_in_features": false,
+    "history_uses_prior_only": true,
+    "solving_id_bundle_gap": "Original builder updates history after every row chronologically; does not isolate same solving_id bundles (potential within-bundle leakage).",
+    "question_difficulty": "Not in original FEATURE_COLS"
+  }
+}

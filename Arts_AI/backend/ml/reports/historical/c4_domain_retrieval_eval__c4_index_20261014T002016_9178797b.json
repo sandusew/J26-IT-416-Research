@@ -1,0 +1,305 @@
+{
+  "generated_at_utc": "2026-10-14T00:21:35.017491+00:00",
+  "corpus_version": "c4_index_20261014T002016_9178797b",
+  "n_documents": 16,
+  "n_chunks": 77,
+  "n_questions": 11,
+  "n_answerable_with_gold_excl_si": 8,
+  "hit_at_3": {
+    "numerator": 6,
+    "denominator": 8,
+    "value": 0.75
+  },
+  "hit_at_3_core_only": {
+    "numerator": 4,
+    "denominator": 5,
+    "value": 0.8
+  },
+  "recall_at_3_label_note": "Field historically named recall_at_3 was Hit@3 (any gold in top-3). See c4_retrieval_eval_audit.json for Hit@3 vs multi-gold Recall@3.",
+  "recall_at_3": 0.75,
+  "hits_at_3": 6,
+  "cases": [
+    {
+      "id": "q_hist_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_history",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_anuradhapura",
+        "wiki_en_sri_lanka_history",
+        "wiki_en_sri_lanka_history"
+      ],
+      "hit_at_3": true,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 4,
+      "note": null
+    },
+    {
+      "id": "q_geo_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_geography",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_physical_geography",
+        "wiki_en_physical_geography",
+        "wiki_en_physical_geography",
+        "wiki_en_physical_geography",
+        "wiki_en_geography_sri_lanka"
+      ],
+      "hit_at_3": true,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_econ_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_economics",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_economics",
+        "wiki_en_economics",
+        "wiki_en_economics",
+        "wiki_en_national_income",
+        "wiki_en_economics"
+      ],
+      "hit_at_3": true,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": null
+    },
+    {
+      "id": "q_pol_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_political",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_forms_of_government",
+        "wiki_en_forms_of_government",
+        "wiki_en_forms_of_government",
+        "wiki_en_politics_sri_lanka",
+        "wiki_en_political_ideology"
+      ],
+      "hit_at_3": true,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_unanswerable_quantum",
+      "answerable": false,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_history",
+      "n_retrieved": 0,
+      "retrieved_document_ids": [],
+      "hit_at_3": null,
+      "insufficient_evidence_behavior": true,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 0,
+      "note": null
+    },
+    {
+      "id": "q_ambiguous_trade",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": null,
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_urbanization",
+        "wiki_en_urbanization",
+        "wiki_en_politics_sri_lanka",
+        "wiki_en_supply_demand",
+        "wiki_en_economics"
+      ],
+      "hit_at_3": false,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": "Ambiguous across history/economics; any of expected docs counts as partial hit"
+    },
+    {
+      "id": "q_si_unclaimed",
+      "answerable": true,
+      "language": "si",
+      "split": "core",
+      "subject_id": "sub_history",
+      "n_retrieved": 0,
+      "retrieved_document_ids": [],
+      "hit_at_3": false,
+      "insufficient_evidence_behavior": true,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": "Sinhala query \u2014 retrieval support not claimed; result recorded honestly"
+    },
+    {
+      "id": "q_hist_anuradhapura",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_history",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_sri_lanka_history",
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_anuradhapura",
+        "wiki_en_sri_lanka_history"
+      ],
+      "hit_at_3": false,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_eco_supply_demand",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_economics",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_supply_demand",
+        "wiki_en_supply_demand",
+        "wiki_en_supply_demand",
+        "wiki_en_supply_demand",
+        "wiki_en_supply_demand"
+      ],
+      "hit_at_3": true,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_pol_ideology",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_political",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_political_ideology",
+        "wiki_en_political_ideology",
+        "wiki_en_political_ideology",
+        "wiki_en_political_ideology",
+        "wiki_en_forms_of_government"
+      ],
+      "hit_at_3": true,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": null
+    },
+    {
+      "id": "q_wrong_subject_geo_as_history",
+      "answerable": false,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_history",
+      "n_retrieved": 2,
+      "retrieved_document_ids": [
+        "wiki_en_polonnaruwa",
+        "wiki_en_polonnaruwa"
+      ],
+      "hit_at_3": null,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": true,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 0,
+      "note": "Same geo question with history subject filter \u2014 expect abstention or non-geo docs only"
+    }
+  ],
+  "eval_cases_path": "backend/ml/data/arts_content/eval/domain_retrieval_eval_cases.json",
+  "scoring_criteria": "Hit@3 if any gold document_id appears in top-3 retrieved docs",
+  "authoring_provenance": "machine_authored_research_eval",
+  "review_status": "unreviewed",
+  "sinhala_support_claimed": false,
+  "subject_filter_used": true,
+  "note": "Machine-authored suite \u2014 not overall chatbot accuracy or teacher-validated educational effectiveness",
+  "representative_failures": [
+    {
+      "id": "q_ambiguous_trade",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": null,
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_urbanization",
+        "wiki_en_urbanization",
+        "wiki_en_politics_sri_lanka",
+        "wiki_en_supply_demand",
+        "wiki_en_economics"
+      ],
+      "hit_at_3": false,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": "Ambiguous across history/economics; any of expected docs counts as partial hit"
+    },
+    {
+      "id": "q_si_unclaimed",
+      "answerable": true,
+      "language": "si",
+      "split": "core",
+      "subject_id": "sub_history",
+      "n_retrieved": 0,
+      "retrieved_document_ids": [],
+      "hit_at_3": false,
+      "insufficient_evidence_behavior": true,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": "Sinhala query \u2014 retrieval support not claimed; result recorded honestly"
+    },
+    {
+      "id": "q_hist_anuradhapura",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_history",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_sri_lanka_history",
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_anuradhapura",
+        "wiki_en_sri_lanka_history"
+      ],
+      "hit_at_3": false,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    }
+  ]
+}

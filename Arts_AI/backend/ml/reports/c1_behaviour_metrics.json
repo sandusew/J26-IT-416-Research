@@ -1,0 +1,41 @@
+{
+  "selected_k": 6,
+  "silhouette_train": 0.22566798867658258,
+  "silhouette_val": 0.225238066496906,
+  "silhouette_test": 0.2234629441516727,
+  "stability_ari_val": 0.9779509831670498,
+  "cluster_sizes_train": {
+    "0": 2912,
+    "1": 5170,
+    "2": 1566,
+    "3": 1001,
+    "4": 2403,
+    "5": 2777
+  },
+  "k_selection": [
+    {
+      "k": 3,
+      "silhouette_val": 0.22020447495777049
+    },
+    {
+      "k": 4,
+      "silhouette_val": 0.2219488036913254
+    },
+    {
+      "k": 5,
+      "silhouette_val": 0.21061323198778178
+    },
+    {
+      "k": 6,
+      "silhouette_val": 0.225238066496906
+    }
+  ],
+  "cohort": {
+    "n_all": 32593,
+    "n_eligible_activity": 26425,
+    "n_late_registration": 0,
+    "n_withdrawn": 10156,
+    "n_no_activity": 6168
+  },
+  "note": "Clustering \u2014 do not report classification accuracy"
+}

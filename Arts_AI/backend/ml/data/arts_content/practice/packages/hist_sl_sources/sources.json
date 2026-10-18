@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "blocked_Historiography_of_Sri_Lanka",
+    "error": "missing extract: Historiography_of_Sri_Lanka",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_mahavamsa",
+    "title": "Mahāvaṃsa",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Mahavamsa",
+    "retrieved_at_utc": "2026-10-14T17:19:51.006584+00:00",
+    "edition_or_revision": "pageid=981122",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_sources",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "a36e6edef879c0dbce434e608958c038ee736a31438fee1faa0b5fac0895da2b",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_culavamsa",
+    "title": "Cūḷavaṃsa",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Culavamsa",
+    "retrieved_at_utc": "2026-10-14T17:19:52.666141+00:00",
+    "edition_or_revision": "pageid=2508028",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_sources",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "81beffe171ac4f98cba3fd2e3543a1f478f4c6135a4233ed6928c19f47be3798",
+    "origin": "wikipedia_api"
+  }
+]

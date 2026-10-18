@@ -1,0 +1,23 @@
+{
+    "assignmentId":  "cq_683532a9-4",
+    "status":  "submitted",
+    "score":  2,
+    "maxMarks":  5,
+    "observed_topic_performance":  {
+                                       "hist_sl_geography":  {
+                                                                 "meanScore":  0.4,
+                                                                 "nAttempts":  5,
+                                                                 "nAuthenticAttempts":  5,
+                                                                 "nFixtureAttempts":  0,
+                                                                 "authenticOnly":  true
+                                                             }
+                                   },
+    "observed_topic_performance_fixture":  {
+
+                                           },
+    "estimated_mastery":  null,
+    "curriculumVersion":  "nie_al_arts_provisional_v0.1",
+    "catalogueMode":  "canonical",
+    "isTestFixture":  false,
+    "note":  "Observed scores from frozen assignment — not validated cognitive mastery"
+}

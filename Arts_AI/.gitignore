@@ -1,0 +1,48 @@
+# Environments
+backend/ml/.venv/
+backend/ml/environment/
+node_modules/
+
+*.pem
+credentials*.json
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Models, notebooks, datasets, and training artifacts are tracked.
+# GitHub rejects a single file over 100 MB. The EdNet staging extract is
+# also too large to version as individual learner files.
+backend/ml/data/public/raw/ednet/EdNet-KT1.zip
+backend/ml/data/public/raw/ednet/kt1_staging/**
+backend/ml/data/public/raw/oulad/extracted/studentVle.csv
+
+# Keep lightweight manifests and reports
+!backend/ml/reports/**
+!backend/docs/**
+
+# Node
+backend/api/node_modules/
+backend/api/dist/
+npm-debug.log*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+backend/ml/logs/

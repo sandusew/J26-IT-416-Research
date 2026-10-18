@@ -1,0 +1,750 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_colonial_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Colonialism",
+        "Colonial",
+        "Explanations",
+        "British Ceylon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Colonialism"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Colonial"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "British Ceylon"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_british_ceylon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_british_ceylon",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «British Ceylon refers to the imperial possessions of the United Kingdom in the island of Ceylon, present-day Sri Lanka, between 1796 and 4 February 1948.»?",
+      "options": [
+        "transformation",
+        "British Ceylon",
+        "Colonialism",
+        "Colonial"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "transformation"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Colonialism"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Colonial"
+        }
+      ],
+      "correctAnswerOrRubric": "British Ceylon",
+      "explanation": "Source-grounded AI practice item. The passage supports «British Ceylon». Full sentence: British Ceylon refers to the imperial possessions of the United Kingdom in the island of Ceylon, present-day Sri Lanka, between 1796 and 4 February 1948. (source_id=wiki_en_colonialism). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_colonialism",
+      "sourceIds": [
+        "wiki_en_colonialism"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_colonialism",
+          "passage": "British Ceylon refers to the imperial possessions of the United Kingdom in the island of Ceylon, present-day Sri Lanka, between 1796 and 4 February 1948."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «Initially, the area it covered did not include the Kingdom of Kandy, which was a protectorate, but from 1817 to 1948 the British possessions included the whole island.»?",
+      "options": [
+        "Initially",
+        "British Ceylon",
+        "Colonialism",
+        "Colonial"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Initially"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Colonialism"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Colonial"
+        }
+      ],
+      "correctAnswerOrRubric": "Initially",
+      "explanation": "Source-grounded AI practice item. The passage supports «Initially». Full sentence: Initially, the area it covered did not include the Kingdom of Kandy, which was a protectorate, but from 1817 to 1948 the British possessions included the whole island. (source_id=wiki_en_british_ceylon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_british_ceylon",
+          "passage": "Initially, the area it covered did not include the Kingdom of Kandy, which was a protectorate, but from 1817 to 1948 the British possessions included the whole island."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «The British Ceylon period is the history of Sri Lanka between 1815 and 1948.»?",
+      "options": [
+        "British Ceylon",
+        "Colonialism",
+        "Colonial",
+        "Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Colonialism"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Colonial"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The British Ceylon period is the history of Sri Lanka between 1815 and 1948. (source_id=wiki_en_colonialism). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_colonialism",
+      "sourceIds": [
+        "wiki_en_colonialism"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_colonialism",
+          "passage": "The British Ceylon period is the history of Sri Lanka between 1815 and 1948."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «It follows the fall of the Kandyan Kingdom into the hands of the British Empire, ending over 2300 years of Sinhalese monarchy.»?",
+      "options": [
+        "Colonialism",
+        "Colonial",
+        "Kandyan Kingdom",
+        "British Ceylon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Colonialism"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Colonial"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Kandyan Kingdom"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "British Ceylon"
+        }
+      ],
+      "correctAnswerOrRubric": "Kandyan Kingdom",
+      "explanation": "Source-grounded AI practice item. The passage supports «Kandyan Kingdom». Full sentence: It follows the fall of the Kandyan Kingdom into the hands of the British Empire, ending over 2300 years of Sinhalese monarchy. (source_id=wiki_en_british_ceylon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_british_ceylon",
+          "passage": "It follows the fall of the Kandyan Kingdom into the hands of the British Empire, ending over 2300 years of Sinhalese monarchy."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «The British rule on the island lasted until 1948 when the country regained independence following the Sri Lankan independence movement.»?",
+      "options": [
+        "Colonial",
+        "Sri Lankan",
+        "British Ceylon",
+        "Colonialism"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Colonial"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lankan"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Colonialism"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lankan",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lankan». Full sentence: The British rule on the island lasted until 1948 when the country regained independence following the Sri Lankan independence movement. (source_id=wiki_en_colonialism). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_colonialism",
+      "sourceIds": [
+        "wiki_en_colonialism"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_colonialism",
+          "passage": "The British rule on the island lasted until 1948 when the country regained independence following the Sri Lankan independence movement."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Colonial transformation of Sri Lanka: «Colonial transformation of Sri Lanka is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Colonial transformation of Sri Lanka. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon",
+        "wiki_en_colonialism"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Colonial transformation of Sri Lanka: «Colonial transformation of Sri Lanka can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Colonial transformation of Sri Lanka. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon",
+        "wiki_en_colonialism"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Colonial transformation of Sri Lanka: «Listing names alone demonstrates understanding of Colonial transformation of Sri Lanka» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Colonial transformation of Sri Lanka. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon",
+        "wiki_en_colonialism"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_colonial_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «It was in 1639 that the Dutch attacked in earnest but ended with an agreement (which was disrespected by both parties), and not until 1656 that Colombo fell.»?",
+      "options": [
+        "Dutch",
+        "British Ceylon",
+        "Colonialism",
+        "Colonial"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Dutch"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Colonialism"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Colonial"
+        }
+      ],
+      "correctAnswerOrRubric": "Dutch",
+      "explanation": "Source-grounded AI practice item. The passage supports «Dutch». Full sentence: It was in 1639 that the Dutch attacked in earnest but ended with an agreement (which was disrespected by both parties), and not until 1656 that Colombo fell. (source_id=wiki_en_british_ceylon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_british_ceylon",
+          "passage": "It was in 1639 that the Dutch attacked in earnest but ended with an agreement (which was disrespected by both parties), and not until 1656 that Colombo fell."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_colonial_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «The Dutch (who were Protestants) persecuted the Catholics (the left-over Portuguese settlers) but left the Buddhists, Hindus and Muslims alone.»?",
+      "options": [
+        "Colonialism",
+        "Colonial",
+        "Protestants",
+        "British Ceylon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Colonialism"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Colonial"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Protestants"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "British Ceylon"
+        }
+      ],
+      "correctAnswerOrRubric": "Protestants",
+      "explanation": "Source-grounded AI practice item. The passage supports «Protestants». Full sentence: The Dutch (who were Protestants) persecuted the Catholics (the left-over Portuguese settlers) but left the Buddhists, Hindus and Muslims alone. (source_id=wiki_en_colonialism). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_colonialism",
+      "sourceIds": [
+        "wiki_en_colonialism"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_colonialism",
+          "passage": "The Dutch (who were Protestants) persecuted the Catholics (the left-over Portuguese settlers) but left the Buddhists, Hindus and Muslims alone."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_colonial_q12",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_colonial",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial transformation of Sri Lanka, which term or name is supported by this passage: «However, they taxed the people far more heavily than the Portuguese had done.»?",
+      "options": [
+        "Colonial",
+        "However",
+        "British Ceylon",
+        "Colonialism"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Colonial"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "However"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Colonialism"
+        }
+      ],
+      "correctAnswerOrRubric": "However",
+      "explanation": "Source-grounded AI practice item. The passage supports «However». Full sentence: However, they taxed the people far more heavily than the Portuguese had done. (source_id=wiki_en_british_ceylon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_british_ceylon",
+          "passage": "However, they taxed the people far more heavily than the Portuguese had done."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_colonial_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_colonial"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Colonial transformation of Sri Lanka — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/British_Ceylon",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_british_ceylon",
+        "wiki_en_colonialism"
+      ],
+      "bodyText": "# Colonial transformation of Sri Lanka\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Colonial transformation of Sri Lanka」 (pol_colonial) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nBritish Ceylon refers to the imperial possessions of the United Kingdom in the island of Ceylon, present-day Sri Lanka, between 1796 and 4 February 1948. Initially, the area it covered did not include the Kingdom of Kandy, which was a protectorate, but from 1817 to 1948 the British possessions included the whole island. The British Ceylon period is the history of Sri Lanka between 1815 and 1948. It follows the fall of the Kandyan Kingdom into the hands of the British Empire, ending over 2300 years of Sinhalese monarchy. The British rule on the island lasted until 1948 when the country regained independence following the Sri Lankan independence movement.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Colonial transformation of Sri Lanka\n- [inferred_not_official] Explain core ideas of Colonial transformation of Sri Lanka\n- [inferred_not_official] Apply concepts from Colonial transformation of Sri Lanka using cited public sources\n\n## Core concepts and definitions\nBritish Ceylon refers to the imperial possessions of the United Kingdom in the island of Ceylon, present-day Sri Lanka, between 1796 and 4 February 1948. Initially, the area it covered did not include the Kingdom of Kandy, which was a protectorate, but from 1817 to 1948 the British possessions included the whole island. The British Ceylon period is the history of Sri Lanka between 1815 and 1948. It follows the fall of the Kandyan Kingdom into the hands of the British Empire, ending over 2300 years of Sinhalese monarchy. The British rule on the island lasted until 1948 when the country regained independence following the Sri Lankan independence movement.\n\nFollowing the suppression of the Uva Rebellion, the Kandyan peasantry was stripped of their lands by the Crown Lands (Encroachments) Ordinance No. 12 of 1840 (sometimes called the Crown Lands Ordinance or the Waste Lands Ordinance), a modern enclosure movement and reduced to penury. The British found that the uplands of Sri Lanka were very suited to coffee, tea and rubber cultivation, and by the mid-19th century Sri Lankan tea had become a staple of the British market, bringing great wealth to a small class of European tea planters. To work the estates, the planters imported large numbers of Tamil workers as indentured labourers from south India, who soon made up 10% of the island's population. These workers lived in harsh conditions and were accommodated in line rooms, not very different from cattle sheds.\nThe British colonial government favoured the semi-European Burghers, certain high-caste Sinhalese and the Tamils who were mainly concentrated to the north of the country while ignoring the other ethnic groups on the island. Nevertheless, the British also introduced democratic elements to Sri Lanka for the first time in its history. The Burghers were given some degree of self-government as early as 1833. It was not until 1909 that constitutional development began with a partly elected assembly, and not until 1920 that elected members outnumbered official appointees. Universal suffrage was introduced in 1931, over the protests of the Sinhalese, Tamil and Burgher elite who objected to the common people being allowed to vote.\n(Source: https://en.wikipedia.org/wiki/British_Ceylon)\n\n## Historical or systematic development\nThe first Europeans to visit Ceylon in modern times were the Portuguese: Lourenço de Almeida arrived in 1505, finding the island divided into seven warring kingdoms and unable to fend off intruders. The Portuguese founded a fort at the port city of Colombo in 1517 and gradually extended their control over the coastal areas. In 1592 the Sinhalese moved their capital to the inland city of Kandy, a location more secure against attack from invaders. Intermittent warfare continued through the 16th century. Many Lowland Ceylonese were forced to convert to Christianity while the coastal Moors were religiously persecuted and forced to retreat to the Central highlands while some of them desired to leave the country. The Buddhist majority disliked Portuguese occupation and its influences and welcomed any power who might rescue them and defeat the Portuguese. In 1602, therefore, when the Dutch captain Joris van Spilbergen landed, the king of Kandy appealed to him for help.\nIn 1669, the British sea captain Robert Knox landed by chance on Ceylon and was captured by the king of Kandy. He escaped 19 years later and wrote an account of his stay. This helped to bring the island to the attention of the British.\nThe island attracted the attention of the newly formed Dutch Republic when they were invited by the Sinhalese King to fight the Portuguese. It was in 1639 that the Dutch attacked in earnest but ended with an agreement (which was disrespected by both parties), and not until 1656 that Colombo fell. By 1660 the Dutch controlled the whole island except the kingdom of Kandy. The Dutch (who were Protestants) persecuted the Catholics (the left-over Portuguese settlers) but left the Buddhists, Hindus and Muslims alone. However, they taxed the people far more heavily than the Portuguese had done. A mixed Dutch-Sri Lankan people known as Burgher people are the legacy of Dutch rule.\nIn the late 18th century the Dutch, weakened by their wars against Great Britain, were conquered by Napoleonic France, and their leaders became refugees in London.  No longer able to govern their part of the island effectively, the Dutch transferred the rule of it to the British, although this was against the wishes of the Dutch residing there. The capture of the island immediately yielded £300,000 of money in goods, as well as the acquisition of the cinnamon plantations, making this a valuable venture.\n\nColonialism is the practice of extending and maintaining political, social, economic, and cultural domination over a territory and its people by another people in pursuit of interests defined in an often distant metropole, who also claim superiority. While frequently an imperialist project, colonialism functions through differentiating between the targeted land and people, and that of the colonizers (a critical component of colonization). Rather than annexation, this typically culminates in organizing the colonized into colonies separate to the colonizers' metropole. Colonialism sometimes deepens by developing settler colonialism, whereby settlers from one or multiple colonizing metropoles occupy a territory with the intention of partially or completely supplanting the existing Indigenous peoples, possibly amounting to genocide.\nWhile different forms of colonialism have existed around the world, the concept has been developed as a description of European colonial empires of the modern era. These spread globally from the 15th century to the mid-20th century, spanning 35% of Earth's land by 1800 and peaking at 84% by the beginning of World War I. European colonialism employed mercantilism and chartered companies, and established complex colonialities. Colonialism was in some cases justified with beliefs of having a civilizing mission to cultivate land and life, historically often rooted in the belief of a Christian mission.\nDecolonization, which started in the 18th century, gradually led to the independence of colonies in waves, with a particular large wave of decolonizations happening in the aftermath of World War II between 1945 and 1975. Colonialism has a persistent impact on a wide range of modern outcomes, as scholars have shown that variations in colonial institutions can account for variations in economic development, regime types, and state capacity. Some academics have used the term neocolonialism to describe the continuation or imposition of elements of colonial rule through indirect means in the contemporary period.\n(Source: https://en.wikipedia.org/wiki/Colonialism)\n\n## Applications, evidence, and Sri Lankan / comparative context\nIn 1803, as soon as Great Britain gained the European-controlled parts of Sri Lanka from the Dutch, they wanted to expand their new sphere of influence by making the native Kingdom of Kandy a protectorate, an offer initially refused by the King of Kandy. Although the previous Dutch administration had not been powerful enough to threaten the reign of the Kandyan Kings, the British were much more powerful. The Kandyan refusal to accept a protectorate led eventually (1803) to the 1st Kandyan War, but was repulsed. In 1815 Kandy was captured in the Second Kandyan War, ending Sri Lankan independence.\nThe rule of King Sri Vikrama Rajasinghe was not favoured by his chieftains. The king, who was of South Indian ancestry, faced powerful chieftains and sought cruel measures to repress their popularity with the people. A successful coup was organised by the Sinhala chiefs in which they accepted the British Crown as their new sovereign. This ended the line of the kingdom of Kandy and King Rajasinghe was taken as a prisoner, ending his hope that the British would allow him to retain power. The Kandyan treaty which was signed in 1815 was called the Kandyan Convention and stated the terms under which the Kandyans would live as a British protectorate. The Buddhist religion was to be given protection by the Crown, and Christianity would not be imposed on the population, as had happened during Portuguese and Dutch rule. The Kandyan Convention is an important legal document because it specifies the conditions which the British promised for the Kandyan territory.\nIt took the ruling families of Kandy less than two years to realise that the authority of the British government was a fundamentally different one to that of the (deposed) Nayakkar dynasty. Soon the Kandyans rebelled against the British and waged a guerrilla war. Discontent with British activities soon boiled over into open rebellion, commencing in the duchy of Uva in 1817, so-called the Uva Rebellion, also known as the Third Kandyan War. The main cause of the rebellion was the British authorities' failure to protect and uphold the customary Buddhist traditions, which were viewed by the islanders as an integral part of their lives.\nThe rebellion, which soon developed into a guerrilla war of the kind the Kandyans had fought against European powers for centuries, was centred on the Kandyan nobility and their unhappiness with developments under British rule since 1815. However it was the last uprising of this kind and in the Uva Province a scorched earth policy was pursued, which included the killing of cattle and other livestock, the destruction of private property (including homes and stocks of salt) and the burning of rice paddies. In the rebellion, more than 10,000 Sinhalese were killed. In addition to the scorched earth policies, the colonial government also confiscated properties owned by insurgents. The British Crown annexed the Kingdom of Kandy to British Ceylon in 1817.\n\nColonialism is etymologically derived from the Latin term colonia, originally a designation for a type of city or outpost that was founded and populated by newly settled Roman citizens at the direction of the Roman government. The word colonia is then in turn derived from the Latin word colonus (\"farmer\") and its root word colere (\"to cultivate, to till\").\n(Source: https://en.wikipedia.org/wiki/British_Ceylon)\n\n## Key terms\n- **British Ceylon**: British Ceylon refers to the imperial possessions of the United Kingdom in the island of Ceylon, present-day Sri Lanka, between 1796 and 4 February 1948.\n- **Colonialism**: While frequently an imperialist project, colonialism functions through differentiating between the targeted land and people, and that of the colonizers (a critical component of colonization).\n- **Colonial**: In addition to the scorched earth policies, the colonial government also confiscated properties owned by insurgents.\n- **transformation**: transformation: a key idea for Colonial transformation of Sri Lanka (see cited sources; AI-authored gloss).\n- **Lanka**: British Ceylon refers to the imperial possessions of the United Kingdom in the island of Ceylon, present-day Sri Lanka, between 1796 and 4 February 1948.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Colonial transformation of Sri Lanka, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Colonial transformation of Sri Lanka can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Colonial transformation of Sri Lanka\n- Colonial transformation of Sri Lanka is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_british_ceylon: British Ceylon — https://en.wikipedia.org/wiki/British_Ceylon (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:23:15.921857+00:00; checksum 5ee11437b772…)\n- wiki_en_colonialism: Colonialism — https://en.wikipedia.org/wiki/Colonialism (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:27:20.593767+00:00; checksum aa3a5cc2b751…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:39.430364+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

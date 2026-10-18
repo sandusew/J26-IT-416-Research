@@ -1,0 +1,10 @@
+{
+  "data_category": "authentic_public",
+  "dataset": "UCI Student Performance (Math)",
+  "positive_class": "G3 < 10 (fail-like)",
+  "f1": 0.8787878787878788,
+  "roc_auc": 0.9719926538108355,
+  "n_train": 296,
+  "n_test": 99,
+  "note": "Separate UCI benchmark. Dataset has no detailed weekly event histories. G1/G2 are period grades included as prior academic context; G3 is the target."
+}

@@ -1,0 +1,6 @@
+group_id,name,subject_id,topic_id,created_at,data_origin,generator_version,seed
+grp_sub_history,History Peer Group,sub_history,,2025-01-06T00:00:00+05:30,synthetic_operational,0.1.0,123
+grp_sub_geography,Geography Peer Group,sub_geography,,2025-01-06T00:00:00+05:30,synthetic_operational,0.1.0,123
+grp_sub_economics,Economics Peer Group,sub_economics,,2025-01-06T00:00:00+05:30,synthetic_operational,0.1.0,123
+grp_sub_political,Political Science Peer Group,sub_political,,2025-01-06T00:00:00+05:30,synthetic_operational,0.1.0,123
+grp_sub_sinhala_lit,Sinhala Literature Peer Group,sub_sinhala_lit,,2025-01-06T00:00:00+05:30,synthetic_operational,0.1.0,123

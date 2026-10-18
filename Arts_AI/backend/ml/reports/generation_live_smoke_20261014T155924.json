@@ -1,0 +1,16 @@
+{
+  "generated_at_utc": "2026-10-14T15:59:24.659796+00:00",
+  "live_requested": false,
+  "config": {
+    "provider": "none",
+    "model": null,
+    "api_base_configured": false,
+    "api_key_present": false,
+    "config_fingerprint": "c91d0cce51946b0f",
+    "enabled": false
+  },
+  "checks": [],
+  "outcome": "blocked_missing_configuration",
+  "blocker": "pass --live to run; dry inspection only",
+  "note": "Not a pass \u2014 live flag required"
+}

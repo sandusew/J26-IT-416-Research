@@ -1,0 +1,62 @@
+An ideology is a set of ideals, values, or beliefs that is attributed to a person or group of people, especially those held for reasons that are not purely about belief in certain knowledge, and in which "practical elements are as prominent as theoretical ones". It is related to, but distinct from, a worldview.
+The term was coined by Antoine Destutt de Tracy, a French Enlightenment aristocrat and philosopher, who conceived it in 1796 as the "science of ideas" to develop a rational system of ideas. In political science, the term is used in a descriptive sense to refer to political belief systems.
+
+
+== Etymology ==
+
+The term ideology originates from French idéologie, itself coined from combining Greek: idéā (ἰδέα, 'notion, pattern'; close to the Lockean sense of idea) and -logíā (-λογῐ́ᾱ, 'the study of'). It was coined in 1796 by the French thinker Destutt de Tracy, and the term "ideology" originally denoted the "science of ideas". By 1907, however, the term had acquired a new sense in English, referring to a comprehensive framework of beliefs and doctrines that serves as a lens for interpreting the world. Over time the sense of the term grew even broader, eventually coming to describe any coherent system of political, social, or cultural ideas.
+An ideologue is someone who strongly believes in an ideology. The term carries negative connotations, often referring to someone who is blindly partisan, zealous, or fanatical in their beliefs.
+
+
+== History ==
+The term ideology and the system of ideas associated with it were developed in 1796 by Antoine Destutt de Tracy (1754–1836), who crystallised his ideas while in prison (November 1793 to October 1794) pending trial during the Reign of Terror of c. 1793 to July 1794. While imprisoned he read the works of Locke and Étienne Bonnot de Condillac.
+Hoping to form a secure foundation for the moral and political sciences, Tracy devised the term for a "science of ideas", basing such upon two things: (1) the sensations that people experience as they interact with the material world; and (2) the ideas that form in their minds due to those sensations. Tracy conceived of ideology as a liberal philosophy that would defend individual liberty, property, free markets, and constitutional limits on state power. He argues that, among these aspects, ideology is the most generic term because the 'science of ideas' also contains the study of their expression and deduction. 
+According to Karl Mannheim's historical reconstruction of the shifts in the meaning of ideology, the modern meaning of the word was born when Napoleon used it to describe his opponents as "the ideologues". Tracy's major book, The Elements of Ideology (French: Élémens d'idéologie, published 1804–1815), was soon translated into major European languages.
+In the century following Tracy's formulations, the term ideology moved back and forth between positive and negative connotations. When post-Napoleonic governments adopted a reactionary stance, the concept influenced the Italian, Spanish and Russian thinkers who had begun to describe themselves as liberals and who attempted to reignite revolutionary activity in the early 1820s, including the Carbonari societies in France and Italy and the Decembrists in Russia. Karl Marx (1818–1883) adopted Napoleon's negative sense of the term, using it in his writings, in which he once described Tracy as a fischblütige Bourgeoisdoktrinär (a "fish-blooded bourgeois doctrinaire"). The term has since dropped some of its pejorative sting (euphemism treadmill), and has become a neutral term in the analysis of differing political opinions and views of social groups. While Marx situated the term within class struggle and domination, others believed it was a necessary part of institutional functioning and social integration.
+In parallel with post-Soviet Russian ideas about the mono-ideologies of (for example) monotheism, Walter Brueggemann (1933–2025) has examined "ideological extension" in historical religious/political contexts.
+
+
+== Definitions and analysis ==
+There are many different kinds of ideologies, including political, social, epistemological, and ethical. Recent analysis tends to posit that ideology is a 'coherent system of ideas' that rely on a few basic assumptions about reality that may or may not have any factual basis. Through this system, ideas become coherent, repeated patterns through the subjective ongoing choices that people make. These ideas serve as the seed around which further thought grows. The belief in an ideology can range from passive acceptance up to fervent advocacy. Definitions, such as by Manfred Steger and Paul James, emphasize both the issue of patterning and contingent claims to truth. They wrote: "Ideologies are patterned clusters of normatively imbued ideas and concepts, including particular representations of power relations. These conceptual maps help people navigate the complexity of their political universe and carry claims to social truth."
+Studies of the concept of ideology itself (rather than specific ideologies) have been carried out under the name of systematic ideology in the works of George Walford and Harold Walsby, who attempt to explore the relationships between ideology and social systems. David W. Minar describes six different ways the word ideology has been used:
+
+As a collection of certain ideas with certain kinds of content, usually normative;
+As the form or internal logical structure that ideas have within a set;
+By the role ideas play in human-social interaction;
+By the role ideas play in the structure of an organization;
+As meaning, whose purpose is persuasion; and
+As the locus of social interaction.
+For Willard A. Mullins, an ideology should be contrasted with the related (but different) issues of utopia and historical myth. An ideology is composed of four basic characteristics:
+
+it must have power over cognition;
+it must be capable of guiding one's evaluations;
+it must provide guidance towards action; and
+it must be logically coherent.
+Terry Eagleton outlines (more or less in no particular order) some definitions of ideology:
+
+The process of production of meanings, signs and values in social life
+A body of ideas characteristic of a particular social group or class
+Ideas that help legitimate a dominant political power
+False ideas that help legitimate a dominant political power
+Systematically distorted communication
+Ideas that offer a position for a subject
+Forms of thought motivated by social interests
+Identity thinking
+Socially necessary illusion
+The conjuncture of discourse and power
+The medium in which conscious social actors make sense of their world
+Action-oriented sets of beliefs
+The confusion of linguistic and phenomenal reality
+Semiotic closure
+The indispensable medium in which individuals live out their relations to a social structure
+The process that converts social life to a natural reality
+German philosopher Christian Duncker called for a "critical reflection of the ideology concept". In his work, he strove to bring the concept of ideology into the foreground, as well as the closely connected concerns of epistemology and history, defining ideology in terms of a system of presentations that explicitly or implicitly lay claim to absolute truth.
+
+
+=== Marxist interpretation ===
+
+Marx's analysis sees ideology as a system of consciousness that arises from economic relationships, reflecting and perpetuating the interests of the dominant class.
+In the Marxist base and superstructure model of society, base denotes the relations of production and modes of production, and superstructure denotes the dominant ideology (i.e. religious, legal, political systems). The economic base of production determines the political superstructure of a society. Ruling class-interests determine the superstructure and the nature of the justifying ideology—actions feasible because the ruling class control the means of production. For example, in a feudal mode of production, religious ideology is the most prominent aspect of the superstructure, while in capitalist formations, ideologies such as liberalism and social democracy dominate. Hence the great importance of ideology justifies a society and politically confuses the alienated groups of society via false consciousness. For Marx, ideology acts as a motivation for someone who is exploited or alienated by capitalism to continue to support it despite their interests, often without being aware of the values they hold that have been made to seem natural through ideology. In his book, The Sublime Object of Ideology, Slavoj Žižek quotes Marx in saying, "they do not know it, but they are doing it" as a succinct way of characterizing the false consciousness of ideology. Some explanations have been presented. Antonio Gramsci uses cultural hegemony to explain why the working-class have a false ideological conception of what their best interests are. Marx argued: "The class which has the means of material production at its disposal has control at the same time over the means of mental production."
+The Marxist formulation of "ideology as an instrument of social reproduction" is conceptually important to the sociology of knowledge, viz. Karl Mannheim, Daniel Bell, and Jürgen Habermas et al. Moreover, Mannheim has developed and progressed from the "total" but "special" Marxist conception of ideology to a "general" and "total" ideological conception acknowledging that all ideology (including Marxism) resulted from social life, an idea developed by the sociologist Pierre Bourdieu. Slavoj Žižek and the earlier Frankfurt School added to the "general theory" of ideology a psychoanalytic insight that ideologies do not include only conscious but also unconscious ideas.
+
+[Extract truncated for local indexing.]

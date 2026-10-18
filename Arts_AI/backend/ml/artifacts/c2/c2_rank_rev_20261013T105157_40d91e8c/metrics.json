@@ -1,0 +1,283 @@
+{
+  "experiment": "revised_per_query_ranking",
+  "data_category": "synthetic_learner",
+  "original_pooled_binary_preserved": {
+    "run": "c2_arts_20261013T025936_8b27814f",
+    "test_ap": 0.6719270222486738,
+    "test_relevance_prevalence": 0.6939163498098859,
+    "test_roc_auc": 0.47725119827561757,
+    "note": "Prevalence was mislabelled as baseline_random in docs; it is label rate, not a ranker"
+  },
+  "feature_schema_learned": [
+    "difficulty",
+    "stu_open_rate"
+  ],
+  "selected_on_val_MAP": "learned",
+  "validation": {
+    "n_queries_total": 13,
+    "n_queries_with_relevance": 11,
+    "n_queries_zero_relevance_excluded": 2,
+    "zero_relevance_handling": "excluded_from_ranking_metrics",
+    "candidates_per_query": {
+      "mean": 32.0,
+      "min": 32,
+      "max": 32
+    },
+    "relevant_items_per_query": {
+      "mean": 1.9230769230769231,
+      "min": 0,
+      "max": 4,
+      "among_used_mean": 2.272727272727273
+    },
+    "filtering_exclusions": {
+      "missing_resource_in_catalogue": "skipped in build_queries",
+      "empty_subject_candidate_set": "skipped in build_queries",
+      "zero_relevant_in_candidates": 2
+    },
+    "mean_label_prevalence_in_candidate_sets": 0.07102272727272728,
+    "k": 10,
+    "relevance_definition": "opened_at is not null (simulated engagement)",
+    "split_name": "validation",
+    "random": {
+      "NDCG@10": 0.2344800619750936,
+      "MAP": 0.17427829681685397,
+      "MRR": 0.1815788269550025,
+      "bootstrap_student_grouped": {
+        "NDCG": {
+          "mean": 0.2344800619750936,
+          "ci95": [
+            0.06502700570972095,
+            0.2831553172701184
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        },
+        "MAP": {
+          "mean": 0.17427829681685397,
+          "ci95": [
+            0.07245911669381325,
+            0.1890714171428718
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        },
+        "MRR": {
+          "mean": 0.1815788269550025,
+          "ci95": [
+            0.07279543821839081,
+            0.19938047443627804
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        }
+      }
+    },
+    "prerequisite_aware": {
+      "NDCG@10": 0.03222532486982686,
+      "MAP": 0.06822163515016685,
+      "MRR": 0.05709310850439882,
+      "bootstrap_student_grouped": {
+        "NDCG": {
+          "mean": 0.03222532486982686,
+          "ci95": [
+            0.0,
+            0.1329294650880358
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        },
+        "MAP": {
+          "mean": 0.06822163515016685,
+          "ci95": [
+            0.03279569892473118,
+            0.08178639294983844
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        },
+        "MRR": {
+          "mean": 0.05709310850439882,
+          "ci95": [
+            0.03279569892473118,
+            0.08794402841781873
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        }
+      }
+    },
+    "learned": {
+      "NDCG@10": 0.09901549920498293,
+      "MAP": 0.125536508388281,
+      "MRR": 0.14248866542664496,
+      "bootstrap_student_grouped": {
+        "NDCG": {
+          "mean": 0.09901549920498293,
+          "ci95": [
+            0.0,
+            0.3337580339632371
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        },
+        "MAP": {
+          "mean": 0.125536508388281,
+          "ci95": [
+            0.0635859868919457,
+            0.26141307816229936
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        },
+        "MRR": {
+          "mean": 0.14248866542664496,
+          "ci95": [
+            0.05343969789002559,
+            0.38924632352941174
+          ],
+          "n_students": 4,
+          "queries_per_student_mean": 2.75
+        }
+      }
+    }
+  },
+  "test": {
+    "n_queries_total": 20,
+    "n_queries_with_relevance": 19,
+    "n_queries_zero_relevance_excluded": 1,
+    "zero_relevance_handling": "excluded_from_ranking_metrics",
+    "candidates_per_query": {
+      "mean": 32.0,
+      "min": 32,
+      "max": 32
+    },
+    "relevant_items_per_query": {
+      "mean": 2.05,
+      "min": 0,
+      "max": 3,
+      "among_used_mean": 2.1578947368421053
+    },
+    "filtering_exclusions": {
+      "missing_resource_in_catalogue": "skipped in build_queries",
+      "empty_subject_candidate_set": "skipped in build_queries",
+      "zero_relevant_in_candidates": 1
+    },
+    "mean_label_prevalence_in_candidate_sets": 0.06743421052631579,
+    "k": 10,
+    "relevance_definition": "opened_at is not null (simulated engagement)",
+    "split_name": "test",
+    "random": {
+      "NDCG@10": 0.1357939854966044,
+      "MAP": 0.14161863781989825,
+      "MRR": 0.13411128089105928,
+      "bootstrap_student_grouped": {
+        "NDCG": {
+          "mean": 0.1357939854966044,
+          "ci95": [
+            0.05109559939712153,
+            0.21283516727039645
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        },
+        "MAP": {
+          "mean": 0.14161863781989825,
+          "ci95": [
+            0.08621170496170498,
+            0.18107193427917112
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        },
+        "MRR": {
+          "mean": 0.13411128089105928,
+          "ci95": [
+            0.07797619047619046,
+            0.17584602288549656
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        }
+      }
+    },
+    "prerequisite_aware": {
+      "NDCG@10": 0.1172790504588983,
+      "MAP": 0.09711756449270546,
+      "MRR": 0.08160740014286924,
+      "bootstrap_student_grouped": {
+        "NDCG": {
+          "mean": 0.1172790504588983,
+          "ci95": [
+            0.045226872945451996,
+            0.2857142520070549
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        },
+        "MAP": {
+          "mean": 0.09711756449270546,
+          "ci95": [
+            0.0802490543058335,
+            0.1439068100358423
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        },
+        "MRR": {
+          "mean": 0.08160740014286924,
+          "ci95": [
+            0.05959829986745099,
+            0.15555555555555556
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        }
+      }
+    },
+    "learned": {
+      "NDCG@10": 0.20266636033360513,
+      "MAP": 0.20332716524091057,
+      "MRR": 0.267589428115744,
+      "bootstrap_student_grouped": {
+        "NDCG": {
+          "mean": 0.20266636033360513,
+          "ci95": [
+            0.06268517061232586,
+            0.3065735963827292
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        },
+        "MAP": {
+          "mean": 0.20332716524091057,
+          "ci95": [
+            0.08619631087303499,
+            0.3015873015873016
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        },
+        "MRR": {
+          "mean": 0.267589428115744,
+          "ci95": [
+            0.09862012987012987,
+            0.5238095238095238
+          ],
+          "n_students": 3,
+          "queries_per_student_mean": 6.333333333333333
+        }
+      }
+    }
+  },
+  "pooled_pointwise_secondary": {
+    "note": "Pooled pointwise metrics are secondary; prevalence is not a ranking baseline",
+    "label_prevalence": 0.7,
+    "pointwise_AP": 0.8207800970958865,
+    "pointwise_ROC_AUC": 0.6309523809523809,
+    "pointwise_ROC_AUC_flipped": 0.36904761904761907,
+    "spearman_difficulty_vs_label": -0.7745966692414834,
+    "interpretation": "ROC-AUC near 0.5 means weak discrimination; do not flip scores post-hoc based on test. Original pooled AP\u2248prevalence indicated scores were uninformative relative to prevalence."
+  },
+  "test_set_status": "revised protocol on same simulated test students \u2014 not an untouched new population",
+  "simulation_only": true
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_id": "oulad",
+  "name": "Open University Learning Analytics Dataset",
+  "data_category": "authentic_public",
+  "source_url": "https://archive.ics.uci.edu/static/public/349/open+university+learning+analytics+dataset.zip",
+  "license": "CC BY 4.0 (per UCI / Open University documentation)",
+  "schema_version": "0.1.0",
+  "local_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\oulad\\extracted",
+  "checksum_sha256": "f2ed1902616c1fe8d2824d872c0b7d2d72be435bf0124d077044fe4be2c6d3e4",
+  "archive_size_bytes": 46748244,
+  "extracted_size_bytes": 464413754,
+  "selected_sample_size": null,
+  "record_counts": {
+    "studentInfo.csv": 32593,
+    "studentRegistration.csv": 32593,
+    "courses.csv": 22,
+    "assessments.csv": 206,
+    "studentAssessment.csv": 173912,
+    "vle.csv": 6364,
+    "studentVle.csv": 10655280
+  },
+  "filters": {},
+  "domain": "higher_education_distance_learning_uk",
+  "intended_use": "C1 behavioural clustering; C3 academic risk (authentic public)",
+  "generator_version": null,
+  "seed": null,
+  "scenario_id": null,
+  "notes": "Course day cutoff uses date relative to course presentation, not registration date alone.",
+  "created_at": "2026-10-13T02:47:02.414533+00:00"
+}

@@ -1,0 +1,390 @@
+{
+  "generated_at_utc": "2026-10-15T04:02:44.724125+00:00",
+  "target_per_topic": 12,
+  "n_topics": 45,
+  "topics_meeting_12": 45,
+  "topics_below_12": 0,
+  "eligible_questions_distinct": 540,
+  "eligible_resources": 45,
+  "newly_authored": 145,
+  "kept_from_prior": 405,
+  "dropped_dup_or_boilerplate": 100,
+  "quarantined": 0,
+  "blockers": [],
+  "topics": [
+    {
+      "topic_id": "hist_sl_sources",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 16798
+    },
+    {
+      "topic_id": "hist_sl_geography",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 11073
+    },
+    {
+      "topic_id": "hist_sl_prehistoric",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 36037
+    },
+    {
+      "topic_id": "hist_sl_buddhism",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 37629
+    },
+    {
+      "topic_id": "hist_sl_rajarata_politics",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 56623
+    },
+    {
+      "topic_id": "hist_sl_rajarata_society",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 31571
+    },
+    {
+      "topic_id": "hist_sl_post_polonnaruwa",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 24024
+    },
+    {
+      "topic_id": "hist_sl_colonial_modern",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 66611
+    },
+    {
+      "topic_id": "hist_in_sources",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 35397
+    },
+    {
+      "topic_id": "hist_in_geography",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 23217
+    },
+    {
+      "topic_id": "hist_in_indus_vedic",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 23219
+    },
+    {
+      "topic_id": "hist_eu_civilization",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 34850
+    },
+    {
+      "topic_id": "hist_eu_modern",
+      "before_distinct": 11,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 35701
+    },
+    {
+      "topic_id": "hist_mw_since_1500",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 22647
+    },
+    {
+      "topic_id": "geo_basic_concepts",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 64471
+    },
+    {
+      "topic_id": "geo_physical_nature",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 54304
+    },
+    {
+      "topic_id": "geo_landforms",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 26795
+    },
+    {
+      "topic_id": "geo_climate",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 55118
+    },
+    {
+      "topic_id": "geo_population",
+      "before_distinct": 11,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 11961
+    },
+    {
+      "topic_id": "geo_settlement_urban",
+      "before_distinct": 11,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 23562
+    },
+    {
+      "topic_id": "geo_agriculture",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 31878
+    },
+    {
+      "topic_id": "geo_practical_maps",
+      "before_distinct": 11,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 31955
+    },
+    {
+      "topic_id": "pol_nature",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 35618
+    },
+    {
+      "topic_id": "pol_subfields",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 35464
+    },
+    {
+      "topic_id": "pol_state",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 31643
+    },
+    {
+      "topic_id": "pol_forms_gov",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 50761
+    },
+    {
+      "topic_id": "pol_ideologies",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 54701
+    },
+    {
+      "topic_id": "pol_conflict",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 23679
+    },
+    {
+      "topic_id": "pol_colonial",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 22434
+    },
+    {
+      "topic_id": "pol_westminster",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 22959
+    },
+    {
+      "topic_id": "pol_democracy",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 23877
+    },
+    {
+      "topic_id": "pol_comparative",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 35153
+    },
+    {
+      "topic_id": "pol_constitution_1978",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 14250
+    },
+    {
+      "topic_id": "pol_parties",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 34865
+    },
+    {
+      "topic_id": "pol_international",
+      "before_distinct": 11,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 46458
+    },
+    {
+      "topic_id": "pol_public_policy",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 23833
+    },
+    {
+      "topic_id": "pol_citizen",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 20900
+    },
+    {
+      "topic_id": "eco_intro",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 2,
+      "meets_12": true,
+      "source_chars": 94241
+    },
+    {
+      "topic_id": "eco_scarcity_choice",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 52837
+    },
+    {
+      "topic_id": "eco_demand_supply",
+      "before_distinct": 11,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 41724
+    },
+    {
+      "topic_id": "eco_national_income",
+      "before_distinct": 9,
+      "after_distinct": 12,
+      "newly_authored": 5,
+      "meets_12": true,
+      "source_chars": 19561
+    },
+    {
+      "topic_id": "eco_money_banking",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 35781
+    },
+    {
+      "topic_id": "eco_gov_policy",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 23199
+    },
+    {
+      "topic_id": "eco_intl_trade",
+      "before_distinct": 12,
+      "after_distinct": 12,
+      "newly_authored": 3,
+      "meets_12": true,
+      "source_chars": 35486
+    },
+    {
+      "topic_id": "eco_development",
+      "before_distinct": 10,
+      "after_distinct": 12,
+      "newly_authored": 4,
+      "meets_12": true,
+      "source_chars": 22803
+    }
+  ],
+  "reconciliation_note": "Prior 531 batch rows included duplicate questionId::version keys (45 dupes \u2192 486 unique). This fill dedupes and authors new distinct IDs to reach 12/topic where sources allow.",
+  "combined_batch": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\arts_content\\practice\\batches\\combined_import_batch.json",
+  "review_kinds_performed": [
+    "structural_schema",
+    "near_duplicate_jaccard",
+    "boilerplate_grounding_filter",
+    "source_support_heuristic",
+    "distinct_logical_id_check"
+  ],
+  "review_kinds_not_performed": [
+    "teacher_factual_validation",
+    "psychometric_calibration",
+    "official_past_paper_provenance_check"
+  ]
+}

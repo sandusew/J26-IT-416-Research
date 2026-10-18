@@ -1,0 +1,122 @@
+{
+  "topic_id": "eco_development",
+  "subject_id": "sub_economics",
+  "topic_title": "Economic development and Sri Lankan context",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.\nThe term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for far longer. \"Modernization\", and especially \"Industrialization\" are other terms often used while discussing economic development. Historically, economic development policies focused on industrialization and infrastructure; Since the 1960s, it has increasingly focused on poverty reduction.\nWhereas economic development is a policy intervention aiming to improve the well-being of people, economic growth is a phenomenon of market productivity and increases in GDP; economist Amartya Sen describes economic growth as but \"one aspect of the process of economic development\".\n\nEconomist Paul Bairoch argues that forced economic liberalism imposed on the Global South during the 19th century  played a central role in delaying its industrialization. Linguist Noam Chomsky argues that successful development has historically required the radical violation of free-market doctrine promoted by the U.S. and the international financial institutions, and that this can be seen with every major economy, including England, the U.S., and the economic miracles of East Asia. Economist Joseph Stiglitz asserts that the \"free trade\" orthodoxy ignores  the fact that today’s advanced nations, such as the U.S. and Japan, built their wealth by protecting infant industries until they were globally competitive. Today, he argues, the International Monetary Fund (IMF) and World Bank demand the opposite, forcing vulnerable economies to open their markets to heavily subsidized Western goods. He contends that this doesn't create growth; it kills jobs. When small-scale farmers and local manufacturers are crushed by foreign competition without the support of low interest rates or social welfare, 'liberalization' becomes a mechanism for producing misery rather than prosperity.",
+      "source_ids": [
+        "wiki_en_economic_development"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Economic_development"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "The precise definition of economic development has been contested: while economists in the 20th century viewed development primarily in terms of economic growth, sociologists instead emphasized broader processes of change and modernization. Development and urban studies scholar Karl Seidman summarizes economic development as \"a process of creating and utilizing physical, human, financial, and social assets to generate improved and broadly shared economic well-being and quality of life for a community or region\". Daphne Greenwood and Richard Holt distinguish economic development from economic growth on the basis that economic development is a \"broadly based and sustainable increase in the overall standard of living for individuals within a community\", and measures of growth such as per capita income do not necessarily correlate with improvements in quality of life.  The United Nations Development Programme in 1997 defined development as increasing people‟s choices. Choices depend on the people in question and their nation.  The UNDP indicates four chief factors in development, especially human development, which are empowerment, equity, productivity, and sustainability.\nMansell and Wehn state that economic development has been understood by non-practitioners since the World War II to involve economic growth, namely the increase in per capita income, and (if currently absent) the attainment of a standard of living equivalent to that of industrialized countries. Economic development can also be considered as a static theory that documents the state of an economy at a certain place. According to Schumpeter and Backhaus (2003), the changes in this equilibrium state documented in economic theory can only be caused by intervening factors coming from the outside.\n\nEconomist Ha-Joon Chang argues that all developed countries, during their development, from the 14th century until the East Asian newly industrialized countries in the late 20th century, used active state-interventionist industrial, trade and technology policies to promote infant industries and economic development. Consequently, he argues, the free-market policies promoted by the developed countries and the international development policy establishment they control is at odds with historical experience. Chang says that, despite the importance of tariff protection in the development of most Now Developed Countries, it was:by no means the only, nor even necessarily the most important, policy tool used by these countries in promoting infant industries. There were many other tools, such as export subsidies, tariff rebates on inputs used for exports, conferring of monopoly rights, cartel arrangements, directed credits, investment planning, manpower planning, R&D supports and the promotion of institutions that allow public-private cooperation.Chang says that economic growth rates in developing nations during the period of state-led industrialization were significantly higher than those achieved under the market-oriented neoliberal reforms. Under state-led industrialization in the 1960s and 1970s, per capita income in developing countries grew by 3.0% annually, according to Chang. He says that following the shift to neoliberal orthodoxy in the 1980s, that percentage plummeted to just 1.7%, and this decline would be even sharper if China and India were excluded. For example, he says, under state-led industrialization between 1964 and 1974, the Middle East achieved robust economic expansion, with GDP and GDP per capita growth rates averaging 7.5% and 4.8%, respectively. However, he says, these figures saw a dramatic decline during the 1985–1995 neoliberal period, falling to 2.9% for GDP and a stagnant 0.3% for per capita GDP. According to economist Alice Amsden's analysis of World Bank data, the period in which developing countriesm implemented state-led industrialization—from 1950 to 1980—marked a historic first: developing economies grew at an average rate of over 5% annually, outperforming developed economies, which grew at 4%. She calls this timeframe \"a period of unprecedented expansion in living standards, per capita income, wages, and poverty reduction.\" \nEconomic anthropologist Jason Hickel argues that neoliberal economic policies promoted by international institutions such as the World Bank, the IMF, and the World Trade Organization (WTO) over recent decades have aimed to aggressively liberalize markets in developing countries. These measures, he says, have opened economies in ways that grant multinational corporations extensive access to inexpensive land, natural resources, and labor. Sociologist Walden Bello posits that neoliberal policies pushed by the U.S., the World Bank, and the IMF intentionally undermine local producers in developing nations. By lifting import tariffs, deregulating foreign investment, and stripping away labor protections, these policies effectively force local economies into a Western-dominated global market. According to geographer David Harvey, the IMF and WTO drive a \"new imperialism\" by compelling world markets to liberalize, leading to what he labels \"accumulation by dispossession.\" In his view, these organizations break down national economic barriers with the ongoing support of U.S. intervention.",
+      "source_ids": [
+        "wiki_en_economy_of_sri_lanka"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Economy_of_Sri_Lanka"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "\"More than half the people of the world are living in conditions approaching misery. Their food is inadequate, they are victims of the disease. Their economic life is primitive and stagnant. Their poverty is a handicap and a threat both to them and to more prosperous areas. For the first time in history, humanity possesses the knowledge and the skill to relieve the suffering of these people ... I believe that we should make available to peace-loving people the benefits of our store of technical knowledge to help them realize their aspirations for a better life… What we envisage is a program of development based on the concepts of democratic fair dealing ... Greater production is the key to prosperity and peace. And the key to greater production is a wider and more vigorous application of modem scientific and technical knowledge.\"\nThere have been several major phases of development theory since 1945. Alexander Gerschenkron argued that the less developed the country is at the outset of economic development (relative to others), the more likely certain conditions are to occur. Hence, all countries do not progress similarly.  From the 1940s to the 1960s the state played a large role in promoting industrialization in developing countries, following the idea of modernization theory. This period was followed by a brief period of basic needs development focusing on human capital development and redistribution in the 1970s. Neoliberalism emerged in the 1980s, with an agenda of free trade and removal of import substitution industrialization policies.\nIn economics, the study of economic development was born out of an extension to traditional economics that focused entirely on the national product, or the aggregate output of goods and services. Economic development was concerned with the expansion of people's entitlements and their corresponding capabilities, such as morbidity, nourishment, literacy, education, and other socio-economic indicators. Borne out of the backdrop of Keynesian economics (advocating government intervention), and neoclassical economics (stressing reduced intervention), with the rise of high-growth countries (Singapore, South Korea, Hong Kong) and planned governments (Argentina, Chile, Sudan, Uganda), economic development and more generally development economics emerged amidst these mid-20th century theoretical interpretations of how economies prosper. Economist Albert O. Hirschman, a major contributor to development economics, argued that economic development grew to concentrate on the poor regions of the world, primarily in Africa, Asia and Latin America yet on the outpouring of fundamental ideas and models.\nIt has also been argued, notably by Asian and European proponents of infrastructure-based development, that systematic, long-term government investments in transportation, housing, education, and healthcare are necessary to ensure sustainable economic growth in emerging countries.\nDuring Robert McNamara's 13 years at the World Bank, he introduced key changes, most notably shifting the Bank's economic development policies toward targeted poverty reduction. Before his tenure at the World Bank, poverty did not receive substantial attention as part of international and national economic development; the focus of development had been on industrialization and infrastructure. Poverty also came to be redefined as a condition faced by people rather than countries. According to Martha Finnemore, the World Bank under McNamara's tenure \"sold\" states poverty reduction \"through a mixture of persuasion and coercion.\"\n\nSri Lanka has a developing mixed economy. It was valued at LKR 32.7 trillion (around US$109 billion) in 2025 by gross domestic product (GDP) and $371.27 billion by purchasing power parity (PPP) Sri Lanka's economy has experienced a strong recovery in recent years, driven by rising domestic consumption, increased investment, and improved performance in the industry and services sectors. GDP growth remained strong, recording 5.0% in both 2024 and 2025, with both years performing above earlier expectations. This recovery follows a period of severe economic difficulties between 2018 and 2022, including the COVID-19 pandemic, foreign exchange shortages, and the 2022 economic crisis.\nSri Lanka has met the Millennium Development Goal (MDG) target of halving extreme poverty and is on track to meet most of the other MDGs, outperforming other South Asian countries. Sri Lanka's poverty headcount index was 4.1% by 2016. Since the end of the three-decade-long Sri Lankan Civil War, Sri Lanka has begun focusing on long-term strategic and structural development challenges and has financed several infrastructure projects. The nation experienced a sovereign debt default in 2022 amid unsustainable external obligations and severe macroeconomic imbalances, rebounding in 2024 with support from the IMF.",
+      "source_ids": [
+        "wiki_en_economic_development"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Economic_development"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Economic development",
+      "definition": "In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.",
+      "source_ids": [
+        "wiki_en_economic_development"
+      ]
+    },
+    {
+      "term": "Economy of Sri Lanka",
+      "definition": "Economy of Sri Lanka: a key idea for Economic development and Sri Lankan context (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_economic_development"
+      ]
+    },
+    {
+      "term": "Economic",
+      "definition": "In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.",
+      "source_ids": [
+        "wiki_en_economic_development"
+      ]
+    },
+    {
+      "term": "development",
+      "definition": "In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.",
+      "source_ids": [
+        "wiki_en_economic_development"
+      ]
+    },
+    {
+      "term": "Lankan",
+      "definition": "Since the end of the three-decade-long Sri Lankan Civil War, Sri Lanka has begun focusing on long-term strategic and structural development challenges and has financed several infrastructure projects.",
+      "source_ids": [
+        "wiki_en_economic_development"
+      ]
+    },
+    {
+      "term": "context",
+      "definition": "context: a key idea for Economic development and Sri Lankan context (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_economic_development"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_economic_development",
+    "wiki_en_economy_of_sri_lanka"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_economic_development",
+      "title": "Economic development",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Economic_development",
+      "retrieved_at_utc": "2026-10-14T17:30:19.356877+00:00",
+      "edition_or_revision": "pageid=148131",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_development",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "a89a8b2786d5e926a22950e054bfbabef4ee4b7f1b374d6c6f35e6a53bcdded5",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_economy_of_sri_lanka",
+      "title": "Economy of Sri Lanka",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Sri_Lanka",
+      "retrieved_at_utc": "2026-10-14T17:30:20.972842+00:00",
+      "edition_or_revision": "pageid=27415",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_development",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "4c129eaf4a9960e8948ce8f38129e1b92256de1d264aad5391b24708401252ae",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "87bd6afa1b837baa4af2ec44c89e0baa25166423f8188e92fb0e087fe24ed29b",
+  "authored_at_utc": "2026-10-14T17:30:21.582003+00:00"
+}

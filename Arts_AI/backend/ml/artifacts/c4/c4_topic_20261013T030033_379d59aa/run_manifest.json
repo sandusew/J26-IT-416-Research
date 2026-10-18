@@ -1,0 +1,39 @@
+{
+  "run_id": "c4_topic_20261013T030033_379d59aa",
+  "component": "c4",
+  "task": "topic_classifier",
+  "config_name": "c4_chatbot.yaml",
+  "config": {},
+  "data_hashes": {},
+  "sample_counts": {
+    "train": 200,
+    "test": 240
+  },
+  "feature_schema": [],
+  "split_manifest_path": null,
+  "seeds": {},
+  "hyperparameters": {},
+  "dependency_versions": {},
+  "metrics": {
+    "data_category": "generated_content",
+    "origin": "generated",
+    "review_status_preserved": true,
+    "accuracy": 0.041666666666666664,
+    "macro_f1": 0.01514563140130953,
+    "n_train": 200,
+    "n_test": 240,
+    "n_topics": 40,
+    "split": "document_id variants: train *_v0 / test *_v1 (no document overlap)",
+    "note": "Trainable C4 subtask; examples are generated — not teacher-reviewed"
+  },
+  "artifact_paths": {
+    "model": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c4\\c4_topic_20261013T030033_379d59aa\\topic_classifier.joblib"
+  },
+  "artifact_hashes": {
+    "model": "06b666e86dc7fd188e8da1c677ec2bf909f7945b5975d62bcdac2cbc38045892"
+  },
+  "model_card_path": null,
+  "status": "completed",
+  "notes": null,
+  "created_at": "2026-10-13T03:00:33.477370+00:00"
+}

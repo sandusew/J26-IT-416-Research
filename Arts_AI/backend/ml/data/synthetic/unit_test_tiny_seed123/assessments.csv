@@ -1,0 +1,11 @@
+assessment_id,subject_id,date,max_marks,pass_mark,grading_policy_version,data_origin,generator_version,seed
+sub_history_mid,sub_history,2025-03-07,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_history_end,sub_history,2025-04-26,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_geography_mid,sub_geography,2025-03-07,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_geography_end,sub_geography,2025-04-26,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_economics_mid,sub_economics,2025-03-07,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_economics_end,sub_economics,2025-04-26,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_political_mid,sub_political,2025-03-07,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_political_end,sub_political,2025-04-26,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_sinhala_lit_mid,sub_sinhala_lit,2025-03-07,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123
+sub_sinhala_lit_end,sub_sinhala_lit,2025-04-26,100.0,40.0,sim_v1,synthetic_learner,0.1.0,123

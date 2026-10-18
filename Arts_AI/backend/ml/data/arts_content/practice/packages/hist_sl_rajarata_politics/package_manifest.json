@@ -1,0 +1,176 @@
+{
+  "topic_id": "hist_sl_rajarata_politics",
+  "subject_id": "sub_history",
+  "topic_title": "Political evolution of Rajarata (Anuradhapura–Polonnaruwa)",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central plain of Sri Lanka. It is the capital city of North Central Province and the capital of Anuradhapura District. The city lies 205 kilometres (127 mi) north of the current capital of Colombo in the North Central Province, on the banks of the historic Malwathu Oya. The city is now a World Heritage Site famous for its well-preserved ruins of the ancient Sinhalese civilisation.\n\nThe origin of the name Anuradhapura is rooted in ancient Sri Lankan tradition and is documented in the Mahāvaṃsa. According to this text: “Here and there did Vijaya's ministers found villages. Anuradhagama was built by a man of that name near the Kadamba river.”   This refers to Anuradha, a minister in the court of Prince Vijaya (543–505 BCE), who is credited with founding a settlement near the present-day Malwathu Oya, then known as the Kadamba River. The name Anuradhagama (from Anuradha + gama, meaning \"village\") was thus given to this early settlement.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Anuradhapura"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "While Mahāvaṃsa places the founding of the city in 437 BCE, the site has been inhabited for much longer, making it a major human settlement on the island for almost three millennia and one of the oldest continuously occupied cities in Asia. It is the cradle of the Hydraulic Sinhalese civilisation, Theravada Buddhism, and the longest-serving ancient capital of Sri Lanka that has survived for 1500 years. Moreover, it was the first capital of the Sinhala Kingdom of Rajarata, following the kingdoms of Tambapanni and Upatissa Nuwara. Anuradhapura was also the centre of Theravada Buddhism for many centuries and has been a major Buddhist pilgrimage site with ruins of many ancient Buddhist temples, including the famous Anuradhapura Maha Viharaya and the Jaya Sri Maha Bodhi, the oldest still-living, documented, planted tree in the world believed to have originated from the original Bodhi tree at Bodh Gaya (Bihar, India) under which the Buddha attained enlightenment. These vast networks of ancient temples and monasteries now cover over 100 square kilometres (40 mi2) of area of the city today.\n\nIn 377 BCE, during the reign of King Pandukabhaya (474–367 BCE), this village was formally established as the capital of the Sinhalese kingdom. According to the Mahāvaṃsa: “He laid out the city Anuradhapura, and established it as the capital.”",
+      "source_ids": [
+        "wiki_en_polonnaruwa"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Polonnaruwa"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "The city was mostly destroyed and largely deserted after 993 CE, with the Chola invasion from South India. Although several attempts were made by later Sinhalese kings to return the capital to Anuradhapura, it was not reestablished as a major population centre of the island until the British colonial era in the 19th century CE. Despite its decline as a political centre, Anuradhapura remained a vital pilgrimage site for Buddhists throughout the medieval period and continues to be a significant spiritual destination today. The modern revival of Anuradhapura began in the 1870s under British colonial rule, with infrastructure and urban planning initiatives aimed at supporting administration and accommodating pilgrims. The contemporary city, much of which was moved during the mid-20th century to preserve the site of the ancient capital, is a major road junction of northern Sri Lanka and lies along a railway line. The city is the headquarters of Sri Lanka's archeological survey, and tourism is a significant factor in its economy.\n\nAs the settlement expanded into an urban centre, its name changed to Anuradhapura—Anuradha + pura, with pura meaning “city” in Sinhala, Sanskrit, and Pali.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Anuradhapura"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Anuradhapura",
+      "definition": "Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central plain of Sri Lanka.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "Polonnaruwa",
+      "definition": "Although the political centre shifted to Polonnaruwa, Anuradhapura remained a vital religious site, continuing to attract Buddhist pilgrims.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "Rajarata",
+      "definition": "Moreover, it was the first capital of the Sinhala Kingdom of Rajarata, following the kingdoms of Tambapanni and Upatissa Nuwara.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "Political",
+      "definition": "Despite its decline as a political centre, Anuradhapura remained a vital pilgrimage site for Buddhists throughout the medieval period and continues to be a significant spiritual destination today.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "evolution",
+      "definition": "evolution: a key idea for Political evolution of Rajarata (Anuradhapura–Polonnaruwa) (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "Anuradhapura–Polonnaruwa",
+      "definition": "Anuradhapura–Polonnaruwa: a key idea for Political evolution of Rajarata (Anuradhapura–Polonnaruwa) (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_anuradhapura",
+    "wiki_en_polonnaruwa",
+    "wiki_en_anuradhapura",
+    "wiki_en_polonnaruwa",
+    "wiki_en_rajarata"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_anuradhapura",
+      "title": "Anuradhapura (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Anuradhapura",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=285857",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_rajarata_politics",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "84b58963a4a0e78976933da6090d74535883dd5db6f6f8c7337b9d53be7b365f",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_polonnaruwa",
+      "title": "Polonnaruwa (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Polonnaruwa",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=287791",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_rajarata_politics",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "2a5587beb90735d8a6e082fa3d27ce1f29c648d065905ead74934e4e06a6a089",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_anuradhapura",
+      "title": "Anuradhapura",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Anuradhapura",
+      "retrieved_at_utc": "2026-10-14T17:22:27.653981+00:00",
+      "edition_or_revision": "pageid=285857",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_rajarata_politics",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "2a9160bb1f280ff7063cce8d4d6701a2a747e415db21ba46acdf5588deaa577a",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_polonnaruwa",
+      "title": "Polonnaruwa",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Polonnaruwa",
+      "retrieved_at_utc": "2026-10-14T17:22:28.781474+00:00",
+      "edition_or_revision": "pageid=287791",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_rajarata_politics",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "6cc1f76a19a65f7c64bdfef89c7e262e6e28ef9339274d3aa0f6a01b1c95ea97",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_rajarata",
+      "title": "Rajarata",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Rajarata",
+      "retrieved_at_utc": "2026-10-14T17:22:29.959041+00:00",
+      "edition_or_revision": "pageid=36124922",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_rajarata_politics",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "5ba1cccbe919183151570d58b3567ce8376ac732778473a237362ae2201fcde9",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "d30b3dccd7bbb14906ebe3ad902c5cf366bb86e5723effa90099b8c7951efeae",
+  "authored_at_utc": "2026-10-14T17:22:30.579868+00:00"
+}

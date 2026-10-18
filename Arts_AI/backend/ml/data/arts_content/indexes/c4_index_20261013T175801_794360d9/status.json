@@ -1,0 +1,22 @@
+{
+  "run_id": "c4_index_20261013T175801_794360d9",
+  "registry_path": "backend/ml/data/arts_content/corpus_registry.json",
+  "n_registered": 4,
+  "n_indexable": 4,
+  "n_blocked_pending": 0,
+  "domain_retrieval_status": "ready",
+  "generated_fixtures_separated": true,
+  "generated_path": "backend/ml/data/arts_content/generated_awaiting_review",
+  "indexing_note": "Index construction is implementation/indexing, not language-model training",
+  "sinhala_query_support": "not_claimed",
+  "topic_classifier_scope": "closed_set_generated_nl \u2014 does not gate domain retrieval; topics outside NL taxonomy remain retrievable",
+  "n_chunks": 23,
+  "index_path": "backend/ml/data/arts_content/indexes/c4_index_20261013T175801_794360d9/domain_knowledge_index.joblib",
+  "index_sha256": "b49f940f2453f006f0256d80c64ce913ed851653dbb36d9693fbe05261d0e264",
+  "document_ids": [
+    "wiki_en_economics",
+    "wiki_en_geography_sri_lanka",
+    "wiki_en_politics_sri_lanka",
+    "wiki_en_sri_lanka_history"
+  ]
+}

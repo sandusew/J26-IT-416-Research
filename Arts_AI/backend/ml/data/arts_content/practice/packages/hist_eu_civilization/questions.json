@@ -1,0 +1,704 @@
+[
+  {
+    "questionId": "prac_hist_eu_civilization_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Ancient Greece",
+      "Roman Empire",
+      "Explanations",
+      "History of Europe"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Ancient Greece"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Roman Empire"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "History of Europe"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_roman_empire). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_roman_empire",
+    "sourceIds": [
+      "wiki_en_roman_empire"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_roman_empire",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «The history of Europe can be traced back to the appearance of the first modern humans identified as ancestors of contemporary Europeans about 37,000 years ago during the Paleolithic.»?",
+    "options": [
+      "Roman Empire",
+      "Europe",
+      "History of Europe",
+      "Ancient Greece"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Roman Empire"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Europe"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "History of Europe"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Ancient Greece"
+      }
+    ],
+    "correctAnswerOrRubric": "Europe",
+    "explanation": "Source-grounded AI practice item. The passage supports «Europe». Full sentence: The history of Europe can be traced back to the appearance of the first modern humans identified as ancestors of contemporary Europeans about 37,000 years ago during the Paleolithic. (source_id=wiki_en_history_of_europe). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_history_of_europe",
+    "sourceIds": [
+      "wiki_en_history_of_europe"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_history_of_europe",
+        "passage": "The history of Europe can be traced back to the appearance of the first modern humans identified as ancestors of contemporary Europeans about 37,000 years ago during the Paleolithic."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «Early European Farmers migrating from Anatolia spread agriculture across the continent during the Neolithic (7000–2000 BC), a period that also included early metallurgy.»?",
+    "options": [
+      "Early European Farmers",
+      "History of Europe",
+      "Ancient Greece",
+      "Roman Empire"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Early European Farmers"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "History of Europe"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Ancient Greece"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Roman Empire"
+      }
+    ],
+    "correctAnswerOrRubric": "Early European Farmers",
+    "explanation": "Source-grounded AI practice item. The passage supports «Early European Farmers». Full sentence: Early European Farmers migrating from Anatolia spread agriculture across the continent during the Neolithic (7000–2000 BC), a period that also included early metallurgy. (source_id=wiki_en_ancient_greece). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_ancient_greece",
+    "sourceIds": [
+      "wiki_en_ancient_greece"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_ancient_greece",
+        "passage": "Early European Farmers migrating from Anatolia spread agriculture across the continent during the Neolithic (7000–2000 BC), a period that also included early metallurgy."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «Starting around 4000 BC, westward migrations of steppe pastoralists spread Indo-European languages.»?",
+    "options": [
+      "History of Europe",
+      "Ancient Greece",
+      "Roman Empire",
+      "Starting"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "History of Europe"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Ancient Greece"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Roman Empire"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Starting"
+      }
+    ],
+    "correctAnswerOrRubric": "Starting",
+    "explanation": "Source-grounded AI practice item. The passage supports «Starting». Full sentence: Starting around 4000 BC, westward migrations of steppe pastoralists spread Indo-European languages. (source_id=wiki_en_roman_empire). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_roman_empire",
+    "sourceIds": [
+      "wiki_en_roman_empire"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_roman_empire",
+        "passage": "Starting around 4000 BC, westward migrations of steppe pastoralists spread Indo-European languages."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «The rise of the city-states of ancient Greece defines the beginning of classical antiquity (c.»?",
+    "options": [
+      "Ancient Greece",
+      "Roman Empire",
+      "Greece",
+      "History of Europe"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Ancient Greece"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Roman Empire"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Greece"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "History of Europe"
+      }
+    ],
+    "correctAnswerOrRubric": "Greece",
+    "explanation": "Source-grounded AI practice item. The passage supports «Greece». Full sentence: The rise of the city-states of ancient Greece defines the beginning of classical antiquity (c. (source_id=wiki_en_history_of_europe). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_history_of_europe",
+    "sourceIds": [
+      "wiki_en_history_of_europe"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_history_of_europe",
+        "passage": "The rise of the city-states of ancient Greece defines the beginning of classical antiquity (c."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «The Hellenistic period (323–30 BC) began with the death of Alexander the Great and ended with the Roman Empire's control of the entire Mediterranean basin.»?",
+    "options": [
+      "Roman Empire",
+      "Alexander",
+      "History of Europe",
+      "Ancient Greece"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Roman Empire"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Alexander"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "History of Europe"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Ancient Greece"
+      }
+    ],
+    "correctAnswerOrRubric": "Alexander",
+    "explanation": "Source-grounded AI practice item. The passage supports «Alexander». Full sentence: The Hellenistic period (323–30 BC) began with the death of Alexander the Great and ended with the Roman Empire's control of the entire Mediterranean basin. (source_id=wiki_en_ancient_greece). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_ancient_greece",
+    "sourceIds": [
+      "wiki_en_ancient_greece"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_ancient_greece",
+        "passage": "The Hellenistic period (323–30 BC) began with the death of Alexander the Great and ended with the Roman Empire's control of the entire Mediterranean basin."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «The Migration Period of the Germanic peoples began in the late 4th century AD.»?",
+    "options": [
+      "Germanic",
+      "History of Europe",
+      "Ancient Greece",
+      "Roman Empire"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Germanic"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "History of Europe"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Ancient Greece"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Roman Empire"
+      }
+    ],
+    "correctAnswerOrRubric": "Germanic",
+    "explanation": "Source-grounded AI practice item. The passage supports «Germanic». Full sentence: The Migration Period of the Germanic peoples began in the late 4th century AD. (source_id=wiki_en_roman_empire). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_roman_empire",
+    "sourceIds": [
+      "wiki_en_roman_empire"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_roman_empire",
+        "passage": "The Migration Period of the Germanic peoples began in the late 4th century AD."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Forces shaping European civilization: «Forces shaping European civilization can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Forces shaping European civilization. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_history_of_europe",
+    "sourceIds": [
+      "wiki_en_history_of_europe",
+      "wiki_en_ancient_greece"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Forces shaping European civilization: «Listing names alone demonstrates understanding of Forces shaping European civilization» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Forces shaping European civilization. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_history_of_europe",
+    "sourceIds": [
+      "wiki_en_history_of_europe",
+      "wiki_en_ancient_greece"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Forces shaping European civilization: «Forces shaping European civilization is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Forces shaping European civilization. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_history_of_europe",
+    "sourceIds": [
+      "wiki_en_history_of_europe",
+      "wiki_en_ancient_greece"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «Early modern Europe began with 15th-century revolutions in both printing and seafaring.»?",
+    "options": [
+      "Early",
+      "History of Europe",
+      "Ancient Greece",
+      "Roman Empire"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Early"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "History of Europe"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Ancient Greece"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Roman Empire"
+      }
+    ],
+    "correctAnswerOrRubric": "Early",
+    "explanation": "Source-grounded AI practice item. The passage supports «Early». Full sentence: Early modern Europe began with 15th-century revolutions in both printing and seafaring. (source_id=wiki_en_history_of_europe). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_history_of_europe",
+    "sourceIds": [
+      "wiki_en_history_of_europe"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_history_of_europe",
+        "passage": "Early modern Europe began with 15th-century revolutions in both printing and seafaring."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_eu_civilization_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_eu_civilization",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forces shaping European civilization, which term or name is supported by this passage: «Printing changed how knowledge was created, preserved and disseminated while the Age of Discovery led to extensive colonization, the Atlantic slave trade and the Columbian exchange.»?",
+    "options": [
+      "History of Europe",
+      "Ancient Greece",
+      "Roman Empire",
+      "Printing"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "History of Europe"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Ancient Greece"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Roman Empire"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Printing"
+      }
+    ],
+    "correctAnswerOrRubric": "Printing",
+    "explanation": "Source-grounded AI practice item. The passage supports «Printing». Full sentence: Printing changed how knowledge was created, preserved and disseminated while the Age of Discovery led to extensive colonization, the Atlantic slave trade and the Columbian exchange. (source_id=wiki_en_ancient_greece). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_ancient_greece",
+    "sourceIds": [
+      "wiki_en_ancient_greece"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_ancient_greece",
+        "passage": "Printing changed how knowledge was created, preserved and disseminated while the Age of Discovery led to extensive colonization, the Atlantic slave trade and the Columbian exchange."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

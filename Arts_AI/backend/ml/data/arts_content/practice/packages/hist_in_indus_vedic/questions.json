@@ -1,0 +1,704 @@
+[
+  {
+    "questionId": "prac_hist_in_indus_vedic_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Vedic period",
+      "Rigveda",
+      "Explanations",
+      "Indus Valley Civilisation"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Vedic period"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Rigveda"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Indus Valley Civilisation"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_vedic_period). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_vedic_period",
+    "sourceIds": [
+      "wiki_en_vedic_period"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_vedic_period",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «500 BCE), is the period in the late Bronze Age and early Iron Age of the history of India when the Vedic literature, including the Vedas (c.»?",
+    "options": [
+      "Rigveda",
+      "Bronze Age",
+      "Indus Valley Civilisation",
+      "Vedic period"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Rigveda"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Bronze Age"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Indus Valley Civilisation"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Vedic period"
+      }
+    ],
+    "correctAnswerOrRubric": "Bronze Age",
+    "explanation": "Source-grounded AI practice item. The passage supports «Bronze Age». Full sentence: 500 BCE), is the period in the late Bronze Age and early Iron Age of the history of India when the Vedic literature, including the Vedas (c. (source_id=wiki_en_rigveda). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_rigveda",
+    "sourceIds": [
+      "wiki_en_rigveda"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_rigveda",
+        "passage": "500 BCE), is the period in the late Bronze Age and early Iron Age of the history of India when the Vedic literature, including the Vedas (c."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «1500–900 BCE), was composed in the northern Indian subcontinent, between the end of the urban Indus Valley Civilisation and a second urbanisation, which began in the central Indo-Gangetic Plain c.»?",
+    "options": [
+      "Indian",
+      "Indus Valley Civilisation",
+      "Vedic period",
+      "Rigveda"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Indian"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Indus Valley Civilisation"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Vedic period"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Rigveda"
+      }
+    ],
+    "correctAnswerOrRubric": "Indian",
+    "explanation": "Source-grounded AI practice item. The passage supports «Indian». Full sentence: 1500–900 BCE), was composed in the northern Indian subcontinent, between the end of the urban Indus Valley Civilisation and a second urbanisation, which began in the central Indo-Gangetic Plain c. (source_id=wiki_en_vedic_period). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_vedic_period",
+    "sourceIds": [
+      "wiki_en_vedic_period"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_vedic_period",
+        "passage": "1500–900 BCE), was composed in the northern Indian subcontinent, between the end of the urban Indus Valley Civilisation and a second urbanisation, which began in the central Indo-Gangetic Plain c."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «The Vedas are liturgical texts which formed the basis of the influential Brahmanical ideology, which developed in the Kuru kingdom, a tribal union of several Indo-Aryan tribes.»?",
+    "options": [
+      "Indus Valley Civilisation",
+      "Vedic period",
+      "Rigveda",
+      "Brahmanical"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Indus Valley Civilisation"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Vedic period"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Rigveda"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Brahmanical"
+      }
+    ],
+    "correctAnswerOrRubric": "Brahmanical",
+    "explanation": "Source-grounded AI practice item. The passage supports «Brahmanical». Full sentence: The Vedas are liturgical texts which formed the basis of the influential Brahmanical ideology, which developed in the Kuru kingdom, a tribal union of several Indo-Aryan tribes. (source_id=wiki_en_rigveda). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_rigveda",
+    "sourceIds": [
+      "wiki_en_rigveda"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_rigveda",
+        "passage": "The Vedas are liturgical texts which formed the basis of the influential Brahmanical ideology, which developed in the Kuru kingdom, a tribal union of several Indo-Aryan tribes."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «The Vedas contain details of life during this period that have been interpreted to be historical and constitute the primary sources for understanding the period.»?",
+    "options": [
+      "Vedic period",
+      "Rigveda",
+      "details",
+      "Indus Valley Civilisation"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Vedic period"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Rigveda"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "details"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Indus Valley Civilisation"
+      }
+    ],
+    "correctAnswerOrRubric": "details",
+    "explanation": "Source-grounded AI practice item. The passage supports «details». Full sentence: The Vedas contain details of life during this period that have been interpreted to be historical and constitute the primary sources for understanding the period. (source_id=wiki_en_vedic_period). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_vedic_period",
+    "sourceIds": [
+      "wiki_en_vedic_period"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_vedic_period",
+        "passage": "The Vedas contain details of life during this period that have been interpreted to be historical and constitute the primary sources for understanding the period."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «These documents, alongside the corresponding archaeological record, allow for the evolution of the Indo-Aryan and Vedic culture to be traced and inferred.»?",
+    "options": [
+      "Rigveda",
+      "Indo",
+      "Indus Valley Civilisation",
+      "Vedic period"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Rigveda"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Indo"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Indus Valley Civilisation"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Vedic period"
+      }
+    ],
+    "correctAnswerOrRubric": "Indo",
+    "explanation": "Source-grounded AI practice item. The passage supports «Indo». Full sentence: These documents, alongside the corresponding archaeological record, allow for the evolution of the Indo-Aryan and Vedic culture to be traced and inferred. (source_id=wiki_en_rigveda). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_rigveda",
+    "sourceIds": [
+      "wiki_en_rigveda"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_rigveda",
+        "passage": "These documents, alongside the corresponding archaeological record, allow for the evolution of the Indo-Aryan and Vedic culture to be traced and inferred."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Indus and Vedic civilizations: «Indus and Vedic civilizations is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Indus and Vedic civilizations. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_vedic_period",
+    "sourceIds": [
+      "wiki_en_vedic_period",
+      "wiki_en_rigveda"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Indus and Vedic civilizations: «Indus and Vedic civilizations can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Indus and Vedic civilizations. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_vedic_period",
+    "sourceIds": [
+      "wiki_en_vedic_period",
+      "wiki_en_rigveda"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Indus and Vedic civilizations: «Listing names alone demonstrates understanding of Indus and Vedic civilizations» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Indus and Vedic civilizations. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_vedic_period",
+    "sourceIds": [
+      "wiki_en_vedic_period",
+      "wiki_en_rigveda"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «The dating proposals so far are all inferred from the style and the content within the hymns themselves.»?",
+    "options": [
+      "inferred",
+      "Indus Valley Civilisation",
+      "Vedic period",
+      "Rigveda"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "inferred"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Indus Valley Civilisation"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Vedic period"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Rigveda"
+      }
+    ],
+    "correctAnswerOrRubric": "inferred",
+    "explanation": "Source-grounded AI practice item. The passage supports «inferred». Full sentence: The dating proposals so far are all inferred from the style and the content within the hymns themselves. (source_id=wiki_en_vedic_period). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_vedic_period",
+    "sourceIds": [
+      "wiki_en_vedic_period"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_vedic_period",
+        "passage": "The dating proposals so far are all inferred from the style and the content within the hymns themselves."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «Philological estimates tend to date the bulk of the text to the second half of the second millennium BCE.»?",
+    "options": [
+      "Indus Valley Civilisation",
+      "Vedic period",
+      "Rigveda",
+      "Philological"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Indus Valley Civilisation"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Vedic period"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Rigveda"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Philological"
+      }
+    ],
+    "correctAnswerOrRubric": "Philological",
+    "explanation": "Source-grounded AI practice item. The passage supports «Philological». Full sentence: Philological estimates tend to date the bulk of the text to the second half of the second millennium BCE. (source_id=wiki_en_rigveda). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_rigveda",
+    "sourceIds": [
+      "wiki_en_rigveda"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_rigveda",
+        "passage": "Philological estimates tend to date the bulk of the text to the second half of the second millennium BCE."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_in_indus_vedic_q12",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_indus_vedic",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Indus and Vedic civilizations, which term or name is supported by this passage: «Being composed in an early Indo-Aryan language, the hymns must post-date the Indo-Iranian separation, dated to roughly 2000 BCE.»?",
+    "options": [
+      "Vedic period",
+      "Rigveda",
+      "Being",
+      "Indus Valley Civilisation"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Vedic period"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Rigveda"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Being"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Indus Valley Civilisation"
+      }
+    ],
+    "correctAnswerOrRubric": "Being",
+    "explanation": "Source-grounded AI practice item. The passage supports «Being». Full sentence: Being composed in an early Indo-Aryan language, the hymns must post-date the Indo-Iranian separation, dated to roughly 2000 BCE. (source_id=wiki_en_vedic_period). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_vedic_period",
+    "sourceIds": [
+      "wiki_en_vedic_period"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_vedic_period",
+        "passage": "Being composed in an early Indo-Aryan language, the hymns must post-date the Indo-Iranian separation, dated to roughly 2000 BCE."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Irrigation in Sri Lanka",
+      "Economy,",
+      "Explanations",
+      "Anuradhapura"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Economy,"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Anuradhapura"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central pl…»?",
+    "options": [
+      "irrigation",
+      "Anuradhapura",
+      "Irrigation in Sri Lanka",
+      "Economy,"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "irrigation"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Economy,"
+      }
+    ],
+    "correctAnswerOrRubric": "Anuradhapura",
+    "explanation": "Source-grounded AI practice item. The passage supports «Anuradhapura». Full sentence: Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central plain of Sri Lanka. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central plain of Sri Lanka."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «It is the capital city of North Central Province and the capital of Anuradhapura District.»?",
+    "options": [
+      "North Central Province",
+      "Anuradhapura",
+      "Irrigation in Sri Lanka",
+      "Economy,"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "North Central Province"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Economy,"
+      }
+    ],
+    "correctAnswerOrRubric": "North Central Province",
+    "explanation": "Source-grounded AI practice item. The passage supports «North Central Province». Full sentence: It is the capital city of North Central Province and the capital of Anuradhapura District. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "It is the capital city of North Central Province and the capital of Anuradhapura District."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «The city lies 205 kilometres (127 mi) north of the current capital of Colombo in the North Central Province, on the banks of the historic Malwathu Oya.»?",
+    "options": [
+      "Anuradhapura",
+      "Irrigation in Sri Lanka",
+      "Economy,",
+      "Colombo"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Economy,"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Colombo"
+      }
+    ],
+    "correctAnswerOrRubric": "Colombo",
+    "explanation": "Source-grounded AI practice item. The passage supports «Colombo». Full sentence: The city lies 205 kilometres (127 mi) north of the current capital of Colombo in the North Central Province, on the banks of the historic Malwathu Oya. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "The city lies 205 kilometres (127 mi) north of the current capital of Colombo in the North Central Province, on the banks of the historic Malwathu Oya."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «(Source: https://en.wikipedia.org/wiki/Anuradhapura)\n\n## Historical or systematic development\nThe city is now a World Heritage Site famous for its well-preserved ruins of the ancient Sinhalese civilis…»?",
+    "options": [
+      "Source",
+      "Anuradhapura",
+      "Irrigation in Sri Lanka",
+      "Economy,"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Source"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Economy,"
+      }
+    ],
+    "correctAnswerOrRubric": "Source",
+    "explanation": "Source-grounded AI practice item. The passage supports «Source». Full sentence: (Source: https://en.wikipedia.org/wiki/Anuradhapura)\n\n## Historical or systematic development\nThe city is now a World Heritage Site famous for its well-preserved ruins of the ancient Sinhalese civilisation. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "(Source: https://en.wikipedia.org/wiki/Anuradhapura)\n\n## Historical or systematic development\nThe city is now a World Heritage Site famous for its well-preserved ruins of the ancient Sinhalese civilisation."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «While Mahāvaṃsa places the founding of the city in 437 BCE, the site has been inhabited for much longer, making it a major human settlement on the island for almost three millennia and one of the olde…»?",
+    "options": [
+      "Anuradhapura",
+      "Irrigation in Sri Lanka",
+      "Economy,",
+      "While"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Economy,"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "While"
+      }
+    ],
+    "correctAnswerOrRubric": "While",
+    "explanation": "Source-grounded AI practice item. The passage supports «While». Full sentence: While Mahāvaṃsa places the founding of the city in 437 BCE, the site has been inhabited for much longer, making it a major human settlement on the island for almost three millennia and one of the oldest continuously occupied cities in Asia. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "While Mahāvaṃsa places the founding of the city in 437 BCE, the site has been inhabited for much longer, making it a major human settlement on the island for almost three millennia and one of the oldest continuously occupied cities in Asia."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «It is the cradle of the Hydraulic Sinhalese civilisation, Theravada Buddhism, and the longest-serving ancient capital of Sri Lanka that has survived for 1500 years.»?",
+    "options": [
+      "Irrigation in Sri Lanka",
+      "Economy,",
+      "Hydraulic Sinhalese",
+      "Anuradhapura"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Economy,"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Hydraulic Sinhalese"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Anuradhapura"
+      }
+    ],
+    "correctAnswerOrRubric": "Hydraulic Sinhalese",
+    "explanation": "Source-grounded AI practice item. The passage supports «Hydraulic Sinhalese». Full sentence: It is the cradle of the Hydraulic Sinhalese civilisation, Theravada Buddhism, and the longest-serving ancient capital of Sri Lanka that has survived for 1500 years. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "It is the cradle of the Hydraulic Sinhalese civilisation, Theravada Buddhism, and the longest-serving ancient capital of Sri Lanka that has survived for 1500 years."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «(Source: https://en.wikipedia.org/wiki/Anuradhapura)\n\n## Applications, evidence, and Sri Lankan / comparative context\nMoreover, it was the first capital of the Sinhala Kingdom of Rajarata, following t…»?",
+    "options": [
+      "Economy,",
+      "Source",
+      "Anuradhapura",
+      "Irrigation in Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Economy,"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Source"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Irrigation in Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Source",
+    "explanation": "Source-grounded AI practice item. The passage supports «Source». Full sentence: (Source: https://en.wikipedia.org/wiki/Anuradhapura)\n\n## Applications, evidence, and Sri Lankan / comparative context\nMoreover, it was the first capital of the Sinhala Kingdom of Rajarata, following the kingdoms of Tambapanni and Upatissa Nuwara. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "(Source: https://en.wikipedia.org/wiki/Anuradhapura)\n\n## Applications, evidence, and Sri Lankan / comparative context\nMoreover, it was the first capital of the Sinhala Kingdom of Rajarata, following the kingdoms of Tambapanni and Upatissa Nuwara."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «The contemporary city, much of which was moved during the mid-20th century to preserve the site of the ancient capital, is a major road junction of northern Sri Lanka and lies along a railway line.»?",
+    "options": [
+      "Sri Lanka",
+      "Anuradhapura",
+      "Irrigation in Sri Lanka",
+      "Economy,"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Economy,"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The contemporary city, much of which was moved during the mid-20th century to preserve the site of the ancient capital, is a major road junction of northern Sri Lanka and lies along a railway line. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "The contemporary city, much of which was moved during the mid-20th century to preserve the site of the ancient capital, is a major road junction of northern Sri Lanka and lies along a railway line."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «== Etymology ==\n\nThe origin of the name Anuradhapura is rooted in ancient Sri Lankan tradition and is documented in the Mahāvaṃsa.»?",
+    "options": [
+      "Irrigation in Sri Lanka",
+      "Economy,",
+      "Etymology",
+      "Anuradhapura"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Economy,"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Etymology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Anuradhapura"
+      }
+    ],
+    "correctAnswerOrRubric": "Etymology",
+    "explanation": "Source-grounded AI practice item. The passage supports «Etymology». Full sentence: == Etymology ==\n\nThe origin of the name Anuradhapura is rooted in ancient Sri Lankan tradition and is documented in the Mahāvaṃsa. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "== Etymology ==\n\nThe origin of the name Anuradhapura is rooted in ancient Sri Lankan tradition and is documented in the Mahāvaṃsa."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q07",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «The name Anuradhagama (from Anuradha + gama, meaning \"village\") was thus given to this early settlement.»?",
+    "options": [
+      "Anuradhagama",
+      "Anuradhapura",
+      "Irrigation in Sri Lanka",
+      "Economy,"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Anuradhagama"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Economy,"
+      }
+    ],
+    "correctAnswerOrRubric": "Anuradhagama",
+    "explanation": "Source-grounded AI practice item. The passage supports «Anuradhagama». Full sentence: The name Anuradhagama (from Anuradha + gama, meaning \"village\") was thus given to this early settlement. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "The name Anuradhagama (from Anuradha + gama, meaning \"village\") was thus given to this early settlement."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_society_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_society",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Economy, irrigation and society of Rajarata, which term or name is supported by this passage: «In 377 BCE, during the reign of King Pandukabhaya (474–367 BCE), this village was formally established as the capital of the Sinhalese kingdom.»?",
+    "options": [
+      "Anuradhapura",
+      "Irrigation in Sri Lanka",
+      "Economy,",
+      "King Pandukabhaya"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Irrigation in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Economy,"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "King Pandukabhaya"
+      }
+    ],
+    "correctAnswerOrRubric": "King Pandukabhaya",
+    "explanation": "Source-grounded AI practice item. The passage supports «King Pandukabhaya». Full sentence: In 377 BCE, during the reign of King Pandukabhaya (474–367 BCE), this village was formally established as the capital of the Sinhalese kingdom. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "In 377 BCE, during the reign of King Pandukabhaya (474–367 BCE), this village was formally established as the capital of the Sinhalese kingdom."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

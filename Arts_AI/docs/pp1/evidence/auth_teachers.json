@@ -1,0 +1,14 @@
+{
+    "teachers":  [
+                     {
+                         "teacherId":  "demo_t0001",
+                         "username":  "demo_tea",
+                         "displayName":  "Demo Teacher"
+                     },
+                     {
+                         "teacherId":  "syn_t000",
+                         "username":  "tea",
+                         "displayName":  "T"
+                     }
+                 ]
+}

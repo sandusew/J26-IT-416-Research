@@ -1,0 +1,732 @@
+[
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Polonnaruwa",
+      "Rajarata",
+      "Explanations",
+      "Anuradhapura"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Polonnaruwa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Rajarata"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Anuradhapura"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central pl…»?",
+    "options": [
+      "Political",
+      "Anuradhapura",
+      "Polonnaruwa",
+      "Rajarata"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Political"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Polonnaruwa"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Rajarata"
+      }
+    ],
+    "correctAnswerOrRubric": "Anuradhapura",
+    "explanation": "Source-grounded AI practice item. The passage supports «Anuradhapura». Full sentence: Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central plain of Sri Lanka. (source_id=wiki_en_polonnaruwa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_polonnaruwa",
+    "sourceIds": [
+      "wiki_en_polonnaruwa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_polonnaruwa",
+        "passage": "Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central plain of Sri Lanka."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «It is the capital city of North Central Province and the capital of Anuradhapura District.»?",
+    "options": [
+      "North Central Province",
+      "Anuradhapura",
+      "Polonnaruwa",
+      "Rajarata"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "North Central Province"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Polonnaruwa"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Rajarata"
+      }
+    ],
+    "correctAnswerOrRubric": "North Central Province",
+    "explanation": "Source-grounded AI practice item. The passage supports «North Central Province». Full sentence: It is the capital city of North Central Province and the capital of Anuradhapura District. (source_id=wiki_en_rajarata). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_rajarata",
+    "sourceIds": [
+      "wiki_en_rajarata"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_rajarata",
+        "passage": "It is the capital city of North Central Province and the capital of Anuradhapura District."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «The city lies 205 kilometres (127 mi) north of the current capital of Colombo in the North Central Province, on the banks of the historic Malwathu Oya.»?",
+    "options": [
+      "Anuradhapura",
+      "Polonnaruwa",
+      "Rajarata",
+      "Colombo"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Polonnaruwa"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Rajarata"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Colombo"
+      }
+    ],
+    "correctAnswerOrRubric": "Colombo",
+    "explanation": "Source-grounded AI practice item. The passage supports «Colombo». Full sentence: The city lies 205 kilometres (127 mi) north of the current capital of Colombo in the North Central Province, on the banks of the historic Malwathu Oya. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "The city lies 205 kilometres (127 mi) north of the current capital of Colombo in the North Central Province, on the banks of the historic Malwathu Oya."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «The city is now a World Heritage Site famous for its well-preserved ruins of the ancient Sinhalese civilisation.»?",
+    "options": [
+      "Polonnaruwa",
+      "Rajarata",
+      "World Heritage Site",
+      "Anuradhapura"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Polonnaruwa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Rajarata"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "World Heritage Site"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Anuradhapura"
+      }
+    ],
+    "correctAnswerOrRubric": "World Heritage Site",
+    "explanation": "Source-grounded AI practice item. The passage supports «World Heritage Site». Full sentence: The city is now a World Heritage Site famous for its well-preserved ruins of the ancient Sinhalese civilisation. (source_id=wiki_en_polonnaruwa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_polonnaruwa",
+    "sourceIds": [
+      "wiki_en_polonnaruwa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_polonnaruwa",
+        "passage": "The city is now a World Heritage Site famous for its well-preserved ruins of the ancient Sinhalese civilisation."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «The origin of the name Anuradhapura is rooted in ancient Sri Lankan tradition and is documented in the Mahāvaṃsa.»?",
+    "options": [
+      "Rajarata",
+      "Political",
+      "Anuradhapura",
+      "Polonnaruwa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Rajarata"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Political"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Polonnaruwa"
+      }
+    ],
+    "correctAnswerOrRubric": "Anuradhapura",
+    "explanation": "Source-grounded AI practice item. The passage supports «Anuradhapura». Full sentence: The origin of the name Anuradhapura is rooted in ancient Sri Lankan tradition and is documented in the Mahāvaṃsa. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "The origin of the name Anuradhapura is rooted in ancient Sri Lankan tradition and is documented in the Mahāvaṃsa."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «According to this text: “Here and there did Vijaya's ministers found villages.»?",
+    "options": [
+      "Rajarata",
+      "According",
+      "Anuradhapura",
+      "Polonnaruwa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Rajarata"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "According"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Polonnaruwa"
+      }
+    ],
+    "correctAnswerOrRubric": "According",
+    "explanation": "Source-grounded AI practice item. The passage supports «According». Full sentence: According to this text: “Here and there did Vijaya's ministers found villages. (source_id=wiki_en_polonnaruwa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_polonnaruwa",
+    "sourceIds": [
+      "wiki_en_polonnaruwa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_polonnaruwa",
+        "passage": "According to this text: “Here and there did Vijaya's ministers found villages."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Political evolution of Rajarata (Anuradhapura–Polonnaruwa): «Political evolution of Rajarata (Anuradhapura–Polonnaruwa) can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Political evolution of Rajarata (Anuradhapura–Polonnaruwa). Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura",
+      "wiki_en_polonnaruwa"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «The temple among other contained Ganesha and Parvati statues of bronze.»?",
+    "options": [
+      "Ganesha",
+      "Anuradhapura",
+      "Polonnaruwa",
+      "Rajarata"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Ganesha"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Polonnaruwa"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Rajarata"
+      }
+    ],
+    "correctAnswerOrRubric": "Ganesha",
+    "explanation": "Source-grounded AI practice item. The passage supports «Ganesha». Full sentence: The temple among other contained Ganesha and Parvati statues of bronze. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "The temple among other contained Ganesha and Parvati statues of bronze."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «During this period, the northern and central regions of Sri Lanka were directly governed as a Chola province under Rajendra Chola I.»?",
+    "options": [
+      "Anuradhapura",
+      "Polonnaruwa",
+      "Rajarata",
+      "During"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Polonnaruwa"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Rajarata"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "During"
+      }
+    ],
+    "correctAnswerOrRubric": "During",
+    "explanation": "Source-grounded AI practice item. The passage supports «During». Full sentence: During this period, the northern and central regions of Sri Lanka were directly governed as a Chola province under Rajendra Chola I. (source_id=wiki_en_polonnaruwa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_polonnaruwa",
+    "sourceIds": [
+      "wiki_en_polonnaruwa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_polonnaruwa",
+        "passage": "During this period, the northern and central regions of Sri Lanka were directly governed as a Chola province under Rajendra Chola I."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «However, after 1070 AD, Chola rule on the island came to an end, and Polonnaruwa was captured by Vijayabahu I of Polonnaruwa, also known as Vijayabahu the Great.»?",
+    "options": [
+      "Polonnaruwa",
+      "Rajarata",
+      "However",
+      "Anuradhapura"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Polonnaruwa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Rajarata"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "However"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Anuradhapura"
+      }
+    ],
+    "correctAnswerOrRubric": "However",
+    "explanation": "Source-grounded AI practice item. The passage supports «However». Full sentence: However, after 1070 AD, Chola rule on the island came to an end, and Polonnaruwa was captured by Vijayabahu I of Polonnaruwa, also known as Vijayabahu the Great. (source_id=wiki_en_anuradhapura). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_anuradhapura",
+    "sourceIds": [
+      "wiki_en_anuradhapura"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_anuradhapura",
+        "passage": "However, after 1070 AD, Chola rule on the island came to an end, and Polonnaruwa was captured by Vijayabahu I of Polonnaruwa, also known as Vijayabahu the Great."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_rajarata_politics_q09",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_rajarata_politics",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political evolution of Rajarata (Anuradhapura–Polonnaruwa), which term or name is supported by this passage: «Starting from Mahanagakula on the south of the Walawe river, Vijayabahu dispatched three armies to attack Polonnaruwa from three fronts.»?",
+    "options": [
+      "Rajarata",
+      "Starting",
+      "Anuradhapura",
+      "Polonnaruwa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Rajarata"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Starting"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Anuradhapura"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Polonnaruwa"
+      }
+    ],
+    "correctAnswerOrRubric": "Starting",
+    "explanation": "Source-grounded AI practice item. The passage supports «Starting». Full sentence: Starting from Mahanagakula on the south of the Walawe river, Vijayabahu dispatched three armies to attack Polonnaruwa from three fronts. (source_id=wiki_en_polonnaruwa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_polonnaruwa",
+    "sourceIds": [
+      "wiki_en_polonnaruwa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_polonnaruwa",
+        "passage": "Starting from Mahanagakula on the south of the Walawe river, Vijayabahu dispatched three armies to attack Polonnaruwa from three fronts."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

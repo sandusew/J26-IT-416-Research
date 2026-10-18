@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "wiki_en_democracy",
+    "title": "Democracy",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Democracy",
+    "retrieved_at_utc": "2026-10-14T17:27:08.255263+00:00",
+    "edition_or_revision": "pageid=7959",
+    "subject_id": "sub_political",
+    "topic_id": "pol_democracy",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "bd232a84e660d5933a1899fb6bed968ca5d750df9de3c59415306d38b81ddf8c",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "blocked_Liberal_democracy",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_electoral_system",
+    "title": "Electoral system",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Electoral_system",
+    "retrieved_at_utc": "2026-10-14T17:28:07.776530+00:00",
+    "edition_or_revision": "pageid=29066482",
+    "subject_id": "sub_political",
+    "topic_id": "pol_democracy",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "5eccc05423ee6372b08f0617e33c6d260401d5d18133677094e266a129cf2563",
+    "origin": "wikipedia_api"
+  }
+]

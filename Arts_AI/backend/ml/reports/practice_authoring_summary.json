@@ -1,0 +1,17 @@
+{
+  "generated_at_utc": "2026-10-14T17:31:48.892737+00:00",
+  "n_results": 1,
+  "results": [
+    {
+      "topic_id": "pol_public_policy",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "e0ebf25af3c1b347c1a3fbd36c98782104ccc150847b6ef77a9863b70a4a77be"
+    }
+  ],
+  "combined_n_questions": 540,
+  "combined_n_resources": 45,
+  "combined_batch": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\arts_content\\practice\\batches\\combined_import_batch.json"
+}

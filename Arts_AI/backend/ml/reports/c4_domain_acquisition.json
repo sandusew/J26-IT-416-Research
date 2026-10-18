@@ -1,0 +1,42 @@
+{
+  "generated_at_utc": "2026-10-13T17:57:46.978457+00:00",
+  "wikipedia_cc_by_sa_acquired": 4,
+  "nie_candidates_recorded": 2,
+  "wikipedia_docs": [
+    {
+      "document_id": "wiki_en_sri_lanka_history",
+      "subject_id": "sub_history",
+      "file_hash": "0b952215b5e8fed23b29b628df07ad389ca5623d4580c3a12837670dc672b670"
+    },
+    {
+      "document_id": "wiki_en_geography_sri_lanka",
+      "subject_id": "sub_geography",
+      "file_hash": "b21425c6cd40be6d7e578b49ef4eabc3b40d09989b1da988553e94b14184e332"
+    },
+    {
+      "document_id": "wiki_en_economics",
+      "subject_id": "sub_economics",
+      "file_hash": "ff46029cf4bf67071a3bde79a06d15e2207697ee31c72267d6c67f24a661d12e"
+    },
+    {
+      "document_id": "wiki_en_politics_sri_lanka",
+      "subject_id": "sub_political",
+      "file_hash": "4f3329a501d792749335076717e581d183fd9cd07eb32b1993db70a85ab16460"
+    }
+  ],
+  "nie_candidates": [
+    {
+      "document_id": "nie_history_syllabus_e12syl11",
+      "acquisition_status": "acquired_file",
+      "usage_permitted": false,
+      "promotion_blocked_reason": "usage_permission_unclear"
+    },
+    {
+      "document_id": "nie_economics_syllabus_e12syl49",
+      "acquisition_status": "acquired_file",
+      "usage_permitted": false,
+      "promotion_blocked_reason": "usage_permission_unclear"
+    }
+  ],
+  "note": "Wikipedia extracts may be promoted to domain index (CC BY-SA, unreviewed). NIE PDFs remain candidates until reuse permission is clarified."
+}

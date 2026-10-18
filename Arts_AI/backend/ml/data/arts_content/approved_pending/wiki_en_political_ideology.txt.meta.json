@@ -1,0 +1,31 @@
+{
+  "document_id": "wiki_en_political_ideology",
+  "title": "Political ideology (Wikipedia extract)",
+  "source_url": "https://en.wikipedia.org/wiki/Political_ideology",
+  "publisher_author": "Wikipedia contributors",
+  "publication_version": "pageid=75469",
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "subject_id": "sub_political",
+  "topic_id": "pol_ideologies",
+  "grade_year": "A/L",
+  "language": "en",
+  "acquisition_timestamp_utc": "2026-10-14T00:18:56.370952+00:00",
+  "file_hash": "e15f1b326643971d04e5fce4b62900e8569383b0a7f3270e1e46981136464de9",
+  "usage_permission_or_license": "CC-BY-SA-4.0",
+  "usage_permitted": true,
+  "license_attribution_required": true,
+  "modification_notes": "Plaintext extract truncated for local research indexing",
+  "learning_outcomes_supported": [
+    "Demonstrate understanding of: Political ideologies"
+  ],
+  "curriculum_mapping_basis": "manual_map_to_canonical_topic_id_provisional_registry",
+  "content_review_status": "unreviewed",
+  "review_status": "unreviewed",
+  "teacher_reviewed": false,
+  "curriculum_relevance_checked": true,
+  "extraction_method": "wikipedia_mediawiki_api_plaintext_extract",
+  "extraction_quality_status": "ok",
+  "data_origin": "authentic_public_cc_by_sa_supplemental",
+  "role": "supplemental_not_complete_al_teaching_corpus",
+  "acquired": true
+}

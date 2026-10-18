@@ -1,0 +1,212 @@
+{
+    "studentId":  "demo_s0001",
+    "subjectId":  null,
+    "recommendations":  [
+                            {
+                                "resourceId":  "prac_hist_sl_sources_pkg",
+                                "topicId":  "hist_sl_sources",
+                                "language":  "en",
+                                "title":  "Sources for Sri Lankan history — AI-authored practice package",
+                                "score":  0.3,
+                                "rank":  1,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_hist_sl_geography_pkg",
+                                "topicId":  "hist_sl_geography",
+                                "language":  "en",
+                                "title":  "Geographical factors in Sri Lankan history — AI-authored practice package",
+                                "score":  1,
+                                "rank":  2,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_hist_sl_rajarata_society_pkg",
+                                "topicId":  "hist_sl_rajarata_society",
+                                "language":  "en",
+                                "title":  "Economy, irrigation and society of Rajarata — AI-authored practice package",
+                                "score":  1,
+                                "rank":  3,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_hist_in_sources_pkg",
+                                "topicId":  "hist_in_sources",
+                                "language":  "en",
+                                "title":  "Sources for Indian history — AI-authored practice package",
+                                "score":  1,
+                                "rank":  4,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_hist_in_geography_pkg",
+                                "topicId":  "hist_in_geography",
+                                "language":  "en",
+                                "title":  "Geography and Indian history — AI-authored practice package",
+                                "score":  1,
+                                "rank":  5,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_hist_in_indus_vedic_pkg",
+                                "topicId":  "hist_in_indus_vedic",
+                                "language":  "en",
+                                "title":  "Indus and Vedic civilizations — AI-authored practice package",
+                                "score":  1,
+                                "rank":  6,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_hist_eu_civilization_pkg",
+                                "topicId":  "hist_eu_civilization",
+                                "language":  "en",
+                                "title":  "Forces shaping European civilization — AI-authored practice package",
+                                "score":  1,
+                                "rank":  7,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_hist_eu_modern_pkg",
+                                "topicId":  "hist_eu_modern",
+                                "language":  "en",
+                                "title":  "Europe 1500–1989 selected themes — AI-authored practice package",
+                                "score":  1,
+                                "rank":  8,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_hist_mw_since_1500_pkg",
+                                "topicId":  "hist_mw_since_1500",
+                                "language":  "en",
+                                "title":  "Modern world since 1500 (Asia/Africa/Europe/America) — AI-authored practice package",
+                                "score":  1,
+                                "rank":  9,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            },
+                            {
+                                "resourceId":  "prac_geo_basic_concepts_pkg",
+                                "topicId":  "geo_basic_concepts",
+                                "language":  "en",
+                                "title":  "Basic concepts of Geography — AI-authored practice package",
+                                "score":  1,
+                                "rank":  10,
+                                "reason":  "canonical_prerequisite_aware",
+                                "version":  "1",
+                                "reviewStatus":  "draft",
+                                "contentOrigin":  "ai_authored_source_grounded",
+                                "humanReviewStatus":  "unreviewed",
+                                "learnerAvailability":  "published_practice",
+                                "provenanceLabels":  [
+                                                         "AI-authored practice content (source-grounded)",
+                                                         "Not teacher-reviewed"
+                                                     ],
+                                "isTestFixture":  false
+                            }
+                        ],
+    "policyMode":  "prerequisite_aware",
+    "contentPolicy":  {
+                          "policy":  "published_practice",
+                          "note":  "Published practice (AI-authored or public) with automated validation; not teacher-reviewed unless separately approved"
+                      },
+    "trainedScorerUsed":  false,
+    "modelVersion":  "prerequisite_aware_v0",
+    "fallbackReason":  "topic_vocabulary_incompatible_canonical_catalogue",
+    "catalogueMode":  "canonical",
+    "curriculumVersion":  "nie_al_arts_provisional_v0.1",
+    "rankerCompatibility":  "incompatible_canonical_curriculum",
+    "nEligible":  40,
+    "simulationOnly":  false,
+    "fixturesAllowed":  false,
+    "isTestFixture":  false,
+    "note":  "Canonical prerequisite-aware recommendations; trained ranker not used"
+}

@@ -1,0 +1,125 @@
+{
+    "assignmentId":  "cq_683532a9-4",
+    "curriculumVersion":  "nie_al_arts_provisional_v0.1",
+    "subjectId":  "sub_history",
+    "topicId":  "hist_sl_geography",
+    "language":  "en",
+    "nQuestions":  5,
+    "questions":  [
+                      {
+                          "questionId":  "prac_hist_sl_geography_q01",
+                          "version":  "3",
+                          "questionType":  "mcq",
+                          "prompt":  "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «Beginning about 200 million years ago, forces within the Earth\u0027s mantle began to separate the lands of the Southern Hemisphere, and a crustal plate supporting both India and Sri Lanka moved toward the…»?",
+                          "options":  [
+                                          "Beginning",
+                                          "Geography of Sri Lanka",
+                                          "Geographical",
+                                          "factors"
+                                      ],
+                          "maxMarks":  1,
+                          "contentHash":  "b657fcdafd5c9d13e66c246ff55262aa886dfbfb64593f843689649c4783024e",
+                          "isTestFixture":  false,
+                          "contentOrigin":  "ai_authored_source_grounded",
+                          "humanReviewStatus":  "unreviewed",
+                          "provenanceLabels":  [
+                                                   "AI-authored practice content (source-grounded)",
+                                                   "Not teacher-reviewed"
+                                               ]
+                      },
+                      {
+                          "questionId":  "prac_hist_sl_geography_q02",
+                          "version":  "3",
+                          "questionType":  "mcq",
+                          "prompt":  "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «About 45 million years ago, the Indian plate collided with the Asian landmass, raising the Himalayas in northern India, and it continues to advance slowly to the present time.»?",
+                          "options":  [
+                                          "Geography of Sri Lanka",
+                                          "Geographical",
+                                          "factors",
+                                          "About"
+                                      ],
+                          "maxMarks":  1,
+                          "contentHash":  "4c1391ee2677c99a9c6312eb4a044aa4c27e887479b7b4448d1204b7ede0783c",
+                          "isTestFixture":  false,
+                          "contentOrigin":  "ai_authored_source_grounded",
+                          "humanReviewStatus":  "unreviewed",
+                          "provenanceLabels":  [
+                                                   "AI-authored practice content (source-grounded)",
+                                                   "Not teacher-reviewed"
+                                               ]
+                      },
+                      {
+                          "questionId":  "prac_hist_sl_geography_q03",
+                          "version":  "2",
+                          "questionType":  "mcq",
+                          "prompt":  "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+                          "options":  [
+                                          "Geographical",
+                                          "factors",
+                                          "Explanations",
+                                          "Geography of Sri Lanka"
+                                      ],
+                          "maxMarks":  1,
+                          "contentHash":  "f53d6477b31ab8b8f3501d8ff09417a40a4b5091f78ed8bba50328a3ecd1b79e",
+                          "isTestFixture":  false,
+                          "contentOrigin":  "ai_authored_source_grounded",
+                          "humanReviewStatus":  "unreviewed",
+                          "provenanceLabels":  [
+                                                   "AI-authored practice content (source-grounded)",
+                                                   "Not teacher-reviewed"
+                                               ]
+                      },
+                      {
+                          "questionId":  "prac_hist_sl_geography_q04",
+                          "version":  "2",
+                          "questionType":  "mcq",
+                          "prompt":  "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes.»?",
+                          "options":  [
+                                          "factors",
+                                          "Sri Lanka",
+                                          "Geography of Sri Lanka",
+                                          "Geographical"
+                                      ],
+                          "maxMarks":  1,
+                          "contentHash":  "c1e3214b8d5f67b70b4749c7e9e17291218ed3d9de73bbf33128a1d7e93cc5b9",
+                          "isTestFixture":  false,
+                          "contentOrigin":  "ai_authored_source_grounded",
+                          "humanReviewStatus":  "unreviewed",
+                          "provenanceLabels":  [
+                                                   "AI-authored practice content (source-grounded)",
+                                                   "Not teacher-reviewed"
+                                               ]
+                      },
+                      {
+                          "questionId":  "prac_hist_sl_geography_q05",
+                          "version":  "2",
+                          "questionType":  "mcq",
+                          "prompt":  "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water.»?",
+                          "options":  [
+                                          "square",
+                                          "Geography of Sri Lanka",
+                                          "Geographical",
+                                          "factors"
+                                      ],
+                          "maxMarks":  1,
+                          "contentHash":  "7d3a4e66cb9396202abc2757dda8c97169add0d341a5cd4c633aa62ef10f34e2",
+                          "isTestFixture":  false,
+                          "contentOrigin":  "ai_authored_source_grounded",
+                          "humanReviewStatus":  "unreviewed",
+                          "provenanceLabels":  [
+                                                   "AI-authored practice content (source-grounded)",
+                                                   "Not teacher-reviewed"
+                                               ]
+                      }
+                  ],
+    "answerKeysIncluded":  false,
+    "status":  "assigned",
+    "isTestFixture":  false,
+    "contentPolicy":  {
+                          "policy":  "published_practice",
+                          "note":  "Published practice (AI-authored or public) with automated validation; not teacher-reviewed unless separately approved",
+                          "learnerLabel":  "ai_authored_or_public_practice_not_teacher_reviewed"
+                      },
+    "learnerFacingNote":  "Practice items may be AI-authored and not teacher-reviewed unless labelled otherwise",
+    "note":  "Scoring uses frozen assigned versions; essay_rubric not auto-assigned"
+}

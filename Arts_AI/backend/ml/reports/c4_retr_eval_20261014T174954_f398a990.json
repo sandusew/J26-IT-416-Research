@@ -1,0 +1,415 @@
+{
+  "evaluation_id": "c4_retr_eval_20261014T174954_f398a990",
+  "generated_at_utc": "2026-10-14T17:50:10.400136+00:00",
+  "corpus_version": "c4_index_20261014T173535_894e48ef",
+  "index_path": "backend/ml/data/arts_content/indexes/c4_index_20261014T173535_894e48ef/domain_knowledge_index.joblib",
+  "index_sha256": "8b896f79f28b5d0b7c765ecfe695b58454004a013067caefa1583d6512e4312a",
+  "eval_cases_path": "backend/ml/data/arts_content/eval/domain_retrieval_eval_cases.json",
+  "eval_cases_sha256": "a13fae9841ebfdb62258a937b14344dfd64d5d3485222c690b9498fdc6c359d6",
+  "retrieval_config": {
+    "method": "BM25",
+    "top_k": 5,
+    "subject_filter": true,
+    "language_filter": true
+  },
+  "n_documents": 61,
+  "n_chunks": 295,
+  "n_questions_total": 11,
+  "n_answerable_eligible": 8,
+  "exclusions": [
+    {
+      "id": "q_si_unclaimed",
+      "reason": "sinhala_support_not_claimed"
+    },
+    {
+      "id": "q_wrong_subject_geo_as_history",
+      "reason": "wrong_subject_probe"
+    }
+  ],
+  "hit_at_3": {
+    "numerator": 4,
+    "denominator": 8,
+    "value": 0.5,
+    "definition": "1 if any gold document_id in top-3; denominator = eligible answerable"
+  },
+  "recall_at_3_micro": {
+    "numerator": 4,
+    "denominator": 16,
+    "value": 0.25,
+    "definition": "sum_q |gold\u2229top3| / sum_q |gold| over eligible answerable"
+  },
+  "hit_at_3_core_only": {
+    "numerator": 3,
+    "denominator": 5,
+    "value": 0.6
+  },
+  "recall_at_3_label_note": "Do not treat historical recall_at_3 field as multi-gold Recall@3; use recall_at_3_micro here and c4_retrieval_eval_audit.json.",
+  "recall_at_3": 0.5,
+  "hits_at_3": 4,
+  "cases": [
+    {
+      "id": "q_hist_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_history",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_hist_sl_sources",
+        "prac_pkg_hist_in_indus_vedic",
+        "wiki_en_buddhism_sri_lanka",
+        "prac_pkg_hist_sl_sources",
+        "prac_pkg_hist_sl_post_polonnaruwa"
+      ],
+      "hit_at_3": true,
+      "recall_at_3_question": 0.25,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 4,
+      "note": null
+    },
+    {
+      "id": "q_geo_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_geography",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_geo_basic_concepts",
+        "prac_pkg_geo_physical_nature",
+        "prac_pkg_geo_physical_nature",
+        "prac_pkg_geo_basic_concepts",
+        "wiki_en_physical_geography"
+      ],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_econ_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_economics",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_eco_development",
+        "prac_pkg_eco_national_income",
+        "wiki_en_economics",
+        "wiki_en_economics",
+        "wiki_en_national_income"
+      ],
+      "hit_at_3": true,
+      "recall_at_3_question": 1.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": null
+    },
+    {
+      "id": "q_pol_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_political",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_forms_of_government",
+        "prac_pkg_pol_forms_gov",
+        "prac_pkg_pol_westminster",
+        "prac_pkg_pol_citizen",
+        "prac_pkg_pol_comparative"
+      ],
+      "hit_at_3": true,
+      "recall_at_3_question": 0.5,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_unanswerable_quantum",
+      "answerable": false,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_history",
+      "n_retrieved": 0,
+      "retrieved_document_ids": [],
+      "hit_at_3": null,
+      "recall_at_3_question": null,
+      "insufficient_evidence_behavior": true,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 0,
+      "note": null
+    },
+    {
+      "id": "q_ambiguous_trade",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": null,
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_pol_comparative",
+        "prac_pkg_eco_intl_trade",
+        "prac_pkg_eco_intl_trade",
+        "prac_pkg_eco_intl_trade",
+        "prac_pkg_eco_intl_trade"
+      ],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": "Ambiguous across history/economics; any of expected docs counts as partial hit"
+    },
+    {
+      "id": "q_si_unclaimed",
+      "answerable": true,
+      "language": "si",
+      "split": "core",
+      "subject_id": "sub_history",
+      "n_retrieved": 0,
+      "retrieved_document_ids": [],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": true,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": "Sinhala query \u2014 retrieval support not claimed; result recorded honestly"
+    },
+    {
+      "id": "q_hist_anuradhapura",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_history",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_hist_sl_sources",
+        "wiki_en_sri_lanka_history",
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_anuradhapura",
+        "wiki_en_sri_lanka_history"
+      ],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_eco_supply_demand",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_economics",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "wiki_en_supply_demand",
+        "wiki_en_supply_demand",
+        "wiki_en_supply_demand",
+        "prac_pkg_eco_demand_supply",
+        "wiki_en_supply_demand"
+      ],
+      "hit_at_3": true,
+      "recall_at_3_question": 0.5,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_pol_ideology",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_political",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_pol_ideologies",
+        "prac_pkg_pol_ideologies",
+        "prac_pkg_pol_ideologies",
+        "wiki_en_political_ideology",
+        "wiki_en_political_ideology"
+      ],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": null
+    },
+    {
+      "id": "q_wrong_subject_geo_as_history",
+      "answerable": false,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_history",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_hist_sl_geography",
+        "prac_pkg_hist_in_geography",
+        "wiki_en_polonnaruwa",
+        "prac_pkg_hist_sl_geography",
+        "prac_pkg_hist_in_geography"
+      ],
+      "hit_at_3": null,
+      "recall_at_3_question": null,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": false,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 0,
+      "note": "Same geo question with history subject filter \u2014 expect abstention or non-geo docs only"
+    }
+  ],
+  "scoring_criteria": "Hit@3 vs multi-gold Recall@3 reported separately",
+  "authoring_provenance": "machine_authored_research_eval",
+  "review_status": "unreviewed",
+  "sinhala_support_claimed": false,
+  "subject_filter_used": true,
+  "note": "Machine-authored suite \u2014 not teacher-validated educational effectiveness",
+  "representative_failures": [
+    {
+      "id": "q_geo_answerable",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": "sub_geography",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_geo_basic_concepts",
+        "prac_pkg_geo_physical_nature",
+        "prac_pkg_geo_physical_nature",
+        "prac_pkg_geo_basic_concepts",
+        "wiki_en_physical_geography"
+      ],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_ambiguous_trade",
+      "answerable": true,
+      "language": "en",
+      "split": "core",
+      "subject_id": null,
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_pol_comparative",
+        "prac_pkg_eco_intl_trade",
+        "prac_pkg_eco_intl_trade",
+        "prac_pkg_eco_intl_trade",
+        "prac_pkg_eco_intl_trade"
+      ],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": "Ambiguous across history/economics; any of expected docs counts as partial hit"
+    },
+    {
+      "id": "q_si_unclaimed",
+      "answerable": true,
+      "language": "si",
+      "split": "core",
+      "subject_id": "sub_history",
+      "n_retrieved": 0,
+      "retrieved_document_ids": [],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": true,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": "Sinhala query \u2014 retrieval support not claimed; result recorded honestly"
+    },
+    {
+      "id": "q_hist_anuradhapura",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_history",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_hist_sl_sources",
+        "wiki_en_sri_lanka_history",
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_anuradhapura",
+        "wiki_en_sri_lanka_history"
+      ],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 2,
+      "note": null
+    },
+    {
+      "id": "q_pol_ideology",
+      "answerable": true,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_political",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_pol_ideologies",
+        "prac_pkg_pol_ideologies",
+        "prac_pkg_pol_ideologies",
+        "wiki_en_political_ideology",
+        "wiki_en_political_ideology"
+      ],
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": null,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 1,
+      "note": null
+    },
+    {
+      "id": "q_wrong_subject_geo_as_history",
+      "answerable": false,
+      "language": "en",
+      "split": "held_out_expansion",
+      "subject_id": "sub_history",
+      "n_retrieved": 5,
+      "retrieved_document_ids": [
+        "prac_pkg_hist_sl_geography",
+        "prac_pkg_hist_in_geography",
+        "wiki_en_polonnaruwa",
+        "prac_pkg_hist_sl_geography",
+        "prac_pkg_hist_in_geography"
+      ],
+      "hit_at_3": null,
+      "recall_at_3_question": null,
+      "insufficient_evidence_behavior": false,
+      "wrong_subject_ok": false,
+      "citations_map_to_corpus": true,
+      "n_gold_docs": 0,
+      "note": "Same geo question with history subject filter \u2014 expect abstention or non-geo docs only"
+    }
+  ]
+}

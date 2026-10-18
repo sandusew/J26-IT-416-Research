@@ -1,0 +1,793 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_eco_demand_supply_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Market",
+        "Demand,",
+        "Explanations",
+        "Supply and demand"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Supply and demand"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_market_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_market_economics",
+      "sourceIds": [
+        "wiki_en_market_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_market_economics",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «In microeconomics, supply and demand is an economic model of price determination in a market.»?",
+      "options": [
+        "Demand,",
+        "demand",
+        "Supply and demand",
+        "Market"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "demand"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Supply and demand"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Market"
+        }
+      ],
+      "correctAnswerOrRubric": "demand",
+      "explanation": "Source-grounded AI practice item. The passage supports «demand». Full sentence: In microeconomics, supply and demand is an economic model of price determination in a market. (source_id=wiki_en_supply_demand). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_supply_demand",
+      "sourceIds": [
+        "wiki_en_supply_demand"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_supply_demand",
+          "passage": "In microeconomics, supply and demand is an economic model of price determination in a market."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «The concept of supply and demand forms the theoretical basis of modern economics.»?",
+      "options": [
+        "demand",
+        "Supply and demand",
+        "Market",
+        "Demand,"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "demand"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Supply and demand"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Demand,"
+        }
+      ],
+      "correctAnswerOrRubric": "demand",
+      "explanation": "Source-grounded AI practice item. The passage supports «demand». Full sentence: The concept of supply and demand forms the theoretical basis of modern economics. (source_id=wiki_en_supply_and_demand). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_supply_and_demand",
+      "sourceIds": [
+        "wiki_en_supply_and_demand"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_supply_and_demand",
+          "passage": "The concept of supply and demand forms the theoretical basis of modern economics."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «However, the Sonnenschein-Mantel-Debreu theorem demonstrates that aggregate demand functions do not necessarily inherit the properties of individual rationality, meaning that market-wide supply and de…»?",
+      "options": [
+        "Market",
+        "Demand,",
+        "However",
+        "Supply and demand"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "However"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Supply and demand"
+        }
+      ],
+      "correctAnswerOrRubric": "However",
+      "explanation": "Source-grounded AI practice item. The passage supports «However». Full sentence: However, the Sonnenschein-Mantel-Debreu theorem demonstrates that aggregate demand functions do not necessarily inherit the properties of individual rationality, meaning that market-wide supply and demand curves can theoretically take almost any shape. (source_id=wiki_en_supply_demand). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_supply_demand",
+      "sourceIds": [
+        "wiki_en_supply_demand"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_supply_demand",
+          "passage": "However, the Sonnenschein-Mantel-Debreu theorem demonstrates that aggregate demand functions do not necessarily inherit the properties of individual rationality, meaning that market-wide supply and demand curves can theoretically take almost any shape."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «This result implies that the \"Law of Demand\" may fail at the macro level, challenging the assumption that competitive economies naturally gravitate toward a unique or stable equilibrium.»?",
+      "options": [
+        "Demand,",
+        "Demand",
+        "Supply and demand",
+        "Market"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Demand"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Supply and demand"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Market"
+        }
+      ],
+      "correctAnswerOrRubric": "Demand",
+      "explanation": "Source-grounded AI practice item. The passage supports «Demand». Full sentence: This result implies that the \"Law of Demand\" may fail at the macro level, challenging the assumption that competitive economies naturally gravitate toward a unique or stable equilibrium. (source_id=wiki_en_supply_and_demand). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_supply_and_demand",
+      "sourceIds": [
+        "wiki_en_supply_and_demand"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_supply_and_demand",
+          "passage": "This result implies that the \"Law of Demand\" may fail at the macro level, challenging the assumption that competitive economies naturally gravitate toward a unique or stable equilibrium."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «(Source: https://en.wikipedia.org/wiki/Supply_and_demand)\n\n## Historical or systematic development\nIn situations where a firm has market power, its decision on how much output to bring to market influ…»?",
+      "options": [
+        "Source",
+        "Supply and demand",
+        "Market",
+        "Demand,"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Source"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Supply and demand"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Demand,"
+        }
+      ],
+      "correctAnswerOrRubric": "Source",
+      "explanation": "Source-grounded AI practice item. The passage supports «Source». Full sentence: (Source: https://en.wikipedia.org/wiki/Supply_and_demand)\n\n## Historical or systematic development\nIn situations where a firm has market power, its decision on how much output to bring to market influences the market price, in violation of perfect competition. (source_id=wiki_en_market_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_market_economics",
+      "sourceIds": [
+        "wiki_en_market_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_market_economics",
+          "passage": "(Source: https://en.wikipedia.org/wiki/Supply_and_demand)\n\n## Historical or systematic development\nIn situations where a firm has market power, its decision on how much output to bring to market influences the market price, in violation of perfect competition."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «There, a more complicated model should be used; for example, an oligopoly or differentiated-product model.»?",
+      "options": [
+        "Supply and demand",
+        "Market",
+        "Demand,",
+        "There"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Supply and demand"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "There"
+        }
+      ],
+      "correctAnswerOrRubric": "There",
+      "explanation": "Source-grounded AI practice item. The passage supports «There». Full sentence: There, a more complicated model should be used; for example, an oligopoly or differentiated-product model. (source_id=wiki_en_supply_demand). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_supply_demand",
+      "sourceIds": [
+        "wiki_en_supply_demand"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_supply_demand",
+          "passage": "There, a more complicated model should be used; for example, an oligopoly or differentiated-product model."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «Likewise, where a buyer has market power, models such as monopsony will be more accurate.»?",
+      "options": [
+        "Market",
+        "Demand,",
+        "Likewise",
+        "Supply and demand"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Likewise"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Supply and demand"
+        }
+      ],
+      "correctAnswerOrRubric": "Likewise",
+      "explanation": "Source-grounded AI practice item. The passage supports «Likewise». Full sentence: Likewise, where a buyer has market power, models such as monopsony will be more accurate. (source_id=wiki_en_supply_and_demand). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_supply_and_demand",
+      "sourceIds": [
+        "wiki_en_supply_and_demand"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_supply_and_demand",
+          "passage": "Likewise, where a buyer has market power, models such as monopsony will be more accurate."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «A supply schedule, depicted graphically as a supply curve, is a table that shows the relationship between the price of a good and the quantity supplied by producers.»?",
+      "options": [
+        "Demand,",
+        "depicted",
+        "Supply and demand",
+        "Market"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "depicted"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Supply and demand"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Market"
+        }
+      ],
+      "correctAnswerOrRubric": "depicted",
+      "explanation": "Source-grounded AI practice item. The passage supports «depicted». Full sentence: A supply schedule, depicted graphically as a supply curve, is a table that shows the relationship between the price of a good and the quantity supplied by producers. (source_id=wiki_en_market_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_market_economics",
+      "sourceIds": [
+        "wiki_en_market_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_market_economics",
+          "passage": "A supply schedule, depicted graphically as a supply curve, is a table that shows the relationship between the price of a good and the quantity supplied by producers."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «This is in contrast to a firm, which as Coase put it, \"the distinguishing mark of the firm is the super-session of the price mechanism\".»?",
+      "options": [
+        "Coase",
+        "Supply and demand",
+        "Market",
+        "Demand,"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Coase"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Supply and demand"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Demand,"
+        }
+      ],
+      "correctAnswerOrRubric": "Coase",
+      "explanation": "Source-grounded AI practice item. The passage supports «Coase». Full sentence: This is in contrast to a firm, which as Coase put it, \"the distinguishing mark of the firm is the super-session of the price mechanism\". (source_id=wiki_en_supply_demand). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_supply_demand",
+      "sourceIds": [
+        "wiki_en_supply_demand"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_supply_demand",
+          "passage": "This is in contrast to a firm, which as Coase put it, \"the distinguishing mark of the firm is the super-session of the price mechanism\"."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «Thus, Firms and Markets are two opposite forms of organizing production; Coase wrote:\n\nOutside the firm, price movements direct production, which is co-ordinated through a series of exchange transacti…»?",
+      "options": [
+        "Supply and demand",
+        "Market",
+        "Demand,",
+        "Thus"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Supply and demand"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Thus"
+        }
+      ],
+      "correctAnswerOrRubric": "Thus",
+      "explanation": "Source-grounded AI practice item. The passage supports «Thus». Full sentence: Thus, Firms and Markets are two opposite forms of organizing production; Coase wrote:\n\nOutside the firm, price movements direct production, which is co-ordinated through a series of exchange transactions on the market. (source_id=wiki_en_supply_and_demand). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_supply_and_demand",
+      "sourceIds": [
+        "wiki_en_supply_and_demand"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_supply_and_demand",
+          "passage": "Thus, Firms and Markets are two opposite forms of organizing production; Coase wrote:\n\nOutside the firm, price movements direct production, which is co-ordinated through a series of exchange transactions on the market."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q06",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_demand_supply",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Demand, supply and markets, which term or name is supported by this passage: «Within a firm, these market transactions are eliminated and in place of the complicated market structure with exchange transactions is substituted the entrepreneur-co-ordinator, who directs production…»?",
+      "options": [
+        "Market",
+        "Demand,",
+        "Within",
+        "Supply and demand"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Market"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Demand,"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Within"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Supply and demand"
+        }
+      ],
+      "correctAnswerOrRubric": "Within",
+      "explanation": "Source-grounded AI practice item. The passage supports «Within». Full sentence: Within a firm, these market transactions are eliminated and in place of the complicated market structure with exchange transactions is substituted the entrepreneur-co-ordinator, who directs production. (source_id=wiki_en_market_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_market_economics",
+      "sourceIds": [
+        "wiki_en_market_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_market_economics",
+          "passage": "Within a firm, these market transactions are eliminated and in place of the complicated market structure with exchange transactions is substituted the entrepreneur-co-ordinator, who directs production."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_eco_demand_supply_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicIds": [
+        "eco_demand_supply"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Demand, supply and markets — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Supply_and_demand",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_supply_demand",
+        "wiki_en_supply_and_demand",
+        "wiki_en_market_economics"
+      ],
+      "bodyText": "# Demand, supply and markets\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Demand, supply and markets」 (eco_demand_supply) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nIn microeconomics, supply and demand is an economic model of price determination in a market. It postulates that, holding all else equal, the unit price for a particular good or other traded item in a perfectly competitive market, will vary until it settles at the market-clearing price, where the quantity demanded equals the quantity supplied such that an economic equilibrium is achieved for price and quantity transacted. The concept of supply and demand forms the theoretical basis of modern economics.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Demand, supply and markets\n- [inferred_not_official] Explain core ideas of Demand, supply and markets\n- [inferred_not_official] Apply concepts from Demand, supply and markets using cited public sources\n\n## Core concepts and definitions\nIn microeconomics, supply and demand is an economic model of price determination in a market. It postulates that, holding all else equal, the unit price for a particular good or other traded item in a perfectly competitive market, will vary until it settles at the market-clearing price, where the quantity demanded equals the quantity supplied such that an economic equilibrium is achieved for price and quantity transacted. The concept of supply and demand forms the theoretical basis of modern economics.\n\nHowever, the Sonnenschein-Mantel-Debreu theorem demonstrates that aggregate demand functions do not necessarily inherit the properties of individual rationality, meaning that market-wide supply and demand curves can theoretically take almost any shape. This result implies that the \"Law of Demand\" may fail at the macro level, challenging the assumption that competitive economies naturally gravitate toward a unique or stable equilibrium.\n(Source: https://en.wikipedia.org/wiki/Supply_and_demand)\n\n## Historical or systematic development\nIn situations where a firm has market power, its decision on how much output to bring to market influences the market price, in violation of perfect competition. There, a more complicated model should be used; for example, an oligopoly or differentiated-product model. Likewise, where a buyer has market power, models such as monopsony will be more accurate.\n\nA supply schedule, depicted graphically as a supply curve, is a table that shows the relationship between the price of a good and the quantity supplied by producers. Under the assumption of perfect competition, supply is determined by marginal cost: Firms will produce additional output as long as the cost of extra production is less than the market price.\n(Source: https://en.wikipedia.org/wiki/Supply_and_demand)\n\n## Applications, evidence, and Sri Lankan / comparative context\nIn macroeconomics, as well, the aggregate demand-aggregate supply model has been used to depict how the quantity of total output and the aggregate price level may be determined in equilibrium.\n\nA rise in the cost of raw materials would decrease supply, shifting the supply curve to the left because at each possible price a smaller quantity would be supplied. This shift may also be thought of as an upwards shift in the supply curve, because the price must rise for producers to supply a given quantity.  A fall in production costs would increase supply, shifting the supply curve to the right or down.\n(Source: https://en.wikipedia.org/wiki/Market_%28economics%29)\n\n## Key terms\n- **Supply and demand**: In microeconomics, supply and demand is an economic model of price determination in a market.\n- **Market**: In microeconomics, supply and demand is an economic model of price determination in a market.\n- **Demand,**: According to the law of demand, the demand curve is always downward-sloping, meaning that as the price decreases, consumers will buy more of the good.\n- **supply**: In microeconomics, supply and demand is an economic model of price determination in a market.\n- **markets**: Markets facilitate trade and enable the distribution and allocation of resources in a society by allowing tradeable items to be evaluated and priced.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Demand, supply and markets, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Demand, supply and markets can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Demand, supply and markets\n- Demand, supply and markets is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_supply_demand: Supply and demand (Wikipedia extract) — https://en.wikipedia.org/wiki/Supply_and_demand (licence CC-BY-SA-4.0; retrieved 2026-10-14T00:18:56.370952+00:00; checksum c864c7c0cd0b…)\n- wiki_en_supply_and_demand: Supply and demand — https://en.wikipedia.org/wiki/Supply_and_demand (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:19.111108+00:00; checksum adc2ab81d3f4…)\n- wiki_en_market_economics: Market (economics) — https://en.wikipedia.org/wiki/Market_%28economics%29 (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:20.610432+00:00; checksum 8edb4e2803c8…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:43.513348+00:00",
+  "before_distinct": 11,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

@@ -1,0 +1,5 @@
+node=v24.10.0
+npm=11.6.1
+python=Python 3.13.9
+testedAt=2026-10-16T09:08:12.2885945+05:30
+git=c9a0f01

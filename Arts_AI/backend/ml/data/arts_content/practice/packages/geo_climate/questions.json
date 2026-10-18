@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_geo_climate_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Climate of Sri Lanka",
+      "Monsoon",
+      "Explanations",
+      "Climate"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Climate"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_climate_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_climate_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate_of_sri_lanka",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_climate_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes.»?",
+    "options": [
+      "Monsoon",
+      "Sri Lanka",
+      "Climate",
+      "Climate of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Climate of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes. (source_id=wiki_en_monsoon). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_monsoon",
+    "sourceIds": [
+      "wiki_en_monsoon"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_monsoon",
+        "passage": "Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_climate_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water.»?",
+    "options": [
+      "square",
+      "Climate",
+      "Climate of Sri Lanka",
+      "Monsoon"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "square"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Monsoon"
+      }
+    ],
+    "correctAnswerOrRubric": "square",
+    "explanation": "Source-grounded AI practice item. The passage supports «square». Full sentence: The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water. (source_id=wiki_en_climate_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate_sri_lanka",
+    "sourceIds": [
+      "wiki_en_climate_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate_sri_lanka",
+        "passage": "The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_climate_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania.»?",
+    "options": [
+      "Climate",
+      "Climate of Sri Lanka",
+      "Monsoon",
+      "Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania. (source_id=wiki_en_climate). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate",
+    "sourceIds": [
+      "wiki_en_climate"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate",
+        "passage": "The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_climate_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480.»?",
+    "options": [
+      "According",
+      "Climate",
+      "Climate of Sri Lanka",
+      "Monsoon"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "According"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Monsoon"
+      }
+    ],
+    "correctAnswerOrRubric": "According",
+    "explanation": "Source-grounded AI practice item. The passage supports «According». Full sentence: According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480. (source_id=wiki_en_climate_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate_sri_lanka",
+    "sourceIds": [
+      "wiki_en_climate_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate_sri_lanka",
+        "passage": "According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_climate_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama.»?",
+    "options": [
+      "Climate",
+      "Climate of Sri Lanka",
+      "Monsoon",
+      "Rama"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Rama"
+      }
+    ],
+    "correctAnswerOrRubric": "Rama",
+    "explanation": "Source-grounded AI practice item. The passage supports «Rama». Full sentence: The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama. (source_id=wiki_en_climate). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate",
+    "sourceIds": [
+      "wiki_en_climate"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate",
+        "passage": "The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_climate_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October).»?",
+    "options": [
+      "Climate of Sri Lanka",
+      "Monsoon",
+      "Sri Lanka",
+      "Climate"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Climate"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October). (source_id=wiki_en_climate_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_climate_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate_of_sri_lanka",
+        "passage": "Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_climate_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior.»?",
+    "options": [
+      "Monsoon",
+      "rolling",
+      "Climate",
+      "Climate of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "rolling"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Climate of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "rolling",
+    "explanation": "Source-grounded AI practice item. The passage supports «rolling». Full sentence: Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior. (source_id=wiki_en_monsoon). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_monsoon",
+    "sourceIds": [
+      "wiki_en_monsoon"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_monsoon",
+        "passage": "Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_climate_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «When this happened, cold waters in the Pacific were impeded from flowing into the Indian Ocean.»?",
+    "options": [
+      "Pacific",
+      "Climate",
+      "Climate of Sri Lanka",
+      "Monsoon"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Pacific"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Monsoon"
+      }
+    ],
+    "correctAnswerOrRubric": "Pacific",
+    "explanation": "Source-grounded AI practice item. The passage supports «Pacific». Full sentence: When this happened, cold waters in the Pacific were impeded from flowing into the Indian Ocean. (source_id=wiki_en_climate_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate_sri_lanka",
+    "sourceIds": [
+      "wiki_en_climate_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate_sri_lanka",
+        "passage": "When this happened, cold waters in the Pacific were impeded from flowing into the Indian Ocean."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_climate_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «It is believed that the resulting increase in sea surface temperatures in the Indian Ocean increased the intensity of monsoons.»?",
+    "options": [
+      "Climate",
+      "Climate of Sri Lanka",
+      "Monsoon",
+      "Indian Ocean"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Indian Ocean"
+      }
+    ],
+    "correctAnswerOrRubric": "Indian Ocean",
+    "explanation": "Source-grounded AI practice item. The passage supports «Indian Ocean». Full sentence: It is believed that the resulting increase in sea surface temperatures in the Indian Ocean increased the intensity of monsoons. (source_id=wiki_en_climate). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate",
+    "sourceIds": [
+      "wiki_en_climate"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate",
+        "passage": "It is believed that the resulting increase in sea surface temperatures in the Indian Ocean increased the intensity of monsoons."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_climate_q07",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «In 2018, a study of the SAM's variability over the past million years found that precipitation resulting from the monsoon was significantly reduced during glacial periods compared to interglacial peri…»?",
+    "options": [
+      "Climate of Sri Lanka",
+      "Monsoon",
+      "million",
+      "Climate"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Climate of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "million"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Climate"
+      }
+    ],
+    "correctAnswerOrRubric": "million",
+    "explanation": "Source-grounded AI practice item. The passage supports «million». Full sentence: In 2018, a study of the SAM's variability over the past million years found that precipitation resulting from the monsoon was significantly reduced during glacial periods compared to interglacial periods like the present day. (source_id=wiki_en_climate_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_climate_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_climate_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_climate_of_sri_lanka",
+        "passage": "In 2018, a study of the SAM's variability over the past million years found that precipitation resulting from the monsoon was significantly reduced during glacial periods compared to interglacial periods like the present day."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_climate_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_climate",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Climate systems, which term or name is supported by this passage: «Though the ISM was relatively weak for much of the Late Holocene, significant glacial accumulation in the Himalayas still occurred due to cold temperatures brought by westerlies from the west.»?",
+    "options": [
+      "Monsoon",
+      "Though",
+      "Climate",
+      "Climate of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Monsoon"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Though"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Climate"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Climate of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Though",
+    "explanation": "Source-grounded AI practice item. The passage supports «Though». Full sentence: Though the ISM was relatively weak for much of the Late Holocene, significant glacial accumulation in the Himalayas still occurred due to cold temperatures brought by westerlies from the west. (source_id=wiki_en_monsoon). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_monsoon",
+    "sourceIds": [
+      "wiki_en_monsoon"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_monsoon",
+        "passage": "Though the ISM was relatively weak for much of the Late Holocene, significant glacial accumulation in the Himalayas still occurred due to cold temperatures brought by westerlies from the west."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

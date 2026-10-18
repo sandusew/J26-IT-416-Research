@@ -1,0 +1,151 @@
+{
+  "topic_id": "eco_intro",
+  "subject_id": "sub_economics",
+  "topic_title": "Nature and scope of Economics",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Economics () is a social science that studies the production, distribution, and consumption of goods and services.\n\nEconomic analysis can be applied throughout society, including business, finance, cybersecurity, health care, engineering and government. It is also applied to such diverse subjects as crime, education, the family, feminism, law, philosophy, politics, religion, social institutions, war, science, and the environment.",
+      "source_ids": [
+        "wiki_en_economics"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Economics"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Economics focuses on the behaviour and interactions of economic agents and how economies work. Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions. Individual agents may include households, firms, buyers, and sellers. Macroeconomics analyses economies as systems where production, distribution, consumption, savings, and investment expenditure interact; and the factors of production affecting them, such as: labour, capital, land, and enterprise, inflation, economic growth, and public policies that impact these elements. It also seeks to analyse and describe the global economy.\n\nThe earlier term for the discipline was \"political economy\", but since the late 19th century, it has commonly been called \"economics\". The term is ultimately derived from Ancient Greek οἰκονομία (oikonomia), a term for the \"way (nomos) to run a household (oikos)\", or in other words the know-how of an οἰκονομικός (oikonomikos), or \"household or homestead manager\". Derived terms such as \"economy\" can therefore often mean \"frugal\" or \"thrifty\". By extension then, \"political economy\" was the way to manage a polis or state.",
+      "source_ids": [
+        "wiki_en_economics"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Economics"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Other broad distinctions within economics include those between positive economics, describing \"what is\", and normative economics, advocating \"what ought to be\"; between economic theory and applied economics; between rational and behavioural economics; and between mainstream economics and heterodox economics.\n\nThere are a variety of modern definitions of economics; some reflect evolving views of the subject or different views among economists. Scottish philosopher Adam Smith (1776) defined what was then called political economy as \"an inquiry into the nature and causes of the wealth of nations\", in particular as:",
+      "source_ids": [
+        "wiki_en_microeconomics"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Microeconomics"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Economics",
+      "definition": "Economics () is a social science that studies the production, distribution, and consumption of goods and services.",
+      "source_ids": [
+        "wiki_en_economics"
+      ]
+    },
+    {
+      "term": "Microeconomics",
+      "definition": "Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions.",
+      "source_ids": [
+        "wiki_en_economics"
+      ]
+    },
+    {
+      "term": "Macroeconomics",
+      "definition": "There are other criticisms as well, such as in scarcity not accounting for the macroeconomics of high unemployment.",
+      "source_ids": [
+        "wiki_en_economics"
+      ]
+    },
+    {
+      "term": "Nature",
+      "definition": "Nature: a key idea for Nature and scope of Economics (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_economics"
+      ]
+    },
+    {
+      "term": "scope",
+      "definition": "Some subsequent comments criticised the definition as overly broad, failing to limit its scope to market analysis.",
+      "source_ids": [
+        "wiki_en_economics"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_economics",
+    "wiki_en_economics",
+    "wiki_en_microeconomics",
+    "wiki_en_macroeconomics"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_economics",
+      "title": "Economics (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Economics",
+      "retrieved_at_utc": "2026-10-13T17:57:36.405884+00:00",
+      "edition_or_revision": "pageid=9223; acquired snapshot",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_intro",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "529e94ca85e21f3180169e1fc687a4c037a367455b5e0813341bfd0477cb6032",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_economics",
+      "title": "Economics",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Economics",
+      "retrieved_at_utc": "2026-10-14T17:29:09.707779+00:00",
+      "edition_or_revision": "pageid=9223",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_intro",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "df9bc7282b05869ec69210f0d72ff2457fb883bc82972aab68e14c2636211aec",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_microeconomics",
+      "title": "Microeconomics",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Microeconomics",
+      "retrieved_at_utc": "2026-10-14T17:29:11.142932+00:00",
+      "edition_or_revision": "pageid=18819",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_intro",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "661b9ed1c7f2f6e6d6a9d69ce961cab5729093e892a86f7f39f4b0dc9a035fce",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_macroeconomics",
+      "title": "Macroeconomics",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Macroeconomics",
+      "retrieved_at_utc": "2026-10-14T17:29:12.925923+00:00",
+      "edition_or_revision": "pageid=18820",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_intro",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "ebffdf676d7cc22761f32bb0f9a4eed810d5ed7a7b02fd664245e1dce482ee85",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "48a06cfddb9108810f854d8030355b297daf9bde81f31db0b0299700352981d9",
+  "authored_at_utc": "2026-10-14T17:29:13.535589+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "experiment": "uci_revised",
+  "data_category": "authentic_public",
+  "dataset": "UCI Student Performance",
+  "combine_courses": true,
+  "include_g1_g2": true,
+  "prediction_time_assumption": "after G1 and G2 known",
+  "split_by": "student_key",
+  "math_por_key_overlap": 245,
+  "original_math_g1g2_run_preserved": {
+    "f1": 0.8787878787878788,
+    "note": "See artifacts/c3/c3_uci_20261013T025936_dcef4496"
+  },
+  "validation": {
+    "f1": 0.75,
+    "roc_auc": 0.9495123350545038,
+    "n": 208,
+    "positive_rate": 0.20192307692307693,
+    "calibration_curve": {
+      "fraction_positives": [
+        0.0,
+        0.0,
+        0.09523809523809523,
+        0.12195121951219512,
+        0.7857142857142857
+      ],
+      "mean_predicted_value": [
+        1.3423207035393275e-05,
+        0.000721414166068142,
+        0.02273593163126573,
+        0.24285268259727522,
+        0.869414333483209
+      ]
+    }
+  },
+  "test": {
+    "f1": 0.7368421052631579,
+    "roc_auc": 0.9561746987951807,
+    "n": 206,
+    "positive_rate": 0.1941747572815534,
+    "calibration_curve": {
+      "fraction_positives": [
+        0.0,
+        0.0,
+        0.024390243902439025,
+        0.1951219512195122,
+        0.7560975609756098
+      ],
+      "mean_predicted_value": [
+        2.1354227251529442e-05,
+        0.0003717519447586518,
+        0.00983806711357205,
+        0.12649163837759334,
+        0.7953768381079178
+      ]
+    },
+    "f1_at_val_selected_threshold": 0.6865671641791045,
+    "threshold_selected_on_val": 0.65
+  },
+  "positive_class": "G3 < 10 (fail-like)",
+  "note": "G1/G2 are period grades available after those periods \u2014 included only when include_g1_g2=True. G3 is the target and never a predictor. No weekly event histories. Math/Portuguese quasi-identifier overlap size=245.",
+  "test_set_status": "revised split protocol \u2014 original test metrics retained separately"
+}

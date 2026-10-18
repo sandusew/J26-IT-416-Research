@@ -1,0 +1,108 @@
+{
+  "topic_id": "pol_conflict",
+  "subject_id": "sub_political",
+  "topic_title": "Conflict and conflict resolution",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.\nCommitted group members attempt to resolve group conflicts by actively communicating information about their conflicting motives or ideologies to the rest of group (e.g., intentions; reasons for holding certain beliefs) and by engaging in collective negotiation. Dimensions of resolution typically parallel the dimensions of conflict in the way the conflict is processed.\nCognitive resolution is the way disputants understand and view the conflict, with beliefs, perspectives, understandings and attitudes. Emotional resolution is in the way disputants feel about a conflict, the emotional energy. Behavioral resolution is reflective of how the disputants act, their behavior. Ultimately a wide range of methods and procedures for addressing conflict exist, including negotiation, mediation, mediation-arbitration, diplomacy, and creative peacebuilding.\n\nIn contrast, yielding, \"accommodating\", smoothing or suppression conflict styles are characterized by a high level of concern for others and a low level of concern for oneself. This passive pro-social approach emerges when individuals derive personal satisfaction from meeting the needs of others and have a general concern for maintaining stable, positive social relationships. When faced with conflict, individuals with an accommodating conflict style tend to harmonize into others' demands out of respect for the social relationship. With this sense of yielding to the conflict, individuals fall back to others' input instead of finding solutions with their own intellectual resolution.\nCompetitive",
+      "source_ids": [
+        "wiki_en_conflict_resolution"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Conflict_resolution"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Ruble and Thomas transposed the managerial grid model in terms of conflict resolution. They adapted the classification scheme to dimensions identified in conflict research that represent a range of behaviors beyond the dichotomy between cooperation and competition. The X-axis evaluates  cooperativity, the extent by which mutual goals are achieved. The Y-axis evaluates assertiveness, how parties insist on carrying their own objectives.\nThomas and Kilmann extended that grid with a rating system for five modes of behavior. When parties are assertive but their objectives lack compatibility, they become competitive; when parties are assertive toward compatible objectives, they can be collaborating; when no party prioritizes objectives that are mutually exclusive, they can display avoidance; parties can be  accommodating when assertiveness is low but cooperativity is high; when there is no real bias toward assertiveness and cooperativity, compromising can obtain. \nHowever, not every style leads to an acceptable result in every situation. For example, a collaboration does not work if the goals of the two conflict parties are immutable and mutually exclusive. The different styles have different advantages and disadvantages. Depending on the situation, different conflict styles can be considered desirable to achieve the best results.\n\nThe competitive, \"fighting\" or forcing conflict style maximizes individual assertiveness (i.e., concern for self) and minimizes empathy (i.e., concern for others). Groups consisting of competitive members generally enjoy seeking domination over others, and typically see conflict as a \"win or lose\" predicament. Fighters tend to force others to accept their personal views by employing competitive power tactics (arguments, insults, accusations or even violence) that foster intimidation.\nConciliation",
+      "source_ids": [
+        "wiki_en_peacebuilding"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Peacebuilding"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Characterized by joking, changing or avoiding the topic, or even denying that a problem exists, the conflict avoidance style is used when an individual has withdrawn in dealing with the other party, when one is uncomfortable with conflict, or due to cultural contexts. During conflict, these avoiders adopt a \"wait and see\" attitude, often allowing conflict to phase out on its own without any personal involvement. By neglecting to address high-conflict situations, avoiders risk allowing problems to fester or spin out of control.\nAccommodating\n\nThe conciliation, \"compromising\", bargaining or negotiation conflict style is typical of individuals who possess an intermediate level of concern for both personal and others' outcomes. Compromisers value fairness and, in doing so, anticipate mutual give-and-take interactions. By accepting some demands put forth by others, compromisers believe this agreeableness will encourage others to meet them halfway, thus promoting conflict resolution. This conflict style can be considered an extension of both \"yielding\" and \"cooperative\" strategies.\nCooperation",
+      "source_ids": [
+        "wiki_en_conflict_resolution"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Conflict_resolution"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Conflict resolution",
+      "definition": "Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.",
+      "source_ids": [
+        "wiki_en_conflict_resolution"
+      ]
+    },
+    {
+      "term": "Peacebuilding",
+      "definition": "Ultimately a wide range of methods and procedures for addressing conflict exist, including negotiation, mediation, mediation-arbitration, diplomacy, and creative peacebuilding.",
+      "source_ids": [
+        "wiki_en_conflict_resolution"
+      ]
+    },
+    {
+      "term": "Conflict",
+      "definition": "Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.",
+      "source_ids": [
+        "wiki_en_conflict_resolution"
+      ]
+    },
+    {
+      "term": "resolution",
+      "definition": "Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.",
+      "source_ids": [
+        "wiki_en_conflict_resolution"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_conflict_resolution",
+    "wiki_en_peacebuilding"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_conflict_resolution",
+      "title": "Conflict resolution",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Conflict_resolution",
+      "retrieved_at_utc": "2026-10-14T17:27:16.711467+00:00",
+      "edition_or_revision": "pageid=412676",
+      "subject_id": "sub_political",
+      "topic_id": "pol_conflict",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "70ccad0d579363c5281e5c2ae6fc00293331f41e8ad9f484b2961748921a5b43",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_peacebuilding",
+      "title": "Peacebuilding",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Peacebuilding",
+      "retrieved_at_utc": "2026-10-14T17:27:18.551201+00:00",
+      "edition_or_revision": "pageid=6241951",
+      "subject_id": "sub_political",
+      "topic_id": "pol_conflict",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "2133de8b0ddf47d72d9de72acf425ab8937cf746acda5a30f2208ad66153030d",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "f2168a5030eebda7b40502a1a20791506cd9803f1f9763bbe2f24a51ce4eb156",
+  "authored_at_utc": "2026-10-14T17:27:19.160066+00:00"
+}

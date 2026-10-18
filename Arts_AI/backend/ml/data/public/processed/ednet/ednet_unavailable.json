@@ -1,0 +1,21 @@
+{
+  "dataset": "ednet_kt1_subset",
+  "status": "failed",
+  "errors": [
+    "EdNet KT1 full archive is not automatically downloadable without Riiid academic access form. Place KT1 CSVs under data/public/raw/ednet/kt1/ or set local_kt1_dir. Public-track EdNet experiment remains incomplete until authentic KT1 subset is available. Synthetic data MUST NOT replace it."
+  ],
+  "source_url": "https://github.com/riiid/ednet",
+  "max_students": 200,
+  "min_interactions": 50,
+  "seed": 42,
+  "readme_cached": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\ednet\\README_ednet.md",
+  "expected_columns": [
+    "timestamp",
+    "solving_id",
+    "question_id",
+    "user_answer",
+    "elapsed_time"
+  ],
+  "student_file_pattern": "u{user_id}.csv",
+  "note": "No authentic EdNet rows present in this workspace yet."
+}

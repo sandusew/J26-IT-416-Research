@@ -1,0 +1,104 @@
+{
+  "topic_id": "eco_national_income",
+  "subject_id": "sub_economics",
+  "topic_title": "National income and macroeconomic indicators",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "A variety of measures of national income and output are used in economics to estimate total economic activity in a country or region, including gross domestic product (GDP), Gross national income (GNI), net national income (NNI), and adjusted national income (NNI adjusted for natural resource depletion – also called as NNI at factor cost). All are specially concerned with counting the total amount of goods and services produced within the economy and by various sectors. The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted. For instance, some measures count only goods & services that are exchanged for money, excluding bartered goods, while other measures may attempt to include bartered goods by imputing monetary values to them.\n\nIn order to count a good or service, it is necessary to assign value to it. The value that the measures of national income and output assign to a good or service is its market value – the price it fetches when bought or sold. The actual usefulness of a product (its use-value) is not measured – assuming the use-value to be any different from its market value.",
+      "source_ids": [
+        "wiki_en_national_income"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/National_income"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Arriving at a figure for the total production of goods and services in a large region like a country entails a large amount of data-collection and calculation. Although some attempts were made to estimate national incomes as long ago as the 17th century,\n\nThree strategies have been used to obtain the market values of all the goods and services produced: the product (or output) method, the expenditure method, and the income method. The product method looks at the economy on an industry-by-industry basis. The total output of the economy is the sum of the outputs of every industry. However, since an output of one industry may be used by another industry and become part of the output of that second industry, to avoid counting the item twice we use not the value output by each industry, but the value-added; that is, the difference between the value of what it puts out and what it takes in. The total value produced by the economy is the sum of the values-added by every industry.",
+      "source_ids": [
+        "wiki_en_national_income"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/National_income"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "the systematic keeping of national accounts, of which these figures are a part, only began in the 1930s, in the United States and some European countries. The impetus for that major statistical effort was the Great Depression and the rise of Keynesian economics, which prescribed a greater role for the government in managing an economy, and made it necessary for governments to obtain accurate information so that their interventions into the economy could proceed as well-informed as possible.\n\nThe expenditure method is based on the idea that all products are bought by somebody or some organisation. Therefore, we sum up the total amount of money people and organisations spend in buying things. This amount must equal the value of everything produced. Usually, expenditures by private individuals, expenditures by businesses, and expenditures by government are calculated separately and then summed to give the total expenditure. Also, a correction term must be introduced to account for imports and exports outside the boundary.",
+      "source_ids": [
+        "wiki_en_national_income"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/National_income"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "National income",
+      "definition": "Although some attempts were made to estimate national incomes as long ago as the 17th century,\n\nthe systematic keeping of national accounts, of which these figures are a part, only began in the 1930s, in the United States and some European countries.",
+      "source_ids": [
+        "wiki_en_national_income"
+      ]
+    },
+    {
+      "term": "Gross domestic product",
+      "definition": "Sometimes the word \"Product\" is used and then some additional symbol or phrase to indicate the methodology; so, for instance, we get \"Gross Domestic Product by income\", \"GDP (income)\", \"GDP(I)\", and similar constructions.",
+      "source_ids": [
+        "wiki_en_national_income"
+      ]
+    },
+    {
+      "term": "National",
+      "definition": "Although some attempts were made to estimate national incomes as long ago as the 17th century,\n\nthe systematic keeping of national accounts, of which these figures are a part, only began in the 1930s, in the United States and some European countries.",
+      "source_ids": [
+        "wiki_en_national_income"
+      ]
+    },
+    {
+      "term": "income",
+      "definition": "The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted.",
+      "source_ids": [
+        "wiki_en_national_income"
+      ]
+    },
+    {
+      "term": "macroeconomic",
+      "definition": "macroeconomic: a key idea for National income and macroeconomic indicators (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_national_income"
+      ]
+    },
+    {
+      "term": "indicators",
+      "definition": "indicators: a key idea for National income and macroeconomic indicators (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_national_income"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_national_income"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_national_income",
+      "title": "National income (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/National_income",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=49808",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_national_income",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "9f210a2d1b526bc818b9f7450d471e1ee084b4e525fb135d91a399f8f8678ad3",
+      "origin": "local_approved_or_pending"
+    }
+  ],
+  "content_hash": "24a8ee9ece2467ebda8a862b1f3ea783a0da2ff97dd6fcd4160c720ad2407318",
+  "authored_at_utc": "2026-10-14T17:29:48.108696+00:00"
+}

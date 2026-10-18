@@ -1,0 +1,277 @@
+{
+  "generated_at_utc": "2026-10-14T00:22:58.863832+00:00",
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "n_missing": 30,
+  "topics": [
+    {
+      "topic_id": "hist_sl_sources",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Sources for Sri Lankan history",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_sl_geography",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Geographical factors in Sri Lankan history",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_sl_rajarata_society",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Economy, irrigation and society of Rajarata",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_sl_post_polonnaruwa",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Kingdoms after Polonnaruwa to 16th century",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_in_sources",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Sources for Indian history",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_in_geography",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Geography and Indian history",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_in_indus_vedic",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Indus and Vedic civilizations",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_eu_civilization",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Forces shaping European civilization",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_eu_modern",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Europe 1500\u20131989 selected themes",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "hist_mw_since_1500",
+      "subject_id": "sub_history",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Modern world since 1500 (Asia/Africa/Europe/America)",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "geo_landforms",
+      "subject_id": "sub_geography",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Landforms / main relief types",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "geo_climate",
+      "subject_id": "sub_geography",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Climate systems",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "geo_population",
+      "subject_id": "sub_geography",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Population",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "geo_agriculture",
+      "subject_id": "sub_geography",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "World / regional agriculture",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "geo_practical_maps",
+      "subject_id": "sub_geography",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Practical Geography and map skills",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_nature",
+      "subject_id": "sub_political",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Nature of Political Science, study of politics and approaches",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_subfields",
+      "subject_id": "sub_political",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Political Science and its sub-fields",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_conflict",
+      "subject_id": "sub_political",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Conflict and conflict resolution",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_colonial",
+      "subject_id": "sub_political",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Colonial transformation of Sri Lanka",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_westminster",
+      "subject_id": "sub_political",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Westminster model in Sri Lanka and changes",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_democracy",
+      "subject_id": "sub_political",
+      "grade": "13",
+      "medium": "english",
+      "topic_title": "Democratic governance \u2014 theory and practice",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_comparative",
+      "subject_id": "sub_political",
+      "grade": "13",
+      "medium": "english",
+      "topic_title": "Comparative models of government",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_constitution_1978",
+      "subject_id": "sub_political",
+      "grade": "13",
+      "medium": "english",
+      "topic_title": "Constitution of 1978 and selected amendments",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_parties",
+      "subject_id": "sub_political",
+      "grade": "13",
+      "medium": "english",
+      "topic_title": "Political party system of Sri Lanka",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_public_policy",
+      "subject_id": "sub_political",
+      "grade": "13",
+      "medium": "english",
+      "topic_title": "Public policy (introductory)",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "pol_citizen",
+      "subject_id": "sub_political",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Citizenship and political values",
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "eco_money_banking",
+      "subject_id": "sub_economics",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Money, banking and financial system",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "eco_gov_policy",
+      "subject_id": "sub_economics",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Government economic policy",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "eco_intl_trade",
+      "subject_id": "sub_economics",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "International trade and finance",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    },
+    {
+      "topic_id": "eco_development",
+      "subject_id": "sub_economics",
+      "grade": "12",
+      "medium": "english",
+      "topic_title": "Economic development and Sri Lankan context",
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "needed": "permitted_teaching_material_with_canonical_topic_mapping"
+    }
+  ]
+}

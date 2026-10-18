@@ -1,0 +1,24 @@
+{
+  "baseline_majority": {
+    "accuracy": 0.6668877686388962,
+    "precision": 0.6668877686388962,
+    "recall": 1.0,
+    "f1": 0.8001591723040191,
+    "roc_auc": 0.5
+  },
+  "logistic_regression": {
+    "accuracy": 0.6723268771557442,
+    "precision": 0.6747300806341396,
+    "recall": 0.9820966779391287,
+    "f1": 0.799902786779002,
+    "roc_auc": 0.5702741733864531
+  },
+  "selected_on_val": "majority_baseline",
+  "selected_test": {
+    "accuracy": 0.6668877686388962,
+    "precision": 0.6668877686388962,
+    "recall": 1.0,
+    "f1": 0.8001591723040191,
+    "roc_auc": 0.5
+  }
+}

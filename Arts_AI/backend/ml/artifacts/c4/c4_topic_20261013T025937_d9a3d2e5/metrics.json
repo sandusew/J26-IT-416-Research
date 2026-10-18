@@ -1,0 +1,12 @@
+{
+  "data_category": "generated_content",
+  "origin": "generated",
+  "review_status_preserved": true,
+  "accuracy": 0.0,
+  "macro_f1": 0.0,
+  "n_train": 150,
+  "n_test": 50,
+  "n_topics": 40,
+  "split": "GroupShuffleSplit by document_id",
+  "note": "Trainable C4 subtask; examples are generated \u2014 not teacher-reviewed"
+}

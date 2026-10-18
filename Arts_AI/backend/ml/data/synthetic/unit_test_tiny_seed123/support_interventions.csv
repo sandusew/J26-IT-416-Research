@@ -1,0 +1,4 @@
+intervention_id,student_id,type,recommended_at,completed_at,notes,data_origin,generator_version,scenario_id,seed,split_membership
+int_syn_s0006,syn_s0006,extra_practice,2025-01-06T00:00:00+05:30,,Simulated recommendation; no causal claim,synthetic_operational,0.1.0,baseline,123,train
+int_syn_s0010,syn_s0010,extra_practice,2025-01-06T00:00:00+05:30,,Simulated recommendation; no causal claim,synthetic_operational,0.1.0,improving,123,train
+int_syn_s0011,syn_s0011,extra_practice,2025-01-06T00:00:00+05:30,,Simulated recommendation; no causal claim,synthetic_operational,0.1.0,inactive,123,test

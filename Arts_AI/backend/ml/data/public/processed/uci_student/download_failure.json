@@ -1,0 +1,7 @@
+{
+  "dataset": "uci_student_performance",
+  "status": "failed",
+  "errors": [
+    "Failed to download https://archive.ics.uci.edu/static/public/320/student.zip"
+  ]
+}

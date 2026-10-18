@@ -1,0 +1,632 @@
+{
+  "generated_at_utc": "2026-10-15T04:11:11.539686+00:00",
+  "generator": "backend/ml/scripts/generate_current_state_manifest.py",
+  "project": "Arts AI",
+  "package": "arts_ai",
+  "pointers": {
+    "c1": "c1_20261013T030329_134eeb26",
+    "c2_ednet": "c2_ednet_v2_20261013T153128_f83023f6",
+    "c2_rank": "c2_rank_rev_20261013T105157_40d91e8c",
+    "c2_arts_latest": "c2_arts_20261013T030235_5a8b703d",
+    "c2_arts_pooled_ap_resolved": "c2_arts_20261013T025936_8b27814f",
+    "c3_oulad": "c3_oulad_20261013T030421_2f6e0ea2",
+    "c4_topic_serving": "c4_topic_nl_20261013T105116_04964504",
+    "c4_topic_marker_historical": "c4_topic_rev_20261013T100629_127fbaec",
+    "c4_topic_nl": "c4_topic_nl_20261013T105116_04964504",
+    "c4_domain_index": "c4_index_20261014T173535_894e48ef"
+  },
+  "endpoint_to_artifact": {
+    "POST /v1/behaviour/cluster": {
+      "run_id": "c1_20261013T030329_134eeb26",
+      "path": "backend/ml/artifacts/c1/c1_20261013T030329_134eeb26/kmeans_pipeline.joblib",
+      "sha256": "ba9c92e82bf58f71fa2c67d28024b1313b9d28c83288bb20acb2f53abfea8987",
+      "provenance": "authentic_public_oulad"
+    },
+    "POST /v1/risk/predict": {
+      "run_id": "c3_oulad_20261013T030421_2f6e0ea2",
+      "path": "backend/ml/artifacts/c3/c3_oulad_20261013T030421_2f6e0ea2/risk_pipeline.joblib",
+      "sha256": "7f4c60f2ab5e67344ac87b9d2bb0570ddc82bdd858d18e7237689f9a3b9ec69b",
+      "provenance": "authentic_public_oulad"
+    },
+    "POST /v1/correctness/predict": {
+      "run_id": "c2_ednet_v2_20261013T153128_f83023f6",
+      "path": "backend/ml/artifacts/c2/c2_ednet_v2_20261013T153128_f83023f6/correctness_pipeline.joblib",
+      "sha256": "5fe584c752497fd35394d0f1bd23615439a2ed5621d64291ea32b7a333f0aa73",
+      "provenance": "authentic_public_ednet_subset"
+    },
+    "POST /v1/recommendations/score": {
+      "run_id": "c2_rank_rev_20261013T105157_40d91e8c",
+      "path": "backend/ml/artifacts/c2/c2_rank_rev_20261013T105157_40d91e8c/ranker_pointwise.joblib",
+      "sha256": "3eed7793713963c641aa09e1216242a35f8b3e39a944ac696bd001fe082ce62d",
+      "provenance": "synthetic_learner_simulation"
+    },
+    "POST /v1/topic/classify": {
+      "run_id": "c4_topic_nl_20261013T105116_04964504",
+      "path": "backend/ml/artifacts/c4/c4_topic_nl_20261013T105116_04964504/topic_nl_classifier.joblib",
+      "sha256": "ecc4220b80c96bfd31d5bea06628271ce19649e4f18666355a28e6cfd41d6b82",
+      "provenance": "generated_content \u2014 closed-set evaluation",
+      "marker_historical_run": "c4_topic_rev_20261013T100629_127fbaec",
+      "nl_eval_run": "c4_topic_nl_20261013T105116_04964504",
+      "note": "NL serving \u2260 marker sanity; not overall chatbot accuracy"
+    },
+    "POST /v1/chat/ask (corpus_mode=fixture)": {
+      "index_path": "backend/ml/artifacts/c4/knowledge_index.joblib",
+      "sha256": "44fdcdb154acc42d8bf14e1539fc56888f82a84fcd3012161f1498af261e7536",
+      "default_answer_type": "extractive_template",
+      "provenance": "generated_content",
+      "note": "Indexing is not model training"
+    },
+    "POST /v1/chat/ask (corpus_mode=domain)": {
+      "corpus_version": "c4_index_20261014T173535_894e48ef",
+      "index_path": "backend/ml/data/arts_content/indexes/c4_index_20261014T173535_894e48ef/domain_knowledge_index.joblib",
+      "sha256": "8b896f79f28b5d0b7c765ecfe695b58454004a013067caefa1583d6512e4312a",
+      "n_documents": 61,
+      "n_chunks": 295,
+      "domain_retrieval_status": "ready",
+      "provenance": "authentic_public_cc_by_sa (unreviewed); NIE candidates excluded",
+      "note": "Domain mode does not silently fall back to fixtures"
+    },
+    "GET /learning/recommendations": {
+      "default_policyMode": "prerequisite_aware",
+      "trained_opt_in": true,
+      "ranker_run_id": "c2_rank_rev_20261013T105157_40d91e8c"
+    }
+  },
+  "c2_pooled_ap_resolution": {
+    "candidate_runs": [
+      "c2_arts_20261013T025936_8b27814f",
+      "c2_arts_20261013T030235_5a8b703d"
+    ],
+    "resolved": "c2_arts_20261013T025936_8b27814f",
+    "note": "Do not silently assign one run's metrics to another",
+    "resolved_test_ap": 0.6719270222486738,
+    "resolved_test_n": 1578,
+    "metrics_path": "backend/ml/artifacts/c2/c2_arts_20261013T025936_8b27814f/metrics.json",
+    "metrics_sha256": "f299757ee82542b8d3b199252fba37ae72b518bac00634493cecb1108d3cc5db",
+    "alternate_030235": {
+      "run_id": "c2_arts_20261013T030235_5a8b703d",
+      "test_ap": 0.799366480735344,
+      "test_n": 20,
+      "metrics_path": "backend/ml/artifacts/c2/c2_arts_20261013T030235_5a8b703d/metrics.json",
+      "note": "Different tiny run; do not assign AP to 025936"
+    },
+    "latest_arts_pointer": "c2_arts_20261013T030235_5a8b703d"
+  },
+  "domain_retrieval_eval_summary": {
+    "evaluation_id": "c4_retr_eval_20261015T004228_6dfac974",
+    "corpus_version": "c4_index_20261014T173535_894e48ef",
+    "index_sha256": "8b896f79f28b5d0b7c765ecfe695b58454004a013067caefa1583d6512e4312a",
+    "eval_cases_sha256": "bf484dd585d36be5605c2c503007b2c5a4be83a9c35ea8332c589f313209fa86",
+    "generated_at_utc": "2026-10-15T00:42:48.406393+00:00",
+    "retrieval_config": {
+      "method": "BM25",
+      "top_k": 5,
+      "subject_filter": true,
+      "language_filter": true
+    },
+    "n_documents": 61,
+    "n_chunks": 295,
+    "n_questions_total": 11,
+    "hit_at_3": {
+      "numerator": 7,
+      "denominator": 8,
+      "value": 0.875,
+      "definition": "1 if any gold document_id in top-3; denominator = eligible answerable"
+    },
+    "recall_at_3_micro": {
+      "numerator": 11,
+      "denominator": 29,
+      "value": 0.3793103448275862,
+      "definition": "sum_q |gold\u2229top3| / sum_q |gold| over eligible answerable"
+    },
+    "recall_at_3_historical_label_was_hit": 0.875,
+    "report": "backend/ml/reports/c4_domain_retrieval_eval.json",
+    "audit": "backend/ml/reports/c4_retrieval_eval_audit.json",
+    "historical_eval_on_prior_index": "backend/ml/reports/historical/c4_domain_retrieval_eval__c4_index_20261014T002016_9178797b.json",
+    "note": "Machine-authored eval bound to exact index SHA; Hit@3 \u2260 multi-gold Recall@3; not teacher-validated"
+  },
+  "canonical_catalogue": {
+    "import_route": "POST /catalogue/import",
+    "quiz_assign": "POST /learning/quiz/:studentId/assign",
+    "quiz_submit": "POST /learning/quiz/:studentId/assignments/:assignmentId/submit",
+    "review_package": "backend/ml/data/curriculum/review_packages/hist_sl_rajarata_politics_v0/",
+    "authentic_approved_questions": 0,
+    "authentic_approved_resources": 0,
+    "fixture_workflow_tested": true,
+    "fixture_isolation_server_side": true,
+    "fixture_env_flag": "ARTS_AI_ALLOW_TEST_FIXTURES",
+    "client_flag_alone_insufficient": true,
+    "authentic_approved_content_exercised": false,
+    "note": "Test fixtures labelled isTestFixture; do not count as teacher review",
+    "published_practice_questions": 540,
+    "published_practice_resources": 45,
+    "practice_publication_policy": true
+  },
+  "curriculum": {
+    "version": "nie_al_arts_provisional_v0.1",
+    "scope_status": "provisional_awaiting_stakeholder_confirmation",
+    "approved_proposal_in_repo": false,
+    "technical_test_slice": "hist_sl_rajarata_politics (provisional; not final subject approval)",
+    "registry": "backend/ml/data/curriculum/nie_al_arts_provisional_v0.1_registry.json",
+    "coverage_matrix": "backend/ml/reports/curriculum_coverage_matrix.json",
+    "coverage_summary": "backend/docs/CURRICULUM_COVERAGE_SUMMARY.md",
+    "requirements_matrix": "backend/docs/REQUIREMENTS_TO_IMPLEMENTATION.md",
+    "model_gap_table": "backend/docs/MODEL_GAP_TABLE.md",
+    "scope_decisions": "backend/ml/data/curriculum/SCOPE_DECISIONS.md"
+  },
+  "integration_tests": {
+    "historical_8_pass": {
+      "log": "backend/api/tests/logs/integration_final_8of8.log"
+    },
+    "historical_9_pass": {
+      "log": "backend/api/tests/logs/integration_post_rec_policy.log"
+    },
+    "prior_11_pass": {
+      "log": "backend/api/tests/logs/integration_post_nl_serving.log"
+    },
+    "current_suite": {
+      "command": "node --test tests/integration.test.js",
+      "cwd": "backend/api",
+      "env": {
+        "ML_INFERENCE_URL": "http://127.0.0.1:8000"
+      },
+      "evidence": [
+        {
+          "path": "backend/api/tests/logs/integration_20261015_deficit.log",
+          "attribution": "current_integration_suite",
+          "sha256": "57c40b01c42285fe193dfca427d3306675f18d868b77da97b7235454a0d61fc6",
+          "mtime_utc": "2026-10-15T04:09:54.557138+00:00"
+        },
+        {
+          "path": "backend/api/tests/logs/canonical_catalogue_20261015_deficit.log",
+          "attribution": "canonical_catalogue_fixture_suite",
+          "sha256": "4c506479842d9ebbf2b239f9b580b104f8a49ef082a37f3456321c04aa6b754a",
+          "mtime_utc": "2026-10-15T04:09:47.363791+00:00"
+        },
+        {
+          "path": "backend/api/tests/logs/integration_curriculum_fixes_20261014_055318.log",
+          "attribution": "current_curriculum_fixes_integration",
+          "sha256": "a84e15a94964629d1df0236715df76eb99d05bb1c8185cf0cc8095eb42d47ada",
+          "mtime_utc": "2026-10-14T00:23:29.531183+00:00"
+        },
+        {
+          "path": "backend/api/tests/logs/meeting_contract_20261015_deficit.log",
+          "attribution": "meeting_provider_contract_suite",
+          "sha256": "8ceb43bf5181e2dc5ad09e705e03877bc54a42df77070cc2ffc58251a844b322",
+          "mtime_utc": "2026-10-15T04:10:05.443769+00:00"
+        },
+        {
+          "path": "backend/api/tests/logs/integration_final_8of8.log",
+          "attribution": "historical_8_pass",
+          "sha256": "21f93ea3fa451bc70d70616a622086bb82bab24a727cd89c89338d772f67cd13",
+          "mtime_utc": "2026-10-13T11:03:54.102453+00:00"
+        },
+        {
+          "path": "backend/api/tests/logs/integration_post_rec_policy.log",
+          "attribution": "historical_9_pass_policy",
+          "sha256": "c8e68ede2c42fde696deca336c17d6c5e6aac10084509cd97672118728267ccd",
+          "mtime_utc": "2026-10-13T15:25:33.383023+00:00"
+        },
+        {
+          "path": "backend/api/tests/logs/integration_post_nl_serving.log",
+          "attribution": "prior_11_pass_nl_serving",
+          "sha256": "5949f342bf48323afadaac2ee3fd2d4eab876f1d60e7c2a12da333db2bdd962e",
+          "mtime_utc": "2026-10-13T17:07:30.603936+00:00"
+        },
+        {
+          "path": "backend/api/tests/logs/integration_post_domain_content.log",
+          "attribution": "prior_domain_integration",
+          "sha256": "1ed9c26ac8db0e5e1e2f84182b3bf87356e8b7cba16c959e1aed5ff95c89e859",
+          "mtime_utc": "2026-10-13T18:08:09.009976+00:00"
+        },
+        {
+          "path": "backend/api/tests/last_run.log",
+          "attribution": "last_run_copy",
+          "sha256": "78565172de9ee359689fc47fb408e85f916763b2ae91cd9713d0d5bc0e43290f",
+          "mtime_utc": "2026-10-15T04:09:54.497356+00:00"
+        },
+        {
+          "path": "backend/api/reports/trained_ranker_express_smoke.json",
+          "attribution": "trained_ranker_express_live",
+          "sha256": "e6ebcf11f9018b3ea917ae8fb8a0165be9fb4ce164c6ac79133d2e4a6f84a902",
+          "mtime_utc": "2026-10-13T18:32:40.551751+00:00"
+        },
+        {
+          "path": "backend/ml/reports/c4_topic_nl_http_parity.json",
+          "attribution": "c4_nl_http_parity",
+          "sha256": "c410c99b52b794c98ace1e5f0aee692981b7b87f081cbe6b3fcdecad58d1725f",
+          "mtime_utc": "2026-10-13T18:32:42.133137+00:00"
+        },
+        {
+          "path": "backend/ml/reports/c2_trained_ranker_http_verify.json",
+          "attribution": "c2_ranker_fastapi_parity",
+          "sha256": "e1be7a49680cb5284e7c944211fc8e5f99209caed4d8e7e0907e86900197f9a8",
+          "mtime_utc": "2026-10-13T18:32:45.954825+00:00"
+        },
+        {
+          "path": "backend/ml/reports/c4_knowledge_ingest_status.json",
+          "attribution": "knowledge_ingest",
+          "sha256": "3e6fa097f050fce32dcefe53549073be9d9e0e40cd6fcb6c3a5dee8ef97c6911",
+          "mtime_utc": "2026-10-14T17:35:35.892924+00:00"
+        },
+        {
+          "path": "backend/ml/reports/c4_domain_acquisition.json",
+          "attribution": "domain_acquisition",
+          "sha256": "538e1d3fb8d5d9ff8e1fb23057b6fd536f04f715743d724681e2fd72e01fa599",
+          "mtime_utc": "2026-10-13T17:57:46.979344+00:00"
+        },
+        {
+          "path": "backend/ml/reports/c4_curriculum_aligned_acquisition.json",
+          "attribution": "curriculum_aligned_corpus",
+          "sha256": "b7f41c12f4108906fe9e13a601f52fad74ac167ffe508c7d8a5cabdc673642d2",
+          "mtime_utc": "2026-10-14T00:20:09.992507+00:00"
+        },
+        {
+          "path": "backend/ml/reports/c4_domain_retrieval_eval.json",
+          "attribution": "domain_retrieval_eval",
+          "sha256": "7155c4ed1abca618df70a16b6a6ff21334afff6cb12bd5179e49f7e7c482175f",
+          "mtime_utc": "2026-10-15T00:42:48.411333+00:00"
+        },
+        {
+          "path": "backend/ml/reports/c4_retrieval_eval_audit.json",
+          "attribution": "retrieval_eval_audit",
+          "sha256": "5423df9ff0f36cb225a480a3d331c80277c5f790fb3edc1150d0c1b4ffd68afb",
+          "mtime_utc": "2026-10-14T00:55:42.468081+00:00"
+        },
+        {
+          "path": "backend/ml/reports/LATEST_DOMAIN_RETRIEVAL_EVAL.txt",
+          "attribution": "latest_retrieval_eval_pointer",
+          "sha256": "c44a82242bfb671169782c0bed18be48e8a4f6a1e9f6e1659acd0d23182a3433",
+          "mtime_utc": "2026-10-15T00:42:48.425520+00:00"
+        },
+        {
+          "path": "backend/ml/reports/curriculum_coverage_matrix.json",
+          "attribution": "curriculum_coverage",
+          "sha256": "6d57f6a49b12fda242e0c3d5fb255f354c802baf2f7ef87c714984136bdedce7",
+          "mtime_utc": "2026-10-14T00:22:58.864978+00:00"
+        },
+        {
+          "path": "backend/ml/reports/curriculum_registry_build.json",
+          "attribution": "curriculum_registry",
+          "sha256": "1bdd3374593aa017c36215e20b8f54e97b98a88d4bce085a59d3d02735437adf",
+          "mtime_utc": "2026-10-13T18:28:07.490546+00:00"
+        },
+        {
+          "path": "backend/ml/reports/catalogue_validation.json",
+          "attribution": "catalogue_validation",
+          "sha256": "5138b31f9f793238e4c68f42b65d87f4ee89eed1e53285d36cbd8c4a97e64fe0",
+          "mtime_utc": "2026-10-13T18:31:35.764791+00:00"
+        },
+        {
+          "path": "backend/ml/reports/model_identities_verified.json",
+          "attribution": "model_identities",
+          "sha256": "37f54cf979ae4fcfd1e2a6971c6b85f4795b160fc91f559c4d8c1e269f00f6ef",
+          "mtime_utc": "2026-10-14T00:20:30.029933+00:00"
+        },
+        {
+          "path": "backend/ml/reports/c4_generation_adapter_offline.json",
+          "attribution": "generation_offline",
+          "sha256": "af9b3f0c79cc339dbac3407d382b2718536380eb693ddc34c1c8ed1d78281f97",
+          "mtime_utc": "2026-10-14T15:39:18.184964+00:00"
+        },
+        {
+          "path": "backend/docs/CONTINUATION_REPORT_20261015_ATLAS_HANDOFF.md",
+          "attribution": "prior_atlas_handoff_continuation",
+          "sha256": "7d03f78f7f00b21cc390cc270e2aa9f6d0abe0de73d0ddf1b4674c5e28bc667c",
+          "mtime_utc": "2026-10-15T00:43:29.092748+00:00"
+        },
+        {
+          "path": "backend/docs/FINAL_ACCEPTANCE_20261015.md",
+          "attribution": "final_acceptance",
+          "sha256": "cf57f514424745153fa65690e12f4ed1cba6bf59dd6f261fdd1aa6bfe7cac804",
+          "mtime_utc": "2026-10-15T04:10:41.308080+00:00"
+        },
+        {
+          "path": "backend/ml/reports/practice_content_quality.json",
+          "attribution": "practice_content_quality",
+          "sha256": "459d4888c1f8da8da36a26961f542d2e4483c1c81b103a28c591b38f4da88024",
+          "mtime_utc": "2026-10-15T04:02:44.726225+00:00"
+        },
+        {
+          "path": "backend/ml/reports/practice_deficit_fill.json",
+          "attribution": "practice_deficit_fill",
+          "sha256": "0e30b2976aba19951d2d7867d04f193d8ae42ba44faead008592147fc4226acc",
+          "mtime_utc": "2026-10-15T04:02:44.725214+00:00"
+        },
+        {
+          "path": "backend/ml/reports/teaching_index_consistency.json",
+          "attribution": "teaching_index_consistency",
+          "sha256": "9f18b690f8cc3beca825c2fc424319fc33164c50830462f3af94bf9ec85bef4c",
+          "mtime_utc": "2026-10-15T04:03:46.191887+00:00"
+        },
+        {
+          "path": "backend/ml/reports/retrieval_eval_comparability.md",
+          "attribution": "retrieval_eval_comparability",
+          "sha256": "44858d2189e814c84c66c4e309d713c4122f3842be592e3e1b9f4c21cd84eb18",
+          "mtime_utc": "2026-10-15T00:41:41.983026+00:00"
+        },
+        {
+          "path": "backend/api/reports/verify_populated_backend.json",
+          "attribution": "verify_populated_backend",
+          "sha256": "d92063f00ce6ea7911427c28b18db034180017910c976b61679b49499263dc56",
+          "mtime_utc": "2026-10-15T04:09:00.496416+00:00"
+        },
+        {
+          "path": "backend/api/reports/demo_populated_e2e.json",
+          "attribution": "demo_populated_e2e",
+          "sha256": "f0e7cc9fd8afb8ac4e86647dae58f90eca88a6394a6542b51553e8917853151b",
+          "mtime_utc": "2026-10-15T04:09:10.460921+00:00"
+        },
+        {
+          "path": "backend/api/reports/topic_quiz_capacity.json",
+          "attribution": "topic_quiz_capacity",
+          "sha256": "c4da427a88996a7633060fa9c19c7a25d085384ab2bb9b89e548dc6fbba1dec2",
+          "mtime_utc": "2026-10-15T04:08:27.080220+00:00"
+        },
+        {
+          "path": "backend/api/reports/practice_bank_reconciliation.json",
+          "attribution": "practice_bank_reconciliation",
+          "sha256": "62d14941a2078edaa83998ea1877ac18b47551be2a622ec61f8994d7c010a858",
+          "mtime_utc": "2026-10-15T04:07:57.309999+00:00"
+        },
+        {
+          "path": "backend/api/reports/practice_republish.json",
+          "attribution": "practice_republish",
+          "sha256": "b384276f8825da5c100ad30a6fdf727e3eb8a22af296bdf7af69654c2c5100b9",
+          "mtime_utc": "2026-10-15T04:07:29.349221+00:00"
+        },
+        {
+          "path": "backend/docs/CONTINUATION_REPORT_20261014_CHAT_RECOVERY.md",
+          "attribution": "prior_chat_recovery_continuation",
+          "sha256": "8e1b26bf2788217bef85e9afcdc4c1d88f8fb5b5376aa204db84d06a85c9b533",
+          "mtime_utc": "2026-10-14T15:59:40.675082+00:00"
+        },
+        {
+          "path": "backend/docs/CONTINUATION_REPORT_20261014_FIXTURE_ISOLATION.md",
+          "attribution": "prior_fixture_isolation_continuation",
+          "sha256": "58a5c996910acc5ae1095599f9c7b4113be4b477497a372f557adb46d9cac27b",
+          "mtime_utc": "2026-10-14T15:39:28.822549+00:00"
+        },
+        {
+          "path": "backend/docs/CONTINUATION_REPORT_20261014_CANONICAL_WORKFLOW.md",
+          "attribution": "prior_canonical_workflow_continuation",
+          "sha256": "babcc517c6aa119172ab8f16641a8e4f3c228732665fb23465044697c80954f3",
+          "mtime_utc": "2026-10-14T00:59:39.491642+00:00"
+        },
+        {
+          "path": "backend/docs/CONTINUATION_REPORT_20261014_CURRICULUM_FIXES.md",
+          "attribution": "prior_curriculum_fixes_continuation",
+          "sha256": "426627cdbbd62a82d4d68790c6274c6bcb50f767c9c0ceca27c125abbd7d168c",
+          "mtime_utc": "2026-10-14T00:23:00.387696+00:00"
+        },
+        {
+          "path": "backend/docs/CONTINUATION_REPORT_20261013_NL_SERVING.md",
+          "attribution": "historical_nl_continuation",
+          "sha256": "d28d4def3912735a722bb0c1f36529b57a08f726b73fa1e83a471d1353cf673e",
+          "mtime_utc": "2026-10-13T18:08:36.608549+00:00"
+        }
+      ],
+      "passed": 13,
+      "failed": 0,
+      "n_tests": 13,
+      "log": "backend/api/tests/logs/integration_20261015_deficit.log",
+      "log_sha256": "57c40b01c42285fe193dfca427d3306675f18d868b77da97b7235454a0d61fc6",
+      "executed_at_utc": "2026-10-15T04:09:54.557138+00:00",
+      "exit_code": 0
+    }
+  },
+  "configuration_state_no_secrets": {
+    "recommendation_policy_default": "prerequisite_aware",
+    "meeting_provider_env_set": false,
+    "meeting_smoke_json_present": false,
+    "generation_provider": "none",
+    "generation_live_verified": false,
+    "meeting_live_verified": false
+  },
+  "remaining_blockers": [
+    "Approved research proposal / guideline PDF missing from workspace",
+    "Stakeholder confirmation of subject list, media, grades, syllabus edition/cohort",
+    "Teacher review of domain Wikipedia extracts (0/45 teacher_reviewed_content)",
+    "Official learning-outcome verbatim extracts with page evidence (currently 0/45 official)",
+    "NIE syllabus reuse permission unclear \u2014 candidates only; not indexed as teaching text",
+    "Verified curriculum-aligned question bank (0/45; synthetic partial_match \u2260 verified)",
+    "Sinhala literature domain content + Sinhala QA not claimed",
+    "Generative chat live provider requires credentials (configure backend/ml/.env only if missing)",
+    "Meeting provider choice + credentials + smoke JSON",
+    "wiki_en_climate_sri_lanka acquired to approved_pending after 429 retry \u2014 still unreviewed and not promoted into serving index (geo_climate; outside hist technical slice)",
+    "Authentic approved canonical question/resource bank still empty (fixture path tested only)",
+    "For fixture demos set ARTS_AI_ALLOW_TEST_FIXTURES=true in backend/api/.env (never production)",
+    "Local Arts labelled data for mastery / A/L exam-outcome models"
+  ],
+  "test_suites": {
+    "integration": {
+      "command": "node --test tests/integration.test.js",
+      "cwd": "backend/api",
+      "attribution": "integration_only",
+      "log": "backend/api/tests/logs/integration_20261015_deficit.log",
+      "passed": 13,
+      "failed": 0,
+      "n_tests": 13,
+      "exit_code": 0,
+      "executed_at_utc": "2026-10-15T04:09:54.557138+00:00"
+    },
+    "canonical_catalogue": {
+      "command": "node --test tests/canonical_catalogue.test.js",
+      "cwd": "backend/api",
+      "attribution": "canonical_fixture_workflow_only",
+      "env_required": {
+        "ARTS_AI_ALLOW_TEST_FIXTURES": "true",
+        "NODE_ENV": "test"
+      },
+      "log": "backend/api/tests/logs/canonical_catalogue_20261015_deficit.log",
+      "log_sha256": "4c506479842d9ebbf2b239f9b580b104f8a49ef082a37f3456321c04aa6b754a",
+      "executed_at_utc": "2026-10-15T04:09:47.363791+00:00",
+      "exit_code": 0,
+      "passed": 11,
+      "failed": 0,
+      "n_tests": 11
+    },
+    "meeting_contract": {
+      "command": "node --test tests/meeting_provider_contract.test.js",
+      "cwd": "backend/api",
+      "attribution": "meeting_contract_only",
+      "log": "backend/api/tests/logs/meeting_contract_20261015_deficit.log",
+      "log_sha256": "8ceb43bf5181e2dc5ad09e705e03877bc54a42df77070cc2ffc58251a844b322",
+      "executed_at_utc": "2026-10-15T04:10:05.443769+00:00",
+      "passed": 4,
+      "failed": 0,
+      "n_tests": 4,
+      "exit_code": 0
+    },
+    "risk_observation": {
+      "command": "pytest tests/test_risk_observation_cases.py -q",
+      "cwd": "backend/ml",
+      "log": "backend/api/tests/logs/risk_observation_20261014_212905.log",
+      "log_sha256": "08abac5b5715194f5f51a6d00460fad416038a50e7b0fcf526687e05846f8e07",
+      "executed_at_utc": "2026-10-14T15:59:23.482218+00:00",
+      "passed": 7,
+      "failed": 0,
+      "exit_code": 0
+    },
+    "live_generation": {
+      "command": ".\\.venv\\Scripts\\python.exe scripts\\smoke_generation_live.py --live",
+      "cwd": "backend/ml",
+      "status": "blocked_missing_configuration",
+      "script": "backend/ml/scripts/smoke_generation_live.py",
+      "evidence": "backend/ml/reports/generation_live_smoke_20261014T155924.json",
+      "outcome": "blocked_missing_configuration",
+      "executed_at_utc": "2026-10-14T15:59:24.659796+00:00"
+    },
+    "live_meeting": {
+      "command": "node scripts\\smoke_meeting_live.js --live",
+      "cwd": "backend/api",
+      "status": "blocked_missing_configuration",
+      "script": "backend/api/scripts/smoke_meeting_live.js",
+      "evidence": "backend/api/reports/meeting_live_smoke_2026-10-14T1559.json",
+      "outcome": "blocked_missing_configuration",
+      "executed_at_utc": "2026-10-14T15:59:05.493Z"
+    },
+    "quiz_submission_recovery": {
+      "command": "node --test tests/quiz_submission_recovery.test.js",
+      "cwd": "backend/api",
+      "log": "backend/api/tests/logs/quiz_recovery_20261015_deficit.log",
+      "log_sha256": "0307a9456b3ae42221d9d005eb8c39836085bd244c4abc53550a711306b6481b",
+      "executed_at_utc": "2026-10-15T04:09:59.794880+00:00",
+      "passed": 4,
+      "failed": 0,
+      "n_tests": 4,
+      "exit_code": 0
+    },
+    "chat_fixture_policy": {
+      "command": "pytest tests/test_chat_fixture_policy.py -q",
+      "cwd": "backend/ml",
+      "log": "backend/api/tests/logs/chat_fixture_policy_20261014_212727.log",
+      "log_sha256": "f00037a61f5340c8ffcd24d260a27cc7efa819c8f17430c318f70d8cc80c4b8f",
+      "executed_at_utc": "2026-10-14T15:57:42.574051+00:00",
+      "passed": 5,
+      "failed": 0,
+      "exit_code": 0
+    },
+    "fixture_derived_state": {
+      "command": "node --test tests/fixture_derived_state.test.js",
+      "cwd": "backend/api",
+      "log": "backend/api/tests/logs/fixture_derived_20261015_deficit.log",
+      "log_sha256": "03d69aba95901bd152d3dbaf133d18a7cd992d5698079dd266bfde12002b82e7",
+      "executed_at_utc": "2026-10-15T04:10:05.076780+00:00",
+      "passed": 1,
+      "failed": 0,
+      "n_tests": 1,
+      "exit_code": 0
+    },
+    "note": "Earlier combined runs remain separately attributed; blocked live smoke \u2260 pass",
+    "demo_populated_e2e": {
+      "command": "node scripts/demo_populated_e2e.js",
+      "cwd": "backend/api",
+      "passed": 26,
+      "failed": 0,
+      "evidence": "backend/api/reports/demo_populated_e2e.json",
+      "generated_at_utc": "2026-10-15T04:09:10.458Z"
+    },
+    "verify_populated_backend": {
+      "command": "node scripts/verify_populated_backend.js",
+      "cwd": "backend/api",
+      "passed": 20,
+      "failed": 0,
+      "evidence": "backend/api/reports/verify_populated_backend.json",
+      "note": "Non-destructive Atlas verification; does not reseed"
+    }
+  },
+  "serving_ranker_architecture": {
+    "run_id": "c2_rank_rev_20261013T105157_40d91e8c",
+    "pipeline": "StandardScaler \u2192 LogisticRegression",
+    "artifact": "backend/ml/artifacts/c2/c2_rank_rev_20261013T105157_40d91e8c/ranker_pointwise.joblib",
+    "sha256": "3eed7793713963c641aa09e1216242a35f8b3e39a944ac696bd001fe082ce62d",
+    "note": "Verified via joblib.load; not LightGBM. Historical LightGBM claims belong to other run IDs if any."
+  },
+  "continuation_report": "backend/docs/CONTINUATION_REPORT_20261015_DEFICIT_FILL.md",
+  "final_acceptance": "backend/docs/FINAL_ACCEPTANCE_20261015.md",
+  "verify_populated_backend": {
+    "passed": 20,
+    "failed": 0,
+    "generated_at_utc": "2026-10-15T04:09:00.490Z",
+    "mongo": {
+      "source": "dotenv_file",
+      "isAtlas": true,
+      "database": "arts_ai",
+      "hostHint": "cluster0.ote0uca.mongodb.net",
+      "redactedUri": "mongodb+srv://msideshan_db_user:***@cluster0.ote0uca.mongodb.net/arts_ai?retryWrites=true&w=majority"
+    },
+    "evidence": "backend/api/reports/verify_populated_backend.json"
+  },
+  "practice_content": {
+    "policy": "published_practice_default",
+    "content_policy_doc": "backend/docs/CONTENT_POLICY.md",
+    "n_topics_usable_packages": 45,
+    "n_ai_authored_questions_authored_historical": 540,
+    "n_eligible_questions_after_repair": 540,
+    "n_teaching_packages": 45,
+    "published_practice_questions": 540,
+    "published_practice_resources": 45,
+    "authentic_approved_questions": 0,
+    "teacher_reviewed_questions": 0,
+    "topics_with_ge_8_questions": 45,
+    "topics_with_ge_12_questions": 45,
+    "medium": "english",
+    "sinhala_literature": "deferred",
+    "scope_note": "Implementation assumption for local backend population; not stakeholder-approved complete national syllabus coverage; Sinhala Literature deferred; English medium only. Deficit-fill closed 12 distinct published questions per English topic where sources allowed.",
+    "domain_index": "c4_index_20261014T173535_894e48ef",
+    "quality_report": "backend/ml/reports/practice_content_quality.md",
+    "deficit_fill_report": "backend/ml/reports/practice_deficit_fill.json",
+    "index_consistency": "backend/ml/reports/teaching_index_consistency.json",
+    "reconciliation": "backend/api/reports/practice_bank_reconciliation.json",
+    "topic_quiz_capacity": "backend/api/reports/topic_quiz_capacity.json",
+    "coverage_report": "backend/ml/reports/practice_topic_coverage.json",
+    "import_publish_evidence": "backend/api/reports/practice_republish.json",
+    "demo_e2e": "backend/api/reports/demo_populated_e2e.json",
+    "review_kinds_performed": [
+      "structural_schema",
+      "near_duplicate_jaccard",
+      "boilerplate_grounding_filter",
+      "source_support_heuristic",
+      "distinct_logical_id_check"
+    ],
+    "review_kinds_not_performed": [
+      "teacher_factual_validation",
+      "psychometric_calibration",
+      "official_past_paper_provenance_check"
+    ],
+    "export_before_republish": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\api\\reports\\exports\\published_practice_before_republish_2026-10-15T04-03-51-087Z.json",
+    "reconciliation_531_vs_486": "Pre-fill batch had 531 rows but 45 duplicate questionId::version keys \u2192 486 unique published. Post-fill: 540 distinct published (12\u00d745).",
+    "topics_assignable_12q": {
+      "passed": 45,
+      "failed": 0,
+      "n_topics": 45,
+      "generated_at_utc": "2026-10-15T04:08:27.073Z"
+    },
+    "deficit_fill": {
+      "newly_authored": 145,
+      "topics_meeting_12": 45,
+      "blockers": []
+    }
+  }
+}

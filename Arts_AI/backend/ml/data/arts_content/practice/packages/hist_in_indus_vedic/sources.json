@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "blocked_Indus_Valley_Civilisation",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_vedic_period",
+    "title": "Vedic period",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Vedic_period",
+    "retrieved_at_utc": "2026-10-14T17:24:07.194803+00:00",
+    "edition_or_revision": "pageid=21476772",
+    "subject_id": "sub_history",
+    "topic_id": "hist_in_indus_vedic",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "b09b30ee3d8889e0f516a52e521e360e40196d5cee03a01817688e65f69d7c58",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_rigveda",
+    "title": "Rigveda",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Rigveda",
+    "retrieved_at_utc": "2026-10-14T17:24:08.956755+00:00",
+    "edition_or_revision": "pageid=36692953",
+    "subject_id": "sub_history",
+    "topic_id": "hist_in_indus_vedic",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "d57996adcfeec4216d145ec665dcc31493fde9c146db61b00b0fa36a0004f8b7",
+    "origin": "wikipedia_api"
+  }
+]

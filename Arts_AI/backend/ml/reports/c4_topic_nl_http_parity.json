@@ -1,0 +1,51 @@
+{
+  "generated_at_utc": "2026-10-13T18:32:42.132383+00:00",
+  "serving_run_id": "c4_topic_nl_20261013T105116_04964504",
+  "bundle_run_id": "c4_topic_nl_20261013T105116_04964504",
+  "base_url": "http://127.0.0.1:8000",
+  "n_cases": 5,
+  "n_matched": 5,
+  "all_matched": true,
+  "cases": [
+    {
+      "text": "Summarise chronology and evidence standards in a history unit.",
+      "http_ok": true,
+      "direct": "sub_history_t00",
+      "http": "sub_history_t00",
+      "match": true,
+      "model_version": "c4_topic_nl_20261013T105116_04964504"
+    },
+    {
+      "text": "How do trade routes and markets interact in economics?",
+      "http_ok": true,
+      "direct": "sub_political_t03",
+      "http": "sub_political_t03",
+      "match": true,
+      "model_version": "c4_topic_nl_20261013T105116_04964504"
+    },
+    {
+      "text": "Explain governance institutions and reform movements.",
+      "http_ok": true,
+      "direct": "sub_economics_t02",
+      "http": "sub_economics_t02",
+      "match": true,
+      "model_version": "c4_topic_nl_20261013T105116_04964504"
+    },
+    {
+      "text": "asdf qwerty unrelated junk",
+      "http_ok": true,
+      "direct": "sub_history_t04",
+      "http": "sub_history_t04",
+      "match": true,
+      "model_version": "c4_topic_nl_20261013T105116_04964504"
+    },
+    {
+      "text": "",
+      "http_ok": true,
+      "direct": null,
+      "http": null,
+      "match": true,
+      "http_status": 400
+    }
+  ]
+}

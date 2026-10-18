@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_economic_development",
+    "title": "Economic development",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Economic_development",
+    "retrieved_at_utc": "2026-10-14T17:30:19.356877+00:00",
+    "edition_or_revision": "pageid=148131",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_development",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "a89a8b2786d5e926a22950e054bfbabef4ee4b7f1b374d6c6f35e6a53bcdded5",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_economy_of_sri_lanka",
+    "title": "Economy of Sri Lanka",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Economy_of_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-14T17:30:20.972842+00:00",
+    "edition_or_revision": "pageid=27415",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_development",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "4c129eaf4a9960e8948ce8f38129e1b92256de1d264aad5391b24708401252ae",
+    "origin": "wikipedia_api"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "run_id": "c2_ednet_20261013T120914_a0c32a13",
+  "component": "c2",
+  "task": "ednet_next_answer_correctness",
+  "config_name": "c2_recommendation.yaml",
+  "config": {},
+  "data_hashes": {
+    "features": "9938dd2f896d28073c12a34a8f05132f1bf1b79dad2e8726eee24ecfd9033b39"
+  },
+  "sample_counts": {
+    "train": 45715,
+    "validation": 22468,
+    "test": 15076
+  },
+  "feature_schema": [
+    "hist_count",
+    "hist_accuracy",
+    "hist_accuracy_10",
+    "hist_mean_elapsed",
+    "hist_std_elapsed"
+  ],
+  "split_manifest_path": null,
+  "seeds": {
+    "split": 42
+  },
+  "hyperparameters": {},
+  "dependency_versions": {},
+  "metrics": {
+    "baseline_majority": {
+      "accuracy": 0.6668877686388962,
+      "precision": 0.6668877686388962,
+      "recall": 1.0,
+      "f1": 0.8001591723040191,
+      "roc_auc": 0.5
+    },
+    "logistic_regression": {
+      "accuracy": 0.6723268771557442,
+      "precision": 0.6747300806341396,
+      "recall": 0.9820966779391287,
+      "f1": 0.799902786779002,
+      "roc_auc": 0.5702741733864531
+    },
+    "selected_on_val": "majority_baseline",
+    "selected_test": {
+      "accuracy": 0.6668877686388962,
+      "precision": 0.6668877686388962,
+      "recall": 1.0,
+      "f1": 0.8001591723040191,
+      "roc_auc": 0.5
+    }
+  },
+  "artifact_paths": {
+    "model": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c2\\c2_ednet_20261013T120914_a0c32a13\\correctness_pipeline.joblib",
+    "chart": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c2\\c2_ednet_20261013T120914_a0c32a13\\ednet_correctness.png"
+  },
+  "artifact_hashes": {
+    "model": "7c8a350945d19a998bf67cbec51ed697ca1d5115f7a947b140e11e879ce913b3"
+  },
+  "model_card_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c2\\c2_ednet_20261013T120914_a0c32a13\\model_card.json",
+  "status": "completed",
+  "notes": null,
+  "created_at": "2026-10-13T12:10:38.992471+00:00"
+}

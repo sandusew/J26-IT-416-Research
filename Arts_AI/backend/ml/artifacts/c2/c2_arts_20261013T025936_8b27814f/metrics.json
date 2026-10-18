@@ -1,0 +1,54 @@
+{
+  "data_category": "synthetic_learner",
+  "subjects_provisional": true,
+  "candidate_set_size": 20,
+  "relevance_definition": "simulated open+complete within 7 days OR next-topic prerequisite readiness",
+  "outcome_definition": "simulated learning gain on topic post-assessment (simulation assumption only)",
+  "baseline_random_relevance_rate_test": 0.6939163498098859,
+  "prerequisite_policy": "implemented",
+  "scoring_model_trained": true,
+  "validation": {
+    "n": 1567,
+    "relevance_rate": 0.6898532227185705,
+    "ap": 0.685257211339707,
+    "roc_auc": 0.49106908326766485
+  },
+  "test": {
+    "n": 1578,
+    "relevance_rate": 0.6939163498098859,
+    "ap": 0.6719270222486738,
+    "roc_auc": 0.47725119827561757
+  },
+  "scenario_variations_test": {
+    "cold_start": {
+      "ap": null,
+      "roc_auc": null,
+      "n": 0
+    },
+    "sparse_history": {
+      "n": 85,
+      "relevance_rate": 0.7411764705882353,
+      "ap": 0.7998585966470018,
+      "roc_auc": 0.6255411255411255
+    },
+    "improving": {
+      "n": 274,
+      "relevance_rate": 0.718978102189781,
+      "ap": 0.6928272740738006,
+      "roc_auc": 0.470499044103105
+    },
+    "declining": {
+      "n": 220,
+      "relevance_rate": 0.6363636363636364,
+      "ap": 0.6175010527518996,
+      "roc_auc": 0.44125000000000003
+    },
+    "inactive": {
+      "n": 8,
+      "relevance_rate": 0.75,
+      "ap": 0.732936507936508,
+      "roc_auc": 0.25
+    }
+  },
+  "note": "Results measure ranking under simulation assumptions only. Not real student recommendation effectiveness."
+}

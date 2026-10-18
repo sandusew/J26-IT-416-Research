@@ -1,0 +1,33 @@
+{
+    "status":  "ok",
+    "probability_fail":  0.1800238060291792,
+    "policy_band":  "low",
+    "policy_band_note":  "Policy threshold on probability — not ground-truth label",
+    "model_selected":  "lightgbm",
+    "model_version":  "c3_oulad_20261013T030421_2f6e0ea2",
+    "positive_class":  "Fail",
+    "observation":  {
+                        "observation_start_day":  null,
+                        "observation_end_day":  null,
+                        "required_cutoff_days":  13,
+                        "observation_window_complete":  true,
+                        "data_source":  "oulad_vle",
+                        "n_vle_events_in_window":  40,
+                        "feature_availability":  "complete"
+                    },
+    "features_used":  {
+                          "total_clicks":  120,
+                          "active_days":  8,
+                          "click_regularity_cv":  0.4,
+                          "recency_last_active_day":  2,
+                          "prop_resource":  0.2,
+                          "prop_oucontent":  0.5,
+                          "prop_forumng":  0.1,
+                          "prop_quiz":  0.1,
+                          "prop_other":  0.1,
+                          "num_of_prev_attempts":  0,
+                          "studied_credits":  60
+                      },
+    "zero_activity_observed":  false,
+    "note":  "OULAD Fail outcome; not validated A/L exam prediction"
+}

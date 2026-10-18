@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_constitution_of_sri_lanka",
+    "title": "Constitution of Sri Lanka",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Constitution_of_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-14T17:28:12.031572+00:00",
+    "edition_or_revision": "pageid=5308117",
+    "subject_id": "sub_political",
+    "topic_id": "pol_constitution_1978",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "647d7eeccd7400abfe0cf086fd59122d1f4b89b8000fcebd502e1226bfa705e2",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_sri_lankan_constitution_of_1978",
+    "title": "Constitution of Sri Lanka",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Sri_Lankan_Constitution_of_1978",
+    "retrieved_at_utc": "2026-10-14T17:28:13.371526+00:00",
+    "edition_or_revision": "pageid=5308117",
+    "subject_id": "sub_political",
+    "topic_id": "pol_constitution_1978",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "647d7eeccd7400abfe0cf086fd59122d1f4b89b8000fcebd502e1226bfa705e2",
+    "origin": "wikipedia_api"
+  }
+]

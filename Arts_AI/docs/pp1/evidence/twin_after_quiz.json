@@ -1,0 +1,76 @@
+{
+    "profile":  {
+                    "_id":  "6ad19bfbc0dfc0eed0cb7806",
+                    "studentId":  "demo_s0001",
+                    "profileVersion":  1,
+                    "payload":  {
+                                    "student_id":  "demo_s0001",
+                                    "profile_version":  1,
+                                    "evidence_count":  63,
+                                    "evidence_count_fixture":  0,
+                                    "state":  "ok",
+                                    "data_category":  "synthetic_learner",
+                                    "observed_topic_performance":  {
+                                                                       "hist_sl_rajarata_politics":  {
+                                                                                                         "meanScore":  0.4166666666666667,
+                                                                                                         "nAttempts":  12,
+                                                                                                         "provenance":  "server_quiz_attempts_authentic"
+                                                                                                     },
+                                                                       "geo_climate":  {
+                                                                                           "meanScore":  0.4166666666666667,
+                                                                                           "nAttempts":  12,
+                                                                                           "provenance":  "server_quiz_attempts_authentic"
+                                                                                       },
+                                                                       "pol_forms_gov":  {
+                                                                                             "meanScore":  0.4166666666666667,
+                                                                                             "nAttempts":  12,
+                                                                                             "provenance":  "server_quiz_attempts_authentic"
+                                                                                         },
+                                                                       "eco_demand_supply":  {
+                                                                                                 "meanScore":  0.4166666666666667,
+                                                                                                 "nAttempts":  12,
+                                                                                                 "provenance":  "server_quiz_attempts_authentic"
+                                                                                             },
+                                                                       "hist_sl_sources":  {
+                                                                                               "meanScore":  0.6,
+                                                                                               "nAttempts":  5,
+                                                                                               "provenance":  "server_quiz_attempts_authentic"
+                                                                                           },
+                                                                       "hist_sl_geography":  {
+                                                                                                 "meanScore":  0.4,
+                                                                                                 "nAttempts":  5,
+                                                                                                 "provenance":  "server_quiz_attempts_authentic"
+                                                                                             },
+                                                                       "hist_sl_prehistoric":  {
+                                                                                                   "meanScore":  0.4,
+                                                                                                   "nAttempts":  5,
+                                                                                                   "provenance":  "server_quiz_attempts_authentic"
+                                                                                               }
+                                                                   },
+                                    "estimated_mastery":  null,
+                                    "estimated_mastery_method":  "not_computed_insufficient_local_labels",
+                                    "weak_topics":  [
+                                                        "hist_sl_rajarata_politics",
+                                                        "geo_climate",
+                                                        "pol_forms_gov",
+                                                        "eco_demand_supply",
+                                                        "hist_sl_geography",
+                                                        "hist_sl_prehistoric"
+                                                    ],
+                                    "distinctions":  {
+                                                         "observed_performance":  "authentic quiz attempts only (isTestFixture=false)",
+                                                         "fixture_performance":  "separate; never mixed into authentic Twin fields",
+                                                         "estimated_mastery":  "not claimed as validated cognitive mastery",
+                                                         "behaviour_cluster":  "not written from Model Explorer public-data demos"
+                                                     },
+                                    "note":  "Observed scores from quiz attempts — not validated cognitive mastery",
+                                    "source":  "canonical_quiz_submission",
+                                    "cluster_id":  null
+                                },
+                    "dataCategory":  "synthetic_learner",
+                    "createdAt":  "2026-10-16T03:37:31.615Z",
+                    "updatedAt":  "2026-10-16T03:37:31.615Z",
+                    "__v":  0
+                },
+    "persistent":  true
+}

@@ -1,0 +1,92 @@
+{
+  "tested_at": "2026-10-13T18:32:40.548Z",
+  "ml_inference_url": "http://127.0.0.1:8000",
+  "ml_ready": {
+    "ready": true,
+    "missing": [],
+    "serving": {
+      "topic_classifier": {
+        "run_id": "c4_topic_nl_20261013T105116_04964504",
+        "task": "closed_set_topic_classification_nl",
+        "artifact_file": "topic_nl_classifier.joblib",
+        "n_classes": 35,
+        "marker_historical_loaded": true,
+        "scope": "generated_content_closed_set_evaluation"
+      },
+      "c2_rank": {
+        "loaded": true,
+        "run_id": "c2_rank_rev_20261013T105157_40d91e8c"
+      },
+      "knowledge_fixture_index": {
+        "loaded": true,
+        "corpus_mode": "generated_fixture",
+        "n_chunks": 40
+      },
+      "knowledge_domain_index": {
+        "loaded": true,
+        "corpus_version": "c4_index_20261013T183122_38bd2862",
+        "n_chunks": 63,
+        "status": "ready"
+      }
+    },
+    "providers": {
+      "meeting_integration": {
+        "env_flag": "unconfigured",
+        "provider_name": null,
+        "configured_flag": false,
+        "credentials_present": false,
+        "tested_env_flag": false,
+        "smoke_tested": false,
+        "smoke_path": null,
+        "tested": false,
+        "status": "unconfigured",
+        "note": "MEETING_INTEGRATION=configured alone does not mean a provider was tested. Require MEETING_PROVIDER + credentials + backend/api/reports/meeting_smoke_test.json written only after a real provider call (MEETING_PROVIDER_TESTED alone is insufficient)."
+      },
+      "llm_auto_download": false,
+      "generation": {
+        "provider": "none",
+        "enabled": false,
+        "model_name": null,
+        "disk_free_gb": 97.91,
+        "ram_gb": 15.83,
+        "ready": false,
+        "blocker": "generation_disabled_using_extractive_template"
+      },
+      "generation_mode_default": "extractive_template"
+    },
+    "note": "Training is separate from API startup; missing items reported accurately"
+  },
+  "login_status": 200,
+  "default_policy": {
+    "status": 200,
+    "policyMode": "prerequisite_aware",
+    "trainedScorerUsed": false
+  },
+  "trained_ranker": {
+    "status": 200,
+    "policyMode": "trained_ranker",
+    "trainedScorerUsed": true,
+    "modelVersion": "c2_rank_rev_20261013T105157_40d91e8c",
+    "fallbackReason": null,
+    "nEligible": 4,
+    "nRecommendations": 4,
+    "sampleScores": [
+      {
+        "resourceId": "sub_history_t00_r1",
+        "score": 0.5803423275340323,
+        "rank": 1
+      },
+      {
+        "resourceId": "sub_history_t00_r0",
+        "score": 0.5415152333660095,
+        "rank": 2
+      },
+      {
+        "resourceId": "sub_history_t00_r2",
+        "score": 0.5285088211725372,
+        "rank": 3
+      }
+    ]
+  },
+  "pass": true
+}

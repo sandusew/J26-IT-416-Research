@@ -1,0 +1,140 @@
+{
+  "topic_id": "eco_intl_trade",
+  "subject_id": "sub_economics",
+  "topic_title": "International trade and finance",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "International trade is the exchange of capital, goods, and services across international borders or territories because there is a need or demand for goods or services. \nIn most countries, such trade represents a significant share of gross domestic product (GDP). While international trade has existed throughout history (for example Uttarapatha, Silk Road, Amber Road, salt roads), its economic, social, and political importance has been on the rise in recent centuries.\nCarrying out trade at an international level is a complex process when compared to domestic trade. When trade takes place between two or more states, factors like currency, government policies, economy, judicial system, laws, and markets influence trade.\nTo ease and justify the process of trade between countries of different economic standing in the modern era, some international economic organizations were formed, such as the World Trade Organization. These organizations work towards the facilitation and growth of international trade. Statistical services of intergovernmental and supranational organizations and governmental statistical agencies publish official statistics on international trade.\n\nInternational trade is, not different from domestic trade as the motivation and the behavior of parties involved in a trade do not change fundamentally regardless of whether trade is across a border or not.\nHowever, in practical terms, It carrying out trade at an international level is typically a more complex process than domestic trade. The main difference is that international trade is typically more costly than domestic trade. This is due to the fact that cross-border trade typically incurs additional costs such as explicit tariffs as well as explicit or implicit cost  non-tariff barriers such as time costs (due to border delays), language and cultural differences, product safety, the legal system, and so on.\nAnother difference between domestic and international trade is that factors of production such as capital and labor are often more mobile within a country than across countries. Thus, international trade is mostly restricted to trade in goods and services, and only to a lesser extent to trade in capital, labour, or other factors of production. Trade in goods and services can serve as a substitute for trade in factors of production. Instead of importing a factor of production, a country can import goods that make intensive use of that factor of production and thus embody it. An example of this is the import of labor-intensive goods by the United States from China. Instead of importing Chinese labor, the United States imports goods that were produced with Chinese labor. One report in 2010, suggested that international trade was increased when a country hosted a network of immigrants, but the trade effect was weakened when the immigrants became assimilated into their new country.",
+      "source_ids": [
+        "wiki_en_international_trade"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/International_trade"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "A product that is transferred or sold from a party in one country to a party in another country is an export from the originating country, and an import to the country receiving that product.  Imports and exports are accounted for in a country's current account in the balance of payments.\nTrading globally may give consumers and countries the opportunity to be exposed to new markets and  products. Almost every kind of product can be found in the international market, for example: food, clothes, spare parts, oil, jewellery, wine, stocks, currencies, and water. Services are also traded, such as in tourism, banking, consulting, and transportation.\n\nThe history of international trade chronicles notable events that have affected trading among various economies.",
+      "source_ids": [
+        "wiki_en_comparative_advantage"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Comparative_advantage"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Advanced technology (including transportation), globalization, industrialization, outsourcing and multinational corporations have major impacts on the international trade systems.\n\nThere are several models that seek to explain the factors behind international trade, the welfare consequences of trade and the pattern of trade.",
+      "source_ids": [
+        "wiki_en_balance_of_trade"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Balance_of_trade"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "International trade",
+      "definition": "International trade is the exchange of capital, goods, and services across international borders or territories because there is a need or demand for goods or services.",
+      "source_ids": [
+        "wiki_en_international_trade"
+      ]
+    },
+    {
+      "term": "Comparative advantage",
+      "definition": "Comparative advantage differs from absolute advantage, which concerns being more productive overall, and competitive advantage, which concerns outperforming rivals in a marketplace.",
+      "source_ids": [
+        "wiki_en_international_trade"
+      ]
+    },
+    {
+      "term": "Balance of trade",
+      "definition": "[Extract truncated.]\n\nBalance of trade is the difference between the monetary value of a nation's exports and imports of goods over a certain time period.",
+      "source_ids": [
+        "wiki_en_international_trade"
+      ]
+    },
+    {
+      "term": "International",
+      "definition": "International trade is the exchange of capital, goods, and services across international borders or territories because there is a need or demand for goods or services.",
+      "source_ids": [
+        "wiki_en_international_trade"
+      ]
+    },
+    {
+      "term": "trade",
+      "definition": "International trade is the exchange of capital, goods, and services across international borders or territories because there is a need or demand for goods or services.",
+      "source_ids": [
+        "wiki_en_international_trade"
+      ]
+    },
+    {
+      "term": "finance",
+      "definition": "finance: a key idea for International trade and finance (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_international_trade"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_international_trade",
+    "wiki_en_comparative_advantage",
+    "wiki_en_balance_of_trade"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_international_trade",
+      "title": "International trade",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/International_trade",
+      "retrieved_at_utc": "2026-10-14T17:30:14.887321+00:00",
+      "edition_or_revision": "pageid=14567",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_intl_trade",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "2dd64da22e8c2a39d4bd87bf12f4d357381fbec7f1a139e61e002abbf0bb1d87",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_comparative_advantage",
+      "title": "Comparative advantage",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+      "retrieved_at_utc": "2026-10-14T17:30:16.413393+00:00",
+      "edition_or_revision": "pageid=62018",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_intl_trade",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "4fa173ec324bb43a63386676f6e609c5495620c9701041ff04b68a2d5a442e02",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_balance_of_trade",
+      "title": "Balance of trade",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Balance_of_trade",
+      "retrieved_at_utc": "2026-10-14T17:30:17.828846+00:00",
+      "edition_or_revision": "pageid=4810",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_intl_trade",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "f682eb03206cd1dc82c400174e037081c959a98edfc529fba3df08d4fe586957",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "b15739473155258c65ff949d2441f2f3da8d92d556335422bef9a5b9df94a109",
+  "authored_at_utc": "2026-10-14T17:30:18.484995+00:00"
+}

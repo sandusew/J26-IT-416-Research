@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_pol_ideologies_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Liberalism",
+      "Socialism",
+      "Explanations",
+      "Political ideology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Political ideology"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_liberalism). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_liberalism",
+    "sourceIds": [
+      "wiki_en_liberalism"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_liberalism",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «The term carries negative connotations, often referring to someone who is blindly partisan, zealous, or fanatical in their beliefs.»?",
+    "options": [
+      "Socialism",
+      "connotations",
+      "Political ideology",
+      "Liberalism"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "connotations"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Liberalism"
+      }
+    ],
+    "correctAnswerOrRubric": "connotations",
+    "explanation": "Source-grounded AI practice item. The passage supports «connotations». Full sentence: The term carries negative connotations, often referring to someone who is blindly partisan, zealous, or fanatical in their beliefs. (source_id=wiki_en_socialism). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_socialism",
+    "sourceIds": [
+      "wiki_en_socialism"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_socialism",
+        "passage": "The term carries negative connotations, often referring to someone who is blindly partisan, zealous, or fanatical in their beliefs."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «In political science, the term is used in a descriptive sense to refer to political belief systems.»?",
+    "options": [
+      "descriptive",
+      "Political ideology",
+      "Liberalism",
+      "Socialism"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "descriptive"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Socialism"
+      }
+    ],
+    "correctAnswerOrRubric": "descriptive",
+    "explanation": "Source-grounded AI practice item. The passage supports «descriptive». Full sentence: In political science, the term is used in a descriptive sense to refer to political belief systems. (source_id=wiki_en_political_ideology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_ideology",
+    "sourceIds": [
+      "wiki_en_political_ideology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_ideology",
+        "passage": "In political science, the term is used in a descriptive sense to refer to political belief systems."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «The term ideology and the system of ideas associated with it were developed in 1796 by Antoine Destutt de Tracy (1754–1836), who crystallised his ideas while in prison (November 1793 to October 1794) …»?",
+    "options": [
+      "Political ideology",
+      "Liberalism",
+      "Socialism",
+      "Antoine Destutt"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Antoine Destutt"
+      }
+    ],
+    "correctAnswerOrRubric": "Antoine Destutt",
+    "explanation": "Source-grounded AI practice item. The passage supports «Antoine Destutt». Full sentence: The term ideology and the system of ideas associated with it were developed in 1796 by Antoine Destutt de Tracy (1754–1836), who crystallised his ideas while in prison (November 1793 to October 1794) pending trial during the Reign of Terror of c. (source_id=wiki_en_political_ideology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_ideology",
+    "sourceIds": [
+      "wiki_en_political_ideology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_ideology",
+        "passage": "The term ideology and the system of ideas associated with it were developed in 1796 by Antoine Destutt de Tracy (1754–1836), who crystallised his ideas while in prison (November 1793 to October 1794) pending trial during the Reign of Terror of c."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «While imprisoned he read the works of Locke and Étienne Bonnot de Condillac.»?",
+    "options": [
+      "Liberalism",
+      "Socialism",
+      "While",
+      "Political ideology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "While"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Political ideology"
+      }
+    ],
+    "correctAnswerOrRubric": "While",
+    "explanation": "Source-grounded AI practice item. The passage supports «While». Full sentence: While imprisoned he read the works of Locke and Étienne Bonnot de Condillac. (source_id=wiki_en_liberalism). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_liberalism",
+    "sourceIds": [
+      "wiki_en_liberalism"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_liberalism",
+        "passage": "While imprisoned he read the works of Locke and Étienne Bonnot de Condillac."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «It was coined in 1796 by the French thinker Destutt de Tracy, and the term \"ideology\" originally denoted the \"science of ideas\".»?",
+    "options": [
+      "Socialism",
+      "French",
+      "Political ideology",
+      "Liberalism"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "French"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Liberalism"
+      }
+    ],
+    "correctAnswerOrRubric": "French",
+    "explanation": "Source-grounded AI practice item. The passage supports «French». Full sentence: It was coined in 1796 by the French thinker Destutt de Tracy, and the term \"ideology\" originally denoted the \"science of ideas\". (source_id=wiki_en_socialism). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_socialism",
+    "sourceIds": [
+      "wiki_en_socialism"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_socialism",
+        "passage": "It was coined in 1796 by the French thinker Destutt de Tracy, and the term \"ideology\" originally denoted the \"science of ideas\"."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «By 1907, however, the term had acquired a new sense in English, referring to a comprehensive framework of beliefs and doctrines that serves as a lens for interpreting the world.»?",
+    "options": [
+      "English",
+      "Political ideology",
+      "Liberalism",
+      "Socialism"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "English"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Socialism"
+      }
+    ],
+    "correctAnswerOrRubric": "English",
+    "explanation": "Source-grounded AI practice item. The passage supports «English». Full sentence: By 1907, however, the term had acquired a new sense in English, referring to a comprehensive framework of beliefs and doctrines that serves as a lens for interpreting the world. (source_id=wiki_en_political_ideology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_ideology",
+    "sourceIds": [
+      "wiki_en_political_ideology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_ideology",
+        "passage": "By 1907, however, the term had acquired a new sense in English, referring to a comprehensive framework of beliefs and doctrines that serves as a lens for interpreting the world."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «Over time the sense of the term grew even broader, eventually coming to describe any coherent system of political, social, or cultural ideas.»?",
+    "options": [
+      "Political ideology",
+      "Liberalism",
+      "Socialism",
+      "Over"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Over"
+      }
+    ],
+    "correctAnswerOrRubric": "Over",
+    "explanation": "Source-grounded AI practice item. The passage supports «Over». Full sentence: Over time the sense of the term grew even broader, eventually coming to describe any coherent system of political, social, or cultural ideas. (source_id=wiki_en_political_ideology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_ideology",
+    "sourceIds": [
+      "wiki_en_political_ideology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_ideology",
+        "passage": "Over time the sense of the term grew even broader, eventually coming to describe any coherent system of political, social, or cultural ideas."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «Tracy conceived of ideology as a liberal philosophy that would defend individual liberty, property, free markets, and constitutional limits on state power.»?",
+    "options": [
+      "Liberalism",
+      "Socialism",
+      "Tracy",
+      "Political ideology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Tracy"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Political ideology"
+      }
+    ],
+    "correctAnswerOrRubric": "Tracy",
+    "explanation": "Source-grounded AI practice item. The passage supports «Tracy». Full sentence: Tracy conceived of ideology as a liberal philosophy that would defend individual liberty, property, free markets, and constitutional limits on state power. (source_id=wiki_en_liberalism). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_liberalism",
+    "sourceIds": [
+      "wiki_en_liberalism"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_liberalism",
+        "passage": "Tracy conceived of ideology as a liberal philosophy that would defend individual liberty, property, free markets, and constitutional limits on state power."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «He argues that, among these aspects, ideology is the most generic term because the 'science of ideas' also contains the study of their expression and deduction.»?",
+    "options": [
+      "Socialism",
+      "these",
+      "Political ideology",
+      "Liberalism"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "these"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Liberalism"
+      }
+    ],
+    "correctAnswerOrRubric": "these",
+    "explanation": "Source-grounded AI practice item. The passage supports «these». Full sentence: He argues that, among these aspects, ideology is the most generic term because the 'science of ideas' also contains the study of their expression and deduction. (source_id=wiki_en_socialism). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_socialism",
+    "sourceIds": [
+      "wiki_en_socialism"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_socialism",
+        "passage": "He argues that, among these aspects, ideology is the most generic term because the 'science of ideas' also contains the study of their expression and deduction."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «During the 20th century, liberal ideas spread further, especially in Western Europe, as liberal democracies were among the victors in both world wars and the Cold War.»?",
+    "options": [
+      "During",
+      "Political ideology",
+      "Liberalism",
+      "Socialism"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "During"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Socialism"
+      }
+    ],
+    "correctAnswerOrRubric": "During",
+    "explanation": "Source-grounded AI practice item. The passage supports «During». Full sentence: During the 20th century, liberal ideas spread further, especially in Western Europe, as liberal democracies were among the victors in both world wars and the Cold War. (source_id=wiki_en_political_ideology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_ideology",
+    "sourceIds": [
+      "wiki_en_political_ideology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_ideology",
+        "passage": "During the 20th century, liberal ideas spread further, especially in Western Europe, as liberal democracies were among the victors in both world wars and the Cold War."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_ideologies_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_ideologies",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Political ideologies, which term or name is supported by this passage: «Liberals sought and established a constitutional order that prized important individual freedoms, such as freedom of speech and freedom of association; an independent judiciary and public trial by jur…»?",
+    "options": [
+      "Political ideology",
+      "Liberalism",
+      "Socialism",
+      "Liberals"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Political ideology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Liberalism"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Socialism"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Liberals"
+      }
+    ],
+    "correctAnswerOrRubric": "Liberals",
+    "explanation": "Source-grounded AI practice item. The passage supports «Liberals». Full sentence: Liberals sought and established a constitutional order that prized important individual freedoms, such as freedom of speech and freedom of association; an independent judiciary and public trial by jury; and the abolition of aristocratic privileges. (source_id=wiki_en_political_ideology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_ideology",
+    "sourceIds": [
+      "wiki_en_political_ideology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_ideology",
+        "passage": "Liberals sought and established a constitutional order that prized important individual freedoms, such as freedom of speech and freedom of association; an independent judiciary and public trial by jury; and the abolition of aristocratic privileges."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

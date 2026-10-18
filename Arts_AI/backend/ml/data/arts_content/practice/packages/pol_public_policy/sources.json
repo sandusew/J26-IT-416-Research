@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_public_policy",
+    "title": "Public policy",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Public_policy",
+    "retrieved_at_utc": "2026-10-14T17:31:46.575855+00:00",
+    "edition_or_revision": "pageid=153324",
+    "subject_id": "sub_political",
+    "topic_id": "pol_public_policy",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "a129d30e7adbc0ae8f8293fd34960dceaf75965b1798293e2b162caca6a480b0",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_policy_analysis",
+    "title": "Policy analysis",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Policy_analysis",
+    "retrieved_at_utc": "2026-10-14T17:31:48.051925+00:00",
+    "edition_or_revision": "pageid=639389",
+    "subject_id": "sub_political",
+    "topic_id": "pol_public_policy",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "fa2b163ecd587323e5ad9763fef90be37ab30b42658c25bad6bf0291340b8ea6",
+    "origin": "wikipedia_api"
+  }
+]

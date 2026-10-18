@@ -1,0 +1,732 @@
+[
+  {
+    "questionId": "prac_hist_sl_sources_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Mahavamsa",
+      "Culavamsa",
+      "Explanations",
+      "Historiography of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mahavamsa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Historiography of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_mahavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahavamsa",
+    "sourceIds": [
+      "wiki_en_mahavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahavamsa",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «Mahāvaṃsa (Pali: මහාවංස, romanized: Mahāvaṃsa) is the historical chronicle of Sri Lanka until the period of Mahasena of Anuradhapura.»?",
+    "options": [
+      "Culavamsa",
+      "Pali",
+      "Historiography of Sri Lanka",
+      "Mahavamsa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Pali"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Historiography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mahavamsa"
+      }
+    ],
+    "correctAnswerOrRubric": "Pali",
+    "explanation": "Source-grounded AI practice item. The passage supports «Pali». Full sentence: Mahāvaṃsa (Pali: මහාවංස, romanized: Mahāvaṃsa) is the historical chronicle of Sri Lanka until the period of Mahasena of Anuradhapura. (source_id=wiki_en_culavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_culavamsa",
+    "sourceIds": [
+      "wiki_en_culavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_culavamsa",
+        "passage": "Mahāvaṃsa (Pali: මහාවංස, romanized: Mahāvaṃsa) is the historical chronicle of Sri Lanka until the period of Mahasena of Anuradhapura."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «It was written in the style of an epic poem written in the Pali language.»?",
+    "options": [
+      "Pali",
+      "Historiography of Sri Lanka",
+      "Mahavamsa",
+      "Culavamsa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Pali"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Historiography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Mahavamsa"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Culavamsa"
+      }
+    ],
+    "correctAnswerOrRubric": "Pali",
+    "explanation": "Source-grounded AI practice item. The passage supports «Pali». Full sentence: It was written in the style of an epic poem written in the Pali language. (source_id=wiki_en_mahavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahavamsa",
+    "sourceIds": [
+      "wiki_en_mahavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahavamsa",
+        "passage": "It was written in the style of an epic poem written in the Pali language."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «It relates the history of Sri Lanka from its legendary beginnings up to the reign of Mahasena of Anuradhapura covering the period between the arrival of Prince Vijaya from India in 543 BCE to his reig…»?",
+    "options": [
+      "Historiography of Sri Lanka",
+      "Mahavamsa",
+      "Culavamsa",
+      "Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Historiography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Mahavamsa"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: It relates the history of Sri Lanka from its legendary beginnings up to the reign of Mahasena of Anuradhapura covering the period between the arrival of Prince Vijaya from India in 543 BCE to his reign and later updated by different writers. (source_id=wiki_en_culavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_culavamsa",
+    "sourceIds": [
+      "wiki_en_culavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_culavamsa",
+        "passage": "It relates the history of Sri Lanka from its legendary beginnings up to the reign of Mahasena of Anuradhapura covering the period between the arrival of Prince Vijaya from India in 543 BCE to his reign and later updated by different writers."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «It was first composed by a Buddhist monk named Mahānāma at the Mahavihāraya Temple in Anuradhapura in the 5th or 6th-century.»?",
+    "options": [
+      "Mahavamsa",
+      "Culavamsa",
+      "Buddhist",
+      "Historiography of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mahavamsa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Buddhist"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Historiography of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Buddhist",
+    "explanation": "Source-grounded AI practice item. The passage supports «Buddhist». Full sentence: It was first composed by a Buddhist monk named Mahānāma at the Mahavihāraya Temple in Anuradhapura in the 5th or 6th-century. (source_id=wiki_en_mahavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahavamsa",
+    "sourceIds": [
+      "wiki_en_mahavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahavamsa",
+        "passage": "It was first composed by a Buddhist monk named Mahānāma at the Mahavihāraya Temple in Anuradhapura in the 5th or 6th-century."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «Eugène Burnouf produced a Romanized transliteration and translation into Latin in 1826, but these garnered relatively little attention.»?",
+    "options": [
+      "Mahavamsa",
+      "Culavamsa",
+      "Burnouf",
+      "Historiography of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mahavamsa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Burnouf"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Historiography of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Burnouf",
+    "explanation": "Source-grounded AI practice item. The passage supports «Burnouf». Full sentence: Eugène Burnouf produced a Romanized transliteration and translation into Latin in 1826, but these garnered relatively little attention. (source_id=wiki_en_mahavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahavamsa",
+    "sourceIds": [
+      "wiki_en_mahavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahavamsa",
+        "passage": "Eugène Burnouf produced a Romanized transliteration and translation into Latin in 1826, but these garnered relatively little attention."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «The first printed edition and widely read English translation was published in 1837 by George Turnour, a historian and officer of the Ceylon Civil Service who translated 38 chapters.»?",
+    "options": [
+      "Culavamsa",
+      "English",
+      "Historiography of Sri Lanka",
+      "Mahavamsa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "English"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Historiography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mahavamsa"
+      }
+    ],
+    "correctAnswerOrRubric": "English",
+    "explanation": "Source-grounded AI practice item. The passage supports «English». Full sentence: The first printed edition and widely read English translation was published in 1837 by George Turnour, a historian and officer of the Ceylon Civil Service who translated 38 chapters. (source_id=wiki_en_culavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_culavamsa",
+    "sourceIds": [
+      "wiki_en_culavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_culavamsa",
+        "passage": "The first printed edition and widely read English translation was published in 1837 by George Turnour, a historian and officer of the Ceylon Civil Service who translated 38 chapters."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Sources for Sri Lankan history: «Sources for Sri Lankan history can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Sources for Sri Lankan history. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahavamsa",
+    "sourceIds": [
+      "wiki_en_mahavamsa",
+      "wiki_en_culavamsa"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «It was written based on prior ancient compilations known as the Atthakatha (sometimes Sinhalaatthakatha), which were commentaries written in Sinhala.»?",
+    "options": [
+      "Atthakatha",
+      "Historiography of Sri Lanka",
+      "Mahavamsa",
+      "Culavamsa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Atthakatha"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Historiography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Mahavamsa"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Culavamsa"
+      }
+    ],
+    "correctAnswerOrRubric": "Atthakatha",
+    "explanation": "Source-grounded AI practice item. The passage supports «Atthakatha». Full sentence: It was written based on prior ancient compilations known as the Atthakatha (sometimes Sinhalaatthakatha), which were commentaries written in Sinhala. (source_id=wiki_en_mahavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahavamsa",
+    "sourceIds": [
+      "wiki_en_mahavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahavamsa",
+        "passage": "It was written based on prior ancient compilations known as the Atthakatha (sometimes Sinhalaatthakatha), which were commentaries written in Sinhala."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «An earlier document known as the Dipavamsa (4th century CE) \"Chronicles of the Island\" is much simpler and contains less information than the Mahavamsa and was probably compiled using the Atthakatha o…»?",
+    "options": [
+      "Historiography of Sri Lanka",
+      "Mahavamsa",
+      "Culavamsa",
+      "Dipavamsa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Historiography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Mahavamsa"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Dipavamsa"
+      }
+    ],
+    "correctAnswerOrRubric": "Dipavamsa",
+    "explanation": "Source-grounded AI practice item. The passage supports «Dipavamsa». Full sentence: An earlier document known as the Dipavamsa (4th century CE) \"Chronicles of the Island\" is much simpler and contains less information than the Mahavamsa and was probably compiled using the Atthakatha on the Mahavamsa as well. (source_id=wiki_en_culavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_culavamsa",
+    "sourceIds": [
+      "wiki_en_culavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_culavamsa",
+        "passage": "An earlier document known as the Dipavamsa (4th century CE) \"Chronicles of the Island\" is much simpler and contains less information than the Mahavamsa and was probably compiled using the Atthakatha on the Mahavamsa as well."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «Authorship of the Mahavamsa is attributed to an otherwise unknown monk called Mahānāma by the Mahavamsa-tika.»?",
+    "options": [
+      "Mahavamsa",
+      "Culavamsa",
+      "Authorship",
+      "Historiography of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mahavamsa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Authorship"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Historiography of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Authorship",
+    "explanation": "Source-grounded AI practice item. The passage supports «Authorship». Full sentence: Authorship of the Mahavamsa is attributed to an otherwise unknown monk called Mahānāma by the Mahavamsa-tika. (source_id=wiki_en_mahavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahavamsa",
+    "sourceIds": [
+      "wiki_en_mahavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahavamsa",
+        "passage": "Authorship of the Mahavamsa is attributed to an otherwise unknown monk called Mahānāma by the Mahavamsa-tika."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_sources_q09",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Sri Lankan history, which term or name is supported by this passage: «Mahānāma is described as residing in a monastery belonging to general Dighasanda and affiliated with the Mahavihara, but no other reliable biographical information is known.»?",
+    "options": [
+      "Culavamsa",
+      "Dighasanda",
+      "Historiography of Sri Lanka",
+      "Mahavamsa"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Culavamsa"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Dighasanda"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Historiography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mahavamsa"
+      }
+    ],
+    "correctAnswerOrRubric": "Dighasanda",
+    "explanation": "Source-grounded AI practice item. The passage supports «Dighasanda». Full sentence: Mahānāma is described as residing in a monastery belonging to general Dighasanda and affiliated with the Mahavihara, but no other reliable biographical information is known. (source_id=wiki_en_culavamsa). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_culavamsa",
+    "sourceIds": [
+      "wiki_en_culavamsa"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_culavamsa",
+        "passage": "Mahānāma is described as residing in a monastery belonging to general Dighasanda and affiliated with the Mahavihara, but no other reliable biographical information is known."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

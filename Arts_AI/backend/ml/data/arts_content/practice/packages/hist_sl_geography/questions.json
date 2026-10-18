@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_hist_sl_geography_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Geographical",
+      "factors",
+      "Explanations",
+      "Geography of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "factors"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geography of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes.»?",
+    "options": [
+      "factors",
+      "Sri Lanka",
+      "Geography of Sri Lanka",
+      "Geographical"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "factors"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geographical"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water.»?",
+    "options": [
+      "square",
+      "Geography of Sri Lanka",
+      "Geographical",
+      "factors"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "square"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "factors"
+      }
+    ],
+    "correctAnswerOrRubric": "square",
+    "explanation": "Source-grounded AI practice item. The passage supports «square». Full sentence: The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania.»?",
+    "options": [
+      "Geography of Sri Lanka",
+      "Geographical",
+      "factors",
+      "Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "factors"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480.»?",
+    "options": [
+      "According",
+      "Geography of Sri Lanka",
+      "Geographical",
+      "factors"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "According"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "factors"
+      }
+    ],
+    "correctAnswerOrRubric": "According",
+    "explanation": "Source-grounded AI practice item. The passage supports «According». Full sentence: According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama.»?",
+    "options": [
+      "Geography of Sri Lanka",
+      "Geographical",
+      "factors",
+      "Rama"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "factors"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Rama"
+      }
+    ],
+    "correctAnswerOrRubric": "Rama",
+    "explanation": "Source-grounded AI practice item. The passage supports «Rama». Full sentence: The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October).»?",
+    "options": [
+      "Geographical",
+      "factors",
+      "Sri Lanka",
+      "Geography of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "factors"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geography of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October). (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "Sri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior.»?",
+    "options": [
+      "factors",
+      "rolling",
+      "Geography of Sri Lanka",
+      "Geographical"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "factors"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "rolling"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geographical"
+      }
+    ],
+    "correctAnswerOrRubric": "rolling",
+    "explanation": "Source-grounded AI practice item. The passage supports «rolling». Full sentence: Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «Beginning about 200 million years ago, forces within the Earth's mantle began to separate the lands of the Southern Hemisphere, and a crustal plate supporting both India and Sri Lanka moved toward the…»?",
+    "options": [
+      "Beginning",
+      "Geography of Sri Lanka",
+      "Geographical",
+      "factors"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Beginning"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "factors"
+      }
+    ],
+    "correctAnswerOrRubric": "Beginning",
+    "explanation": "Source-grounded AI practice item. The passage supports «Beginning». Full sentence: Beginning about 200 million years ago, forces within the Earth's mantle began to separate the lands of the Southern Hemisphere, and a crustal plate supporting both India and Sri Lanka moved toward the northeast. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "Beginning about 200 million years ago, forces within the Earth's mantle began to separate the lands of the Southern Hemisphere, and a crustal plate supporting both India and Sri Lanka moved toward the northeast."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «About 45 million years ago, the Indian plate collided with the Asian landmass, raising the Himalayas in northern India, and it continues to advance slowly to the present time.»?",
+    "options": [
+      "Geography of Sri Lanka",
+      "Geographical",
+      "factors",
+      "About"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "factors"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "About"
+      }
+    ],
+    "correctAnswerOrRubric": "About",
+    "explanation": "Source-grounded AI practice item. The passage supports «About». Full sentence: About 45 million years ago, the Indian plate collided with the Asian landmass, raising the Himalayas in northern India, and it continues to advance slowly to the present time. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "About 45 million years ago, the Indian plate collided with the Asian landmass, raising the Himalayas in northern India, and it continues to advance slowly to the present time."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q07",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «The island contains relatively limited strata of sedimentation surrounding its ancient uplands.»?",
+    "options": [
+      "factors",
+      "relatively",
+      "Geography of Sri Lanka",
+      "Geographical"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "factors"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "relatively"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geographical"
+      }
+    ],
+    "correctAnswerOrRubric": "relatively",
+    "explanation": "Source-grounded AI practice item. The passage supports «relatively». Full sentence: The island contains relatively limited strata of sedimentation surrounding its ancient uplands. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "The island contains relatively limited strata of sedimentation surrounding its ancient uplands."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_geography_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geographical factors in Sri Lankan history, which term or name is supported by this passage: «The northwest coast is part of the deep Cauvery (Kaveri) River Basin of southeast India, which has been collecting sediments from the highlands of India and Sri Lanka since the breakup of Gondwanaland…»?",
+    "options": [
+      "Cauvery",
+      "Geography of Sri Lanka",
+      "Geographical",
+      "factors"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Cauvery"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geography of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geographical"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "factors"
+      }
+    ],
+    "correctAnswerOrRubric": "Cauvery",
+    "explanation": "Source-grounded AI practice item. The passage supports «Cauvery». Full sentence: The northwest coast is part of the deep Cauvery (Kaveri) River Basin of southeast India, which has been collecting sediments from the highlands of India and Sri Lanka since the breakup of Gondwanaland. (source_id=wiki_en_geography_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_geography_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_sri_lanka",
+        "passage": "The northwest coast is part of the deep Cauvery (Kaveri) River Basin of southeast India, which has been collecting sediments from the highlands of India and Sri Lanka since the breakup of Gondwanaland."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

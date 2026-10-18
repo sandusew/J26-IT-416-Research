@@ -1,0 +1,41 @@
+﻿{
+    "ready":  true,
+    "missing":  [
+
+                ],
+    "serving":  {
+                    "topic_classifier":  {
+                                             "run_id":  "c4_topic_nl_20261013T105116_04964504",
+                                             "task":  "closed_set_topic_classification_nl",
+                                             "artifact_file":  "topic_nl_classifier.joblib",
+                                             "n_classes":  35,
+                                             "marker_historical_loaded":  true
+                                         },
+                    "c2_rank":  {
+                                    "loaded":  true,
+                                    "run_id":  "c2_rank_rev_20261013T105157_40d91e8c"
+                                }
+                },
+    "providers":  {
+                      "meeting_integration":  {
+                                                  "env_flag":  "unconfigured",
+                                                  "provider_name":  null,
+                                                  "configured_flag":  false,
+                                                  "tested":  false,
+                                                  "status":  "unconfigured",
+                                                  "note":  "MEETING_INTEGRATION=configured alone does not mean a provider was tested. Set MEETING_PROVIDER and MEETING_PROVIDER_TESTED=true only after a real smoke test."
+                                              },
+                      "llm_auto_download":  false,
+                      "generation":  {
+                                         "provider":  "none",
+                                         "enabled":  false,
+                                         "model_name":  null,
+                                         "disk_free_gb":  99.85,
+                                         "ram_gb":  15.83,
+                                         "ready":  false,
+                                         "blocker":  "generation_disabled_using_extractive_template"
+                                     },
+                      "generation_mode_default":  "extractive_template"
+                  },
+    "note":  "Training is separate from API startup; missing items reported accurately"
+}

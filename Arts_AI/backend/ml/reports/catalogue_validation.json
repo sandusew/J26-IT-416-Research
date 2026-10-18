@@ -1,0 +1,50 @@
+{
+  "generated_at_utc": "2026-10-13T18:31:34.105040+00:00",
+  "curriculum_version_target": "nie_al_arts_provisional_v0.1",
+  "catalogue_dir": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\synthetic\\arts_al_baseline_v1_seed42",
+  "resources": {
+    "ok": true,
+    "n_rows": 160,
+    "n_errors": 0,
+    "n_warnings": 192,
+    "error_sample": [],
+    "warning_sample": [
+      "synthetic_resource_not_curriculum_aligned:sub_history_t00_r0",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t00_r1",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t00_r2",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t00_r3",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t01_r0",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t01_r1",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t01_r2",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t01_r3",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t02_r0",
+      "synthetic_resource_not_curriculum_aligned:sub_history_t02_r1"
+    ]
+  },
+  "questions": {
+    "ok": true,
+    "n_rows": 240,
+    "n_errors": 0,
+    "n_warnings": 288,
+    "error_sample": [],
+    "warning_sample": [
+      "synthetic_question_draft:sub_history_t00_q0",
+      "synthetic_question_draft:sub_history_t00_q1",
+      "synthetic_question_draft:sub_history_t00_q2",
+      "synthetic_question_draft:sub_history_t00_q3",
+      "synthetic_question_draft:sub_history_t00_q4",
+      "synthetic_question_draft:sub_history_t00_q5",
+      "synthetic_question_draft:sub_history_t01_q0",
+      "synthetic_question_draft:sub_history_t01_q1",
+      "synthetic_question_draft:sub_history_t01_q2",
+      "synthetic_question_draft:sub_history_t01_q3"
+    ],
+    "essay_note": "essay_rubric type supported as rubric container only \u2014 not validated automated essay scoring"
+  },
+  "note": "Synthetic catalogue uses provisional IDs and generated provenance. Gaps are expected until curriculum-aligned import. Do not silently invent authentic past-paper questions.",
+  "gap": {
+    "curriculum_aligned_reviewed_questions": 0,
+    "curriculum_aligned_reviewed_resources": 0,
+    "action": "Import teacher-authored or permitted items with canonical topic_ids; keep generated drafts labelled"
+  }
+}

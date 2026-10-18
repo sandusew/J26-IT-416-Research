@@ -1,0 +1,459 @@
+{
+  "generated_at_utc": "2026-10-15T04:08:27.073Z",
+  "api": "http://127.0.0.1:4000",
+  "n_topics": 45,
+  "passed": 45,
+  "failed": 0,
+  "rows": [
+    {
+      "topicId": "hist_sl_sources",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_sl_geography",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_sl_prehistoric",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_sl_buddhism",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_sl_rajarata_politics",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_sl_rajarata_society",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_sl_post_polonnaruwa",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_sl_colonial_modern",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_in_sources",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_in_geography",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_in_indus_vedic",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_eu_civilization",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_eu_modern",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "hist_mw_since_1500",
+      "subjectId": "sub_history",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "geo_basic_concepts",
+      "subjectId": "sub_geography",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "geo_physical_nature",
+      "subjectId": "sub_geography",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "geo_landforms",
+      "subjectId": "sub_geography",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "geo_climate",
+      "subjectId": "sub_geography",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "geo_population",
+      "subjectId": "sub_geography",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "geo_settlement_urban",
+      "subjectId": "sub_geography",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "geo_agriculture",
+      "subjectId": "sub_geography",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "geo_practical_maps",
+      "subjectId": "sub_geography",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_nature",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_subfields",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_state",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_forms_gov",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_ideologies",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_conflict",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_colonial",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_westminster",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_democracy",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_comparative",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_constitution_1978",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_parties",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_international",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_public_policy",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "pol_citizen",
+      "subjectId": "sub_political",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "eco_intro",
+      "subjectId": "sub_economics",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "eco_scarcity_choice",
+      "subjectId": "sub_economics",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "eco_demand_supply",
+      "subjectId": "sub_economics",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "eco_national_income",
+      "subjectId": "sub_economics",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "eco_money_banking",
+      "subjectId": "sub_economics",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "eco_gov_policy",
+      "subjectId": "sub_economics",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "eco_intl_trade",
+      "subjectId": "sub_economics",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    },
+    {
+      "topicId": "eco_development",
+      "subjectId": "sub_economics",
+      "status": 201,
+      "n": 12,
+      "distinct": 12,
+      "keysHidden": true,
+      "ok": true,
+      "error": null
+    }
+  ]
+}

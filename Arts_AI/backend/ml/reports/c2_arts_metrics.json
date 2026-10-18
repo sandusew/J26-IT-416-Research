@@ -1,0 +1,52 @@
+{
+  "data_category": "synthetic_learner",
+  "subjects_provisional": true,
+  "candidate_set_size": 20,
+  "relevance_definition": "simulated open+complete within 7 days OR next-topic prerequisite readiness",
+  "outcome_definition": "simulated learning gain on topic post-assessment (simulation assumption only)",
+  "baseline_random_relevance_rate_test": 0.7,
+  "prerequisite_policy": "implemented",
+  "scoring_model_trained": true,
+  "validation": {
+    "n": 13,
+    "relevance_rate": 0.7692307692307693,
+    "ap": 0.888470695970696,
+    "roc_auc": 0.6333333333333333
+  },
+  "test": {
+    "n": 20,
+    "relevance_rate": 0.7,
+    "ap": 0.799366480735344,
+    "roc_auc": 0.5595238095238095
+  },
+  "scenario_variations_test": {
+    "cold_start": {
+      "ap": null,
+      "roc_auc": null,
+      "n": 0
+    },
+    "sparse_history": {
+      "n": 4,
+      "relevance_rate": 0.75,
+      "ap": 1.0,
+      "roc_auc": 1.0
+    },
+    "improving": {
+      "ap": null,
+      "roc_auc": null,
+      "n": 0
+    },
+    "declining": {
+      "n": 8,
+      "relevance_rate": 0.75,
+      "ap": 0.8357142857142856,
+      "roc_auc": 0.5
+    },
+    "inactive": {
+      "ap": null,
+      "roc_auc": null,
+      "n": 0
+    }
+  },
+  "note": "Results measure ranking under simulation assumptions only. Not real student recommendation effectiveness."
+}

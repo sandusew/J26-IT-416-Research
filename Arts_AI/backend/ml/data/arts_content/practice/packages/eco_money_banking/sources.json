@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "blocked_Money",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_bank",
+    "title": "Bank",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Bank",
+    "retrieved_at_utc": "2026-10-14T17:30:07.261659+00:00",
+    "edition_or_revision": "pageid=19360669",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_money_banking",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "5ee518407c1d4a8442a15712e1375763c8dfa4a48883b8464e02fe554cdccddb",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_central_bank",
+    "title": "Central bank",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Central_bank",
+    "retrieved_at_utc": "2026-10-14T17:30:10.332571+00:00",
+    "edition_or_revision": "pageid=5666",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_money_banking",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "1b1a0866ee6366450df5cbb3522be20be22eaffa343f0de740b48188be388671",
+    "origin": "wikipedia_api"
+  }
+]

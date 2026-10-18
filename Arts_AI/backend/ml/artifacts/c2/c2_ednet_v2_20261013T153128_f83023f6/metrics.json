@@ -1,0 +1,115 @@
+{
+  "experiment": "ednet_correctness_v2_rocauc_selection",
+  "selection_protocol": {
+    "primary_metric": "roc_auc",
+    "split": "validation",
+    "tie_epsilon": 0.01,
+    "tie_break": "prefer_majority_baseline",
+    "rationale": "Positive-F1 favors always-predict-1 under ~65% prevalence; ROC-AUC measures ranking/discrimination without that bias.",
+    "documented_before_test_inspection": true
+  },
+  "preserved_prior_run": "c2_ednet_20261013T121127_34960c38",
+  "test_set_status": "new student split from same subset CSV \u2014 not retuned on inspected prior test",
+  "data_reuse": "Same ednet_kt1_subset.csv unless a larger subset was rebuilt beforehand",
+  "validation": {
+    "majority_baseline": {
+      "accuracy": 0.6364957410298824,
+      "balanced_accuracy": 0.5,
+      "precision": 0.6364957410298824,
+      "recall": 1.0,
+      "macro_f1": 0.3889382202909503,
+      "f1_positive": 0.7778764405819006,
+      "positive_prevalence": 0.6364957410298824,
+      "roc_auc": 0.5,
+      "pr_auc": 0.6364957410298824,
+      "brier": 0.3635042589701176
+    },
+    "logistic_regression": {
+      "accuracy": 0.6552630358495525,
+      "balanced_accuracy": 0.6380821891524289,
+      "precision": 0.7428769979152189,
+      "recall": 0.7010176572025356,
+      "macro_f1": 0.6347239418810837,
+      "f1_positive": 0.7213405643165971,
+      "positive_prevalence": 0.6364957410298824,
+      "roc_auc": 0.6921066491117198,
+      "pr_auc": 0.7827584172253003,
+      "brier": 0.22091424269267151
+    }
+  },
+  "test": {
+    "majority_baseline": {
+      "accuracy": 0.6737078810843352,
+      "balanced_accuracy": 0.5,
+      "precision": 0.6737078810843352,
+      "recall": 1.0,
+      "macro_f1": 0.40252417324334044,
+      "f1_positive": 0.8050483464866809,
+      "positive_prevalence": 0.6737078810843352,
+      "roc_auc": 0.5,
+      "pr_auc": 0.6737078810843352,
+      "brier": 0.3262921189156648
+    },
+    "logistic_regression": {
+      "accuracy": 0.6584627370433982,
+      "balanced_accuracy": 0.6418105272648238,
+      "precision": 0.7781072106261859,
+      "recall": 0.6897421745643775,
+      "macro_f1": 0.6314118849122428,
+      "f1_positive": 0.7312648898672277,
+      "positive_prevalence": 0.6737078810843352,
+      "roc_auc": 0.6984319627935927,
+      "pr_auc": 0.8115873158964584,
+      "brier": 0.21926007982811596
+    }
+  },
+  "selected_on_val": "logistic_regression",
+  "selected_test": {
+    "accuracy": 0.6584627370433982,
+    "balanced_accuracy": 0.6418105272648238,
+    "precision": 0.7781072106261859,
+    "recall": 0.6897421745643775,
+    "macro_f1": 0.6314118849122428,
+    "f1_positive": 0.7312648898672277,
+    "positive_prevalence": 0.6737078810843352,
+    "roc_auc": 0.6984319627935927,
+    "pr_auc": 0.8115873158964584,
+    "brier": 0.21926007982811596
+  },
+  "sample_counts": {
+    "train_students": 390,
+    "val_students": 105,
+    "test_students": 105,
+    "train": 176687,
+    "validation": 64687,
+    "test": 56477
+  },
+  "history_sensitivity_traces": [
+    {
+      "label": "low_hist_acc",
+      "features": {
+        "hist_count": 4.0,
+        "hist_accuracy": 0.0,
+        "hist_accuracy_10": 0.0,
+        "hist_mean_elapsed": 19250.0,
+        "hist_std_elapsed": 829.15619758885,
+        "question_difficulty_train": 0.7100591715976331
+      },
+      "logreg_proba": 0.19839830272316195,
+      "majority_proba": 1.0
+    },
+    {
+      "label": "high_hist_acc",
+      "features": {
+        "hist_count": 4.0,
+        "hist_accuracy": 1.0,
+        "hist_accuracy_10": 1.0,
+        "hist_mean_elapsed": 20750.0,
+        "hist_std_elapsed": 4023.36923485777,
+        "question_difficulty_train": 0.7100591715976331
+      },
+      "logreg_proba": 0.8156935307873212,
+      "majority_proba": 1.0
+    }
+  ]
+}

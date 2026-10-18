@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_political_science",
+    "title": "Political science",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Political_science",
+    "retrieved_at_utc": "2026-10-14T17:26:19.377242+00:00",
+    "edition_or_revision": "pageid=24388",
+    "subject_id": "sub_political",
+    "topic_id": "pol_subfields",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "ffd91bc43037b46f893f6764db96b589444adeb273bff4d0100d45ac9fbc13bb",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_comparative_politics",
+    "title": "Comparative politics",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Comparative_politics",
+    "retrieved_at_utc": "2026-10-14T17:26:22.029814+00:00",
+    "edition_or_revision": "pageid=1414677",
+    "subject_id": "sub_political",
+    "topic_id": "pol_subfields",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "c2f31fadddfd65e2e7134cfdc20ab9872cc77b3bc9b252786d31db69a243a86d",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_international_relations",
+    "title": "International relations",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/International_relations",
+    "retrieved_at_utc": "2026-10-14T17:26:23.458539+00:00",
+    "edition_or_revision": "pageid=82533",
+    "subject_id": "sub_political",
+    "topic_id": "pol_subfields",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "cdea988bfc6337be30971a7af9645f992df6aaed52f352a74cc003fdf86120e6",
+    "origin": "wikipedia_api"
+  }
+]

@@ -1,0 +1,415 @@
+{
+  "completed": {
+    "hist_sl_sources": {
+      "topic_id": "hist_sl_sources",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "a41026acc063ff16e38f0bd6884f716fd5026f794a5e399f473051585ba956e7"
+    },
+    "hist_sl_geography": {
+      "topic_id": "hist_sl_geography",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 1,
+      "package_hash": "f6ec81aa6f938f05d83adae934f857ec84e445429a3562a45a6fbf7ea18ad4ac"
+    },
+    "hist_sl_prehistoric": {
+      "topic_id": "hist_sl_prehistoric",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "b187edc956122861a1e9d46e95a05081528311b2ad882a2170a8462615b8cba6"
+    },
+    "hist_sl_buddhism": {
+      "topic_id": "hist_sl_buddhism",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "e8a7ea343628e44228a476f8501ce98cbbe89d814436dcc82aca789be2036661"
+    },
+    "hist_sl_rajarata_politics": {
+      "topic_id": "hist_sl_rajarata_politics",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 5,
+      "package_hash": "d30b3dccd7bbb14906ebe3ad902c5cf366bb86e5723effa90099b8c7951efeae"
+    },
+    "hist_sl_rajarata_society": {
+      "topic_id": "hist_sl_rajarata_society",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 1,
+      "package_hash": "0127416ffbe50b567212277e4e3bf7a7fb642b3219047a57dea730edaa91514d"
+    },
+    "hist_sl_post_polonnaruwa": {
+      "topic_id": "hist_sl_post_polonnaruwa",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "ec8b6d5022af963e02cee241c2e724fbf24eb51c2767c8a989cf3c797a263c7b"
+    },
+    "hist_sl_colonial_modern": {
+      "topic_id": "hist_sl_colonial_modern",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 4,
+      "package_hash": "7a8629fcb5bb264385ecf3257d2e893d894dedc7ecdf990576880f7492a843cc"
+    },
+    "hist_in_sources": {
+      "topic_id": "hist_in_sources",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "84e4069e3caeb6654ee14fb1ad555e89df9e8cd979082881d6e1508f89ffd52c"
+    },
+    "hist_in_geography": {
+      "topic_id": "hist_in_geography",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "e5b4dc6d3f5ea57ed4a6787e73f3088144ea20f6847a2c41943a1334ad852f51"
+    },
+    "hist_in_indus_vedic": {
+      "topic_id": "hist_in_indus_vedic",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "a2c599e0d73d026ae6983fd1206be35ec2bcd7b47b9e7b62482dbfc8e3ab897c"
+    },
+    "hist_eu_civilization": {
+      "topic_id": "hist_eu_civilization",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "302d2c76ae6485856d07ff17be4b6ee62c3c3b2d48ea8fe88d01eeef3e5121a3"
+    },
+    "hist_eu_modern": {
+      "topic_id": "hist_eu_modern",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "a1d317fa28e5e914f7881a0c077265f996014ef7f6861a6478bb917c9f6c9d49"
+    },
+    "hist_mw_since_1500": {
+      "topic_id": "hist_mw_since_1500",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "f97967b03dbc79e51e776f17255dcaaeb4957aed5b946733205fbea6dd92d368"
+    },
+    "geo_basic_concepts": {
+      "topic_id": "geo_basic_concepts",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "3a97b56c3a7fac9cb270be0e9d9bf541e441936b7d3e16d8a00c6fa559631e8b"
+    },
+    "geo_physical_nature": {
+      "topic_id": "geo_physical_nature",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 4,
+      "package_hash": "64bdcd610ba015d3c96328c5f913aacd112825144ac929799c796c783d4ec1c4"
+    },
+    "geo_landforms": {
+      "topic_id": "geo_landforms",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "2b4244943e4f3fdf47035450c081240529b9f6afcb552cc08ec49179efba9f7c"
+    },
+    "geo_climate": {
+      "topic_id": "geo_climate",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 4,
+      "package_hash": "8bec966918c07edf366c3104ec324360f3ae6980a3aa55ad1c384f7ef460f488"
+    },
+    "geo_settlement_urban": {
+      "topic_id": "geo_settlement_urban",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "00dcda6c44ec665962a1906fc43558811462650e21a0272dcfed1f714ae50f75"
+    },
+    "geo_agriculture": {
+      "topic_id": "geo_agriculture",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "233862c142ab15fc3ebe667402421bf01ac892f3892f826b7b2fbc8858c82529"
+    },
+    "geo_practical_maps": {
+      "topic_id": "geo_practical_maps",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "8ef8768e7b8fa40c6376c584776b0f7922a426b2b113d4d11702a0955eca62f8"
+    },
+    "pol_nature": {
+      "topic_id": "pol_nature",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "d008289557f9652b36b1b21fe06e0834f09e76a1e4982d337db3277e3977d4ba"
+    },
+    "pol_subfields": {
+      "topic_id": "pol_subfields",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "d1a5e988f6fa6055120cad90ee11aafdb15ca59c9c025e693dfafa36cdec7058"
+    },
+    "pol_state": {
+      "topic_id": "pol_state",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "ad83315ac90ecc91c8c5c33b0eda889299032173bd30ca4bc2f5cb02eae2583e"
+    },
+    "pol_forms_gov": {
+      "topic_id": "pol_forms_gov",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 4,
+      "package_hash": "61efab95500b6633e2add9ee9f8d2b9335c903aff3251f2b2610022922743da4"
+    },
+    "pol_ideologies": {
+      "topic_id": "pol_ideologies",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 4,
+      "package_hash": "fd2b6c1b68fd7e422c7d67aa453d02813144166ae928f3b88d03929123acc0e6"
+    },
+    "pol_conflict": {
+      "topic_id": "pol_conflict",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "f2168a5030eebda7b40502a1a20791506cd9803f1f9763bbe2f24a51ce4eb156"
+    },
+    "pol_colonial": {
+      "topic_id": "pol_colonial",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "cd0e9e0a4a667852be326d9e0055636921bae4bb1ecb688d39351c27c9b2f819"
+    },
+    "pol_democracy": {
+      "topic_id": "pol_democracy",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "7de983ee383335820b10e1468faed61fe8cd16b26020e97310e5034f40f1c2b4"
+    },
+    "pol_comparative": {
+      "topic_id": "pol_comparative",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "72e1b1ec62caa3b2e75c303fa158251a5dd411c5dc9d5c3777f257b50253778c"
+    },
+    "pol_constitution_1978": {
+      "topic_id": "pol_constitution_1978",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "02e5b6908afd541526c9fd8dadc1694b8e5e5e2d6d5974b444735d692cbe5521"
+    },
+    "pol_parties": {
+      "topic_id": "pol_parties",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "631f4cbfec620cbc4b80e998a244a1c3101bab26eb4da510be416b052705c1fe"
+    },
+    "pol_international": {
+      "topic_id": "pol_international",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 4,
+      "package_hash": "6ef62e16a092c7fcbbde8454e83afb0b3cf9aaf6bb9a88de56575a9411149ee6"
+    },
+    "pol_citizen": {
+      "topic_id": "pol_citizen",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "2b923bd521bbdfe88fc51904776bcca31ccb13cc68fd85798ba00cf13a2af6d9"
+    },
+    "eco_intro": {
+      "topic_id": "eco_intro",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 4,
+      "package_hash": "48a06cfddb9108810f854d8030355b297daf9bde81f31db0b0299700352981d9"
+    },
+    "eco_scarcity_choice": {
+      "topic_id": "eco_scarcity_choice",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 4,
+      "package_hash": "0f1afe9248588945887f817558f01a97a21668d239fb4aada39aeb5a6b9fb860"
+    },
+    "eco_demand_supply": {
+      "topic_id": "eco_demand_supply",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "a49618e721ab4452ce1f349db60b4bc58a9cd7957716f376805c8bf86195373e"
+    },
+    "eco_national_income": {
+      "topic_id": "eco_national_income",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 1,
+      "package_hash": "24a8ee9ece2467ebda8a862b1f3ea783a0da2ff97dd6fcd4160c720ad2407318"
+    },
+    "eco_money_banking": {
+      "topic_id": "eco_money_banking",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "ab150310d957b4d1c1d4fbb02fb9b8f7905fe34a0b012f31dc89df9f39e82d25"
+    },
+    "eco_gov_policy": {
+      "topic_id": "eco_gov_policy",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "948eac2d3028411d9d1e5f59e5213f417902244ca4380247af49b9c38898d4c1"
+    },
+    "eco_intl_trade": {
+      "topic_id": "eco_intl_trade",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 3,
+      "package_hash": "b15739473155258c65ff949d2441f2f3da8d92d556335422bef9a5b9df94a109"
+    },
+    "eco_development": {
+      "topic_id": "eco_development",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "87bd6afa1b837baa4af2ec44c89e0baa25166423f8188e92fb0e087fe24ed29b"
+    },
+    "geo_population": {
+      "topic_id": "geo_population",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 1,
+      "package_hash": "f2bfc71bead96d4e51ec0fd26edf1d5371ccb71fc40e9a395498a2f263dbac50"
+    },
+    "pol_westminster": {
+      "topic_id": "pol_westminster",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "e9c27a699226881a53de1a0058377ec88cd7b70122dfff9c297309cca4bf6136"
+    },
+    "pol_public_policy": {
+      "topic_id": "pol_public_policy",
+      "status": "authored",
+      "n_questions_accepted": 12,
+      "n_quarantined": 0,
+      "n_sources": 2,
+      "package_hash": "e0ebf25af3c1b347c1a3fbd36c98782104ccc150847b6ef77a9863b70a4a77be"
+    }
+  },
+  "blocked": {
+    "geo_population": {
+      "topic_id": "geo_population",
+      "status": "blocked_no_sources",
+      "sources": [
+        {
+          "source_id": "blocked_Demography",
+          "error": "HTTP Error 429: Too Many Requests",
+          "blocked": true
+        },
+        {
+          "source_id": "blocked_Population_of_Sri_Lanka",
+          "error": "HTTP Error 429: Too Many Requests",
+          "blocked": true
+        }
+      ]
+    },
+    "pol_westminster": {
+      "topic_id": "pol_westminster",
+      "status": "blocked_no_sources",
+      "sources": [
+        {
+          "source_id": "blocked_Westminster_system",
+          "error": "HTTP Error 429: Too Many Requests",
+          "blocked": true
+        },
+        {
+          "source_id": "blocked_Parliament_of_Sri_Lanka",
+          "error": "HTTP Error 429: Too Many Requests",
+          "blocked": true
+        }
+      ]
+    },
+    "pol_public_policy": {
+      "topic_id": "pol_public_policy",
+      "status": "blocked_no_sources",
+      "sources": [
+        {
+          "source_id": "blocked_Public_policy",
+          "error": "HTTP Error 429: Too Many Requests",
+          "blocked": true
+        },
+        {
+          "source_id": "blocked_Policy_analysis",
+          "error": "HTTP Error 429: Too Many Requests",
+          "blocked": true
+        }
+      ]
+    }
+  },
+  "updated_at_utc": "2026-10-14T17:31:48.686112+00:00"
+}

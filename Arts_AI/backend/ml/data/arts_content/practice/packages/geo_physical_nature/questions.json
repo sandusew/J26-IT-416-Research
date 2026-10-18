@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_geo_physical_nature_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Geomorphology",
+      "Hydrology",
+      "Explanations",
+      "Physical geography"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Physical geography"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_geomorphology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geomorphology",
+    "sourceIds": [
+      "wiki_en_geomorphology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geomorphology",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «Physical geography, also known as physiography or natural geography, is one of the three main branches of geography.»?",
+    "options": [
+      "Hydrology",
+      "Physical",
+      "Physical geography",
+      "Geomorphology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Physical"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geomorphology"
+      }
+    ],
+    "correctAnswerOrRubric": "Physical",
+    "explanation": "Source-grounded AI practice item. The passage supports «Physical». Full sentence: Physical geography, also known as physiography or natural geography, is one of the three main branches of geography. (source_id=wiki_en_hydrology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_hydrology",
+    "sourceIds": [
+      "wiki_en_hydrology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_hydrology",
+        "passage": "Physical geography, also known as physiography or natural geography, is one of the three main branches of geography."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «Physical geography is the branch of natural science which deals with the processes and patterns in the natural environment such as the atmosphere, hydrosphere, biosphere, and geosphere.»?",
+    "options": [
+      "Physical",
+      "Physical geography",
+      "Geomorphology",
+      "Hydrology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Physical"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Hydrology"
+      }
+    ],
+    "correctAnswerOrRubric": "Physical",
+    "explanation": "Source-grounded AI practice item. The passage supports «Physical». Full sentence: Physical geography is the branch of natural science which deals with the processes and patterns in the natural environment such as the atmosphere, hydrosphere, biosphere, and geosphere. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_physical_geography",
+    "sourceIds": [
+      "wiki_en_physical_geography"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_physical_geography",
+        "passage": "Physical geography is the branch of natural science which deals with the processes and patterns in the natural environment such as the atmosphere, hydrosphere, biosphere, and geosphere."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «This focus contrasts with the branch of human geography, which focuses on the built environment, and technical geography, which focuses on the use, study, and creation of tools for obtaining, analyzin…»?",
+    "options": [
+      "Physical geography",
+      "Geomorphology",
+      "Hydrology",
+      "branch"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "branch"
+      }
+    ],
+    "correctAnswerOrRubric": "branch",
+    "explanation": "Source-grounded AI practice item. The passage supports «branch». Full sentence: This focus contrasts with the branch of human geography, which focuses on the built environment, and technical geography, which focuses on the use, study, and creation of tools for obtaining, analyzing, interpreting, and understanding spatial information. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_physical_geography",
+    "sourceIds": [
+      "wiki_en_physical_geography"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_physical_geography",
+        "passage": "This focus contrasts with the branch of human geography, which focuses on the built environment, and technical geography, which focuses on the use, study, and creation of tools for obtaining, analyzing, interpreting, and understanding spatial information."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «Hydrology is predominantly concerned with the amounts and quality of water moving and accumulating on the land surface and in the soils and rocks near the surface and is typified by the hydrological c…»?",
+    "options": [
+      "Hydrology",
+      "Physical geography",
+      "Geomorphology",
+      "Nature"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Nature"
+      }
+    ],
+    "correctAnswerOrRubric": "Hydrology",
+    "explanation": "Source-grounded AI practice item. The passage supports «Hydrology». Full sentence: Hydrology is predominantly concerned with the amounts and quality of water moving and accumulating on the land surface and in the soils and rocks near the surface and is typified by the hydrological cycle. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_physical_geography",
+    "sourceIds": [
+      "wiki_en_physical_geography"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_physical_geography",
+        "passage": "Hydrology is predominantly concerned with the amounts and quality of water moving and accumulating on the land surface and in the soils and rocks near the surface and is typified by the hydrological cycle."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «Thus, the field encompasses water in rivers, lakes, aquifers, and to an extent glaciers, in which the field examines the process and dynamics involved in these bodies of water.»?",
+    "options": [
+      "Physical geography",
+      "Geomorphology",
+      "Hydrology",
+      "Thus"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Thus"
+      }
+    ],
+    "correctAnswerOrRubric": "Thus",
+    "explanation": "Source-grounded AI practice item. The passage supports «Thus». Full sentence: Thus, the field encompasses water in rivers, lakes, aquifers, and to an extent glaciers, in which the field examines the process and dynamics involved in these bodies of water. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_physical_geography",
+    "sourceIds": [
+      "wiki_en_physical_geography"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_physical_geography",
+        "passage": "Thus, the field encompasses water in rivers, lakes, aquifers, and to an extent glaciers, in which the field examines the process and dynamics involved in these bodies of water."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «Hydrology has historically had an important connection with engineering and has thus developed largely quantitative methods in its research; however, it also has an earth science side that embraces th…»?",
+    "options": [
+      "Geomorphology",
+      "Nature",
+      "Hydrology",
+      "Physical geography"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Physical geography"
+      }
+    ],
+    "correctAnswerOrRubric": "Hydrology",
+    "explanation": "Source-grounded AI practice item. The passage supports «Hydrology». Full sentence: Hydrology has historically had an important connection with engineering and has thus developed largely quantitative methods in its research; however, it also has an earth science side that embraces the systems approach. (source_id=wiki_en_geomorphology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geomorphology",
+    "sourceIds": [
+      "wiki_en_geomorphology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geomorphology",
+        "passage": "Hydrology has historically had an important connection with engineering and has thus developed largely quantitative methods in its research; however, it also has an earth science side that embraces the systems approach."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «As in most fields of physical geography, it has subfields that examine specific bodies of water or their interactions with other spheres, e.g., limnology and ecohydrology.»?",
+    "options": [
+      "Hydrology",
+      "geography",
+      "Physical geography",
+      "Geomorphology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "geography"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geomorphology"
+      }
+    ],
+    "correctAnswerOrRubric": "geography",
+    "explanation": "Source-grounded AI practice item. The passage supports «geography». Full sentence: As in most fields of physical geography, it has subfields that examine specific bodies of water or their interactions with other spheres, e.g., limnology and ecohydrology. (source_id=wiki_en_hydrology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_hydrology",
+    "sourceIds": [
+      "wiki_en_hydrology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_hydrology",
+        "passage": "As in most fields of physical geography, it has subfields that examine specific bodies of water or their interactions with other spheres, e.g., limnology and ecohydrology."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «Glaciology also has a vast array of subfields that examine the factors and processes involved in ice sheets and glaciers, e.g., snow hydrology and glacial geology.»?",
+    "options": [
+      "Glaciology",
+      "Physical geography",
+      "Geomorphology",
+      "Hydrology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Glaciology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Hydrology"
+      }
+    ],
+    "correctAnswerOrRubric": "Glaciology",
+    "explanation": "Source-grounded AI practice item. The passage supports «Glaciology». Full sentence: Glaciology also has a vast array of subfields that examine the factors and processes involved in ice sheets and glaciers, e.g., snow hydrology and glacial geology. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_physical_geography",
+    "sourceIds": [
+      "wiki_en_physical_geography"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_physical_geography",
+        "passage": "Glaciology also has a vast array of subfields that examine the factors and processes involved in ice sheets and glaciers, e.g., snow hydrology and glacial geology."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «Biogeography is the science that deals with geographic patterns of species distribution and the processes that result in these patterns.»?",
+    "options": [
+      "Physical geography",
+      "Geomorphology",
+      "Hydrology",
+      "Biogeography"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Biogeography"
+      }
+    ],
+    "correctAnswerOrRubric": "Biogeography",
+    "explanation": "Source-grounded AI practice item. The passage supports «Biogeography». Full sentence: Biogeography is the science that deals with geographic patterns of species distribution and the processes that result in these patterns. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_physical_geography",
+    "sourceIds": [
+      "wiki_en_physical_geography"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_physical_geography",
+        "passage": "Biogeography is the science that deals with geographic patterns of species distribution and the processes that result in these patterns."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q07",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «However, before the late twentieth century, it had largely been viewed as historical in its outlook and descriptive in its approach.»?",
+    "options": [
+      "Hydrology",
+      "However",
+      "Physical geography",
+      "Geomorphology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Hydrology"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "However"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geomorphology"
+      }
+    ],
+    "correctAnswerOrRubric": "However",
+    "explanation": "Source-grounded AI practice item. The passage supports «However». Full sentence: However, before the late twentieth century, it had largely been viewed as historical in its outlook and descriptive in its approach. (source_id=wiki_en_geomorphology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geomorphology",
+    "sourceIds": [
+      "wiki_en_geomorphology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geomorphology",
+        "passage": "However, before the late twentieth century, it had largely been viewed as historical in its outlook and descriptive in its approach."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_physical_nature_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_physical_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Physical Geography, which term or name is supported by this passage: «The main stimuli for the field since its founding have been evolution, plate tectonics, and the theory of island biogeography.»?",
+    "options": [
+      "since",
+      "Physical geography",
+      "Geomorphology",
+      "Hydrology"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "since"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Physical geography"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geomorphology"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Hydrology"
+      }
+    ],
+    "correctAnswerOrRubric": "since",
+    "explanation": "Source-grounded AI practice item. The passage supports «since». Full sentence: The main stimuli for the field since its founding have been evolution, plate tectonics, and the theory of island biogeography. (source_id=wiki_en_hydrology). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_hydrology",
+    "sourceIds": [
+      "wiki_en_hydrology"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_hydrology",
+        "passage": "The main stimuli for the field since its founding have been evolution, plate tectonics, and the theory of island biogeography."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

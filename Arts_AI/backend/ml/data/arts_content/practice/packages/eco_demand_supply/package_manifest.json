@@ -1,0 +1,133 @@
+{
+  "topic_id": "eco_demand_supply",
+  "subject_id": "sub_economics",
+  "topic_title": "Demand, supply and markets",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "In microeconomics, supply and demand is an economic model of price determination in a market. It postulates that, holding all else equal, the unit price for a particular good or other traded item in a perfectly competitive market, will vary until it settles at the market-clearing price, where the quantity demanded equals the quantity supplied such that an economic equilibrium is achieved for price and quantity transacted. The concept of supply and demand forms the theoretical basis of modern economics.\n\nHowever, the Sonnenschein-Mantel-Debreu theorem demonstrates that aggregate demand functions do not necessarily inherit the properties of individual rationality, meaning that market-wide supply and demand curves can theoretically take almost any shape. This result implies that the \"Law of Demand\" may fail at the macro level, challenging the assumption that competitive economies naturally gravitate toward a unique or stable equilibrium.",
+      "source_ids": [
+        "wiki_en_supply_demand"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Supply_and_demand"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "In situations where a firm has market power, its decision on how much output to bring to market influences the market price, in violation of perfect competition. There, a more complicated model should be used; for example, an oligopoly or differentiated-product model. Likewise, where a buyer has market power, models such as monopsony will be more accurate.\n\nA supply schedule, depicted graphically as a supply curve, is a table that shows the relationship between the price of a good and the quantity supplied by producers. Under the assumption of perfect competition, supply is determined by marginal cost: Firms will produce additional output as long as the cost of extra production is less than the market price.",
+      "source_ids": [
+        "wiki_en_supply_and_demand"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Supply_and_demand"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "In macroeconomics, as well, the aggregate demand-aggregate supply model has been used to depict how the quantity of total output and the aggregate price level may be determined in equilibrium.\n\nA rise in the cost of raw materials would decrease supply, shifting the supply curve to the left because at each possible price a smaller quantity would be supplied. This shift may also be thought of as an upwards shift in the supply curve, because the price must rise for producers to supply a given quantity.  A fall in production costs would increase supply, shifting the supply curve to the right or down.",
+      "source_ids": [
+        "wiki_en_market_economics"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Market_%28economics%29"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Supply and demand",
+      "definition": "In microeconomics, supply and demand is an economic model of price determination in a market.",
+      "source_ids": [
+        "wiki_en_supply_demand"
+      ]
+    },
+    {
+      "term": "Market",
+      "definition": "In microeconomics, supply and demand is an economic model of price determination in a market.",
+      "source_ids": [
+        "wiki_en_supply_demand"
+      ]
+    },
+    {
+      "term": "Demand,",
+      "definition": "According to the law of demand, the demand curve is always downward-sloping, meaning that as the price decreases, consumers will buy more of the good.",
+      "source_ids": [
+        "wiki_en_supply_demand"
+      ]
+    },
+    {
+      "term": "supply",
+      "definition": "In microeconomics, supply and demand is an economic model of price determination in a market.",
+      "source_ids": [
+        "wiki_en_supply_demand"
+      ]
+    },
+    {
+      "term": "markets",
+      "definition": "Markets facilitate trade and enable the distribution and allocation of resources in a society by allowing tradeable items to be evaluated and priced.",
+      "source_ids": [
+        "wiki_en_supply_demand"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_supply_demand",
+    "wiki_en_supply_and_demand",
+    "wiki_en_market_economics"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_supply_demand",
+      "title": "Supply and demand (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=29664",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_demand_supply",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "c864c7c0cd0b41f49d5b1f8e9a67391e1281230b2fd023fa941bc428cadcbc33",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_supply_and_demand",
+      "title": "Supply and demand",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+      "retrieved_at_utc": "2026-10-14T17:29:19.111108+00:00",
+      "edition_or_revision": "pageid=29664",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_demand_supply",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "adc2ab81d3f47e50922fe6d9fb618339a073480dae33a824648916d228e548ad",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_market_economics",
+      "title": "Market (economics)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Market_%28economics%29",
+      "retrieved_at_utc": "2026-10-14T17:29:20.610432+00:00",
+      "edition_or_revision": "pageid=3736784",
+      "subject_id": "sub_economics",
+      "topic_id": "eco_demand_supply",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "8edb4e2803c877ab538c50e4f44187fbbfe9ab5f62cd8fee029ddf169088be30",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "a49618e721ab4452ce1f349db60b4bc58a9cd7957716f376805c8bf86195373e",
+  "authored_at_utc": "2026-10-14T17:29:21.217410+00:00"
+}

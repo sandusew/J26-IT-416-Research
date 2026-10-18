@@ -1,0 +1,140 @@
+{
+  "topic_id": "geo_practical_maps",
+  "subject_id": "sub_geography",
+  "topic_title": "Practical Geography and map skills",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Cartography () is the study and practice of making and using maps. Combining science, aesthetics and technique, cartography builds on the premise that reality (or an imagined reality) can be modeled in ways that communicate spatial information effectively.\nThe fundamental objectives of traditional cartography are to:\n\nThe ancient Greeks and Romans created maps from the time of Anaximander in the 6th century BCE. In the 2nd century CE, Ptolemy wrote his treatise on cartography, Geographia. This contained Ptolemy's world map – the world then known to Western society (Ecumene). As early as the 8th century, Arab scholars were translating the works of the Greek geographers into Arabic. Roads were essential in the Roman world, motivating the creation of maps, called itinerarium, that portrayed the world as experienced via the roads. The Tabula Peutingeriana is the only surviving example.",
+      "source_ids": [
+        "wiki_en_cartography"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Cartography"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Set the map's agenda and select traits of the object to be mapped. This is the concern of map editing. Traits may be physical, such as roads or land masses, or may be abstract, such as toponyms or political boundaries.\nRepresent the terrain of the mapped object on flat media. This is the concern of map projections.\nEliminate the mapped object's characteristics that are irrelevant to the map's purpose. This is the concern of generalization.\nReduce the complexity of the characteristics that will be mapped. This is also the concern of generalization.\nOrchestrate the elements of the map to best convey its message to its audience. This is the concern of map design.\nModern cartography constitutes many theoretical and practical foundations of geographic information systems (GIS) and geographic information science (GISc).\n\nIn ancient China, geographical literature dates to the 5th century BCE. The oldest extant Chinese maps come from the State of Qin, dated back to the 4th century BCE, during the Warring States period. In the book Xin Yi Xiang Fa Yao, published in 1092 by the Chinese scientist Su Song, a star map on the equidistant cylindrical projection. Although this method of charting seems to have existed in China even before this publication and scientist, the greatest significance of the star maps by Su Song is that they represent the oldest surviving star maps in printed form.\nEarly forms of cartography of India included depictions of the pole star and surrounding constellations. These charts may have been used for navigation.",
+      "source_ids": [
+        "wiki_en_map_projection"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Map_projection"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "What is the earliest known map is a matter of some debate, both because the term \"map\" is not well-defined and because some artifacts that might be maps might actually be something else. A wall painting that might depict the ancient Anatolian city of Çatalhöyük (previously known as Catal Huyuk or Çatal Hüyük) has been dated to the late 7th millennium BCE. Among the prehistoric alpine rock carvings of Mount Bego (France) and Valcamonica (Italy), dated to the 4th millennium BCE, geometric patterns consisting of dotted rectangles and lines are widely interpreted in archaeological literature as depicting cultivated plots. Other known maps of the ancient world include the Minoan \"House of the Admiral\" wall painting from c. 1600 BCE, showing a seaside community in an oblique perspective, and an engraved map of the holy Babylonian city of Nippur, from the Kassite period (14th – 12th centuries BCE). The oldest surviving world maps are from 9th century BCE Babylonia. One shows Babylon on the Euphrates, surrounded by Assyria, Urartu and several cities, all, in turn, surrounded by a \"bitter river\" (Oceanus). Another depicts Babylon as being north of the center of the world.\n\nMappae mundi ('maps of the world') are the medieval European maps of the world. About 1,100 of these are known to have survived: of these, some 900 are found illustrating manuscripts, and the remainder exist as stand-alone documents.",
+      "source_ids": [
+        "wiki_en_topographic_map"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Topographic_map"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Cartography",
+      "definition": "Cartography () is the study and practice of making and using maps.",
+      "source_ids": [
+        "wiki_en_cartography"
+      ]
+    },
+    {
+      "term": "Map projection",
+      "definition": "This was an equal-area, heart-shaped world map projection (generally called a cordiform projection) that was used in the 16th and 17th centuries.",
+      "source_ids": [
+        "wiki_en_cartography"
+      ]
+    },
+    {
+      "term": "Topographic map",
+      "definition": "The ellipsoidal model is commonly used to construct topographic maps and for other large- and medium-scale maps that need to accurately depict the land surface.",
+      "source_ids": [
+        "wiki_en_cartography"
+      ]
+    },
+    {
+      "term": "Practical",
+      "definition": "Modern cartography constitutes many theoretical and practical foundations of geographic information systems (GIS) and geographic information science (GISc).",
+      "source_ids": [
+        "wiki_en_cartography"
+      ]
+    },
+    {
+      "term": "Geography",
+      "definition": "Geography: a key idea for Practical Geography and map skills (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_cartography"
+      ]
+    },
+    {
+      "term": "skills",
+      "definition": "skills: a key idea for Practical Geography and map skills (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_cartography"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_cartography",
+    "wiki_en_map_projection",
+    "wiki_en_topographic_map"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_cartography",
+      "title": "Cartography",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Cartography",
+      "retrieved_at_utc": "2026-10-14T17:26:15.464001+00:00",
+      "edition_or_revision": "pageid=7294",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_practical_maps",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "965e6cb9c704bd4e1e45fd26b822da2bfe5c1efbd40af47a7e48e26bfcb6e1ca",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_map_projection",
+      "title": "Map projection",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Map_projection",
+      "retrieved_at_utc": "2026-10-14T17:26:16.895022+00:00",
+      "edition_or_revision": "pageid=51784",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_practical_maps",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "e7ae32bea17fd614b0d508c95d2e7bf4d8e4a2b6f56096629f19d3ce27ef4ca0",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_topographic_map",
+      "title": "Topographic map",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Topographic_map",
+      "retrieved_at_utc": "2026-10-14T17:26:18.013592+00:00",
+      "edition_or_revision": "pageid=70713",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_practical_maps",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "e4293675c28babce07ac399fb47ecbb74186561179dd3d6e9a162670a4db3687",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "8ef8768e7b8fa40c6376c584776b0f7922a426b2b113d4d11702a0955eca62f8",
+  "authored_at_utc": "2026-10-14T17:26:18.624411+00:00"
+}

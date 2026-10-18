@@ -1,0 +1,793 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_subfields_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Comparative politics",
+        "International relations",
+        "Explanations",
+        "Political science"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political science"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_international_relations). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_international_relations",
+      "sourceIds": [
+        "wiki_en_international_relations"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_international_relations",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_subfields_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics.»?",
+      "options": [
+        "International relations",
+        "Political",
+        "Political science",
+        "Comparative politics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Political"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Comparative politics"
+        }
+      ],
+      "correctAnswerOrRubric": "Political",
+      "explanation": "Source-grounded AI practice item. The passage supports «Political». Full sentence: Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_science",
+      "sourceIds": [
+        "wiki_en_political_science"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_science",
+          "passage": "Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_subfields_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «It deals with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws.»?",
+      "options": [
+        "governance",
+        "Political science",
+        "Comparative politics",
+        "International relations"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "governance"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "International relations"
+        }
+      ],
+      "correctAnswerOrRubric": "governance",
+      "explanation": "Source-grounded AI practice item. The passage supports «governance». Full sentence: It deals with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws. (source_id=wiki_en_comparative_politics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_comparative_politics",
+      "sourceIds": [
+        "wiki_en_comparative_politics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_comparative_politics",
+          "passage": "It deals with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_subfields_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «Political science emerged as a distinct academic discipline in the late 19th century, influenced by the rise of empiricism and positivism.»?",
+      "options": [
+        "Political science",
+        "Comparative politics",
+        "International relations",
+        "Political"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political"
+        }
+      ],
+      "correctAnswerOrRubric": "Political",
+      "explanation": "Source-grounded AI practice item. The passage supports «Political». Full sentence: Political science emerged as a distinct academic discipline in the late 19th century, influenced by the rise of empiricism and positivism. (source_id=wiki_en_international_relations). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_international_relations",
+      "sourceIds": [
+        "wiki_en_international_relations"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_international_relations",
+          "passage": "Political science emerged as a distinct academic discipline in the late 19th century, influenced by the rise of empiricism and positivism."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_subfields_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «It emerged from history, philosophy, and law amid university professionalization and the founding of bodies such as the American Political Science Association in 1903.»?",
+      "options": [
+        "American Political Science Association",
+        "Political science",
+        "Comparative politics",
+        "International relations"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "American Political Science Association"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "International relations"
+        }
+      ],
+      "correctAnswerOrRubric": "American Political Science Association",
+      "explanation": "Source-grounded AI practice item. The passage supports «American Political Science Association». Full sentence: It emerged from history, philosophy, and law amid university professionalization and the founding of bodies such as the American Political Science Association in 1903. (source_id=wiki_en_international_relations). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_international_relations",
+      "sourceIds": [
+        "wiki_en_international_relations"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_international_relations",
+          "passage": "It emerged from history, philosophy, and law amid university professionalization and the founding of bodies such as the American Political Science Association in 1903."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_subfields_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries.»?",
+      "options": [
+        "Political science",
+        "Comparative politics",
+        "International relations",
+        "Comparative"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Comparative"
+        }
+      ],
+      "correctAnswerOrRubric": "Comparative",
+      "explanation": "Source-grounded AI practice item. The passage supports «Comparative». Full sentence: Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_science",
+      "sourceIds": [
+        "wiki_en_political_science"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_science",
+          "passage": "Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_subfields_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development.»?",
+      "options": [
+        "Comparative politics",
+        "International relations",
+        "Substantively",
+        "Political science"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Substantively"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political science"
+        }
+      ],
+      "correctAnswerOrRubric": "Substantively",
+      "explanation": "Source-grounded AI practice item. The passage supports «Substantively». Full sentence: Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development. (source_id=wiki_en_comparative_politics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_comparative_politics",
+      "sourceIds": [
+        "wiki_en_comparative_politics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_comparative_politics",
+          "passage": "Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_subfields_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).»?",
+      "options": [
+        "International relations",
+        "fields",
+        "Political science",
+        "Comparative politics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "fields"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Comparative politics"
+        }
+      ],
+      "correctAnswerOrRubric": "fields",
+      "explanation": "Source-grounded AI practice item. The passage supports «fields». Full sentence: When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government). (source_id=wiki_en_international_relations). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_international_relations",
+      "sourceIds": [
+        "wiki_en_international_relations"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_international_relations",
+          "passage": "When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government)."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_subfields_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «=== Behavioral revolution and new institutionalism ===\nIn the 1950s and 1960s, a behavioral revolution stressing the systematic, rigorously scientific study of individual and group behavior swept the …»?",
+      "options": [
+        "Behavioral",
+        "Political science",
+        "Comparative politics",
+        "International relations"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Behavioral"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "International relations"
+        }
+      ],
+      "correctAnswerOrRubric": "Behavioral",
+      "explanation": "Source-grounded AI practice item. The passage supports «Behavioral». Full sentence: === Behavioral revolution and new institutionalism ===\nIn the 1950s and 1960s, a behavioral revolution stressing the systematic, rigorously scientific study of individual and group behavior swept the discipline. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_science",
+      "sourceIds": [
+        "wiki_en_political_science"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_science",
+          "passage": "=== Behavioral revolution and new institutionalism ===\nIn the 1950s and 1960s, a behavioral revolution stressing the systematic, rigorously scientific study of individual and group behavior swept the discipline."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_subfields_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «The late 1960s and early 1970s witnessed a takeoff in the use of deductive, game-theoretic formal modelling techniques aimed at generating a more analytical corpus of knowledge in the discipline.»?",
+      "options": [
+        "Political science",
+        "Comparative politics",
+        "International relations",
+        "takeoff"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "takeoff"
+        }
+      ],
+      "correctAnswerOrRubric": "takeoff",
+      "explanation": "Source-grounded AI practice item. The passage supports «takeoff». Full sentence: The late 1960s and early 1970s witnessed a takeoff in the use of deductive, game-theoretic formal modelling techniques aimed at generating a more analytical corpus of knowledge in the discipline. (source_id=wiki_en_comparative_politics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_comparative_politics",
+      "sourceIds": [
+        "wiki_en_comparative_politics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_comparative_politics",
+          "passage": "The late 1960s and early 1970s witnessed a takeoff in the use of deductive, game-theoretic formal modelling techniques aimed at generating a more analytical corpus of knowledge in the discipline."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_subfields_q07",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «This period saw a surge of research that borrowed theory and methods from economics to study political institutions, such as the United States Congress, as well as political behavior, such as voting.»?",
+      "options": [
+        "Comparative politics",
+        "International relations",
+        "United States Congress",
+        "Political science"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "United States Congress"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political science"
+        }
+      ],
+      "correctAnswerOrRubric": "United States Congress",
+      "explanation": "Source-grounded AI practice item. The passage supports «United States Congress». Full sentence: This period saw a surge of research that borrowed theory and methods from economics to study political institutions, such as the United States Congress, as well as political behavior, such as voting. (source_id=wiki_en_international_relations). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_international_relations",
+      "sourceIds": [
+        "wiki_en_international_relations"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_international_relations",
+          "passage": "This period saw a surge of research that borrowed theory and methods from economics to study political institutions, such as the United States Congress, as well as political behavior, such as voting."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_subfields_q08",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_subfields",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political Science and its sub-fields, which term or name is supported by this passage: «Riker and his colleagues and students at the University of Rochester were the main proponents of this shift.»?",
+      "options": [
+        "International relations",
+        "Riker",
+        "Political science",
+        "Comparative politics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "International relations"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Riker"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political science"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Comparative politics"
+        }
+      ],
+      "correctAnswerOrRubric": "Riker",
+      "explanation": "Source-grounded AI practice item. The passage supports «Riker». Full sentence: Riker and his colleagues and students at the University of Rochester were the main proponents of this shift. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_science",
+      "sourceIds": [
+        "wiki_en_political_science"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_science",
+          "passage": "Riker and his colleagues and students at the University of Rochester were the main proponents of this shift."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_subfields_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_subfields"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Political Science and its sub-fields — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Political_science",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_political_science",
+        "wiki_en_comparative_politics",
+        "wiki_en_international_relations"
+      ],
+      "bodyText": "# Political Science and its sub-fields\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Political Science and its sub-fields」 (pol_subfields) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nPolitical science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics. It deals with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws. Specialists in the field are political scientists. Unlike political philosophy, which is primarily normative and evaluates politics through value judgments, political science emphasizes descriptive and explanatory means of articulating what is (the de facto, status quo, lex non scripta, etc.) and favors empirical evidence over ethical judgements.\nPolitical science emerged as a distinct academic discipline in the late 19th century, influenced by the rise of empiricism and positivism. It emerged from history, philosophy, and law amid university professionalization and the founding of bodies such as the Ameri\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Political Science and its sub-fields\n- [inferred_not_official] Explain core ideas of Political Science and its sub-fields\n- [inferred_not_official] Apply concepts from Political Science and its sub-fields using cited public sources\n\n## Core concepts and definitions\nPolitical science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics. It deals with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws. Specialists in the field are political scientists. Unlike political philosophy, which is primarily normative and evaluates politics through value judgments, political science emphasizes descriptive and explanatory means of articulating what is (the de facto, status quo, lex non scripta, etc.) and favors empirical evidence over ethical judgements.\nPolitical science emerged as a distinct academic discipline in the late 19th century, influenced by the rise of empiricism and positivism. It emerged from history, philosophy, and law amid university professionalization and the founding of bodies such as the American Political Science Association in 1903. The behavioral revolution of the 1950s played a significant role in shifting emphasis to scientifically explaining human behavior from an unbiased and neutral point of view using quantitative research methods such as surveys, historical analysis, and empirical testing.\n\nComparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries. Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development. When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).\n(Source: https://en.wikipedia.org/wiki/Political_science)\n\n## Historical or systematic development\nThe advent of political science as a university discipline was marked by the creation of university departments and chairs with the title of political science arising in the late 19th century. The designation \"political scientist\" is commonly used to denote someone with a doctorate or master's degree in the field. Integrating political studies of the past into a unified discipline is ongoing, and the history of political science has provided a rich field for the growth of both normative and positive political science, with each part of the discipline sharing some historical predecessors. The American Political Science Association and the American Political Science Review were founded in 1903 and 1906, respectively, to distinguish the study of politics from economics and other social phenomena. APSA membership rose from 204 in 1904 to 1,462 in 1915. APSA members played a key role in setting up political science departments that were distinct from history, philosophy, law, sociology, and economics.The journal Political Science Quarterly was established in 1886 by the Academy of Political Science. In the inaugural issue of Political Science Quarterly, Munroe Smith defined political science as \"the science of the state. Taken in this sense, it includes the organization and functions of the state, and the relation of states one to another.\"\nAs part of a United Nations Educational, Scientific, and Cultural Organization (UNESCO) initiative to promote political science in the late 1940s, the International Political Science Association was founded in 1949, along with national associations in France in 1949, Britain in 1950, and West Germany in 1951.\nFounded in 1903, the American Political Science Association (APSA) is the leading professional organization for the study of political science and serves more than 11,000 members in more than 100 countries.\n\n1. Sociological constitutionalism: Some classic scholars in this tradition are: \"Polybius, Machiavelli, Montesquieu, Benjamin Constant, Alexis de Tocqueville, Lorenz von Stein, Karl Marx, Moisei Ostrogorski, Max Weber, Émile Durkheim, Robert Michels, Gaetano Mosca, Vilfredo Pareto, and Herbert Tingsten.\" Schmitter argues that, in the twentieth century, this tradition was known by the label of \"historical political sociology\" and included scholars such as \"Stein Rokkan, T. H. Marshall, Reinhard Bendix, Otto Kirchheimer, Seymour Martin Lipset, Juan Linz, Hans Daalder, Mattei Dogan, Shmuel Eisenstadt, Harry H. Eckstein, and Dankwart Rustow.\"\n2. Legal constitutionalism: Some classic scholars in this tradition are: \"Léon Duguit, Georges Burdeau, James Bryce, A. Lawrence Lowell, and Woodrow Wilson.\" Schmitter argues that in the twentieth century this tradition was continued by: \"Maurice Duverger, Herman Finer, Samuel Finer, Giovanni Sartori, Carl Joachim Friedrich, Samuel Beer, Jean Blondel, Ferdinand A. Hermens, and Klaus von Beyme.\"\n(Source: https://en.wikipedia.org/wiki/Comparative_politics)\n\n## Applications, evidence, and Sri Lankan / comparative context\nPolitical science is methodologically diverse and appropriates many methods originating in psychology, social research, political philosophy, and many others, in addition to those that developed chiefly within the field of political science.\nPolitical scientists approach the study of politics from a host of different ontological orientations and with a variety of different tools. Because political science is essentially a study of human behavior, in all aspects of politics, observations in controlled environments are often challenging to reproduce or duplicate, though experimental methods are increasingly common (see experimental political science). Citing this difficulty, former American Political Science Association President Lawrence Lowell once said \"We are limited by the impossibility of experiment. Politics is an observational, not an experimental science.\" Because of this, political scientists have historically observed political elites, institutions, and individual or group behaviour to identify patterns, draw generalizations, and build theories of politics.\nLike all social sciences, political science faces the difficulty of observing human actors that can only be partially observed and who have the capacity for making conscious choices, unlike other subjects, such as non-human organisms in biology, minerals in geoscience, chemical elements in chemistry, stars in astronomy, or particles in physics. Despite its complexities, contemporary political science has advanced by adopting a variety of methods and theoretical approaches to understanding politics, and methodological pluralism is a defining feature of the field.\nEmpirical political science methods include the use of field experiments, surveys and survey experiments, case studies, process tracing, historical and institutional analysis, ethnography, participant observation, and interview research.\nPolitical scientists also use and develop theoretical tools such as game theory and agent-based models to study a wide range of political systems and situations. Other approaches include the study of equation-based models and opinion dynamics.\nPolitical theorists approach theories of political phenomena with a wide range of positions and tools, including feminist political theory, historical analysis associated with the Cambridge School, and Straussian approaches.\n\n1. The constitution of political science as a discipline, 1880–1920\n2. The Behavioral Revolution, 1921–1966\n3. The Post-Behavioral Period, 1967–1988\n4. The Second Scientific Revolution 1989–2005\n5. Classical and early foundations (Ancient- 18th Century)\nComparative analysis can be traced back to Aristotle, who extensively compared various constitutions to understand political stability and governance.\nThinkers like Plato, Polybius, and later Montesquieu used comparison to determine and classify regimes and to study the relationship between social conditions and political organisations.\nThis era emphasises normative evaluation, putting what constitutes a just or stable government, rather than empirical testing, in the limelight.\n(Source: https://en.wikipedia.org/wiki/International_relations)\n\n## Key terms\n- **Political science**: Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics.\n- **Comparative politics**: [Extract truncated.]\n\nComparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries.\n- **International relations**: This field of study is critical to international relations and conflict resolution.\n- **Political**: Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics.\n- **Science**: Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics.\n- **sub-fields**: sub-fields: a key idea for Political Science and its sub-fields (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Political Science and its sub-fields, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Political Science and its sub-fields can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Political Science and its sub-fields\n- Political Science and its sub-fields is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_political_science: Political science — https://en.wikipedia.org/wiki/Political_science (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:26:19.377242+00:00; checksum ffd91bc43037…)\n- wiki_en_comparative_politics: Comparative politics — https://en.wikipedia.org/wiki/Comparative_politics (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:26:22.029814+00:00; checksum c2f31fadddfd…)\n- wiki_en_international_relations: International relations — https://en.wikipedia.org/wiki/International_relations (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:26:23.458539+00:00; checksum cdea988bfc63…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:37.724733+00:00",
+  "before_distinct": 10,
+  "after_distinct": 12,
+  "newly_authored_here": 4
+}

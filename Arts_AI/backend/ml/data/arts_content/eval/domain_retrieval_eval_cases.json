@@ -1,0 +1,231 @@
+{
+  "generated_at_utc": "2026-10-15T00:42:27.879631+00:00",
+  "authoring_provenance": "machine_authored_research_eval",
+  "review_status": "unreviewed",
+  "in_retrieval_corpus": false,
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "n_cases": 11,
+  "cases": [
+    {
+      "id": "q_hist_answerable",
+      "question": "What periods or kingdoms are associated with the early history of Sri Lanka?",
+      "language": "en",
+      "answerable": true,
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_rajarata_politics",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_sri_lanka_history",
+        "wiki_en_anuradhapura",
+        "wiki_en_polonnaruwa",
+        "wiki_en_buddhism_sri_lanka",
+        "prac_pkg_hist_sl_rajarata_politics",
+        "prac_pkg_hist_sl_sources"
+      ],
+      "key_facts": [
+        "Sri Lanka",
+        "history"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "core"
+    },
+    {
+      "id": "q_geo_answerable",
+      "question": "Describe the physical geography and location of Sri Lanka.",
+      "language": "en",
+      "answerable": true,
+      "subject_id": "sub_geography",
+      "topic_id": "geo_basic_concepts",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_geography_sri_lanka",
+        "wiki_en_physical_geography",
+        "prac_pkg_geo_basic_concepts",
+        "prac_pkg_geo_physical_nature"
+      ],
+      "key_facts": [
+        "Sri Lanka",
+        "Indian Ocean"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "core"
+    },
+    {
+      "id": "q_econ_answerable",
+      "question": "What is economics as a field of study concerned with?",
+      "language": "en",
+      "answerable": true,
+      "subject_id": "sub_economics",
+      "topic_id": "eco_intro",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_economics",
+        "prac_pkg_eco_intro",
+        "prac_pkg_eco_development"
+      ],
+      "key_facts": [
+        "economics",
+        "resources"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "core"
+    },
+    {
+      "id": "q_pol_answerable",
+      "question": "How is the government or political system of Sri Lanka organised?",
+      "language": "en",
+      "answerable": true,
+      "subject_id": "sub_political",
+      "topic_id": "pol_international",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_politics_sri_lanka",
+        "wiki_en_forms_of_government",
+        "prac_pkg_pol_forms_gov",
+        "prac_pkg_pol_international"
+      ],
+      "key_facts": [
+        "Sri Lanka",
+        "government"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "core"
+    },
+    {
+      "id": "q_unanswerable_quantum",
+      "question": "What is the exact half-life of unobtanium-42 used in Sri Lankan A/L chemistry practicals?",
+      "language": "en",
+      "answerable": false,
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_sources",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [],
+      "key_facts": [],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "core"
+    },
+    {
+      "id": "q_ambiguous_trade",
+      "question": "How did trade shape development?",
+      "language": "en",
+      "answerable": true,
+      "ambiguous": true,
+      "subject_id": null,
+      "topic_id": "hist_sl_colonial_modern",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_sri_lanka_history",
+        "wiki_en_economics",
+        "prac_pkg_eco_intl_trade",
+        "prac_pkg_hist_sl_colonial_modern"
+      ],
+      "key_facts": [
+        "trade"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "core",
+      "note": "Ambiguous across history/economics; any of expected docs counts as partial hit"
+    },
+    {
+      "id": "q_si_unclaimed",
+      "question": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dd9\u0da7\u0dd2 \u0dc0\u0dd2\u0dc3\u0dca\u0dad\u0dbb\u0dba\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1",
+      "language": "si",
+      "answerable": true,
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_colonial_modern",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_sri_lanka_history"
+      ],
+      "key_facts": [],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "core",
+      "note": "Sinhala query \u2014 retrieval support not claimed; result recorded honestly"
+    },
+    {
+      "id": "q_hist_anuradhapura",
+      "question": "What was Anuradhapura and why was it important in Sri Lankan history?",
+      "language": "en",
+      "answerable": true,
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_rajarata_politics",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_anuradhapura",
+        "wiki_en_polonnaruwa",
+        "prac_pkg_hist_sl_rajarata_politics"
+      ],
+      "key_facts": [
+        "Anuradhapura"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "held_out_expansion"
+    },
+    {
+      "id": "q_eco_supply_demand",
+      "question": "Explain supply and demand and how prices are determined in a market.",
+      "language": "en",
+      "answerable": true,
+      "subject_id": "sub_economics",
+      "topic_id": "eco_demand_supply",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_supply_demand",
+        "wiki_en_opportunity_cost",
+        "prac_pkg_eco_demand_supply"
+      ],
+      "key_facts": [
+        "supply",
+        "demand"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "held_out_expansion"
+    },
+    {
+      "id": "q_pol_ideology",
+      "question": "What is a political ideology and what are common examples?",
+      "language": "en",
+      "answerable": true,
+      "subject_id": "sub_political",
+      "topic_id": "pol_ideologies",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [
+        "wiki_en_political_ideology",
+        "prac_pkg_pol_ideologies"
+      ],
+      "key_facts": [
+        "ideology"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "held_out_expansion"
+    },
+    {
+      "id": "q_wrong_subject_geo_as_history",
+      "question": "Describe the physical geography and location of Sri Lanka.",
+      "language": "en",
+      "answerable": false,
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_geography",
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "expected_document_ids": [],
+      "expect_wrong_subject_abstention": true,
+      "key_facts": [],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed",
+      "split": "held_out_expansion",
+      "note": "Same geo question with history subject filter \u2014 expect abstention or non-geo docs only"
+    }
+  ],
+  "teacher_review_workflow": "backend/ml/data/arts_content/TEACHER_REVIEW_TEMPLATE.md",
+  "note": "Multi-gold document relevance after supplemental corpus expansion. Subject filter applied when subject_id set. Not teacher-reviewed."
+}

@@ -1,0 +1,1867 @@
+{
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "medium": "english",
+  "scope_note": "Implementation assumption for local backend population; not stakeholder-approved complete national syllabus coverage; Sinhala Literature deferred; English medium only.",
+  "generated_at_utc": "2026-10-14T17:18:59.930298+00:00",
+  "n_topics": 45,
+  "topics": [
+    {
+      "topic_id": "hist_sl_sources",
+      "subject_id": "sub_history",
+      "topic_title": "Sources for Sri Lankan history",
+      "grade": "12",
+      "wiki_titles": [
+        "Historiography_of_Sri_Lanka",
+        "Mahavamsa",
+        "Culavamsa"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Use literary and archaeological sources critically",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Sources for Sri Lankan history",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Sources for Sri Lankan history using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Historiography of Sri Lanka",
+        "Mahavamsa",
+        "Culavamsa",
+        "Sources",
+        "Lankan",
+        "history"
+      ],
+      "misconceptions": [
+        "Sources for Sri Lankan history can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Sources for Sri Lankan history",
+        "Sources for Sri Lankan history is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "hist_sl_geography",
+      "subject_id": "sub_history",
+      "topic_title": "Geographical factors in Sri Lankan history",
+      "grade": "12",
+      "wiki_titles": [
+        "Geography_of_Sri_Lanka"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Analyse geographical influence on civilization",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Geographical factors in Sri Lankan history",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Geographical factors in Sri Lankan history using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Geography of Sri Lanka",
+        "Geographical",
+        "factors",
+        "Lankan",
+        "history"
+      ],
+      "misconceptions": [
+        "Geographical factors in Sri Lankan history can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Geographical factors in Sri Lankan history",
+        "Geographical factors in Sri Lankan history is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": [
+        "hist_sl_sources"
+      ]
+    },
+    {
+      "topic_id": "hist_sl_prehistoric",
+      "subject_id": "sub_history",
+      "topic_title": "Pre-historic and early settlements",
+      "grade": "12",
+      "wiki_titles": [
+        "Prehistory_of_Sri_Lanka",
+        "Balangoda_Man"
+      ],
+      "existing_document_ids": [
+        "wiki_en_prehistory_sri_lanka"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Describe pre-historic eras and early Aryan settlements",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Pre-historic and early settlements",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Pre-historic and early settlements using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Prehistory of Sri Lanka",
+        "Balangoda Man",
+        "Pre-historic",
+        "early",
+        "settlements"
+      ],
+      "misconceptions": [
+        "Pre-historic and early settlements can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Pre-historic and early settlements",
+        "Pre-historic and early settlements is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": [
+        "hist_sl_geography"
+      ]
+    },
+    {
+      "topic_id": "hist_sl_buddhism",
+      "subject_id": "sub_history",
+      "topic_title": "Establishment and expansion of Buddhism",
+      "grade": "12",
+      "wiki_titles": [
+        "Buddhism_in_Sri_Lanka",
+        "Mahinda_(Buddhist_monk)"
+      ],
+      "existing_document_ids": [
+        "wiki_en_buddhism_sri_lanka"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Explain establishment of Buddhism and socio-cultural change",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Establishment and expansion of Buddhism",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Establishment and expansion of Buddhism using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Buddhism in Sri Lanka",
+        "Mahinda",
+        "Establishment",
+        "expansion",
+        "Buddhism"
+      ],
+      "misconceptions": [
+        "Establishment and expansion of Buddhism can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Establishment and expansion of Buddhism",
+        "Establishment and expansion of Buddhism is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": [
+        "hist_sl_prehistoric"
+      ]
+    },
+    {
+      "topic_id": "hist_sl_rajarata_politics",
+      "subject_id": "sub_history",
+      "topic_title": "Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa)",
+      "grade": "12",
+      "wiki_titles": [
+        "Anuradhapura",
+        "Polonnaruwa",
+        "Rajarata"
+      ],
+      "existing_document_ids": [
+        "wiki_en_anuradhapura",
+        "wiki_en_polonnaruwa"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Analyse rise/fall of Anuradhapura and Polonnaruwa politics",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa)",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa) using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Anuradhapura",
+        "Polonnaruwa",
+        "Rajarata",
+        "Political",
+        "evolution",
+        "Anuradhapura\u2013Polonnaruwa"
+      ],
+      "misconceptions": [
+        "Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa) can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa)",
+        "Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa) is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": [
+        "hist_sl_buddhism"
+      ]
+    },
+    {
+      "topic_id": "hist_sl_rajarata_society",
+      "subject_id": "sub_history",
+      "topic_title": "Economy, irrigation and society of Rajarata",
+      "grade": "12",
+      "wiki_titles": [
+        "Anuradhapura",
+        "Irrigation_in_Sri_Lanka"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Examine agriculture, irrigation, trade and culture",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Economy, irrigation and society of Rajarata",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Economy, irrigation and society of Rajarata using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Anuradhapura",
+        "Irrigation in Sri Lanka",
+        "Economy,",
+        "irrigation",
+        "society",
+        "Rajarata"
+      ],
+      "misconceptions": [
+        "Economy, irrigation and society of Rajarata can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Economy, irrigation and society of Rajarata",
+        "Economy, irrigation and society of Rajarata is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": [
+        "hist_sl_rajarata_politics"
+      ]
+    },
+    {
+      "topic_id": "hist_sl_post_polonnaruwa",
+      "subject_id": "sub_history",
+      "topic_title": "Kingdoms after Polonnaruwa to 16th century",
+      "grade": "12",
+      "wiki_titles": [
+        "Kingdom_of_Dambadeniya",
+        "Kingdom_of_Kotte",
+        "Kingdom_of_Sitawaka"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Describe successor kingdoms and foreign relations",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Kingdoms after Polonnaruwa to 16th century",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Kingdoms after Polonnaruwa to 16th century using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Kingdom of Dambadeniya",
+        "Kingdom of Kotte",
+        "Kingdom of Sitawaka",
+        "Kingdoms",
+        "after",
+        "Polonnaruwa",
+        "century"
+      ],
+      "misconceptions": [
+        "Kingdoms after Polonnaruwa to 16th century can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Kingdoms after Polonnaruwa to 16th century",
+        "Kingdoms after Polonnaruwa to 16th century is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": [
+        "hist_sl_rajarata_society"
+      ]
+    },
+    {
+      "topic_id": "hist_sl_colonial_modern",
+      "subject_id": "sub_history",
+      "topic_title": "Colonial period to 1978 constitutional change",
+      "grade": "13",
+      "wiki_titles": [
+        "History_of_Sri_Lanka",
+        "British_Ceylon",
+        "Sri_Lankan_independence_movement"
+      ],
+      "existing_document_ids": [
+        "wiki_en_sri_lanka_history"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Outline colonial transformation through 1978 executive presidency",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Colonial period to 1978 constitutional change",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Colonial period to 1978 constitutional change using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "History of Sri Lanka",
+        "British Ceylon",
+        "Sri Lankan independence movement",
+        "Colonial",
+        "period",
+        "constitutional",
+        "change"
+      ],
+      "misconceptions": [
+        "Colonial period to 1978 constitutional change can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Colonial period to 1978 constitutional change",
+        "Colonial period to 1978 constitutional change is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": [
+        "hist_sl_post_polonnaruwa"
+      ]
+    },
+    {
+      "topic_id": "hist_in_sources",
+      "subject_id": "sub_history",
+      "topic_title": "Sources for Indian history",
+      "grade": "12",
+      "wiki_titles": [
+        "Historiography_of_India",
+        "Puranas",
+        "Edicts_of_Ashoka"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Sources for Indian history",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Sources for Indian history",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Sources for Indian history using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Historiography of India",
+        "Puranas",
+        "Edicts of Ashoka",
+        "Sources",
+        "Indian",
+        "history"
+      ],
+      "misconceptions": [
+        "Sources for Indian history can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Sources for Indian history",
+        "Sources for Indian history is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "hist_in_geography",
+      "subject_id": "sub_history",
+      "topic_title": "Geography and Indian history",
+      "grade": "12",
+      "wiki_titles": [
+        "Geography_of_India",
+        "Indo-Gangetic_Plain",
+        "Deccan_Plateau"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Geography and Indian history",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Geography and Indian history",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Geography and Indian history using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Geography of India",
+        "Indo-Gangetic Plain",
+        "Deccan Plateau",
+        "Geography",
+        "Indian",
+        "history"
+      ],
+      "misconceptions": [
+        "Geography and Indian history can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Geography and Indian history",
+        "Geography and Indian history is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "hist_in_indus_vedic",
+      "subject_id": "sub_history",
+      "topic_title": "Indus and Vedic civilizations",
+      "grade": "12",
+      "wiki_titles": [
+        "Indus_Valley_Civilisation",
+        "Vedic_period",
+        "Rigveda"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Indus and Vedic civilizations",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Indus and Vedic civilizations",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Indus and Vedic civilizations using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Indus Valley Civilisation",
+        "Vedic period",
+        "Rigveda",
+        "Indus",
+        "Vedic",
+        "civilizations"
+      ],
+      "misconceptions": [
+        "Indus and Vedic civilizations can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Indus and Vedic civilizations",
+        "Indus and Vedic civilizations is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "hist_eu_civilization",
+      "subject_id": "sub_history",
+      "topic_title": "Forces shaping European civilization",
+      "grade": "12",
+      "wiki_titles": [
+        "History_of_Europe",
+        "Ancient_Greece",
+        "Roman_Empire"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Forces shaping European civilization",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Forces shaping European civilization",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Forces shaping European civilization using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "History of Europe",
+        "Ancient Greece",
+        "Roman Empire",
+        "Forces",
+        "shaping",
+        "European",
+        "civilization"
+      ],
+      "misconceptions": [
+        "Forces shaping European civilization can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Forces shaping European civilization",
+        "Forces shaping European civilization is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "hist_eu_modern",
+      "subject_id": "sub_history",
+      "topic_title": "Europe 1500\u20131989 selected themes",
+      "grade": "12",
+      "wiki_titles": [
+        "Early_modern_Europe",
+        "Industrial_Revolution",
+        "French_Revolution"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Europe 1500\u20131989 selected themes",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Europe 1500\u20131989 selected themes",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Europe 1500\u20131989 selected themes using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Early modern Europe",
+        "Industrial Revolution",
+        "French Revolution",
+        "Europe",
+        "1500\u20131989",
+        "selected",
+        "themes"
+      ],
+      "misconceptions": [
+        "Europe 1500\u20131989 selected themes can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Europe 1500\u20131989 selected themes",
+        "Europe 1500\u20131989 selected themes is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "hist_mw_since_1500",
+      "subject_id": "sub_history",
+      "topic_title": "Modern world since 1500 (Asia/Africa/Europe/America)",
+      "grade": "12",
+      "wiki_titles": [
+        "Early_modern_period",
+        "Age_of_Discovery",
+        "Cold_War"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Modern world since 1500 (Asia/Africa/Europe/America)",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Modern world since 1500 (Asia/Africa/Europe/America)",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Modern world since 1500 (Asia/Africa/Europe/America) using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Early modern period",
+        "Age of Discovery",
+        "Cold War",
+        "Modern",
+        "world",
+        "since",
+        "Asia/Africa/Europe/America"
+      ],
+      "misconceptions": [
+        "Modern world since 1500 (Asia/Africa/Europe/America) can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Modern world since 1500 (Asia/Africa/Europe/America)",
+        "Modern world since 1500 (Asia/Africa/Europe/America) is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "geo_basic_concepts",
+      "subject_id": "sub_geography",
+      "topic_title": "Basic concepts of Geography",
+      "grade": "12",
+      "wiki_titles": [
+        "Geography",
+        "Human_geography",
+        "Physical_geography"
+      ],
+      "existing_document_ids": [
+        "wiki_en_geography_sri_lanka"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate competency related to: Basic concepts of Geography",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Basic concepts of Geography",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Basic concepts of Geography using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Geography",
+        "Human geography",
+        "Physical geography",
+        "Basic",
+        "concepts"
+      ],
+      "misconceptions": [
+        "Basic concepts of Geography can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Basic concepts of Geography",
+        "Basic concepts of Geography is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "geo_physical_nature",
+      "subject_id": "sub_geography",
+      "topic_title": "Nature of Physical Geography",
+      "grade": "12",
+      "wiki_titles": [
+        "Physical_geography",
+        "Geomorphology",
+        "Hydrology"
+      ],
+      "existing_document_ids": [
+        "wiki_en_physical_geography"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate competency related to: Nature of Physical Geography",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Nature of Physical Geography",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Nature of Physical Geography using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Physical geography",
+        "Geomorphology",
+        "Hydrology",
+        "Nature",
+        "Physical",
+        "Geography"
+      ],
+      "misconceptions": [
+        "Nature of Physical Geography can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Nature of Physical Geography",
+        "Nature of Physical Geography is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "geo_landforms",
+      "subject_id": "sub_geography",
+      "topic_title": "Landforms / main relief types",
+      "grade": "12",
+      "wiki_titles": [
+        "Landform",
+        "Mountain",
+        "Plateau"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate competency related to: Landforms / main relief types",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Landforms / main relief types",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Landforms / main relief types using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Landform",
+        "Mountain",
+        "Plateau",
+        "Landforms",
+        "relief",
+        "types"
+      ],
+      "misconceptions": [
+        "Landforms / main relief types can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Landforms / main relief types",
+        "Landforms / main relief types is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "geo_climate",
+      "subject_id": "sub_geography",
+      "topic_title": "Climate systems",
+      "grade": "12",
+      "wiki_titles": [
+        "Climate",
+        "Climate_of_Sri_Lanka",
+        "Monsoon"
+      ],
+      "existing_document_ids": [
+        "wiki_en_climate_sri_lanka"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate competency related to: Climate systems",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Climate systems",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Climate systems using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Climate",
+        "Climate of Sri Lanka",
+        "Monsoon",
+        "systems"
+      ],
+      "misconceptions": [
+        "Climate systems can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Climate systems",
+        "Climate systems is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "geo_population",
+      "subject_id": "sub_geography",
+      "topic_title": "Population",
+      "grade": "12",
+      "wiki_titles": [
+        "Demography",
+        "Population_of_Sri_Lanka"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate competency related to: Population",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Population",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Population using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Demography",
+        "Population of Sri Lanka",
+        "Population"
+      ],
+      "misconceptions": [
+        "Population can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Population",
+        "Population is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "geo_settlement_urban",
+      "subject_id": "sub_geography",
+      "topic_title": "Settlement and urbanization (incl. Sri Lanka)",
+      "grade": "12",
+      "wiki_titles": [
+        "Urbanization",
+        "Settlement_geography"
+      ],
+      "existing_document_ids": [
+        "wiki_en_urbanization"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate competency related to: Settlement and urbanization (incl. Sri Lanka)",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Settlement and urbanization (incl. Sri Lanka)",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Settlement and urbanization (incl. Sri Lanka) using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Urbanization",
+        "Settlement geography",
+        "Settlement",
+        "incl.",
+        "Lanka"
+      ],
+      "misconceptions": [
+        "Settlement and urbanization (incl. Sri Lanka) can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Settlement and urbanization (incl. Sri Lanka)",
+        "Settlement and urbanization (incl. Sri Lanka) is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "geo_agriculture",
+      "subject_id": "sub_geography",
+      "topic_title": "World / regional agriculture",
+      "grade": "12",
+      "wiki_titles": [
+        "Agriculture",
+        "Agriculture_in_Sri_Lanka"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate competency related to: World / regional agriculture",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of World / regional agriculture",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from World / regional agriculture using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Agriculture",
+        "Agriculture in Sri Lanka",
+        "World",
+        "regional"
+      ],
+      "misconceptions": [
+        "World / regional agriculture can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of World / regional agriculture",
+        "World / regional agriculture is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "geo_practical_maps",
+      "subject_id": "sub_geography",
+      "topic_title": "Practical Geography and map skills",
+      "grade": "12",
+      "wiki_titles": [
+        "Cartography",
+        "Map_projection",
+        "Topographic_map"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate competency related to: Practical Geography and map skills",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Practical Geography and map skills",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Practical Geography and map skills using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Cartography",
+        "Map projection",
+        "Topographic map",
+        "Practical",
+        "Geography",
+        "skills"
+      ],
+      "misconceptions": [
+        "Practical Geography and map skills can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Practical Geography and map skills",
+        "Practical Geography and map skills is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_nature",
+      "subject_id": "sub_political",
+      "topic_title": "Nature of Political Science, study of politics and approaches",
+      "grade": "12",
+      "wiki_titles": [
+        "Political_science",
+        "Politics"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Nature of Political Science, study of politics and approaches",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Nature of Political Science, study of politics and approaches",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Nature of Political Science, study of politics and approaches using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Political science",
+        "Politics",
+        "Nature",
+        "Political",
+        "Science,",
+        "study",
+        "approaches"
+      ],
+      "misconceptions": [
+        "Nature of Political Science, study of politics and approaches can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Nature of Political Science, study of politics and approaches",
+        "Nature of Political Science, study of politics and approaches is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_subfields",
+      "subject_id": "sub_political",
+      "topic_title": "Political Science and its sub-fields",
+      "grade": "12",
+      "wiki_titles": [
+        "Political_science",
+        "Comparative_politics",
+        "International_relations"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Political Science and its sub-fields",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Political Science and its sub-fields",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Political Science and its sub-fields using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Political science",
+        "Comparative politics",
+        "International relations",
+        "Political",
+        "Science",
+        "sub-fields"
+      ],
+      "misconceptions": [
+        "Political Science and its sub-fields can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Political Science and its sub-fields",
+        "Political Science and its sub-fields is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_state",
+      "subject_id": "sub_political",
+      "topic_title": "The State",
+      "grade": "12",
+      "wiki_titles": [
+        "State_(polity)",
+        "Sovereignty",
+        "Nation_state"
+      ],
+      "existing_document_ids": [
+        "wiki_en_state_polity"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: The State",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of The State",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from The State using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "State",
+        "Sovereignty",
+        "Nation state"
+      ],
+      "misconceptions": [
+        "The State can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of The State",
+        "The State is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_forms_gov",
+      "subject_id": "sub_political",
+      "topic_title": "Forms of government",
+      "grade": "12",
+      "wiki_titles": [
+        "Form_of_government",
+        "Democracy",
+        "Republic"
+      ],
+      "existing_document_ids": [
+        "wiki_en_forms_of_government"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Forms of government",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Forms of government",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Forms of government using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Form of government",
+        "Democracy",
+        "Republic",
+        "Forms",
+        "government"
+      ],
+      "misconceptions": [
+        "Forms of government can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Forms of government",
+        "Forms of government is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_ideologies",
+      "subject_id": "sub_political",
+      "topic_title": "Political ideologies",
+      "grade": "12",
+      "wiki_titles": [
+        "Political_ideology",
+        "Liberalism",
+        "Socialism"
+      ],
+      "existing_document_ids": [
+        "wiki_en_political_ideology"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Political ideologies",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Political ideologies",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Political ideologies using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Political ideology",
+        "Liberalism",
+        "Socialism",
+        "Political",
+        "ideologies"
+      ],
+      "misconceptions": [
+        "Political ideologies can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Political ideologies",
+        "Political ideologies is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_conflict",
+      "subject_id": "sub_political",
+      "topic_title": "Conflict and conflict resolution",
+      "grade": "12",
+      "wiki_titles": [
+        "Conflict_resolution",
+        "Peacebuilding"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Conflict and conflict resolution",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Conflict and conflict resolution",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Conflict and conflict resolution using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Conflict resolution",
+        "Peacebuilding",
+        "Conflict",
+        "resolution"
+      ],
+      "misconceptions": [
+        "Conflict and conflict resolution can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Conflict and conflict resolution",
+        "Conflict and conflict resolution is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_colonial",
+      "subject_id": "sub_political",
+      "topic_title": "Colonial transformation of Sri Lanka",
+      "grade": "12",
+      "wiki_titles": [
+        "British_Ceylon",
+        "Colonialism"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Colonial transformation of Sri Lanka",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Colonial transformation of Sri Lanka",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Colonial transformation of Sri Lanka using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "British Ceylon",
+        "Colonialism",
+        "Colonial",
+        "transformation",
+        "Lanka"
+      ],
+      "misconceptions": [
+        "Colonial transformation of Sri Lanka can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Colonial transformation of Sri Lanka",
+        "Colonial transformation of Sri Lanka is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_westminster",
+      "subject_id": "sub_political",
+      "topic_title": "Westminster model in Sri Lanka and changes",
+      "grade": "12",
+      "wiki_titles": [
+        "Westminster_system",
+        "Parliament_of_Sri_Lanka"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Westminster model in Sri Lanka and changes",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Westminster model in Sri Lanka and changes",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Westminster model in Sri Lanka and changes using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Westminster system",
+        "Parliament of Sri Lanka",
+        "Westminster",
+        "model",
+        "Lanka",
+        "changes"
+      ],
+      "misconceptions": [
+        "Westminster model in Sri Lanka and changes can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Westminster model in Sri Lanka and changes",
+        "Westminster model in Sri Lanka and changes is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_democracy",
+      "subject_id": "sub_political",
+      "topic_title": "Democratic governance \u2014 theory and practice",
+      "grade": "13",
+      "wiki_titles": [
+        "Democracy",
+        "Liberal_democracy",
+        "Electoral_system"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Democratic governance \u2014 theory and practice",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Democratic governance \u2014 theory and practice",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Democratic governance \u2014 theory and practice using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Democracy",
+        "Liberal democracy",
+        "Electoral system",
+        "Democratic",
+        "governance",
+        "theory",
+        "practice"
+      ],
+      "misconceptions": [
+        "Democratic governance \u2014 theory and practice can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Democratic governance \u2014 theory and practice",
+        "Democratic governance \u2014 theory and practice is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_comparative",
+      "subject_id": "sub_political",
+      "topic_title": "Comparative models of government",
+      "grade": "13",
+      "wiki_titles": [
+        "Comparative_politics",
+        "Presidential_system",
+        "Parliamentary_system"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Comparative models of government",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Comparative models of government",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Comparative models of government using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Comparative politics",
+        "Presidential system",
+        "Parliamentary system",
+        "Comparative",
+        "models",
+        "government"
+      ],
+      "misconceptions": [
+        "Comparative models of government can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Comparative models of government",
+        "Comparative models of government is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_constitution_1978",
+      "subject_id": "sub_political",
+      "topic_title": "Constitution of 1978 and selected amendments",
+      "grade": "13",
+      "wiki_titles": [
+        "Constitution_of_Sri_Lanka",
+        "Sri_Lankan_Constitution_of_1978"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Constitution of 1978 and selected amendments",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Constitution of 1978 and selected amendments",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Constitution of 1978 and selected amendments using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978",
+        "Constitution",
+        "selected",
+        "amendments"
+      ],
+      "misconceptions": [
+        "Constitution of 1978 and selected amendments can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Constitution of 1978 and selected amendments",
+        "Constitution of 1978 and selected amendments is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_parties",
+      "subject_id": "sub_political",
+      "topic_title": "Political party system of Sri Lanka",
+      "grade": "13",
+      "wiki_titles": [
+        "Political_party",
+        "United_National_Party",
+        "Sri_Lanka_Freedom_Party"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Political party system of Sri Lanka",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Political party system of Sri Lanka",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Political party system of Sri Lanka using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Political party",
+        "United National Party",
+        "Sri Lanka Freedom Party",
+        "Political",
+        "party",
+        "system",
+        "Lanka"
+      ],
+      "misconceptions": [
+        "Political party system of Sri Lanka can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Political party system of Sri Lanka",
+        "Political party system of Sri Lanka is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_international",
+      "subject_id": "sub_political",
+      "topic_title": "International politics and implications for Sri Lanka",
+      "grade": "13",
+      "wiki_titles": [
+        "International_relations",
+        "Foreign_relations_of_Sri_Lanka",
+        "Non-Aligned_Movement"
+      ],
+      "existing_document_ids": [
+        "wiki_en_politics_sri_lanka"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: International politics and implications for Sri Lanka",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of International politics and implications for Sri Lanka",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from International politics and implications for Sri Lanka using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "International relations",
+        "Foreign relations of Sri Lanka",
+        "Non-Aligned Movement",
+        "International",
+        "politics",
+        "implications",
+        "Lanka"
+      ],
+      "misconceptions": [
+        "International politics and implications for Sri Lanka can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of International politics and implications for Sri Lanka",
+        "International politics and implications for Sri Lanka is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_public_policy",
+      "subject_id": "sub_political",
+      "topic_title": "Public policy (introductory)",
+      "grade": "13",
+      "wiki_titles": [
+        "Public_policy",
+        "Policy_analysis"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Public policy (introductory)",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Public policy (introductory)",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Public policy (introductory) using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Public policy",
+        "Policy analysis",
+        "Public",
+        "policy",
+        "introductory"
+      ],
+      "misconceptions": [
+        "Public policy (introductory) can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Public policy (introductory)",
+        "Public policy (introductory) is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "pol_citizen",
+      "subject_id": "sub_political",
+      "topic_title": "Citizenship and political values",
+      "grade": "12",
+      "wiki_titles": [
+        "Citizenship",
+        "Political_culture",
+        "Civic_engagement"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Citizenship and political values",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Citizenship and political values",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Citizenship and political values using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Citizenship",
+        "Political culture",
+        "Civic engagement",
+        "political",
+        "values"
+      ],
+      "misconceptions": [
+        "Citizenship and political values can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Citizenship and political values",
+        "Citizenship and political values is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "eco_intro",
+      "subject_id": "sub_economics",
+      "topic_title": "Nature and scope of Economics",
+      "grade": "12",
+      "wiki_titles": [
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics"
+      ],
+      "existing_document_ids": [
+        "wiki_en_economics"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Nature and scope of Economics",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Nature and scope of Economics",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Nature and scope of Economics using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics",
+        "Nature",
+        "scope"
+      ],
+      "misconceptions": [
+        "Nature and scope of Economics can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Nature and scope of Economics",
+        "Nature and scope of Economics is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "eco_scarcity_choice",
+      "subject_id": "sub_economics",
+      "topic_title": "Scarcity, choice and opportunity cost",
+      "grade": "12",
+      "wiki_titles": [
+        "Scarcity",
+        "Opportunity_cost",
+        "Production\u2013possibility_frontier"
+      ],
+      "existing_document_ids": [
+        "wiki_en_opportunity_cost"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Scarcity, choice and opportunity cost",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Scarcity, choice and opportunity cost",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Scarcity, choice and opportunity cost using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Scarcity",
+        "Opportunity cost",
+        "Production\u2013possibility frontier",
+        "Scarcity,",
+        "choice",
+        "opportunity"
+      ],
+      "misconceptions": [
+        "Scarcity, choice and opportunity cost can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Scarcity, choice and opportunity cost",
+        "Scarcity, choice and opportunity cost is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "eco_demand_supply",
+      "subject_id": "sub_economics",
+      "topic_title": "Demand, supply and markets",
+      "grade": "12",
+      "wiki_titles": [
+        "Supply_and_demand",
+        "Market_(economics)"
+      ],
+      "existing_document_ids": [
+        "wiki_en_supply_demand"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Demand, supply and markets",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Demand, supply and markets",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Demand, supply and markets using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Supply and demand",
+        "Market",
+        "Demand,",
+        "supply",
+        "markets"
+      ],
+      "misconceptions": [
+        "Demand, supply and markets can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Demand, supply and markets",
+        "Demand, supply and markets is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "eco_national_income",
+      "subject_id": "sub_economics",
+      "topic_title": "National income and macroeconomic indicators",
+      "grade": "12",
+      "wiki_titles": [
+        "National_income",
+        "Gross_domestic_product"
+      ],
+      "existing_document_ids": [
+        "wiki_en_national_income"
+      ],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: National income and macroeconomic indicators",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of National income and macroeconomic indicators",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from National income and macroeconomic indicators using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "National income",
+        "Gross domestic product",
+        "National",
+        "income",
+        "macroeconomic",
+        "indicators"
+      ],
+      "misconceptions": [
+        "National income and macroeconomic indicators can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of National income and macroeconomic indicators",
+        "National income and macroeconomic indicators is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "eco_money_banking",
+      "subject_id": "sub_economics",
+      "topic_title": "Money, banking and financial system",
+      "grade": "12",
+      "wiki_titles": [
+        "Money",
+        "Bank",
+        "Central_bank"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Money, banking and financial system",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Money, banking and financial system",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Money, banking and financial system using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Money",
+        "Bank",
+        "Central bank",
+        "Money,",
+        "banking",
+        "financial",
+        "system"
+      ],
+      "misconceptions": [
+        "Money, banking and financial system can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Money, banking and financial system",
+        "Money, banking and financial system is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "eco_gov_policy",
+      "subject_id": "sub_economics",
+      "topic_title": "Government economic policy",
+      "grade": "12",
+      "wiki_titles": [
+        "Fiscal_policy",
+        "Monetary_policy"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Government economic policy",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Government economic policy",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Government economic policy using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Fiscal policy",
+        "Monetary policy",
+        "Government",
+        "economic",
+        "policy"
+      ],
+      "misconceptions": [
+        "Government economic policy can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Government economic policy",
+        "Government economic policy is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "eco_intl_trade",
+      "subject_id": "sub_economics",
+      "topic_title": "International trade and finance",
+      "grade": "12",
+      "wiki_titles": [
+        "International_trade",
+        "Comparative_advantage",
+        "Balance_of_trade"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: International trade and finance",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of International trade and finance",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from International trade and finance using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "International trade",
+        "Comparative advantage",
+        "Balance of trade",
+        "International",
+        "trade",
+        "finance"
+      ],
+      "misconceptions": [
+        "International trade and finance can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of International trade and finance",
+        "International trade and finance is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    },
+    {
+      "topic_id": "eco_development",
+      "subject_id": "sub_economics",
+      "topic_title": "Economic development and Sri Lankan context",
+      "grade": "12",
+      "wiki_titles": [
+        "Economic_development",
+        "Economy_of_Sri_Lanka"
+      ],
+      "existing_document_ids": [],
+      "inferred_objectives": [
+        {
+          "text": "Demonstrate understanding of: Economic development and Sri Lankan context",
+          "label": "inferred_from_provisional_registry_structure_not_official_verbatim"
+        },
+        {
+          "text": "Explain core ideas of Economic development and Sri Lankan context",
+          "label": "inferred_not_official"
+        },
+        {
+          "text": "Apply concepts from Economic development and Sri Lankan context using cited public sources",
+          "label": "inferred_not_official"
+        }
+      ],
+      "key_concepts": [
+        "Economic development",
+        "Economy of Sri Lanka",
+        "Economic",
+        "development",
+        "Lankan",
+        "context"
+      ],
+      "misconceptions": [
+        "Economic development and Sri Lankan context can be reduced to a single date or slogan",
+        "Listing names alone demonstrates understanding of Economic development and Sri Lankan context",
+        "Economic development and Sri Lankan context is isolated from other Arts subjects"
+      ],
+      "blocked": false,
+      "prerequisite_topic_ids": []
+    }
+  ]
+}

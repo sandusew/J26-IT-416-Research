@@ -1,0 +1,115 @@
+{
+  "topic_id": "geo_settlement_urban",
+  "subject_id": "sub_geography",
+  "topic_title": "Settlement and urbanization (incl. Sri Lanka)",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Urbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns. It describes the population shift from rural to urban areas, the corresponding decrease in the proportion of people living in rural areas, and the ways in which societies and culture adapt to this change.\n\nUrbanization is not merely a modern phenomenon, but a rapid and historic transformation of human social roots on a global scale, whereby predominantly rural culture is being rapidly replaced by predominantly urban culture. The first major change in settlement patterns was the accumulation of hunter-gatherers into villages many thousands of years ago. Village culture is characterized by common bloodlines, intimate relationships, and communal behaviour, whereas urban culture is characterized by distant bloodlines, unfamiliar relations, and competitive behaviour. This unprecedented movement of people is forecast to continue and intensify during the next few decades, mushrooming cities to sizes unthinkable only a century ago. As a result, the world urban population growth curve has up till recently followed a quadratic-hyperbolic pattern.",
+      "source_ids": [
+        "wiki_en_urbanization"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Urbanization"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Rather than strictly referring to the absolute number of people living in urban environments, Urbanization refers to the proportion of the total national population living in areas classified as urban.“It is predicted that by 2050, about 77% of the developing world and 96% of the developed world will be urbanized.”. This is predicted to generate artificial scarcities of land, lack of drinking water, playgrounds and other essential resources for most urban dwellers. The predicted urban population growth is equivalent to approximately 3 billion urbanites by 2050, much of which will occur in Africa and Asia. Notably, the United Nations has also recently projected that nearly all global population growth from 2017 to 2030 will take place in cities, with about 1.1 billion new urbanites over the next 10 years. In the long term, urbanization is expected to significantly impact the quality of life in negative ways.\n\nFrom the development of the earliest cities in Indus Valley Civilization, Mesopotamia and Egypt until the 18th century, an equilibrium existed between the vast majority of the population who were engaged in subsistence agriculture in a rural context, and small centres of populations in the towns where economic activity consisted only of trade at markets and manufactures on a small scale. Due to the primitive and relatively stagnant state of agriculture throughout this period, the ratio of rural to urban population remained at a fixed equilibrium. However, a significant increase in the percentage of the global urban population can be traced in the 1st millennium BCE.",
+      "source_ids": [
+        "wiki_en_settlement_geography"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Settlement_geography"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Urbanization is relevant to a range of disciplines, including urban planning, geography, sociology, architecture, economics, education, statistics, and public health. The phenomenon has been closely linked to globalization, modernization, industrialization, marketization, administrative/institutional power, and the sociological process of rationalization. Urbanization can be seen as a specific condition at a set time (e.g. the proportion of total population or area in cities or towns), or as an increase in that condition over time. Therefore, urbanization can be quantified either in terms of the level of urban development relative to the overall population, or as the rate at which the urban proportion of the population is increasing. Urbanization creates enormous social, economic and environmental challenges, which provide an opportunity for sustainability with the \"potential to use resources much less or more efficiently, to create more sustainable land use and to protect the biodiversity of natural ecosystems.\" However, current urbanization trends have shown that massive urbanization has led to unsustainable ways of living. Developing urban resilience and urban sustainability in the face of increased urbanization is at the centre of international policy in Sustainable Development Goal 11 \"Sustainable cities and communities.\"\n\nWith the onset of the British Agricultural Revolution and Industrial Revolution in the late 18th century, this relationship was finally broken and an unprecedented growth in urban population took place over the course of the 19th century, both through continued migration from the countryside and due to the tremendous demographic expansion that occurred at that time. In England and Wales, the proportion of the population living in cities with more than 20,000 people jumped from 17% in 1801 to 54% in 1891. Moreover, and adopting a broader definition of urbanization, while the urbanized population in England and Wales represented 72% of the total in 1891, for other countries the figure was 37% in France, 41% in Prussia and 28% in the United States.",
+      "source_ids": [
+        "wiki_en_urbanization"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Urbanization"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Urbanization",
+      "definition": "Urbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns.",
+      "source_ids": [
+        "wiki_en_urbanization"
+      ]
+    },
+    {
+      "term": "Settlement geography",
+      "definition": "[Extract truncated for local indexing.]\n\nSettlement geography is a branch of human geography that investigates the Earth's surface's part settled by humans.",
+      "source_ids": [
+        "wiki_en_urbanization"
+      ]
+    },
+    {
+      "term": "Settlement",
+      "definition": "Urbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns.",
+      "source_ids": [
+        "wiki_en_urbanization"
+      ]
+    },
+    {
+      "term": "incl.",
+      "definition": "incl.: a key idea for Settlement and urbanization (incl. Sri Lanka) (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_urbanization"
+      ]
+    },
+    {
+      "term": "Lanka",
+      "definition": "Lanka: a key idea for Settlement and urbanization (incl. Sri Lanka) (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_urbanization"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_urbanization",
+    "wiki_en_settlement_geography"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_urbanization",
+      "title": "Urbanization (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Urbanization",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=56114",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_settlement_urban",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "b1bde49e62674e83f8b91bc13267fda79c1c9d27577c300d58f1ca059f1c7849",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_settlement_geography",
+      "title": "Settlement geography",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Settlement_geography",
+      "retrieved_at_utc": "2026-10-14T17:26:11.035673+00:00",
+      "edition_or_revision": "pageid=33566568",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_settlement_urban",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "d3bb65f2d7f27e570de47b7bf531ae3f16e8a0040c854a742d94be450d724b38",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "00dcda6c44ec665962a1906fc43558811462650e21a0272dcfed1f714ae50f75",
+  "authored_at_utc": "2026-10-14T17:26:11.644985+00:00"
+}

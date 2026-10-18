@@ -1,0 +1,83 @@
+{
+  "topic_id": "geo_population",
+  "subject_id": "sub_geography",
+  "topic_title": "Population",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Demography (from Ancient Greek  δῆμος (dêmos) 'people, society' and  -γραφία (-graphía) 'writing, drawing, description') is the statistical study of human populations: their size, composition (e.g., ethnic group, age), and how they change through the interplay of fertility (births), mortality (deaths), and migration.\nFormal demography limits its object of study to the measurement of population processes, while the broader field of social demography (or population studies) also analyses the relationships among economic, social, institutional, cultural, and biological processes that influence a population. Educational institutions usually treat demography as a field of sociology, although independent demography departments do exist.\nDemographic analysis (usually abbreviated to DA) examines and measures the dimensions and dynamics of populations, including whole societies or groups defined by criteria such as education, nationality, religion, and ethnicity.  The methods of DA have primarily been developed to study human populations, but have also been used in a variety of areas where researchers want to know how other non-human populations of social actors can change across time through processes of birth, death, and migration. \nDemographic analysis is used in a wide variety of contexts. In the labor force, DA is used to estimate sizes and flows of populations of workers; in population ecology the focus is on the birth, death, emigration and immigration of individuals in a population of living organisms; in the social sciences this could involve the movement of firms and institutional forms; in business planning DA is often used to describe the population in a business's geographic area. \nIn the context of human biological populations, demographic analysis uses administrative records to develop an independent estimate of the population. For example, patient demographics such as date of birth, gender, date of death, postal code, ethnicity, blood type, emergency contact information, family doctor, insurance provider data, allergies, major diagnoses, and major medical history form the core of the data for any medical institution, allowing the identification and categorization of a patient for the purpose of statistical analysis.\nDemographic analysis estimates are often considered a reliable standard for judging the accuracy of census information. For example, the U.S. Census Bureau expanded its DA categories for the 2010 U.S. Census to include comparative analysis between independent housing estimates, and differences between census address lists at different key times.\n\nDirect standardization computes an age-adjusted rate by applying the age-specific rates of each study population to a standard population.\nIndirect standardization, used when the age-specific rates are unknown, computes a standardized incident ratio, such as the standardized mortality ratio.  The product of the standardized incident ratio and the reference population’s crude rate approximates the study population's age-adjusted rate.\nAn alternative approach, the decomposition method, expresses the difference between crude rates as the sum of two terms: one due to differing age-specific event rates and another due to differing population compositions.  Standardization and decomposition methods extend to compositional variables other than age.",
+      "source_ids": [
+        "wiki_en_demography"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Demography"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Direct methods calculate measures from empirical records of demographic events and population counts collected through administrative registers, civil registration systems, censuses, surveys, or big data (see table).\nA register continuously updates administrative data and attributes for its target population of persons or objects (such as dwellings, buildings or businesses).  Registers serve administrative functions of government or private institutions such as \"monitoring of taxes, the allocation of pensions, the provision of services, the production of goods, or the administering of bank accounts.\"  Civil registration systems record the occurrence and characteristics of vital events, such as births, deaths, and infant mortality.\nA census periodically records information from people within a specific geographic area, attempting to represent each person within this region.  The typical interval between censuses is 5 to 10 years.  A national census measures total female, and male populations.  A census may fail to count a person or count one person multiple times.  Demographers may identify and correct these errors by comparing the census's observed male-to-female ratio at each age to the expected ratio at each age.\nSurveys record data from a sample rather than the whole population. Although this method can provide more timely or distinct data than a census or register, sampled data may be less comprehensive and less precise for local data.  The  United Kingdom conducted four consecutive prospective cohort surveys: the 1946 National Survey of Health and Development, the 1958 National Child Development Study, the 1970 British Cohort Study, and the 2000 Millennium Cohort Study. These surveys sampled cohorts to identify generational changes over decades in health, education, development, economic status, and lifestyle choices. \nThe World Wide Web and electronic device sensors generate big data: high-volume, high-velocity, and highly varied information.  Big data originates from multiple sources: administrative records, sensor recordings, mobile phone communications, and social media.  Statisticians use specialized methods to process big data, evaluate quality, and fix bias, missing data, or missing identifiers.\nResearchers commonly combine these methods.  For instance, France's rolling census continuously surveys its population over an extended time to generate nationwide data.",
+      "source_ids": [
+        "wiki_en_demography"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Demography"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Survivorship: Parametric models describe survivorship, the probability of surviving from birth to each age.  The Gompertz model applies to older adults, the Gompertz–Makeham model applies to all adults, and the Siler model applies to persons of all ages.  In the Brass method relational logit system, a linear function relates logit transformed survivorship of a study population to logit transformed survivorship of a standard population.  The Lee-Carter model predicts age-specific mortality rates from prior age-specific rates.\nMaternal mortality ratio: The sisterhood method surveys adults about whether their sisters of reproductive age died during pregnancy, childbirth, or the postpartum period. It then applies a model to this survey data to estimate maternal mortality ratios.\nAge-specific fertility rate:  The Coale–Trussell model estimates age-specific marital fertility using empirical data of natural age-specific fertility and age-specific fertility control.  Statistical probability distributions may also describe age-specific fertility.  These include the inverse Gaussian (Hadwiger model), gamma distribution, and beta distribution.  Spline methods generate smooth distributions from incomplete data.  The Brass relational Gompertz model relates incomplete fertility data in a study population to a standard data set.  The Page model of marital fertility estimates fertility rates from a woman's age and duration of marriage.\nAge-specific migration rate: The Rogers-Castro migration model uses multiple exponential functions to describe how migration changes at each age.\nMigration flow:  The Gravity migration model, Lowry and gravity push-pull model and theory of intervening opportunities predict where people migrate.",
+      "source_ids": [
+        "wiki_en_demography"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Demography"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Demography",
+      "definition": "Educational institutions usually treat demography as a field of sociology, although independent demography departments do exist.",
+      "source_ids": [
+        "wiki_en_demography"
+      ]
+    },
+    {
+      "term": "Population of Sri Lanka",
+      "definition": "Population of Sri Lanka: a key idea for Population (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_demography"
+      ]
+    },
+    {
+      "term": "Population",
+      "definition": "Demographic analysis (usually abbreviated to DA) examines and measures the dimensions and dynamics of populations, including whole societies or groups defined by criteria such as education, nationality, religion, and ethnicity.",
+      "source_ids": [
+        "wiki_en_demography"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_demography"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_demography",
+      "title": "Demography",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Demography",
+      "retrieved_at_utc": "2026-10-14T17:31:12.228545+00:00",
+      "edition_or_revision": "pageid=45642",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_population",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "de5b457ef4dbb0f182cf65d249a9cd45b0efac7205a06a9aae94f9c2ef277035",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "f2bfc71bead96d4e51ec0fd26edf1d5371ccb71fc40e9a395498a2f263dbac50",
+  "authored_at_utc": "2026-10-14T17:31:26.437011+00:00"
+}

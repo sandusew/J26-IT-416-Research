@@ -1,0 +1,7 @@
+{
+  "data_category": "synthetic_learner",
+  "f1": 0.5714285714285714,
+  "roc_auc": 0.6449843260188087,
+  "n_test": 80,
+  "note": "Measures performance under simulation assumptions only; not real Arts risk validation"
+}

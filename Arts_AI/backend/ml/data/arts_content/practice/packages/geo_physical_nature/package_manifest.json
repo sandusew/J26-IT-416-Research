@@ -1,0 +1,158 @@
+{
+  "topic_id": "geo_physical_nature",
+  "subject_id": "sub_geography",
+  "topic_title": "Nature of Physical Geography",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Physical geography, also known as physiography or natural geography, is one of the three main branches of geography. Physical geography is the branch of natural science which deals with the processes and patterns in the natural environment such as the atmosphere, hydrosphere, biosphere, and geosphere. This focus contrasts with the branch of human geography, which focuses on the built environment, and technical geography, which focuses on the use, study, and creation of tools for obtaining, analyzing, interpreting, and understanding spatial information. The three branches have significant overlap, however.\n\nHydrology is predominantly concerned with the amounts and quality of water moving and accumulating on the land surface and in the soils and rocks near the surface and is typified by the hydrological cycle. Thus, the field encompasses water in rivers, lakes, aquifers, and to an extent glaciers, in which the field examines the process and dynamics involved in these bodies of water. Hydrology has historically had an important connection with engineering and has thus developed largely quantitative methods in its research; however, it also has an earth science side that embraces the systems approach. As in most fields of physical geography, it has subfields that examine specific bodies of water or their interactions with other spheres, e.g., limnology and ecohydrology.",
+      "source_ids": [
+        "wiki_en_physical_geography"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Physical_geography"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Physical geography can be divided into several branches or related fields, as follows:\n\nGlaciology is the study of glaciers and ice sheets, or more commonly the cryosphere or ice and phenomena that involve ice. Glaciology groups the latter (ice sheets) as continental glaciers and the former (glaciers) as alpine glaciers. Although research in these areas is similar to research on the dynamics of ice sheets and glaciers, the former tends to focus on the interaction of ice sheets with the present climate, and the latter on the impact of glaciers on the landscape. Glaciology also has a vast array of subfields that examine the factors and processes involved in ice sheets and glaciers, e.g., snow hydrology and glacial geology.",
+      "source_ids": [
+        "wiki_en_physical_geography"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Physical_geography"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Geomorphology is concerned with understanding the surface of the Earth and the processes by which it is shaped, both at the present as well as in the past. Geomorphology, as a field, has several sub-fields that deal with the specific landforms of various environments, e.g., desert geomorphology and fluvial geomorphology; however, these sub-fields are united by the core processes that drive them, mainly tectonic or climatic processes. Geomorphology seeks to understand landform history and dynamics and to predict future changes through a combination of field observation, physical experiments, and numerical modeling (Geomorphometry). Early studies in geomorphology form the foundation of pedology, one of the two main branches of soil science.\n\nBiogeography is the science that deals with geographic patterns of species distribution and the processes that result in these patterns. Biogeography emerged as a field of study through the work of Alfred Russel Wallace. However, before the late twentieth century, it had largely been viewed as historical in its outlook and descriptive in its approach. The main stimuli for the field since its founding have been evolution, plate tectonics, and the theory of island biogeography. The field can largely be divided into five sub-fields: island biogeography, paleobiogeography, phylogeography, zoogeography and phytogeography.",
+      "source_ids": [
+        "wiki_en_geomorphology"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Geomorphology"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Physical geography",
+      "definition": "Physical geography, also known as physiography or natural geography, is one of the three main branches of geography.",
+      "source_ids": [
+        "wiki_en_physical_geography"
+      ]
+    },
+    {
+      "term": "Geomorphology",
+      "definition": "Geomorphology seeks to understand landform history and dynamics and to predict future changes through a combination of field observation, physical experiments, and numerical modeling (Geomorphometry).",
+      "source_ids": [
+        "wiki_en_physical_geography"
+      ]
+    },
+    {
+      "term": "Hydrology",
+      "definition": "Hydrology is predominantly concerned with the amounts and quality of water moving and accumulating on the land surface and in the soils and rocks near the surface and is typified by the hydrological cycle.",
+      "source_ids": [
+        "wiki_en_physical_geography"
+      ]
+    },
+    {
+      "term": "Nature",
+      "definition": "Climatology examines both the nature of micro (local) and macro (global) climates and the natural and anthropogenic influences on them.",
+      "source_ids": [
+        "wiki_en_physical_geography"
+      ]
+    },
+    {
+      "term": "Physical",
+      "definition": "Physical geography, also known as physiography or natural geography, is one of the three main branches of geography.",
+      "source_ids": [
+        "wiki_en_physical_geography"
+      ]
+    },
+    {
+      "term": "Geography",
+      "definition": "Physical geography, also known as physiography or natural geography, is one of the three main branches of geography.",
+      "source_ids": [
+        "wiki_en_physical_geography"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_physical_geography",
+    "wiki_en_physical_geography",
+    "wiki_en_geomorphology",
+    "wiki_en_hydrology"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_physical_geography",
+      "title": "Physical geography (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Physical_geography",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=23263",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_physical_nature",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "3d6daf79837d5778ff4726623f08ad5767f80ffe8d1f7122c225f1e518d9d2d7",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_physical_geography",
+      "title": "Physical geography",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Physical_geography",
+      "retrieved_at_utc": "2026-10-14T17:25:06.155724+00:00",
+      "edition_or_revision": "pageid=23263",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_physical_nature",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "d0a38e8dcc595b8d55685434bcea02f97fb2442fbc728e1dc13e784278f295eb",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_geomorphology",
+      "title": "Geomorphology",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Geomorphology",
+      "retrieved_at_utc": "2026-10-14T17:25:07.445203+00:00",
+      "edition_or_revision": "pageid=78534",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_physical_nature",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "cdbea9740cb1107675e5635f38f1aa67c94524e9d841a1d4c0c64c33b1189489",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_hydrology",
+      "title": "Hydrology",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Hydrology",
+      "retrieved_at_utc": "2026-10-14T17:25:08.895894+00:00",
+      "edition_or_revision": "pageid=13435",
+      "subject_id": "sub_geography",
+      "topic_id": "geo_physical_nature",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "93be7e8c86f2efdb662d29fd2bee4f137cc8ae3558caa9c2f4c720fc5d1a0878",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "64bdcd610ba015d3c96328c5f913aacd112825144ac929799c796c783d4ec1c4",
+  "authored_at_utc": "2026-10-14T17:25:09.510136+00:00"
+}

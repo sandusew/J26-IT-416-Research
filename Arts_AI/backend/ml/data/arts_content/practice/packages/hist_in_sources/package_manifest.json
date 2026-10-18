@@ -1,0 +1,140 @@
+{
+  "topic_id": "hist_in_sources",
+  "subject_id": "sub_history",
+  "topic_title": "Sources for Indian history",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "The historiography of India refers to the studies, sources, critical methods and interpretations used by scholars to develop a history of India.\nIn recent decades there have been four main schools of historiography in how historians study India: Cambridge, Nationalist, Marxist, and subaltern. The once common \"Orientalist\" approach, with its image of a sensuous, inscrutable, and wholly spiritual India, has died out in serious scholarship.\n\n\"Unfortunately the Hindus do not pay much attention to the historical order of things, they are very careless in relating the chronological succession of their kings, and when they are pressed for information and are at a loss, not knowing what to say, they invariably take to tale-telling. But for this, we should communicate to the readers the traditions which we have received from some people among them.\"Ancient India never developed a strong historiographical tradition comparable to the ones that existed in the Greco-Roman, Chinese, and Islamic civilizations. However, it cannot be concluded that the ancient Indians lacked an understanding of objective historical writing, as there were some attempts akin to historiography. At various points in Indian history, there were efforts to record and chronicle the reigns of particular dynasties and rulers in India. Within the Vedic, Buddhist, Jain and other religious literature, the names of teachers are attentively recorded. The Chinese Buddhist pilgrim Xuanzang mentioned that in every province of India, there would be officials who would be responsible for documenting in-writing \"good and evil events, calamities, and fortunate occurrences\". Since the era of the Gupta ruler Samudragupta, ancient Indian rulers would have a renowned poet record their reigns and victories onto stone in the form of inscription. Romila Thapar instead states that it should be taken into account what the ancient Indians found relevant and why when evaluating any dearth of historiographical tradition. A. K. Warder opined that the regional historiographies of India must be considered, with historical writing in India becoming regionalized by the mediaeval-period from the 7th century onwards. There are historical works authored by the Chalukya, Rashtrakuta, Pala dynastical historiographies and also regional historiographical traditions in Kashmir, Sindhu, Gurjara, Jejakabhukti, Kamarupa, Kerala, Hoyasala, Andhra, Kalinga, and Maharashtra.\nIn modern-times, some attempts have been made to extract historiographical elements from Vedic literature and epic poetry, such as the Mahabharata or Ramayana. However, religious, mythical, and allegorical legends are too intermixed with Indic religious thought and philosophy that discerning and extracting any semblance of historiography from them is a difficult task. The Puranas mostly entail mythological elements with a facade of historicity. The corpuses of Pali and Prakrit literature of the era are mostly religious in nature. Thus, a historiographical tradition was not popular in India, barring a few examples. A true tradition of historiography was introduced to India after the Arabs captured Sindh, where they introduced history-writing and recording proper chronology. These Arab historiographers were later surmounted by historiographers who wrote in Persian, many of whom were sponsored by the ruling sultans of India.",
+      "source_ids": [
+        "wiki_en_historiography_of_india"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Historiography_of_India"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "Indica (Megasthenes) by Megasthenes\nA Record of Buddhist Kingdoms (Foguo Ji 佛國記) by Faxian\nKitāb al-Hind by Al-Biruni\nTuḥfat an-Nuẓẓār fī Gharāʾib al-Amṣār wa ʿAjāʾib al-Asfār by Ibn Battuta\nGreat Tang Records on the Western Regions by Xuanzang\nDescriptio Indiæ, by Joseph Tiefenthaler\n\nPuranas (Sanskrit: पुराण, romanized: Purāṇa, lit. 'Ancients') are a vast genre of Hindu Literature that include a wide range of topics, especially legends and other traditional lore. The Puranas are known for the intricate layers of symbolism depicted within their stories. Composed originally in Sanskrit and other Indian languages, several of these texts are named after major Hindu deities such as Devi, Vishnu, Shiva, and Brahma. The Puranic genre of literature is found in both Hinduism and Jainism.\nThe Puranic literature is encyclopedic, and it includes diverse topics such as cosmogony, cosmology, genealogies of gods, goddesses, kings, queens, heroes, heroines, sages, rituals, other gods, other goddesses, folktales, pilgrimages, temples, medicine, astronomy, grammar, mineralogy, humor, love stories, theology, and philosophy. The content is highly inconsistent across the Puranas, and each Purana has survived in numerous manuscripts which are themselves inconsistent. The Hindu Mahapuranas are traditionally attributed to Vyasa, but many scholars consider them likely to be the works of multiple authors over several centuries; in contrast, most Jaina Puranas can be dated and their authors assigned.\nThere are 18 Maha-puranas (Major Puranas) and 18 Upapuranas (Minor Puranas), with over 400,000 verses. The first versions of various Puranas were likely composed between 3rd and 10th centuries CE. While the Puranas do not have the authority of a scripture in Hinduism and are considered Smritis, they shaped Hinduism more than the Vedas, providing a \"culture synthesis\" by weaving together and integrating the diverse beliefs of a large number of local traditions into the Vedic-Brahmanic fold. The Puranas praise many gods and goddesses and the religious practices described in them are considered Vaidika (congruent with Vedic literature). The Puranic literature wove with the Bhakti movement in India, and both Dvaita and Advaita scholars have commented on the underlying Vedantic themes in the Maha Puranas.",
+      "source_ids": [
+        "wiki_en_puranas"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Puranas"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Harshacharita by Bhanabhatta\nRajatarangini by Kalhana\nCeylonese Buddhist chronicles, such as the Dīpavaṃsa, Mahāvaṃsa, and Cūḷavaṃsa\nTārīkh-i Firishta (also known as Gulshan-i Ibrāhīmī) by Firishta\nTārīkh-i-Firuz Shāhī by Ziauddin Barani\nVicāraśreṇī by Merutunga\nAkbarnama by Abul Fazl\nTughlaq Nama by Amir Khusrau\nPadshahnama by Abdul Hamid Lahori\nJawami ul-Hikayat by Muhammad Aufi\nPrithviraj Raso by Chand Bardai\nTabaqat-i Nasiri by Minhaj-i Siraj Juzjani\nVery few known Indian texts recording history before 15th century C.E. exist, hence, historical evidence for much of India's history comes through foreign historians. There is very little evidence of a native historiographical tradition in ancient India. Al-Biruni stated the following about local Indian histriography:\n\nThe term purana appears in the Vedic texts. For example, the Atharva Veda mentions purana (in the singular) in XI.7.24 and XV.6.10-11:\"The Rig and Sama verses, the Chandas, the Purana along with the Yajur formulae, all sprang from the remainder of the sacrificial food, (as also) the gods that resort to heaven. He changed his place and went over to great direction, and Itihasa and Purana, gathas, verses in praise of heroes followed in going over.\"\nSimilarly, the Shatapatha Brahmana (XI.5.6.8) mentions itihasapuranam (as one compound word) and recommends that on the 9th day of Pariplava, the hotr priest should narrate some Puranas because \"the Purana is the Veda, this it is\" (XIII.4.3.13). However, P. V. Kane states that it is not certain whether these texts refer to several works or a single work with the term purana. The late Vedic text Taittiriya Aranyaka (II.10) uses the term in the plural. Therefore, Kane states that in the later Vedic period at least, the Puranas referred to three or more texts, and that they were studied and recited. In numerous passages the Mahabharata mentions purana in both singular and plural forms. Moreover, it is not unlikely that, where the singular 'puranam' was employed in the texts, a class of works was meant. Despite the mention of the term purana or puranas in the Vedic texts, there is uncertainty about their content until the composition of the oldest Dharmashastras, Apastamba Dharmasutra and Gautama Dharmasutra, which mention Puranas that resemble the extant Puranas.\nAnother early mention of the term itihasapurana is found in the Chandogya Upanishad (7.1.2), translated by Patrick Olivelle as \"the corpus of histories and ancient tales as the fifth Veda\". The Brhadaranyaka Upanishad also refers to the Purana as the \"fifth Veda\".\nAccording to Thomas Coburn, Puranas and early extra-puranic texts attest to two traditions regarding their origin, one describes a divine origin as the breath of the great beings, while the other describes a human sage named Vyasa as the arranger of already existing material into eighteen Puranas. In early references, Coburn states, the term purana occurs in the singular, unlike the later era, when a plural form was used, presumably because texts had assumed their \"multifarious form\".\nAccording to the Indologists J. A. B. van Buitenen and Cornelia Dimmitt, the Puranas that have survived into the modern era are ancient but represent \"an amalgam of two somewhat different but never entirely different separate oral literatures: the Brahmin tradition stemming from the reciters of the Vedas, and the bardic poetry recited by Sutas that was handed down in Kshatriya circles\". The original Puranas had priestly roots, while the later genealogies had warrior and epic roots. These texts were collected for the \"second time between the fourth and sixth centuries CE under the rule of the Gupta kings and queens\", a period of Hindu renaissance. However, the editing and expansion of the Puranas did not stop after the Gupta era, and the texts continued to \"grow for another five hundred or a thousand years\". These were preserved by priests who maintained Hindu pilgrimage sites and temples. The core of Itihasa-Puranas, states Klaus Klostermaier, may possibly go back to the 7th century BCE or even earlier.",
+      "source_ids": [
+        "wiki_en_edicts_of_ashoka"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Historiography of India",
+      "definition": "The historiography of India refers to the studies, sources, critical methods and interpretations used by scholars to develop a history of India.",
+      "source_ids": [
+        "wiki_en_historiography_of_india"
+      ]
+    },
+    {
+      "term": "Puranas",
+      "definition": "The Puranas mostly entail mythological elements with a facade of historicity.",
+      "source_ids": [
+        "wiki_en_historiography_of_india"
+      ]
+    },
+    {
+      "term": "Edicts of Ashoka",
+      "definition": "[Extract truncated.]\n\nThe Edicts of Ashoka are a collection of more than thirty inscriptions on the Pillars of Ashoka, as well as boulders and cave walls, attributed to Emperor Ashoka of the Mauryan Empire who ruled most of the Indian subcontinent from 268 BCE to 232 BCE.",
+      "source_ids": [
+        "wiki_en_historiography_of_india"
+      ]
+    },
+    {
+      "term": "Sources",
+      "definition": "The historiography of India refers to the studies, sources, critical methods and interpretations used by scholars to develop a history of India.",
+      "source_ids": [
+        "wiki_en_historiography_of_india"
+      ]
+    },
+    {
+      "term": "Indian",
+      "definition": "However, it cannot be concluded that the ancient Indians lacked an understanding of objective historical writing, as there were some attempts akin to historiography.",
+      "source_ids": [
+        "wiki_en_historiography_of_india"
+      ]
+    },
+    {
+      "term": "history",
+      "definition": "The historiography of India refers to the studies, sources, critical methods and interpretations used by scholars to develop a history of India.",
+      "source_ids": [
+        "wiki_en_historiography_of_india"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_historiography_of_india",
+    "wiki_en_puranas",
+    "wiki_en_edicts_of_ashoka"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_historiography_of_india",
+      "title": "Historiography of India",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Historiography_of_India",
+      "retrieved_at_utc": "2026-10-14T17:23:19.033906+00:00",
+      "edition_or_revision": "pageid=58495405",
+      "subject_id": "sub_history",
+      "topic_id": "hist_in_sources",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "d2a2753d3ecce0f849f240db7a5ee6d70d91ec880ea84c398c03cdad6a7e36cc",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_puranas",
+      "title": "Puranas",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Puranas",
+      "retrieved_at_utc": "2026-10-14T17:23:20.596140+00:00",
+      "edition_or_revision": "pageid=321978",
+      "subject_id": "sub_history",
+      "topic_id": "hist_in_sources",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "f0825c5a1f7356f809331b9a6ec7683147d0c9c53d6c7e2c8f3538da282c338a",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_edicts_of_ashoka",
+      "title": "Edicts of Ashoka",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
+      "retrieved_at_utc": "2026-10-14T17:23:22.274923+00:00",
+      "edition_or_revision": "pageid=973969",
+      "subject_id": "sub_history",
+      "topic_id": "hist_in_sources",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "7da96e20489f40476b7e1dff7ce63528a6ea74fbee15c8275b19997e0260e7ba",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "84e4069e3caeb6654ee14fb1ad555e89df9e8cd979082881d6e1508f89ffd52c",
+  "authored_at_utc": "2026-10-14T17:23:22.893365+00:00"
+}

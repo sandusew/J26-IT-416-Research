@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_political_party",
+    "title": "Political party",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Political_party",
+    "retrieved_at_utc": "2026-10-14T17:28:15.271913+00:00",
+    "edition_or_revision": "pageid=23996",
+    "subject_id": "sub_political",
+    "topic_id": "pol_parties",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "ed9066b2ffa7e9a1cb3f4a4919c3e990f55fce5dd077d4bcc510bbb2ee8eb4b7",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_united_national_party",
+    "title": "United National Party",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/United_National_Party",
+    "retrieved_at_utc": "2026-10-14T17:28:16.762671+00:00",
+    "edition_or_revision": "pageid=427503",
+    "subject_id": "sub_political",
+    "topic_id": "pol_parties",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "5fbfaffa87ada9cecb14b3c1aa054649890bd4544693d2b196913c93fbfb3494",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_sri_lanka_freedom_party",
+    "title": "Sri Lanka Freedom Party",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Sri_Lanka_Freedom_Party",
+    "retrieved_at_utc": "2026-10-14T17:28:18.296948+00:00",
+    "edition_or_revision": "pageid=2088793",
+    "subject_id": "sub_political",
+    "topic_id": "pol_parties",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "2c3e0707a3103b7c56e042ec2ba0c769575ff243fedc02b880e93e88ae2571d2",
+    "origin": "wikipedia_api"
+  }
+]

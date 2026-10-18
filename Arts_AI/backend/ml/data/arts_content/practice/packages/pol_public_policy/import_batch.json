@@ -1,0 +1,778 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_public_policy_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Policy analysis",
+        "Public",
+        "Explanations",
+        "Public policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Policy analysis"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Public policy"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_public_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_public_policy",
+      "sourceIds": [
+        "wiki_en_public_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_public_policy",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conc…»?",
+      "options": [
+        "policy",
+        "Public",
+        "Public policy",
+        "Policy analysis"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "policy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Public policy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Policy analysis"
+        }
+      ],
+      "correctAnswerOrRubric": "Public",
+      "explanation": "Source-grounded AI practice item. The passage supports «Public». Full sentence: Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs. (source_id=wiki_en_policy_analysis). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_policy_analysis",
+      "sourceIds": [
+        "wiki_en_policy_analysis"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_policy_analysis",
+          "passage": "Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «These policies govern various aspects of life, including education, health care, employment, finance, economics, transportation, and society as a whole.»?",
+      "options": [
+        "govern",
+        "Public policy",
+        "Policy analysis",
+        "Public"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "govern"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Public policy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Policy analysis"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Public"
+        }
+      ],
+      "correctAnswerOrRubric": "govern",
+      "explanation": "Source-grounded AI practice item. The passage supports «govern». Full sentence: These policies govern various aspects of life, including education, health care, employment, finance, economics, transportation, and society as a whole. (source_id=wiki_en_public_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_public_policy",
+      "sourceIds": [
+        "wiki_en_public_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_public_policy",
+          "passage": "These policies govern various aspects of life, including education, health care, employment, finance, economics, transportation, and society as a whole."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «The implementation of public policy is known as public administration.»?",
+      "options": [
+        "Public policy",
+        "Policy analysis",
+        "Public",
+        "policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Public policy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Policy analysis"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "policy"
+        }
+      ],
+      "correctAnswerOrRubric": "policy",
+      "explanation": "Source-grounded AI practice item. The passage supports «policy». Full sentence: The implementation of public policy is known as public administration. (source_id=wiki_en_policy_analysis). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_policy_analysis",
+      "sourceIds": [
+        "wiki_en_policy_analysis"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_policy_analysis",
+          "passage": "The implementation of public policy is known as public administration."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «Public policy can be considered the sum of a government's direct and indirect activities and has been conceptualized in a variety of ways.»?",
+      "options": [
+        "Policy analysis",
+        "policy",
+        "Public",
+        "Public policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Policy analysis"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "policy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Public policy"
+        }
+      ],
+      "correctAnswerOrRubric": "Public",
+      "explanation": "Source-grounded AI practice item. The passage supports «Public». Full sentence: Public policy can be considered the sum of a government's direct and indirect activities and has been conceptualized in a variety of ways. (source_id=wiki_en_public_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_public_policy",
+      "sourceIds": [
+        "wiki_en_public_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_public_policy",
+          "passage": "Public policy can be considered the sum of a government's direct and indirect activities and has been conceptualized in a variety of ways."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «People who regularly use policy analysis in their work, particularly those who use it as a major part of their job duties are generally known by the title policy analyst.»?",
+      "options": [
+        "Policy analysis",
+        "Public",
+        "People",
+        "Public policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Policy analysis"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "People"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Public policy"
+        }
+      ],
+      "correctAnswerOrRubric": "People",
+      "explanation": "Source-grounded AI practice item. The passage supports «People». Full sentence: People who regularly use policy analysis in their work, particularly those who use it as a major part of their job duties are generally known by the title policy analyst. (source_id=wiki_en_public_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_public_policy",
+      "sourceIds": [
+        "wiki_en_public_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_public_policy",
+          "passage": "People who regularly use policy analysis in their work, particularly those who use it as a major part of their job duties are generally known by the title policy analyst."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «The process is also used in the administration of large organizations with complex policies.»?",
+      "options": [
+        "Public",
+        "large",
+        "Public policy",
+        "Policy analysis"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "large"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Public policy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Policy analysis"
+        }
+      ],
+      "correctAnswerOrRubric": "large",
+      "explanation": "Source-grounded AI practice item. The passage supports «large». Full sentence: The process is also used in the administration of large organizations with complex policies. (source_id=wiki_en_policy_analysis). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_policy_analysis",
+      "sourceIds": [
+        "wiki_en_policy_analysis"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_policy_analysis",
+          "passage": "The process is also used in the administration of large organizations with complex policies."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "true_false",
+      "prompt": "True or false for Public policy (introductory): «Public policy (introductory) can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Public policy (introductory). Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_public_policy",
+      "sourceIds": [
+        "wiki_en_public_policy",
+        "wiki_en_policy_analysis"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «There are three approaches that can be distinguished: the analysis-centric, the policy process, and the meta-policy approach.»?",
+      "options": [
+        "There",
+        "Public policy",
+        "Policy analysis",
+        "Public"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "There"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Public policy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Policy analysis"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Public"
+        }
+      ],
+      "correctAnswerOrRubric": "There",
+      "explanation": "Source-grounded AI practice item. The passage supports «There». Full sentence: There are three approaches that can be distinguished: the analysis-centric, the policy process, and the meta-policy approach. (source_id=wiki_en_public_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_public_policy",
+      "sourceIds": [
+        "wiki_en_public_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_public_policy",
+          "passage": "There are three approaches that can be distinguished: the analysis-centric, the policy process, and the meta-policy approach."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «=== Analysis-centric ===\nThe analysis-centric (or \"analycentric\") approach focuses on individual problems and their solutions.»?",
+      "options": [
+        "Public policy",
+        "Policy analysis",
+        "Public",
+        "Analysis"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Public policy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Policy analysis"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Analysis"
+        }
+      ],
+      "correctAnswerOrRubric": "Analysis",
+      "explanation": "Source-grounded AI practice item. The passage supports «Analysis». Full sentence: === Analysis-centric ===\nThe analysis-centric (or \"analycentric\") approach focuses on individual problems and their solutions. (source_id=wiki_en_policy_analysis). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_policy_analysis",
+      "sourceIds": [
+        "wiki_en_policy_analysis"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_policy_analysis",
+          "passage": "=== Analysis-centric ===\nThe analysis-centric (or \"analycentric\") approach focuses on individual problems and their solutions."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q08",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «Its scope is the micro-scale and its problem interpretation or problem resolution usually involves a technical solution.»?",
+      "options": [
+        "Policy analysis",
+        "Public",
+        "scale",
+        "Public policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Policy analysis"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "scale"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Public policy"
+        }
+      ],
+      "correctAnswerOrRubric": "scale",
+      "explanation": "Source-grounded AI practice item. The passage supports «scale». Full sentence: Its scope is the micro-scale and its problem interpretation or problem resolution usually involves a technical solution. (source_id=wiki_en_public_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_public_policy",
+      "sourceIds": [
+        "wiki_en_public_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_public_policy",
+          "passage": "Its scope is the micro-scale and its problem interpretation or problem resolution usually involves a technical solution."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q09",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_public_policy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Public policy (introductory), which term or name is supported by this passage: «The primary aim is to identify the most effective and efficient solution in technical and economic terms (e.g.»?",
+      "options": [
+        "Public",
+        "effective",
+        "Public policy",
+        "Policy analysis"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Public"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "effective"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Public policy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Policy analysis"
+        }
+      ],
+      "correctAnswerOrRubric": "effective",
+      "explanation": "Source-grounded AI practice item. The passage supports «effective». Full sentence: The primary aim is to identify the most effective and efficient solution in technical and economic terms (e.g. (source_id=wiki_en_policy_analysis). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_policy_analysis",
+      "sourceIds": [
+        "wiki_en_policy_analysis"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_policy_analysis",
+          "passage": "The primary aim is to identify the most effective and efficient solution in technical and economic terms (e.g."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_public_policy_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_public_policy"
+      ],
+      "language": "en",
+      "grade": "13",
+      "resourceType": "teaching_package",
+      "title": "Public policy (introductory) — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Public_policy",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_public_policy",
+        "wiki_en_policy_analysis"
+      ],
+      "bodyText": "# Public policy (introductory)\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Public policy (introductory)」 (pol_public_policy) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nPublic policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs. These policies govern various aspects of life, including education, health care, employment, finance, economics, transportation, and society as a whole. The implementation of public policy is known as public administration. Public policy can be considered the sum of a government's direct and indirect activities and has been conceptualized in a variety of ways.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Public policy (introductory)\n- [inferred_not_official] Explain core ideas of Public policy (introductory)\n- [inferred_not_official] Apply concepts from Public policy (introductory) using cited public sources\n\n## Core concepts and definitions\nPublic policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs. These policies govern various aspects of life, including education, health care, employment, finance, economics, transportation, and society as a whole. The implementation of public policy is known as public administration. Public policy can be considered the sum of a government's direct and indirect activities and has been conceptualized in a variety of ways.\n\nPolicy analysis or public policy analysis is a technique used in the public administration sub-field of political science to enable civil servants, nonprofit organizations, and others to examine and evaluate the available options to implement the goals of laws and elected officials. People who regularly use policy analysis in their work, particularly those who use it as a major part of their job duties are generally known by the title policy analyst. The process is also used in the administration of large organizations with complex policies. It has been defined as the process of \"determining which of various policies will achieve a given set of goals in light of the relations between the policies and the goals.\"\nPolicy analysis can be divided into two major fields:\n(Source: https://en.wikipedia.org/wiki/Public_policy)\n\n## Historical or systematic development\nThey are created and/or enacted on behalf of the public, typically by a government. Sometimes they are made by Non-state actors or are made in co-production with communities or citizens, which can include potential experts, scientists, engineers and stakeholders or scientific data, or sometimes use some of their results. They are typically made by policy-makers affiliated with (in democratic polities) currently elected politicians. Therefore, the \"policy process is a complex political process in which there are many actors: elected politicians, political party leaders, pressure groups, civil servants, publicly employed professionals, judges, non-governmental organizations, international agencies, academic experts, journalists and even sometimes citizens who see themselves as the passive recipients of policy.\"\nA popular way of understanding and engaging in public policy is through a series of stages known as \"the policy cycle\", which was first discussed by the political scientist Harold Laswell in his book The Decision Process: Seven Categories of Functional Analysis, published in 1956. The characterization of particular stages can vary, but a basic sequence is agenda setting, policy formulation, legitimation, implementation, and evaluation. \"It divides the policy process into a series of stages, from a notional starting point at which policymakers begin to think about a policy problem to a notional end point at which a policy has been implemented, and policymakers think about how successful it has been before deciding what to do next.\"\nOfficials considered that policymakers bear responsibility for advancing the interests of various stakeholders. Policy design entails conscious and deliberate effort to define policy aims and map them instrumentally. Academics and other experts in policy studies have developed a range of tools and approaches to help in this task. Government action is the decisions, policies, and actions taken by governments, which can have a significant impact on individuals, organizations, and society at large. Regulations, subsidies, taxes, and spending plans are just a few of the various shapes it might take. Government action aims to achieve certain social or economic objectives, such as fostering economic growth, reducing inequality, or safeguarding the environment.\n\nAnalysis of existing policy, which is analytical and descriptive – it attempts to explain policies and their development\nAnalysis for new policy, which is prescriptive – it is involved with formulating policies and proposals (for example: to improve social welfare)\nOne definition states that:\n(Source: https://en.wikipedia.org/wiki/Policy_analysis)\n\n## Applications, evidence, and Sri Lankan / comparative context\nDirect government action involving the use of money can be classified into 2 subsections. A government can either use its available resources to address the issue (Make) or contract out to the private sector (Buy).\n\nPolicy Analysis is the process of identifying potential policy options that could address your problem and then comparing those options to choose the most effective, efficient, and feasible one.\nAnother definition considers policy analysis as a method employed in the administration of the state to empower civil servants, activists, etc. for identifying, analyzing and scrutinizing the available alternatives to execute the agenda of laws and elected officials. This makes policy analysis both a process for public and the private sector.\nThe purpose and area of interest determine the type of analysis conducted. A combination of two kinds of policy analyses together with program evaluation is defined as policy studies. Policy analysis is frequently deployed in the public sector, but is equally applicable elsewhere, such as nonprofit organizations and non-governmental organizations. Policy analysis has its roots in systems analysis, an approach used by United States Secretary of Defense Robert McNamara in the 1960s.\n(Source: https://en.wikipedia.org/wiki/Public_policy)\n\n## Key terms\n- **Public policy**: Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs.\n- **Policy analysis**: professional association of public policy practitioners, researchers, scholars, and students is the Association for Public Policy Analysis and Management.\n- **Public**: Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs.\n- **policy**: Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs.\n- **introductory**: introductory: a key idea for Public policy (introductory) (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Public policy (introductory), state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Public policy (introductory) can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Public policy (introductory)\n- Public policy (introductory) is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_public_policy: Public policy — https://en.wikipedia.org/wiki/Public_policy (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:31:46.575855+00:00; checksum a129d30e7adb…)\n- wiki_en_policy_analysis: Policy analysis — https://en.wikipedia.org/wiki/Policy_analysis (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:31:48.051925+00:00; checksum fa2b163ecd58…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:41.931059+00:00",
+  "before_distinct": 10,
+  "after_distinct": 12,
+  "newly_authored_here": 4
+}

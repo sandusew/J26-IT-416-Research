@@ -1,0 +1,31 @@
+{
+  "run_id": "c4_topic_nl_20261013T105116_04964504",
+  "not_chatbot_accuracy": true,
+  "test_closed_set": {
+    "n": 90,
+    "n_topics": 18,
+    "accuracy": 0.7222222222222222,
+    "macro_f1": 0.5132936507936509,
+    "majority_accuracy": 0.05555555555555555,
+    "lexical_overlap_accuracy": 0.6333333333333333
+  },
+  "validation": {
+    "n": 85,
+    "n_topics": 17,
+    "accuracy": 0.7764705882352941,
+    "macro_f1": 0.5616565656565657
+  },
+  "shortcut_audit": {
+    "n_texts": 400,
+    "n_with_forbidden_shortcuts": 0,
+    "pass": true
+  },
+  "split_protocol": "source A→train, B→val/test by topic; paraphrases share source_document_id; no cross-split leakage of related examples",
+  "representative_error_pattern": "Cross-subject confusions on shared thematic vocabulary (e.g. history_t00 ↔ geography_t00 on 'chronology/evidence')",
+  "confusion_matrix_path": "artifacts/c4/c4_topic_nl_20261013T105116_04964504/metrics.json → test_closed_set.confusion_matrix",
+  "marker_sanity_separate": {
+    "run": "c4_topic_rev_20261013T100629_127fbaec",
+    "accuracy": 1.0,
+    "role": "sanity_check_only"
+  }
+}

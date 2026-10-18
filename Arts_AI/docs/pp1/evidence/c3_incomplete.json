@@ -1,0 +1,31 @@
+{
+    "status":  "incomplete_observation_window",
+    "probability_fail":  null,
+    "policy_band":  null,
+    "reason":  "Observation window incomplete relative to required cutoff days 0..13",
+    "required_feature_cols":  [
+                                  "total_clicks",
+                                  "active_days",
+                                  "click_regularity_cv",
+                                  "recency_last_active_day",
+                                  "prop_resource",
+                                  "prop_oucontent",
+                                  "prop_forumng",
+                                  "prop_quiz",
+                                  "prop_other",
+                                  "num_of_prev_attempts",
+                                  "studied_credits"
+                              ],
+    "model_version":  "c3_oulad_20261013T030421_2f6e0ea2",
+    "positive_class":  "Fail",
+    "observation":  {
+                        "observation_start_day":  null,
+                        "observation_end_day":  null,
+                        "required_cutoff_days":  13,
+                        "observation_window_complete":  false,
+                        "data_source":  "oulad_vle",
+                        "n_vle_events_in_window":  2,
+                        "feature_availability":  "incomplete"
+                    },
+    "note":  "Not A/L exam-failure prediction; public OULAD Fail outcome only"
+}

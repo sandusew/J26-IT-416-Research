@@ -1,0 +1,7 @@
+{
+  "n_chunks": 40,
+  "has_dense": false,
+  "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "checksum": "44fdcdb154acc42d8bf14e1539fc56888f82a84fcd3012161f1498af261e7536",
+  "note": "Indexing is NOT model training"
+}

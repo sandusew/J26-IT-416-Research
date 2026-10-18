@@ -1,0 +1,704 @@
+[
+  {
+    "questionId": "prac_eco_intl_trade_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Comparative advantage",
+      "Balance of trade",
+      "Explanations",
+      "International trade"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Comparative advantage"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Balance of trade"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "International trade"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_balance_of_trade). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_balance_of_trade",
+    "sourceIds": [
+      "wiki_en_balance_of_trade"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_balance_of_trade",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «International trade is the exchange of capital, goods, and services across international borders or territories because there is a need or demand for goods or services.»?",
+    "options": [
+      "Balance of trade",
+      "International",
+      "International trade",
+      "Comparative advantage"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Balance of trade"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "International"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "International trade"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Comparative advantage"
+      }
+    ],
+    "correctAnswerOrRubric": "International",
+    "explanation": "Source-grounded AI practice item. The passage supports «International». Full sentence: International trade is the exchange of capital, goods, and services across international borders or territories because there is a need or demand for goods or services. (source_id=wiki_en_international_trade). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_international_trade",
+    "sourceIds": [
+      "wiki_en_international_trade"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_international_trade",
+        "passage": "International trade is the exchange of capital, goods, and services across international borders or territories because there is a need or demand for goods or services."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «In most countries, such trade represents a significant share of gross domestic product (GDP).»?",
+    "options": [
+      "represents",
+      "International trade",
+      "Comparative advantage",
+      "Balance of trade"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "represents"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "International trade"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Comparative advantage"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Balance of trade"
+      }
+    ],
+    "correctAnswerOrRubric": "represents",
+    "explanation": "Source-grounded AI practice item. The passage supports «represents». Full sentence: In most countries, such trade represents a significant share of gross domestic product (GDP). (source_id=wiki_en_comparative_advantage). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_comparative_advantage",
+    "sourceIds": [
+      "wiki_en_comparative_advantage"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_comparative_advantage",
+        "passage": "In most countries, such trade represents a significant share of gross domestic product (GDP)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «While international trade has existed throughout history (for example Uttarapatha, Silk Road, Amber Road, salt roads), its economic, social, and political importance has been on the rise in recent cen…»?",
+    "options": [
+      "International trade",
+      "Comparative advantage",
+      "Balance of trade",
+      "While"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "International trade"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Comparative advantage"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Balance of trade"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "While"
+      }
+    ],
+    "correctAnswerOrRubric": "While",
+    "explanation": "Source-grounded AI practice item. The passage supports «While». Full sentence: While international trade has existed throughout history (for example Uttarapatha, Silk Road, Amber Road, salt roads), its economic, social, and political importance has been on the rise in recent centuries. (source_id=wiki_en_balance_of_trade). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_balance_of_trade",
+    "sourceIds": [
+      "wiki_en_balance_of_trade"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_balance_of_trade",
+        "passage": "While international trade has existed throughout history (for example Uttarapatha, Silk Road, Amber Road, salt roads), its economic, social, and political importance has been on the rise in recent centuries."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «Carrying out trade at an international level is a complex process when compared to domestic trade.»?",
+    "options": [
+      "Comparative advantage",
+      "Balance of trade",
+      "Carrying",
+      "International trade"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Comparative advantage"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Balance of trade"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Carrying"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "International trade"
+      }
+    ],
+    "correctAnswerOrRubric": "Carrying",
+    "explanation": "Source-grounded AI practice item. The passage supports «Carrying». Full sentence: Carrying out trade at an international level is a complex process when compared to domestic trade. (source_id=wiki_en_international_trade). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_international_trade",
+    "sourceIds": [
+      "wiki_en_international_trade"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_international_trade",
+        "passage": "Carrying out trade at an international level is a complex process when compared to domestic trade."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «When trade takes place between two or more states, factors like currency, government policies, economy, judicial system, laws, and markets influence trade.»?",
+    "options": [
+      "Balance of trade",
+      "place",
+      "International trade",
+      "Comparative advantage"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Balance of trade"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "place"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "International trade"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Comparative advantage"
+      }
+    ],
+    "correctAnswerOrRubric": "place",
+    "explanation": "Source-grounded AI practice item. The passage supports «place». Full sentence: When trade takes place between two or more states, factors like currency, government policies, economy, judicial system, laws, and markets influence trade. (source_id=wiki_en_comparative_advantage). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_comparative_advantage",
+    "sourceIds": [
+      "wiki_en_comparative_advantage"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_comparative_advantage",
+        "passage": "When trade takes place between two or more states, factors like currency, government policies, economy, judicial system, laws, and markets influence trade."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for International trade and finance: «International trade and finance is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for International trade and finance. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_international_trade",
+    "sourceIds": [
+      "wiki_en_international_trade",
+      "wiki_en_comparative_advantage"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for International trade and finance: «International trade and finance can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for International trade and finance. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_international_trade",
+    "sourceIds": [
+      "wiki_en_international_trade",
+      "wiki_en_comparative_advantage"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for International trade and finance: «Listing names alone demonstrates understanding of International trade and finance» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for International trade and finance. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_international_trade",
+    "sourceIds": [
+      "wiki_en_international_trade",
+      "wiki_en_comparative_advantage"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «Services are also traded, such as in tourism, banking, consulting, and transportation.»?",
+    "options": [
+      "Services",
+      "International trade",
+      "Comparative advantage",
+      "Balance of trade"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Services"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "International trade"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Comparative advantage"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Balance of trade"
+      }
+    ],
+    "correctAnswerOrRubric": "Services",
+    "explanation": "Source-grounded AI practice item. The passage supports «Services». Full sentence: Services are also traded, such as in tourism, banking, consulting, and transportation. (source_id=wiki_en_international_trade). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_international_trade",
+    "sourceIds": [
+      "wiki_en_international_trade"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_international_trade",
+        "passage": "Services are also traded, such as in tourism, banking, consulting, and transportation."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «Advanced technology (including transportation), globalization, industrialization, outsourcing and multinational corporations have major impacts on the international trade systems.»?",
+    "options": [
+      "International trade",
+      "Comparative advantage",
+      "Balance of trade",
+      "Advanced"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "International trade"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Comparative advantage"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Balance of trade"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Advanced"
+      }
+    ],
+    "correctAnswerOrRubric": "Advanced",
+    "explanation": "Source-grounded AI practice item. The passage supports «Advanced». Full sentence: Advanced technology (including transportation), globalization, industrialization, outsourcing and multinational corporations have major impacts on the international trade systems. (source_id=wiki_en_comparative_advantage). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_comparative_advantage",
+    "sourceIds": [
+      "wiki_en_comparative_advantage"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_comparative_advantage",
+        "passage": "Advanced technology (including transportation), globalization, industrialization, outsourcing and multinational corporations have major impacts on the international trade systems."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_eco_intl_trade_q12",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_economics",
+    "topicId": "eco_intl_trade",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International trade and finance, which term or name is supported by this passage: «== Differences from domestic trade ==\n\nInternational trade is, not different from domestic trade as the motivation and the behavior of parties involved in a trade do not change fundamentally regardles…»?",
+    "options": [
+      "Comparative advantage",
+      "Balance of trade",
+      "Differences",
+      "International trade"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Comparative advantage"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Balance of trade"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Differences"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "International trade"
+      }
+    ],
+    "correctAnswerOrRubric": "Differences",
+    "explanation": "Source-grounded AI practice item. The passage supports «Differences». Full sentence: == Differences from domestic trade ==\n\nInternational trade is, not different from domestic trade as the motivation and the behavior of parties involved in a trade do not change fundamentally regardless of whether trade is across a border or not. (source_id=wiki_en_balance_of_trade). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_balance_of_trade",
+    "sourceIds": [
+      "wiki_en_balance_of_trade"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_balance_of_trade",
+        "passage": "== Differences from domestic trade ==\n\nInternational trade is, not different from domestic trade as the motivation and the behavior of parties involved in a trade do not change fundamentally regardless of whether trade is across a border or not."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

@@ -1,0 +1,10 @@
+timestamp=2026-10-16T09:03:27.6896889+05:30
+C1: cluster=0 version=c1_20261013T030329_134eeb26 evidence=browser+api
+C2ed: p=0.3780 version=c2_ednet_v2_20261013T153128_f83023f6
+C2rank hist: trainedScorerUsed=true version=c2_rank_rev_20261013T105157_40d91e8c scores=0.4644,0.4068
+C2fallback: topic_vocabulary_incompatible_canonical_catalogue policy=prerequisite_aware
+C3 ok earlier: P(Fail)=0.1800 band=low version=c3_oulad_20261013T030421_2f6e0ea2
+C3 incomplete: incomplete_observation_window
+C4: topic=sub_history_t06 version=c4_topic_nl_20261013T105116_04964504 arch=TF-IDF->LR
+quiz: score=2/5 progress 53->58 idempotent=already_submitted
+consult: approved meetingUrl=null conflict=409

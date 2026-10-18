@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_fiscal_policy",
+    "title": "Fiscal policy",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Fiscal_policy",
+    "retrieved_at_utc": "2026-10-14T17:30:11.766506+00:00",
+    "edition_or_revision": "pageid=132645",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_gov_policy",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "691c82fec19dde9bedc36ef91007befffb3188bbf536839855754b18c8f5dbca",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_monetary_policy",
+    "title": "Monetary policy",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Monetary_policy",
+    "retrieved_at_utc": "2026-10-14T17:30:13.493360+00:00",
+    "edition_or_revision": "pageid=297032",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_gov_policy",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "60a56039dd6568e38611bef2ef4528bfd915c7b4d58089f646a843c2dcf6a0b5",
+    "origin": "wikipedia_api"
+  }
+]

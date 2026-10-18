@@ -1,0 +1,140 @@
+{
+  "topic_id": "pol_comparative",
+  "subject_id": "sub_political",
+  "topic_title": "Comparative models of government",
+  "grade": "13",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries. Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development. When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).\n\nDecline of the dominance of rational choice theory \nAbsence of a unifying metatheory\nIncreased focus on causal inference and experimental methods\nContinued use of observational and qualitative methods\nConcerns about methodological dominance",
+      "source_ids": [
+        "wiki_en_comparative_politics"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Comparative_politics"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "1. Sociological constitutionalism: Some classic scholars in this tradition are: \"Polybius, Machiavelli, Montesquieu, Benjamin Constant, Alexis de Tocqueville, Lorenz von Stein, Karl Marx, Moisei Ostrogorski, Max Weber, Émile Durkheim, Robert Michels, Gaetano Mosca, Vilfredo Pareto, and Herbert Tingsten.\" Schmitter argues that, in the twentieth century, this tradition was known by the label of \"historical political sociology\" and included scholars such as \"Stein Rokkan, T. H. Marshall, Reinhard Bendix, Otto Kirchheimer, Seymour Martin Lipset, Juan Linz, Hans Daalder, Mattei Dogan, Shmuel Eisenstadt, Harry H. Eckstein, and Dankwart Rustow.\"\n2. Legal constitutionalism: Some classic scholars in this tradition are: \"Léon Duguit, Georges Burdeau, James Bryce, A. Lawrence Lowell, and Woodrow Wilson.\" Schmitter argues that in the twentieth century this tradition was continued by: \"Maurice Duverger, Herman Finer, Samuel Finer, Giovanni Sartori, Carl Joachim Friedrich, Samuel Beer, Jean Blondel, Ferdinand A. Hermens, and Klaus von Beyme.\"\n\nBy some definitions, comparative politics can be traced back to Greek philosophy, as Plato's Republic and Aristotle's The Politics.\nAs a modern sub-discipline, comparative politics is constituted by research across a range of substantive areas, including the study",
+      "source_ids": [
+        "wiki_en_presidential_system"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Presidential_system"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "1. The constitution of political science as a discipline, 1880–1920\n2. The Behavioral Revolution, 1921–1966\n3. The Post-Behavioral Period, 1967–1988\n4. The Second Scientific Revolution 1989–2005\n5. Classical and early foundations (Ancient- 18th Century)\nComparative analysis can be traced back to Aristotle, who extensively compared various constitutions to understand political stability and governance.\nThinkers like Plato, Polybius, and later Montesquieu used comparison to determine and classify regimes and to study the relationship between social conditions and political organisations.\nThis era emphasises normative evaluation, putting what constitutes a just or stable government, rather than empirical testing, in the limelight.\n\nPolitics of democratic states\nPolitics of authoritarian states\nPublic goods provision and distributive politics\nPolitical violence\nPolitical identity, including ethnic and religious politics\nDemocratization and regime change\nElections and electoral and party systems\nPolitical economy of development\nCollective action\nVoting behavior\nOrigins of the state\nComparative political institutions\nMethodologies for comparative political research\nQuantitative politics with democracy indices\nWhile many researchers, research regimes, and research institutions are identified according to the above categories or foci, it is not uncommon to claim geographic or country specialization as the differentiating category.\nThe division between comparative politics and international relations is artificial, as processes within nations shape international processes, and international processes shape processes within states. Some scholars have called for an integration of the fields. Comparative Politics does not have similar \"isms\" as international relations scholarship.",
+      "source_ids": [
+        "wiki_en_parliamentary_system"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Parliamentary_system"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Comparative politics",
+      "definition": "Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries.",
+      "source_ids": [
+        "wiki_en_comparative_politics"
+      ]
+    },
+    {
+      "term": "Presidential system",
+      "definition": "has a liberal, democratic presidential system, in contrast to India's parliamentary system.",
+      "source_ids": [
+        "wiki_en_comparative_politics"
+      ]
+    },
+    {
+      "term": "Parliamentary system",
+      "definition": "Some examples of comparative politics are studying the differences between presidential and parliamentary systems, democracies and dictatorships, parliamentary systems in different countries, multi-party systems such as Canada and two-party systems such as the United States.",
+      "source_ids": [
+        "wiki_en_comparative_politics"
+      ]
+    },
+    {
+      "term": "Comparative",
+      "definition": "Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries.",
+      "source_ids": [
+        "wiki_en_comparative_politics"
+      ]
+    },
+    {
+      "term": "models",
+      "definition": "models: a key idea for Comparative models of government (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_comparative_politics"
+      ]
+    },
+    {
+      "term": "government",
+      "definition": "When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).",
+      "source_ids": [
+        "wiki_en_comparative_politics"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_comparative_politics",
+    "wiki_en_presidential_system",
+    "wiki_en_parliamentary_system"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_comparative_politics",
+      "title": "Comparative politics",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Comparative_politics",
+      "retrieved_at_utc": "2026-10-14T17:26:22.029814+00:00",
+      "edition_or_revision": "pageid=1414677",
+      "subject_id": "sub_political",
+      "topic_id": "pol_comparative",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "c2f31fadddfd65e2e7134cfdc20ab9872cc77b3bc9b252786d31db69a243a86d",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_presidential_system",
+      "title": "Presidential system",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Presidential_system",
+      "retrieved_at_utc": "2026-10-14T17:28:09.463726+00:00",
+      "edition_or_revision": "pageid=206578",
+      "subject_id": "sub_political",
+      "topic_id": "pol_comparative",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "ec5395c385537517d5089326b758e66ea7a63014f2a0a4a532e971bd2b39ee6c",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_parliamentary_system",
+      "title": "Parliamentary system",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Parliamentary_system",
+      "retrieved_at_utc": "2026-10-14T17:28:10.807650+00:00",
+      "edition_or_revision": "pageid=182113",
+      "subject_id": "sub_political",
+      "topic_id": "pol_comparative",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "ef68dca0b5200bf44198edb60e8a5a8bf2f2a5e414ee337c5266272e3677f0f9",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "72e1b1ec62caa3b2e75c303fa158251a5dd411c5dc9d5c3777f257b50253778c",
+  "authored_at_utc": "2026-10-14T17:28:11.417561+00:00"
+}

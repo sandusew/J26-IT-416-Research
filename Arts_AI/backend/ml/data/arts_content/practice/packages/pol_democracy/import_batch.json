@@ -1,0 +1,750 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_democracy_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Liberal democracy",
+        "Electoral system",
+        "Explanations",
+        "Democracy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Liberal democracy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Electoral system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Democracy"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_democracy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_democracy",
+      "sourceIds": [
+        "wiki_en_democracy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_democracy",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «Democracy is a form of government in which political power is vested in the people of a certain state.»?",
+      "options": [
+        "Democratic",
+        "Democracy",
+        "Liberal democracy",
+        "Electoral system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Democratic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Democracy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Liberal democracy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Electoral system"
+        }
+      ],
+      "correctAnswerOrRubric": "Democracy",
+      "explanation": "Source-grounded AI practice item. The passage supports «Democracy». Full sentence: Democracy is a form of government in which political power is vested in the people of a certain state. (source_id=wiki_en_electoral_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_electoral_system",
+      "sourceIds": [
+        "wiki_en_electoral_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_electoral_system",
+          "passage": "Democracy is a form of government in which political power is vested in the people of a certain state."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «Under a narrow definition of democracy, rulers are elected through competitive elections, while broader definitions also link democracy to guarantees of civil liberties and human rights.»?",
+      "options": [
+        "Under",
+        "Democracy",
+        "Liberal democracy",
+        "Electoral system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Under"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Democracy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Liberal democracy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Electoral system"
+        }
+      ],
+      "correctAnswerOrRubric": "Under",
+      "explanation": "Source-grounded AI practice item. The passage supports «Under». Full sentence: Under a narrow definition of democracy, rulers are elected through competitive elections, while broader definitions also link democracy to guarantees of civil liberties and human rights. (source_id=wiki_en_democracy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_democracy",
+      "sourceIds": [
+        "wiki_en_democracy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_democracy",
+          "passage": "Under a narrow definition of democracy, rulers are elected through competitive elections, while broader definitions also link democracy to guarantees of civil liberties and human rights."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «In a direct democracy, the people have the primary authority to deliberate and decide legislation.»?",
+      "options": [
+        "Democracy",
+        "Liberal democracy",
+        "Electoral system",
+        "people"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Democracy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Liberal democracy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Electoral system"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "people"
+        }
+      ],
+      "correctAnswerOrRubric": "people",
+      "explanation": "Source-grounded AI practice item. The passage supports «people». Full sentence: In a direct democracy, the people have the primary authority to deliberate and decide legislation. (source_id=wiki_en_electoral_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_electoral_system",
+      "sourceIds": [
+        "wiki_en_electoral_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_electoral_system",
+          "passage": "In a direct democracy, the people have the primary authority to deliberate and decide legislation."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «In a representative democracy, the people elect governing officials to do so.»?",
+      "options": [
+        "Liberal democracy",
+        "Electoral system",
+        "people",
+        "Democracy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Liberal democracy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Electoral system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "people"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Democracy"
+        }
+      ],
+      "correctAnswerOrRubric": "people",
+      "explanation": "Source-grounded AI practice item. The passage supports «people». Full sentence: In a representative democracy, the people elect governing officials to do so. (source_id=wiki_en_democracy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_democracy",
+      "sourceIds": [
+        "wiki_en_democracy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_democracy",
+          "passage": "In a representative democracy, the people elect governing officials to do so."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «The definition of \"the people\" and the ways authority is shared among them or delegated by them have changed over time and at varying rates in different countries.»?",
+      "options": [
+        "Electoral system",
+        "authority",
+        "Democracy",
+        "Liberal democracy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Electoral system"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "authority"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Democracy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Liberal democracy"
+        }
+      ],
+      "correctAnswerOrRubric": "authority",
+      "explanation": "Source-grounded AI practice item. The passage supports «authority». Full sentence: The definition of \"the people\" and the ways authority is shared among them or delegated by them have changed over time and at varying rates in different countries. (source_id=wiki_en_electoral_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_electoral_system",
+      "sourceIds": [
+        "wiki_en_electoral_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_electoral_system",
+          "passage": "The definition of \"the people\" and the ways authority is shared among them or delegated by them have changed over time and at varying rates in different countries."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "true_false",
+      "prompt": "True or false for Democratic governance — theory and practice: «Democratic governance — theory and practice is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Democratic governance — theory and practice. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_democracy",
+      "sourceIds": [
+        "wiki_en_democracy",
+        "wiki_en_electoral_system"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "true_false",
+      "prompt": "True or false for Democratic governance — theory and practice: «Democratic governance — theory and practice can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Democratic governance — theory and practice. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_democracy",
+      "sourceIds": [
+        "wiki_en_democracy",
+        "wiki_en_electoral_system"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "true_false",
+      "prompt": "True or false for Democratic governance — theory and practice: «Listing names alone demonstrates understanding of Democratic governance — theory and practice» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Democratic governance — theory and practice. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_democracy",
+      "sourceIds": [
+        "wiki_en_democracy",
+        "wiki_en_electoral_system"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_democracy_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «When district elections are winner-take-all, the electoral system as a whole may produce dis-proportional results.»?",
+      "options": [
+        "winner",
+        "Democracy",
+        "Liberal democracy",
+        "Electoral system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "winner"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Democracy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Liberal democracy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Electoral system"
+        }
+      ],
+      "correctAnswerOrRubric": "winner",
+      "explanation": "Source-grounded AI practice item. The passage supports «winner». Full sentence: When district elections are winner-take-all, the electoral system as a whole may produce dis-proportional results. (source_id=wiki_en_democracy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_democracy",
+      "sourceIds": [
+        "wiki_en_democracy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_democracy",
+          "passage": "When district elections are winner-take-all, the electoral system as a whole may produce dis-proportional results."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_democracy_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «Where multiple winners are elected at once (in the same district), plurality block voting may elect members of just one party so may be considered winner-take-all.»?",
+      "options": [
+        "Democracy",
+        "Liberal democracy",
+        "Electoral system",
+        "winners"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Democracy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Liberal democracy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Electoral system"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "winners"
+        }
+      ],
+      "correctAnswerOrRubric": "winners",
+      "explanation": "Source-grounded AI practice item. The passage supports «winners». Full sentence: Where multiple winners are elected at once (in the same district), plurality block voting may elect members of just one party so may be considered winner-take-all. (source_id=wiki_en_electoral_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_electoral_system",
+      "sourceIds": [
+        "wiki_en_electoral_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_electoral_system",
+          "passage": "Where multiple winners are elected at once (in the same district), plurality block voting may elect members of just one party so may be considered winner-take-all."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_democracy_q12",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_democracy",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Democratic governance — theory and practice, which term or name is supported by this passage: «In party block voting, voters can only vote for the list of candidates of a single party, with the party receiving the most votes winning all seats, even if that party receives only a minority of vote…»?",
+      "options": [
+        "Liberal democracy",
+        "Electoral system",
+        "voting",
+        "Democracy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Liberal democracy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Electoral system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "voting"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Democracy"
+        }
+      ],
+      "correctAnswerOrRubric": "voting",
+      "explanation": "Source-grounded AI practice item. The passage supports «voting». Full sentence: In party block voting, voters can only vote for the list of candidates of a single party, with the party receiving the most votes winning all seats, even if that party receives only a minority of votes. (source_id=wiki_en_democracy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_democracy",
+      "sourceIds": [
+        "wiki_en_democracy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_democracy",
+          "passage": "In party block voting, voters can only vote for the list of candidates of a single party, with the party receiving the most votes winning all seats, even if that party receives only a minority of votes."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_democracy_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_democracy"
+      ],
+      "language": "en",
+      "grade": "13",
+      "resourceType": "teaching_package",
+      "title": "Democratic governance — theory and practice — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Democracy",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_democracy",
+        "wiki_en_electoral_system"
+      ],
+      "bodyText": "# Democratic governance — theory and practice\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Democratic governance — theory and practice」 (pol_democracy) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nDemocracy is a form of government in which political power is vested in the people of a certain state. Under a narrow definition of democracy, rulers are elected through competitive elections, while broader definitions also link democracy to guarantees of civil liberties and human rights.\nIn a direct democracy, the people have the primary authority to deliberate and decide legislation. In a representative democracy, the people elect governing officials to do so. The definition of \"the people\" and the ways authority is shared among them or delegated by them have changed over time and at varying rates in different countries. Features of democracy often include freedom of assembly, freedom of association, freedom of religion, and freedom of speech; other features include citizenship rights, property rights, voting rights, the right to life, minority rights, liberty, and consent of the gover\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Democratic governance — theory and practice\n- [inferred_not_official] Explain core ideas of Democratic governance — theory and practice\n- [inferred_not_official] Apply concepts from Democratic governance — theory and practice using cited public sources\n\n## Core concepts and definitions\nDemocracy is a form of government in which political power is vested in the people of a certain state. Under a narrow definition of democracy, rulers are elected through competitive elections, while broader definitions also link democracy to guarantees of civil liberties and human rights.\nIn a direct democracy, the people have the primary authority to deliberate and decide legislation. In a representative democracy, the people elect governing officials to do so. The definition of \"the people\" and the ways authority is shared among them or delegated by them have changed over time and at varying rates in different countries. Features of democracy often include freedom of assembly, freedom of association, freedom of religion, and freedom of speech; other features include citizenship rights, property rights, voting rights, the right to life, minority rights, liberty, and consent of the governed.\nForms of democracy has evolved considerably over time. The current dominant form of democracy is representative democracy, where citizens elect government officials to govern on their behalf such as in a parliamentary or presidential democracy. In the common variant of liberal democracy, the powers of the majority are exercised within the framework of a representative democracy, but a constitution and supreme court limit the majority and protect the minority—usually through securing the enjoyment by all of certain individual rights, such as freedom of speech or freedom of association.\nThe term appeared in the 5th century BC in Greek city-states, notably Classical Athens, to mean \"rule of the people\", in contrast to aristocracy (ἀριστοκρατία, aristokratía), meaning \"rule of an elite\". In virtually all democratic governments throughout ancient and modern history, democratic citizenship was initially restricted to an elite class, which was later extended to all adult citizens. In most modern democracies, this was achieved through the suffrage movements of the 19th and 20th centuries.\nDemocracy contrasts with forms of government where power is not vested in the general population of a state, such as authoritarian systems. Historically a rare and vulnerable form of government, democratic systems of government have become more prevalent since the 19th century, in particular with various waves of democratization. Democracy garners considerable legitimacy in the modern world, as public opinion across regions tends to strongly favor democratic systems of government relative to alternatives, and as even authoritarian states try to present themselves as democratic. Democracy more consistently results in improved health, education and economic outcomes. According to the V-Dem Democracy indices and The Economist Democracy Index, less than half the world's population lives in a democracy as of 2022. At the same time, while representative democracy is widely valued, Pew Research Center found that dissatisfaction with democratic performance is common even in many established democracies.\n\nThe term democracy first appeared in ancient Greek political and philosophical thought in the city-state of Athens during classical antiquity. The word comes from dêmos '(common) people' and krátos 'force/might'. Under Cleisthenes, what is generally held as the first example of a type of democracy in the sixth-century BC (508–507 BC) was established in Athens. Cleisthenes is referred to as \"the father of Athenian democracy\". The first attested use of the word democracy is found in prose works of the 430s BC, such as Herodotus' Histories, but its usage was older by several decades, as two Athenians born in the 470s were named Democrates, a new political name—likely in support of democracy—given at a time of debates over constitutional issues in Athens. Aeschylus also strongly alludes to the word in his play The Suppliants, staged in c.463 BC, where he mentions \"the demos's ruling hand\" [demou kratousa cheir]. Before that time, the word used to define the new political system of Cleisthenes was probably isonomia, meaning political equality.\n(Source: https://en.wikipedia.org/wiki/Democracy)\n\n## Historical or systematic development\nIn purely representative democracies, democracy is understood to be defined by free voting. No consensus exists on a precise definition of democracy and many approaches have been taken to define it.  One study identified 2,234 adjectives used to describe democracy in the English language.\nYet, there is a profound understanding of its meaning, like that of Abraham Lincoln, describing it as  \"Government of the people, by the people, for the people.\" Karl Popper said that the classical view of democracy is, \"the theory that democracy is the rule of the people and that the people have a right to rule\".\nDemocratic principles are reflected in all eligible citizens being equal before the law and having equal access to legislative processes, even if not every vote cast elects someone.\nFor example, in a representative democracy, every vote has (in theory) equal weight, and the freedom of eligible citizens is secured by legitimised rights and liberties which are typically enshrined in a constitution. Other uses of \"democracy\" may encompass direct democracy, in which citizens vote on issues directly. According to the United Nations, democracy \"provides an environment that respects human rights and fundamental freedoms, and in which the freely expressed will of people is exercised.\"\nOne theory holds that democracy requires three fundamental principles: upward control (sovereignty residing at the lowest levels of authority), political equality, and social norms by which individuals and institutions only consider acceptable acts that reflect the first two principles of upward control. Legal equality, political freedom and rule of law are often identified by commentators as foundational characteristics for a well-functioning democracy.\nIn some countries, notably in the United Kingdom (which originated the Westminster system), the dominant principle is that of parliamentary sovereignty, while maintaining judicial independence. In India, parliamentary sovereignty is subject to the Constitution of India which includes judicial review. Though the term \"democracy\" is typically used in the context of a political state, the principles also are potentially applicable to private organisations, such as clubs, societies and firms.\nDemocracies may use many different decision-making methods, but majority rule is the dominant form. Without compensation, like legal protections of individual or group rights, political minorities can be oppressed by the \"tyranny of the majority\". Majority rule involves a competitive approach, opposed to consensus democracy, creating the need that elections, and generally deliberation, be substantively and procedurally \"fair\", i.e., just and equitable. In some countries, freedom of political expression, freedom of speech, and freedom of the press are considered important to ensure that voters are well informed, enabling them to vote according to their own interests and beliefs.\nIt has also been suggested that a basic feature of democracy is the capacity of all voters to participate freely and fully in the life of their society. With its emphasis on notions of social contract and the collective will of all the voters, democracy can also be characterised as a form of political collectivism because it is defined as a form of government in which all eligible citizens have an equal say in lawmaking.\nRepublics, though often popularly associated with democracy because of the shared principle of rule by consent of the governed, are not necessarily democracies, as republicanism does not specify how the people are to rule. Classically the term \"republic\" encompassed both democracies and aristocracies and their mixtures. In a modern sense the republican form of government is a form of government without a monarch. Because of this, democracies can be republics or constitutional monarchies, such as the United Kingdom, where the monarch is not a ruler.\n\nAthenian democracy took the form of direct democracy, and it had two distinguishing features: the random selection of ordinary citizens to fill the few existing government administrative and judicial offices, and a legislative assembly consisting of all Athenian citizens. All eligible citizens were allowed to speak and vote in the assembly, which set the laws of the city-state. However, Athenian citizenship excluded women, slaves, foreigners (μέτοικοι / métoikoi), and youths below the age of military service. Effectively, only 1 in 4 residents in Athens qualified as citizens. Owning land was not a requirement for citizenship. The exclusion of large parts of the population from the citizen body is closely related to the ancient understanding of citizenship. In most of antiquity the benefit of citizenship was tied to the obligation to fight war campaigns.\nAthenian democracy was not only direct in the sense that decisions were made by the assembled people, but also the most direct in the sense that the people through the assembly, boule and courts of law controlled the entire political process and a large proportion of citizens were involved constantly in the public business. Even though the rights of the individual were not secured by the Athenian constitution in the modern sense (the ancient Greeks had no word for \"rights\"), those who were citizens of Athens enjoyed their liberties not in opposition to the government but by living in a city that was not subject to another power and by not being subjects themselves to the rule of another person.\nRange voting appeared in Sparta as early as 700 BC. The Spartan ecclesia was an assembly of the people, held once a month, in which every male citizen of at least 20 years of age could participate. In the assembly, Spartans elected leaders and cast votes by range voting and shouting (the vote is then decided on how loudly the crowd shouts). Aristotle called this \"childish\", as compared with the stone voting ballots used by the Athenian citizenry. Sparta adopted it because of its simplicity, and to prevent any biased voting, buying, or cheating that was predominant in the early democratic elections.\n(Source: https://en.wikipedia.org/wiki/Electoral_system)\n\n## Applications, evidence, and Sri Lankan / comparative context\nDemocratic assemblies are as old as the human species and are found throughout human history, but up until the nineteenth century, major political figures have largely opposed democracy. Republican theorists linked democracy to small size: as political units grew in size, the likelihood increased that the government would turn despotic. At the same time, small political units were vulnerable to conquest. Montesquieu wrote, \"If a republic be small, it is destroyed by a foreign force; if it is large, it is ruined by an internal imperfection.\" According to Johns Hopkins University political scientist Daniel Deudney, the creation of the United States, with its large size and its system of checks and balances, was a solution to the dual problems of size. Forms of democracy occurred organically in societies around the world that had no contact with each other.\n\nIn addition, the overthrow of the Roman Kingdom created a system with a democratic element in the form of many different popular assamblies.\nEven though the Roman Republic contributed significantly to many aspects of democracy, only a fraction of Romans were citizens with votes in elections for magistrates. The votes of the powerful were given more weight through a system of weighted voting, so most high officials, including members of the Senate, came from a few wealthy and noble families. The Roman model of governance inspired many political thinkers over the centuries.\n(Source: https://en.wikipedia.org/wiki/Democracy)\n\n## Key terms\n- **Democracy**: Democracy is a form of government in which political power is vested in the people of a certain state.\n- **Liberal democracy**: Liberal democracy: a key idea for Democratic governance — theory and practice (see cited sources; AI-authored gloss).\n- **Electoral system**: Electoral systems are used in politics to elect governments and also in non-political settings such as business, nonprofit organizations and informal organisations.\n- **Democratic**: In virtually all democratic governments throughout ancient and modern history, democratic citizenship was initially restricted to an elite class, which was later extended to all adult citizens.\n- **governance**: The Roman model of governance inspired many political thinkers over the centuries.\n- **theory**: For example, in a representative democracy, every vote has (in theory) equal weight, and the freedom of eligible citizens is secured by legitimised rights and liberties which are typically enshrined in a constitution.\n- **practice**: practice: a key idea for Democratic governance — theory and practice (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Democratic governance — theory and practice, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Democratic governance — theory and practice can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Democratic governance — theory and practice\n- Democratic governance — theory and practice is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_democracy: Democracy — https://en.wikipedia.org/wiki/Democracy (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:27:08.255263+00:00; checksum bd232a84e660…)\n- wiki_en_electoral_system: Electoral system — https://en.wikipedia.org/wiki/Electoral_system (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:28:07.776530+00:00; checksum 5eccc05423ee…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:40.022420+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

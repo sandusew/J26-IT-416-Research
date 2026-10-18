@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_comparative_politics",
+    "title": "Comparative politics",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Comparative_politics",
+    "retrieved_at_utc": "2026-10-14T17:26:22.029814+00:00",
+    "edition_or_revision": "pageid=1414677",
+    "subject_id": "sub_political",
+    "topic_id": "pol_comparative",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "c2f31fadddfd65e2e7134cfdc20ab9872cc77b3bc9b252786d31db69a243a86d",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_presidential_system",
+    "title": "Presidential system",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Presidential_system",
+    "retrieved_at_utc": "2026-10-14T17:28:09.463726+00:00",
+    "edition_or_revision": "pageid=206578",
+    "subject_id": "sub_political",
+    "topic_id": "pol_comparative",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "ec5395c385537517d5089326b758e66ea7a63014f2a0a4a532e971bd2b39ee6c",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_parliamentary_system",
+    "title": "Parliamentary system",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Parliamentary_system",
+    "retrieved_at_utc": "2026-10-14T17:28:10.807650+00:00",
+    "edition_or_revision": "pageid=182113",
+    "subject_id": "sub_political",
+    "topic_id": "pol_comparative",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "ef68dca0b5200bf44198edb60e8a5a8bf2f2a5e414ee337c5266272e3677f0f9",
+    "origin": "wikipedia_api"
+  }
+]

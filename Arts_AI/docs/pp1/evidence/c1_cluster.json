@@ -1,0 +1,6 @@
+{
+    "cluster_id":  0,
+    "model_version":  "c1_20261013T030329_134eeb26",
+    "cutoff_days":  13,
+    "data_category":  "inference_input"
+}

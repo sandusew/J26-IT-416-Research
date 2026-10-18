@@ -1,0 +1,359 @@
+{
+  "curriculumVersion": "nie_al_arts_provisional_v0.1",
+  "scopeStatus": "provisional_awaiting_stakeholder_confirmation",
+  "subjects": [
+    {
+      "subjectId": "sub_history",
+      "subjectName": "History",
+      "topics": [
+        {
+          "topicId": "hist_sl_sources",
+          "topicTitle": "Sources for Sri Lankan history",
+          "grade": "12",
+          "unitTitle": "History of Sri Lanka (compulsory)",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "hist_sl_geography",
+          "topicTitle": "Geographical factors in Sri Lankan history",
+          "grade": "12",
+          "unitTitle": "History of Sri Lanka (compulsory)",
+          "prerequisiteTopicIds": [
+            "hist_sl_sources"
+          ]
+        },
+        {
+          "topicId": "hist_sl_prehistoric",
+          "topicTitle": "Pre-historic and early settlements",
+          "grade": "12",
+          "unitTitle": "History of Sri Lanka (compulsory)",
+          "prerequisiteTopicIds": [
+            "hist_sl_geography"
+          ]
+        },
+        {
+          "topicId": "hist_sl_buddhism",
+          "topicTitle": "Establishment and expansion of Buddhism",
+          "grade": "12",
+          "unitTitle": "History of Sri Lanka (compulsory)",
+          "prerequisiteTopicIds": [
+            "hist_sl_prehistoric"
+          ]
+        },
+        {
+          "topicId": "hist_sl_rajarata_politics",
+          "topicTitle": "Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa)",
+          "grade": "12",
+          "unitTitle": "History of Sri Lanka (compulsory)",
+          "prerequisiteTopicIds": [
+            "hist_sl_buddhism"
+          ]
+        },
+        {
+          "topicId": "hist_sl_rajarata_society",
+          "topicTitle": "Economy, irrigation and society of Rajarata",
+          "grade": "12",
+          "unitTitle": "History of Sri Lanka (compulsory)",
+          "prerequisiteTopicIds": [
+            "hist_sl_rajarata_politics"
+          ]
+        },
+        {
+          "topicId": "hist_sl_post_polonnaruwa",
+          "topicTitle": "Kingdoms after Polonnaruwa to 16th century",
+          "grade": "12",
+          "unitTitle": "History of Sri Lanka (compulsory)",
+          "prerequisiteTopicIds": [
+            "hist_sl_rajarata_society"
+          ]
+        },
+        {
+          "topicId": "hist_sl_colonial_modern",
+          "topicTitle": "Colonial period to 1978 constitutional change",
+          "grade": "13",
+          "unitTitle": "History of Sri Lanka (compulsory)",
+          "prerequisiteTopicIds": [
+            "hist_sl_post_polonnaruwa"
+          ]
+        },
+        {
+          "topicId": "hist_in_sources",
+          "topicTitle": "Sources for Indian history",
+          "grade": "12",
+          "unitTitle": "History elective: india",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "hist_in_geography",
+          "topicTitle": "Geography and Indian history",
+          "grade": "12",
+          "unitTitle": "History elective: india",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "hist_in_indus_vedic",
+          "topicTitle": "Indus and Vedic civilizations",
+          "grade": "12",
+          "unitTitle": "History elective: india",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "hist_eu_civilization",
+          "topicTitle": "Forces shaping European civilization",
+          "grade": "12",
+          "unitTitle": "History elective: europe",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "hist_eu_modern",
+          "topicTitle": "Europe 1500\u20131989 selected themes",
+          "grade": "12",
+          "unitTitle": "History elective: europe",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "hist_mw_since_1500",
+          "topicTitle": "Modern world since 1500 (Asia/Africa/Europe/America)",
+          "grade": "12",
+          "unitTitle": "History elective: modern_world",
+          "prerequisiteTopicIds": []
+        }
+      ]
+    },
+    {
+      "subjectId": "sub_geography",
+      "subjectName": "Geography",
+      "topics": [
+        {
+          "topicId": "geo_basic_concepts",
+          "topicTitle": "Basic concepts of Geography",
+          "grade": "12",
+          "unitTitle": "Geography: intro",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "geo_physical_nature",
+          "topicTitle": "Nature of Physical Geography",
+          "grade": "12",
+          "unitTitle": "Geography: physical",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "geo_landforms",
+          "topicTitle": "Landforms / main relief types",
+          "grade": "12",
+          "unitTitle": "Geography: physical",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "geo_climate",
+          "topicTitle": "Climate systems",
+          "grade": "12",
+          "unitTitle": "Geography: physical",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "geo_population",
+          "topicTitle": "Population",
+          "grade": "12",
+          "unitTitle": "Geography: human",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "geo_settlement_urban",
+          "topicTitle": "Settlement and urbanization (incl. Sri Lanka)",
+          "grade": "12",
+          "unitTitle": "Geography: human",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "geo_agriculture",
+          "topicTitle": "World / regional agriculture",
+          "grade": "12",
+          "unitTitle": "Geography: human",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "geo_practical_maps",
+          "topicTitle": "Practical Geography and map skills",
+          "grade": "12",
+          "unitTitle": "Geography: practical",
+          "prerequisiteTopicIds": []
+        }
+      ]
+    },
+    {
+      "subjectId": "sub_political",
+      "subjectName": "Political Science",
+      "topics": [
+        {
+          "topicId": "pol_nature",
+          "topicTitle": "Nature of Political Science, study of politics and approaches",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_subfields",
+          "topicTitle": "Political Science and its sub-fields",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_state",
+          "topicTitle": "The State",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_forms_gov",
+          "topicTitle": "Forms of government",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_ideologies",
+          "topicTitle": "Political ideologies",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_conflict",
+          "topicTitle": "Conflict and conflict resolution",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_colonial",
+          "topicTitle": "Colonial transformation of Sri Lanka",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_westminster",
+          "topicTitle": "Westminster model in Sri Lanka and changes",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_democracy",
+          "topicTitle": "Democratic governance \u2014 theory and practice",
+          "grade": "13",
+          "unitTitle": "Political Science Grade 13",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_comparative",
+          "topicTitle": "Comparative models of government",
+          "grade": "13",
+          "unitTitle": "Political Science Grade 13",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_constitution_1978",
+          "topicTitle": "Constitution of 1978 and selected amendments",
+          "grade": "13",
+          "unitTitle": "Political Science Grade 13",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_parties",
+          "topicTitle": "Political party system of Sri Lanka",
+          "grade": "13",
+          "unitTitle": "Political Science Grade 13",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_international",
+          "topicTitle": "International politics and implications for Sri Lanka",
+          "grade": "13",
+          "unitTitle": "Political Science Grade 13",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_public_policy",
+          "topicTitle": "Public policy (introductory)",
+          "grade": "13",
+          "unitTitle": "Political Science Grade 13",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "pol_citizen",
+          "topicTitle": "Citizenship and political values",
+          "grade": "12",
+          "unitTitle": "Political Science Grade 12",
+          "prerequisiteTopicIds": []
+        }
+      ]
+    },
+    {
+      "subjectId": "sub_economics",
+      "subjectName": "Economics",
+      "topics": [
+        {
+          "topicId": "eco_intro",
+          "topicTitle": "Nature and scope of Economics",
+          "grade": "12",
+          "unitTitle": "Economics A/L core (structure provisional)",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "eco_scarcity_choice",
+          "topicTitle": "Scarcity, choice and opportunity cost",
+          "grade": "12",
+          "unitTitle": "Economics A/L core (structure provisional)",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "eco_demand_supply",
+          "topicTitle": "Demand, supply and markets",
+          "grade": "12",
+          "unitTitle": "Economics A/L core (structure provisional)",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "eco_national_income",
+          "topicTitle": "National income and macroeconomic indicators",
+          "grade": "12",
+          "unitTitle": "Economics A/L core (structure provisional)",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "eco_money_banking",
+          "topicTitle": "Money, banking and financial system",
+          "grade": "12",
+          "unitTitle": "Economics A/L core (structure provisional)",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "eco_gov_policy",
+          "topicTitle": "Government economic policy",
+          "grade": "12",
+          "unitTitle": "Economics A/L core (structure provisional)",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "eco_intl_trade",
+          "topicTitle": "International trade and finance",
+          "grade": "12",
+          "unitTitle": "Economics A/L core (structure provisional)",
+          "prerequisiteTopicIds": []
+        },
+        {
+          "topicId": "eco_development",
+          "topicTitle": "Economic development and Sri Lankan context",
+          "grade": "12",
+          "unitTitle": "Economics A/L core (structure provisional)",
+          "prerequisiteTopicIds": []
+        }
+      ]
+    }
+  ]
+}

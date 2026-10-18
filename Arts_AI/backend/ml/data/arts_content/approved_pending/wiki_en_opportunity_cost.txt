@@ -1,0 +1,120 @@
+In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives. Assuming the best choice is made, it is the "cost" incurred by not enjoying the benefit that would have been had if the second best available choice had been taken instead. The New Oxford American Dictionary defines it as "the loss of potential gain from other alternatives when one alternative is chosen". As a representation of the relationship between scarcity and choice, the objective of opportunity cost is to ensure efficient use of scarce resources. It incorporates all associated costs of a decision, both explicit and implicit. Thus, opportunity costs are not restricted to monetary or financial costs: the real cost of output forgone, lost time, pleasure, or any other benefit that provides utility should also be considered an opportunity cost.
+
+
+== Types ==
+
+
+=== Explicit costs ===
+Explicit costs are the direct costs of an action (business operating costs or expenses), executed through either a cash transaction or a physical transfer of resources. In other words, explicit opportunity costs are the out-of-pocket costs of a firm, that are easily identifiable. This means explicit costs will always have a dollar value and involve a transfer of money, e.g. paying employees. With this said, these particular costs can easily be identified under the expenses of a firm's income statement and balance sheet to represent all the cash outflows of a firm.
+Examples include:
+
+Land and infrastructure costs
+Operation and maintenance costs—wages, rent, overhead, materials
+Potential scenarios include:
+
+If a person leaves work for an hour and spends $200 on office supplies, then the explicit costs for the individual equates to the total expenses for the office supplies of $200.
+If a company's printer malfunctions, then the explicit costs for the company equates to the total amount to be paid to the repair technician.
+
+
+=== Implicit costs ===
+Implicit costs (also referred to as implied, imputed or notional costs) are the opportunity costs of utilising resources owned by the firm that could be used for other purposes. These costs are often hidden to the naked eye and are not made known. Unlike explicit costs, implicit opportunity costs correspond to intangibles. Hence, they cannot be clearly identified, defined or reported. This means that they are costs that have already occurred within a project, without exchanging cash. This could include a small business owner not taking any salary in the beginning of their tenure as a way for the business to be more profitable. As implicit costs are the result of assets, they are also not recorded for the use of accounting purposes because they do not represent any monetary losses or gains. In terms of factors of production, implicit opportunity costs allow for depreciation of goods, materials and equipment that ensure the operations of a company.
+Examples of implicit costs regarding production are mainly resources contributed by a business owner. These include:
+
+Human labour
+Infrastructure
+Risk
+Time spent: also involves considering other valuable activities that could have been undertaken in order to maximize the return on time invested
+Some potential scenarios are:
+
+If a person leaves work for an hour to spend $200 on office supplies, and has an hourly rate of $25, then the implicit costs for the individual equates to the $25 that they could have earned instead.
+If a company's printer malfunctions, the implicit cost equates to the total production time that could have been utilized if the machine did not break down.
+
+
+== Excluded from opportunity cost ==
+
+
+=== Sunk costs ===
+
+Sunk costs (also referred to as historical costs) are costs that have been incurred already and cannot be recovered. As sunk costs have already been incurred, they remain unchanged and should not influence present or future actions or decisions regarding benefits and costs.
+
+
+=== Marginal cost ===
+
+The concept of marginal cost in economics is the incremental cost of each new product produced for the entire product line. For example, building a single aircraft costs a lot of money, but when building a hundred, the cost of the 100th will be much lower. When building a new aircraft, the materials used may be more useful, so make as many aircraft as possible from as few materials as possible to increase the margin of profit. Marginal cost is abbreviated MC or MPC.
+The increase in cost caused by an additional unit of production is called marginal cost. By definition, marginal cost (MC) is equal to the change in total cost (△TC) divided by the corresponding change in output (△Q): MC(Q) = △TC(Q)/△Q or, taking the limit as △Q goes to zero,
+
+  
+    
+      
+        
+          M
+          C
+          (
+          Q
+          )
+          =
+          
+            lim
+            
+              Δ
+              Q
+              →
+              0
+            
+          
+          
+            
+              
+                Δ
+                T
+                C
+                (
+                Q
+                )
+              
+              
+                Δ
+                Q
+              
+            
+          
+          =
+          
+            
+              
+                d
+                T
+                C
+              
+              
+                d
+                Q
+              
+            
+          
+          .
+        
+      
+    
+    {\displaystyle {MC(Q)=\lim _{\Delta Q\to 0}{\frac {\Delta TC(Q)}{\Delta Q}}={\frac {dTC}{dQ}}.}}
+  
+
+In theory marginal costs represent the increase in total costs (which include both constant and variable costs) as output increases by 1 unit.
+
+
+=== Adjustment cost ===
+The phrase "adjustment costs" gained significance in macroeconomic studies, referring to the expenses a company bears when altering its production levels in response to fluctuations in demand and input costs. These costs may encompass those related to acquiring, setting up, and mastering new capital equipment, as well as costs tied to hiring, dismissing, and training employees to modify production.
+"Adjustment costs" describe shifts in the firm's product nature rather than merely changes in output volume. The notion of adjustment costs is expanded in this manner because, to reposition itself in the market relative to rivals, a company usually needs to alter crucial features of its goods or services to enhance competition based on differentiation or cost. In line with the conventional concept, the adjustment costs experienced during repositioning may involve expenses linked to the reassignment of capital and/or labor resources. However, they might also include costs from other areas, such as changes in organizational abilities, assets, and expertise.
+
+
+== Uses ==
+
+
+=== Economic profit versus accounting profit ===
+The main objective of accounting profits is to give an account of a company's fiscal performance, typically reported on quarterly and annually. As such, accounting principles focus on tangible and measurable factors associated with operating a business such as wages and rent, and thus, do not "infer anything about relative economic profitability". Opportunity costs are not considered in accounting profits as they have no purpose in this regard.
+
+The purpose of calculating economic profits, and thus opportunity costs, is to aid in better business decision-making through the inclusion of opportunity costs. In this way, a business can evaluate whether its decision and the allocation of its resources is cost-effective or not and whether resources should be reallocated.
+Economic profit does not indicate whether or not a business decision will make money. It signifies if it is prudent to undertake a specific decision against the opportunity of undertaking a different decision. As shown in the simplified example in the image, choosing to start a business would provide $10,000 in terms of accounting profits. However, the decision to start a business would provide −$30,000 in terms of economic profits, indicating that the decision to start a business may not be prudent as the opportunity costs outweigh the profit from starting a business. In this case, where the revenue is not enough to cover the opportunity costs, the chosen option may not be the best course of action. When economic profit is zero, all the explicit and implicit costs (opportunity costs) are covered by the total revenue and there is no incentive for reallocation of the resources. This condition is known as normal profit.
+Several performance measures of economic profit have been derived to further improve business decision-making such as risk-adjusted return on capital (RAROC) and economic value added (EVA), which directly include a quantified opportunity cost to aid businesses in risk management and optimal allocation of resources. Opportunity cost, as such, is an economic concept in economic theory which is used to maximise value through better decision-making.
+
+[Extract truncated for local indexing.]

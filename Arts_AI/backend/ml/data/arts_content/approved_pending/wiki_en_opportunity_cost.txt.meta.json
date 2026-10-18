@@ -1,0 +1,31 @@
+{
+  "document_id": "wiki_en_opportunity_cost",
+  "title": "Opportunity cost (Wikipedia extract)",
+  "source_url": "https://en.wikipedia.org/wiki/Opportunity_cost",
+  "publisher_author": "Wikipedia contributors",
+  "publication_version": "pageid=45528",
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "subject_id": "sub_economics",
+  "topic_id": "eco_scarcity_choice",
+  "grade_year": "A/L",
+  "language": "en",
+  "acquisition_timestamp_utc": "2026-10-14T00:18:56.370952+00:00",
+  "file_hash": "f72fab22cdc3c7ed13787d2430f6c84464d4aae3bd7b8cee3a05a6f40fbe8565",
+  "usage_permission_or_license": "CC-BY-SA-4.0",
+  "usage_permitted": true,
+  "license_attribution_required": true,
+  "modification_notes": "Plaintext extract truncated for local research indexing",
+  "learning_outcomes_supported": [
+    "Demonstrate understanding of: Scarcity, choice and opportunity cost"
+  ],
+  "curriculum_mapping_basis": "manual_map_to_canonical_topic_id_provisional_registry",
+  "content_review_status": "unreviewed",
+  "review_status": "unreviewed",
+  "teacher_reviewed": false,
+  "curriculum_relevance_checked": true,
+  "extraction_method": "wikipedia_mediawiki_api_plaintext_extract",
+  "extraction_quality_status": "ok",
+  "data_origin": "authentic_public_cc_by_sa_supplemental",
+  "role": "supplemental_not_complete_al_teaching_corpus",
+  "acquired": true
+}

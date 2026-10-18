@@ -1,0 +1,792 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_geo_settlement_urban_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Settlement geography",
+        "Settlement",
+        "Explanations",
+        "Urbanization"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Settlement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Urbanization"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_urbanization). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_urbanization",
+      "sourceIds": [
+        "wiki_en_urbanization"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_urbanization",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «Urbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns.»?",
+      "options": [
+        "incl.",
+        "Urbanization",
+        "Settlement geography",
+        "Settlement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "incl."
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Settlement"
+        }
+      ],
+      "correctAnswerOrRubric": "Urbanization",
+      "explanation": "Source-grounded AI practice item. The passage supports «Urbanization». Full sentence: Urbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns. (source_id=wiki_en_settlement_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_settlement_geography",
+      "sourceIds": [
+        "wiki_en_settlement_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_settlement_geography",
+          "passage": "Urbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «It describes the population shift from rural to urban areas, the corresponding decrease in the proportion of people living in rural areas, and the ways in which societies and culture adapt to this cha…»?",
+      "options": [
+        "shift",
+        "Urbanization",
+        "Settlement geography",
+        "Settlement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "shift"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Settlement"
+        }
+      ],
+      "correctAnswerOrRubric": "shift",
+      "explanation": "Source-grounded AI practice item. The passage supports «shift». Full sentence: It describes the population shift from rural to urban areas, the corresponding decrease in the proportion of people living in rural areas, and the ways in which societies and culture adapt to this change. (source_id=wiki_en_urbanization). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_urbanization",
+      "sourceIds": [
+        "wiki_en_urbanization"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_urbanization",
+          "passage": "It describes the population shift from rural to urban areas, the corresponding decrease in the proportion of people living in rural areas, and the ways in which societies and culture adapt to this change."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate competency related to: Settlement and urbaniza…»?",
+      "options": [
+        "Urbanization",
+        "Settlement geography",
+        "Settlement",
+        "Learning"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Settlement"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Learning"
+        }
+      ],
+      "correctAnswerOrRubric": "Learning",
+      "explanation": "Source-grounded AI practice item. The passage supports «Learning». Full sentence: ## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate competency related to: Settlement and urbanization (incl. (source_id=wiki_en_settlement_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_settlement_geography",
+      "sourceIds": [
+        "wiki_en_settlement_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_settlement_geography",
+          "passage": "## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate competency related to: Settlement and urbanization (incl."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «Sri Lanka)\n- [inferred_not_official] Explain core ideas of Settlement and urbanization (incl.»?",
+      "options": [
+        "Settlement geography",
+        "Settlement",
+        "Sri Lanka",
+        "Urbanization"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Settlement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Urbanization"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka)\n- [inferred_not_official] Explain core ideas of Settlement and urbanization (incl. (source_id=wiki_en_urbanization). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_urbanization",
+      "sourceIds": [
+        "wiki_en_urbanization"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_urbanization",
+          "passage": "Sri Lanka)\n- [inferred_not_official] Explain core ideas of Settlement and urbanization (incl."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «Sri Lanka)\n- [inferred_not_official] Apply concepts from Settlement and urbanization (incl.»?",
+      "options": [
+        "Settlement",
+        "Sri Lanka",
+        "Urbanization",
+        "Settlement geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Settlement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Settlement geography"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka)\n- [inferred_not_official] Apply concepts from Settlement and urbanization (incl. (source_id=wiki_en_settlement_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_settlement_geography",
+      "sourceIds": [
+        "wiki_en_settlement_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_settlement_geography",
+          "passage": "Sri Lanka)\n- [inferred_not_official] Apply concepts from Settlement and urbanization (incl."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «Sri Lanka) using cited public sources\n\n## Core concepts and definitions\nUrbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more…»?",
+      "options": [
+        "Sri Lanka",
+        "Urbanization",
+        "Settlement geography",
+        "Settlement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Settlement"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka) using cited public sources\n\n## Core concepts and definitions\nUrbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns. (source_id=wiki_en_urbanization). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_urbanization",
+      "sourceIds": [
+        "wiki_en_urbanization"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_urbanization",
+          "passage": "Sri Lanka) using cited public sources\n\n## Core concepts and definitions\nUrbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «Urbanization is not merely a modern phenomenon, but a rapid and historic transformation of human social roots on a global scale, whereby predominantly rural culture is being rapidly replaced by predom…»?",
+      "options": [
+        "Settlement",
+        "incl.",
+        "Urbanization",
+        "Settlement geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Settlement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "incl."
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Settlement geography"
+        }
+      ],
+      "correctAnswerOrRubric": "Urbanization",
+      "explanation": "Source-grounded AI practice item. The passage supports «Urbanization». Full sentence: Urbanization is not merely a modern phenomenon, but a rapid and historic transformation of human social roots on a global scale, whereby predominantly rural culture is being rapidly replaced by predominantly urban culture. (source_id=wiki_en_urbanization). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_urbanization",
+      "sourceIds": [
+        "wiki_en_urbanization"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_urbanization",
+          "passage": "Urbanization is not merely a modern phenomenon, but a rapid and historic transformation of human social roots on a global scale, whereby predominantly rural culture is being rapidly replaced by predominantly urban culture."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «The first major change in settlement patterns was the accumulation of hunter-gatherers into villages many thousands of years ago.»?",
+      "options": [
+        "Settlement",
+        "change",
+        "Urbanization",
+        "Settlement geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Settlement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "change"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Settlement geography"
+        }
+      ],
+      "correctAnswerOrRubric": "change",
+      "explanation": "Source-grounded AI practice item. The passage supports «change». Full sentence: The first major change in settlement patterns was the accumulation of hunter-gatherers into villages many thousands of years ago. (source_id=wiki_en_settlement_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_settlement_geography",
+      "sourceIds": [
+        "wiki_en_settlement_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_settlement_geography",
+          "passage": "The first major change in settlement patterns was the accumulation of hunter-gatherers into villages many thousands of years ago."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «This more holistic study is concerned with sustainability and seeks to better understand the present landscape and plan the future.»?",
+      "options": [
+        "concerned",
+        "Urbanization",
+        "Settlement geography",
+        "Settlement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "concerned"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Settlement"
+        }
+      ],
+      "correctAnswerOrRubric": "concerned",
+      "explanation": "Source-grounded AI practice item. The passage supports «concerned». Full sentence: This more holistic study is concerned with sustainability and seeks to better understand the present landscape and plan the future. (source_id=wiki_en_urbanization). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_urbanization",
+      "sourceIds": [
+        "wiki_en_urbanization"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_urbanization",
+          "passage": "This more holistic study is concerned with sustainability and seeks to better understand the present landscape and plan the future."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «In sum, settlement geography describes and explains the settlements' location, substance, form and structure, as well as the functions and processes that produced them over time (Genesis, from Greek γ…»?",
+      "options": [
+        "Urbanization",
+        "Settlement geography",
+        "Settlement",
+        "Genesis"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Urbanization"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Settlement"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Genesis"
+        }
+      ],
+      "correctAnswerOrRubric": "Genesis",
+      "explanation": "Source-grounded AI practice item. The passage supports «Genesis». Full sentence: In sum, settlement geography describes and explains the settlements' location, substance, form and structure, as well as the functions and processes that produced them over time (Genesis, from Greek γέννησις, \"origin, birth\" or historical development). (source_id=wiki_en_settlement_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_settlement_geography",
+      "sourceIds": [
+        "wiki_en_settlement_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_settlement_geography",
+          "passage": "In sum, settlement geography describes and explains the settlements' location, substance, form and structure, as well as the functions and processes that produced them over time (Genesis, from Greek γέννησις, \"origin, birth\" or historical development)."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q10",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_settlement_urban",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Settlement and urbanization (incl. Sri Lanka), which term or name is supported by this passage: «As an applied science, it projects future settlement development and contributes to the sustainable development of human-environmental systems.»?",
+      "options": [
+        "Settlement geography",
+        "Settlement",
+        "projects",
+        "Urbanization"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Settlement geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Settlement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "projects"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Urbanization"
+        }
+      ],
+      "correctAnswerOrRubric": "projects",
+      "explanation": "Source-grounded AI practice item. The passage supports «projects». Full sentence: As an applied science, it projects future settlement development and contributes to the sustainable development of human-environmental systems. (source_id=wiki_en_urbanization). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_urbanization",
+      "sourceIds": [
+        "wiki_en_urbanization"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_urbanization",
+          "passage": "As an applied science, it projects future settlement development and contributes to the sustainable development of human-environmental systems."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_geo_settlement_urban_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicIds": [
+        "geo_settlement_urban"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Settlement and urbanization (incl. Sri Lanka) — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Urbanization",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_urbanization",
+        "wiki_en_settlement_geography"
+      ],
+      "bodyText": "# Settlement and urbanization (incl. Sri Lanka)\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Settlement and urbanization (incl. Sri Lanka)」 (geo_settlement_urban) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nUrbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns. It describes the population shift from rural to urban areas, the corresponding decrease in the proportion of people living in rural areas, and the ways in which societies and culture adapt to this change.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate competency related to: Settlement and urbanization (incl. Sri Lanka)\n- [inferred_not_official] Explain core ideas of Settlement and urbanization (incl. Sri Lanka)\n- [inferred_not_official] Apply concepts from Settlement and urbanization (incl. Sri Lanka) using cited public sources\n\n## Core concepts and definitions\nUrbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns. It describes the population shift from rural to urban areas, the corresponding decrease in the proportion of people living in rural areas, and the ways in which societies and culture adapt to this change.\n\nUrbanization is not merely a modern phenomenon, but a rapid and historic transformation of human social roots on a global scale, whereby predominantly rural culture is being rapidly replaced by predominantly urban culture. The first major change in settlement patterns was the accumulation of hunter-gatherers into villages many thousands of years ago. Village culture is characterized by common bloodlines, intimate relationships, and communal behaviour, whereas urban culture is characterized by distant bloodlines, unfamiliar relations, and competitive behaviour. This unprecedented movement of people is forecast to continue and intensify during the next few decades, mushrooming cities to sizes unthinkable only a century ago. As a result, the world urban population growth curve has up till recently followed a quadratic-hyperbolic pattern.\n(Source: https://en.wikipedia.org/wiki/Urbanization)\n\n## Historical or systematic development\nRather than strictly referring to the absolute number of people living in urban environments, Urbanization refers to the proportion of the total national population living in areas classified as urban.“It is predicted that by 2050, about 77% of the developing world and 96% of the developed world will be urbanized.”. This is predicted to generate artificial scarcities of land, lack of drinking water, playgrounds and other essential resources for most urban dwellers. The predicted urban population growth is equivalent to approximately 3 billion urbanites by 2050, much of which will occur in Africa and Asia. Notably, the United Nations has also recently projected that nearly all global population growth from 2017 to 2030 will take place in cities, with about 1.1 billion new urbanites over the next 10 years. In the long term, urbanization is expected to significantly impact the quality of life in negative ways.\n\nFrom the development of the earliest cities in Indus Valley Civilization, Mesopotamia and Egypt until the 18th century, an equilibrium existed between the vast majority of the population who were engaged in subsistence agriculture in a rural context, and small centres of populations in the towns where economic activity consisted only of trade at markets and manufactures on a small scale. Due to the primitive and relatively stagnant state of agriculture throughout this period, the ratio of rural to urban population remained at a fixed equilibrium. However, a significant increase in the percentage of the global urban population can be traced in the 1st millennium BCE.\n(Source: https://en.wikipedia.org/wiki/Settlement_geography)\n\n## Applications, evidence, and Sri Lankan / comparative context\nUrbanization is relevant to a range of disciplines, including urban planning, geography, sociology, architecture, economics, education, statistics, and public health. The phenomenon has been closely linked to globalization, modernization, industrialization, marketization, administrative/institutional power, and the sociological process of rationalization. Urbanization can be seen as a specific condition at a set time (e.g. the proportion of total population or area in cities or towns), or as an increase in that condition over time. Therefore, urbanization can be quantified either in terms of the level of urban development relative to the overall population, or as the rate at which the urban proportion of the population is increasing. Urbanization creates enormous social, economic and environmental challenges, which provide an opportunity for sustainability with the \"potential to use resources much less or more efficiently, to create more sustainable land use and to protect the biodiversity of natural ecosystems.\" However, current urbanization trends have shown that massive urbanization has led to unsustainable ways of living. Developing urban resilience and urban sustainability in the face of increased urbanization is at the centre of international policy in Sustainable Development Goal 11 \"Sustainable cities and communities.\"\n\nWith the onset of the British Agricultural Revolution and Industrial Revolution in the late 18th century, this relationship was finally broken and an unprecedented growth in urban population took place over the course of the 19th century, both through continued migration from the countryside and due to the tremendous demographic expansion that occurred at that time. In England and Wales, the proportion of the population living in cities with more than 20,000 people jumped from 17% in 1801 to 54% in 1891. Moreover, and adopting a broader definition of urbanization, while the urbanized population in England and Wales represented 72% of the total in 1891, for other countries the figure was 37% in France, 41% in Prussia and 28% in the United States.\n(Source: https://en.wikipedia.org/wiki/Urbanization)\n\n## Key terms\n- **Urbanization**: Urbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns.\n- **Settlement geography**: [Extract truncated for local indexing.]\n\nSettlement geography is a branch of human geography that investigates the Earth's surface's part settled by humans.\n- **Settlement**: Urbanization (or urbanisation in British English) is the process by which human settlements are formed and become larger as more people live, recreate and work in cities and towns.\n- **incl.**: incl.: a key idea for Settlement and urbanization (incl. Sri Lanka) (see cited sources; AI-authored gloss).\n- **Lanka**: Lanka: a key idea for Settlement and urbanization (incl. Sri Lanka) (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Settlement and urbanization (incl. Sri Lanka), state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Settlement and urbanization (incl. Sri Lanka) can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Settlement and urbanization (incl. Sri Lanka)\n- Settlement and urbanization (incl. Sri Lanka) is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_urbanization: Urbanization (Wikipedia extract) — https://en.wikipedia.org/wiki/Urbanization (licence CC-BY-SA-4.0; retrieved 2026-10-14T00:18:56.370952+00:00; checksum b1bde49e6267…)\n- wiki_en_settlement_geography: Settlement geography — https://en.wikipedia.org/wiki/Settlement_geography (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:26:11.035673+00:00; checksum d3bb65f2d7f2…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:36.287356+00:00",
+  "before_distinct": 11,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

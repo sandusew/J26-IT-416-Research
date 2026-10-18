@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_political_science",
+    "title": "Political science",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Political_science",
+    "retrieved_at_utc": "2026-10-14T17:26:19.377242+00:00",
+    "edition_or_revision": "pageid=24388",
+    "subject_id": "sub_political",
+    "topic_id": "pol_nature",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "ffd91bc43037b46f893f6764db96b589444adeb273bff4d0100d45ac9fbc13bb",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_politics",
+    "title": "Politics",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Politics",
+    "retrieved_at_utc": "2026-10-14T17:26:20.583111+00:00",
+    "edition_or_revision": "pageid=22986",
+    "subject_id": "sub_political",
+    "topic_id": "pol_nature",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "20778923d035842db2e1adc9971875967d11f80d82236ce3972a69ec10c3d0a9",
+    "origin": "wikipedia_api"
+  }
+]

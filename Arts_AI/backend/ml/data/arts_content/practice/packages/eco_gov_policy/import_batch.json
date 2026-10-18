@@ -1,0 +1,750 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_eco_gov_policy_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Monetary policy",
+        "Government",
+        "Explanations",
+        "Fiscal policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Monetary policy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Government"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Fiscal policy"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_fiscal_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_fiscal_policy",
+      "sourceIds": [
+        "wiki_en_fiscal_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_fiscal_policy",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «In economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy.»?",
+      "options": [
+        "Government",
+        "science",
+        "Fiscal policy",
+        "Monetary policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Government"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "science"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Fiscal policy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Monetary policy"
+        }
+      ],
+      "correctAnswerOrRubric": "science",
+      "explanation": "Source-grounded AI practice item. The passage supports «science». Full sentence: In economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy. (source_id=wiki_en_monetary_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_monetary_policy",
+      "sourceIds": [
+        "wiki_en_monetary_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_monetary_policy",
+          "passage": "In economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «The use of government revenue expenditures to influence macroeconomic variables developed in reaction to the Great Depression of the 1930s, when the previous laissez-faire approach to economic managem…»?",
+      "options": [
+        "Great Depression",
+        "Fiscal policy",
+        "Monetary policy",
+        "Government"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Great Depression"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Fiscal policy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Monetary policy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Government"
+        }
+      ],
+      "correctAnswerOrRubric": "Great Depression",
+      "explanation": "Source-grounded AI practice item. The passage supports «Great Depression». Full sentence: The use of government revenue expenditures to influence macroeconomic variables developed in reaction to the Great Depression of the 1930s, when the previous laissez-faire approach to economic management became unworkable. (source_id=wiki_en_fiscal_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_fiscal_policy",
+      "sourceIds": [
+        "wiki_en_fiscal_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_fiscal_policy",
+          "passage": "The use of government revenue expenditures to influence macroeconomic variables developed in reaction to the Great Depression of the 1930s, when the previous laissez-faire approach to economic management became unworkable."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «Fiscal policy is based on the theories of the British economist John Maynard Keynes, whose Keynesian economics theorised that government changes in the levels of taxation and government spending influ…»?",
+      "options": [
+        "Fiscal policy",
+        "Monetary policy",
+        "Government",
+        "Fiscal"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Fiscal policy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Monetary policy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Government"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Fiscal"
+        }
+      ],
+      "correctAnswerOrRubric": "Fiscal",
+      "explanation": "Source-grounded AI practice item. The passage supports «Fiscal». Full sentence: Fiscal policy is based on the theories of the British economist John Maynard Keynes, whose Keynesian economics theorised that government changes in the levels of taxation and government spending influence aggregate demand and the level of economic activity. (source_id=wiki_en_monetary_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_monetary_policy",
+      "sourceIds": [
+        "wiki_en_monetary_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_monetary_policy",
+          "passage": "Fiscal policy is based on the theories of the British economist John Maynard Keynes, whose Keynesian economics theorised that government changes in the levels of taxation and government spending influence aggregate demand and the level of economic activity."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «Fiscal and monetary policy are the key strategies used by a country's government and central bank to advance its economic objectives.»?",
+      "options": [
+        "Monetary policy",
+        "Government",
+        "Fiscal",
+        "Fiscal policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Monetary policy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Government"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Fiscal"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Fiscal policy"
+        }
+      ],
+      "correctAnswerOrRubric": "Fiscal",
+      "explanation": "Source-grounded AI practice item. The passage supports «Fiscal». Full sentence: Fiscal and monetary policy are the key strategies used by a country's government and central bank to advance its economic objectives. (source_id=wiki_en_fiscal_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_fiscal_policy",
+      "sourceIds": [
+        "wiki_en_fiscal_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_fiscal_policy",
+          "passage": "Fiscal and monetary policy are the key strategies used by a country's government and central bank to advance its economic objectives."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «The combination of these policies enables these authorities to target inflation and to increase employment.»?",
+      "options": [
+        "Government",
+        "policies",
+        "Fiscal policy",
+        "Monetary policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Government"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "policies"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Fiscal policy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Monetary policy"
+        }
+      ],
+      "correctAnswerOrRubric": "policies",
+      "explanation": "Source-grounded AI practice item. The passage supports «policies». Full sentence: The combination of these policies enables these authorities to target inflation and to increase employment. (source_id=wiki_en_monetary_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_monetary_policy",
+      "sourceIds": [
+        "wiki_en_monetary_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_monetary_policy",
+          "passage": "The combination of these policies enables these authorities to target inflation and to increase employment."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Government economic policy: «Government economic policy is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Government economic policy. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_fiscal_policy",
+      "sourceIds": [
+        "wiki_en_fiscal_policy",
+        "wiki_en_monetary_policy"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Government economic policy: «Government economic policy can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Government economic policy. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_fiscal_policy",
+      "sourceIds": [
+        "wiki_en_fiscal_policy",
+        "wiki_en_monetary_policy"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Government economic policy: «Listing names alone demonstrates understanding of Government economic policy» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Government economic policy. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_fiscal_policy",
+      "sourceIds": [
+        "wiki_en_fiscal_policy",
+        "wiki_en_monetary_policy"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «The recession of the 2000s decade shows that monetary policy also has certain limitations.»?",
+      "options": [
+        "shows",
+        "Fiscal policy",
+        "Monetary policy",
+        "Government"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "shows"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Fiscal policy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Monetary policy"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Government"
+        }
+      ],
+      "correctAnswerOrRubric": "shows",
+      "explanation": "Source-grounded AI practice item. The passage supports «shows». Full sentence: The recession of the 2000s decade shows that monetary policy also has certain limitations. (source_id=wiki_en_fiscal_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_fiscal_policy",
+      "sourceIds": [
+        "wiki_en_fiscal_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_fiscal_policy",
+          "passage": "The recession of the 2000s decade shows that monetary policy also has certain limitations."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «A liquidity trap occurs when interest rate cuts are insufficient as a demand booster as banks do not want to lend and the consumers are reluctant to increase spending due to negative expectations for …»?",
+      "options": [
+        "Fiscal policy",
+        "Monetary policy",
+        "Government",
+        "interest"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Fiscal policy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Monetary policy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Government"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "interest"
+        }
+      ],
+      "correctAnswerOrRubric": "interest",
+      "explanation": "Source-grounded AI practice item. The passage supports «interest». Full sentence: A liquidity trap occurs when interest rate cuts are insufficient as a demand booster as banks do not want to lend and the consumers are reluctant to increase spending due to negative expectations for the economy. (source_id=wiki_en_monetary_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_monetary_policy",
+      "sourceIds": [
+        "wiki_en_monetary_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_monetary_policy",
+          "passage": "A liquidity trap occurs when interest rate cuts are insufficient as a demand booster as banks do not want to lend and the consumers are reluctant to increase spending due to negative expectations for the economy."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q12",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_gov_policy",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Government economic policy, which term or name is supported by this passage: «Government spending is responsible for creating the demand in the economy and can provide a kick-start to get the economy out of the recession.»?",
+      "options": [
+        "Monetary policy",
+        "economic",
+        "Government",
+        "Fiscal policy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Monetary policy"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "economic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Government"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Fiscal policy"
+        }
+      ],
+      "correctAnswerOrRubric": "Government",
+      "explanation": "Source-grounded AI practice item. The passage supports «Government». Full sentence: Government spending is responsible for creating the demand in the economy and can provide a kick-start to get the economy out of the recession. (source_id=wiki_en_fiscal_policy). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_fiscal_policy",
+      "sourceIds": [
+        "wiki_en_fiscal_policy"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_fiscal_policy",
+          "passage": "Government spending is responsible for creating the demand in the economy and can provide a kick-start to get the economy out of the recession."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_eco_gov_policy_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicIds": [
+        "eco_gov_policy"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Government economic policy — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Fiscal_policy",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_fiscal_policy",
+        "wiki_en_monetary_policy"
+      ],
+      "bodyText": "# Government economic policy\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Government economic policy」 (eco_gov_policy) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nIn economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy. The use of government revenue expenditures to influence macroeconomic variables developed in reaction to the Great Depression of the 1930s, when the previous laissez-faire approach to economic management became unworkable. Fiscal policy is based on the theories of the British economist John Maynard Keynes, whose Keynesian economics theorised that government changes in the levels of taxation and government spending influence aggregate demand and the level of economic activity. Fiscal and monetary policy are the key strategies used by a country's government and central bank to advance its economic objectives. The combination of these policies enables these authorities to target inflation and to increase employment. In modern eco\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Government economic policy\n- [inferred_not_official] Explain core ideas of Government economic policy\n- [inferred_not_official] Apply concepts from Government economic policy using cited public sources\n\n## Core concepts and definitions\nIn economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy. The use of government revenue expenditures to influence macroeconomic variables developed in reaction to the Great Depression of the 1930s, when the previous laissez-faire approach to economic management became unworkable. Fiscal policy is based on the theories of the British economist John Maynard Keynes, whose Keynesian economics theorised that government changes in the levels of taxation and government spending influence aggregate demand and the level of economic activity. Fiscal and monetary policy are the key strategies used by a country's government and central bank to advance its economic objectives. The combination of these policies enables these authorities to target inflation and to increase employment. In modern economies, inflation is conventionally considered \"healthy\" in the range of 2%–3%. Additionally, it is designed to try to keep GDP growth at 2%–3% and the unemployment rate near the natural unemployment rate of 4%–5%. This implies that fiscal policy is used to stabilise the economy over the course of the business cycle.\nChanges in the level and composition of taxation and government spending can affect macroeconomic variables, including:\n\nDepending on the state of the economy, fiscal policy may reach for different objectives: its focus can be to restrict economic growth by mediating inflation or, in turn, increase economic growth by decreasing taxes, encouraging spending on different projects that act as stimuli to economic growth and enabling borrowing and spending.\nThe three stances of fiscal policy are the following:\n(Source: https://en.wikipedia.org/wiki/Fiscal_policy)\n\n## Historical or systematic development\naggregate demand and the level of economic activity\nsaving and investment\nincome distribution\nallocation of resources.\nFiscal policy can be distinguished from monetary policy, in that fiscal policy deals with taxation and government spending and is often administered by a government department; while monetary policy deals with the money supply, interest rates and is often administered by a country's central bank. Both fiscal and monetary policies influence a country's economic performance.\n\nNeutral fiscal policy is usually undertaken when an economy is in neither a recession nor an expansion. The amount of government deficit spending (the excess not financed by tax revenue) is roughly the same as it has been on average over time, so no changes to it are occurring that would have an effect on the level of economic activity.\nExpansionary fiscal policy is used by the government when trying to balance the contraction phase in the business cycle. It involves government spending exceeding tax revenue by more than it has tended to, and is usually undertaken during recessions. Examples of expansionary fiscal policy measures include increased government spending on public works (e.g., building schools) and providing the residents of the economy with tax cuts to increase their purchasing power (in order to fix a decrease in the demand).\nContractionary fiscal policy, on the other hand, is a measure to increase tax rates and decrease government spending. It occurs when government deficit spending is lower than usual. This has the potential to slow economic growth if inflation, which was caused by a significant increase in aggregate demand and the supply of money, is excessive. By reducing the economy's amount of aggregate income, the available amount for consumers to spend is also reduced. So, contractionary fiscal policy measures are employed when unsustainable growth takes place, leading to inflation, high prices of investment, recession and unemployment above the \"healthy\" level of 3%–4%.\nHowever, these definitions can be misleading because, even with no changes in spending or tax laws at all, cyclic fluctuations of the economy cause cyclic fluctuations of tax revenues and of some types of government spending, altering the deficit situation; these are not considered to be policy changes. Therefore, for purposes of the above definitions, \"government spending\" and \"tax revenue\" are normally replaced by \"cyclically adjusted government spending\" and \"cyclically adjusted tax revenue\". Thus, for example, a government budget that is balanced over the course of the business cycle is considered to represent a neutral and effective fiscal policy stance.\n(Source: https://en.wikipedia.org/wiki/Monetary_policy)\n\n## Applications, evidence, and Sri Lankan / comparative context\nSince the 1970s, it became clear that monetary policy performance has some benefits over fiscal policy due to the fact that it reduces political influence, as it is set by the central bank (to have an expanding economy before the general election, politicians might cut the interest rates). Additionally, fiscal policy can potentially have more supply-side effects on the economy: to reduce inflation, the measures of increasing taxes and lowering spending would not be preferred, so the government might be reluctant to use these. Monetary policy is generally quicker to implement as interest rates can be set every month, while the decision to increase government spending might take time to figure out which area the money should be spent on.\nThe recession of the 2000s decade shows that monetary policy also has certain limitations. A liquidity trap occurs when interest rate cuts are insufficient as a demand booster as banks do not want to lend and the consumers are reluctant to increase spending due to negative expectations for the economy. Government spending is responsible for creating the demand in the economy and can provide a kick-start to get the economy out of the recession. When a deep recession takes place, it is not sufficient to rely just on monetary policy to restore the economic equilibrium.\nEach side of these two policies has its differences, therefore, combining aspects of both policies to deal with economic problems has become a solution that is now used by the US. These policies have limited effects; however, fiscal policy seems to have a greater effect over the long-run period, while monetary policy tends to have a short-run success.\nIn 2000, a survey of 298 members of the American Economic Association (AEA) found that while 84 percent generally agreed with the statement \"Fiscal policy has a significant stimulative impact on a less than fully employed economy\", 71 percent also generally agreed with the statement \"Management of the business cycle should be left to the Federal Reserve; activist fiscal policy should be avoided.\" In 2011, a follow-up survey of 568 AEA members found that the previous consensus about the latter proposition had dissolved and was by then roughly evenly disputed.\n\nTaxation\nSeigniorage, the benefit from printing money\nBorrowing money from the population or from abroad\nDipping into fiscal reserves\nSale of fixed assets (e.g., land)\nSelling equity to the population\n(Source: https://en.wikipedia.org/wiki/Fiscal_policy)\n\n## Key terms\n- **Fiscal policy**: In economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy.\n- **Monetary policy**: Fiscal and monetary policy are the key strategies used by a country's government and central bank to advance its economic objectives.\n- **Government**: In economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy.\n- **economic**: In economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy.\n- **policy**: In economics and political science, fiscal policy is the use of government revenue collection (taxes or tax cuts) and expenditure to influence a country's economy.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Government economic policy, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Government economic policy can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Government economic policy\n- Government economic policy is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_fiscal_policy: Fiscal policy — https://en.wikipedia.org/wiki/Fiscal_policy (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:30:11.766506+00:00; checksum 691c82fec19d…)\n- wiki_en_monetary_policy: Monetary policy — https://en.wikipedia.org/wiki/Monetary_policy (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:30:13.493360+00:00; checksum 60a56039dd65…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:44.137170+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

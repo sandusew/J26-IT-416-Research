@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_british_ceylon",
+    "title": "British Ceylon",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/British_Ceylon",
+    "retrieved_at_utc": "2026-10-14T17:23:15.921857+00:00",
+    "edition_or_revision": "pageid=8900266",
+    "subject_id": "sub_political",
+    "topic_id": "pol_colonial",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "5ee11437b772abc2160a9611b92f236b29851cd99890c9be3ffec865dfd31cb8",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_colonialism",
+    "title": "Colonialism",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Colonialism",
+    "retrieved_at_utc": "2026-10-14T17:27:20.593767+00:00",
+    "edition_or_revision": "pageid=7299",
+    "subject_id": "sub_political",
+    "topic_id": "pol_colonial",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "aa3a5cc2b7511f6a4009b7125bafb5da8ba40ef32603b587c8c77ac2803c5063",
+    "origin": "wikipedia_api"
+  }
+]

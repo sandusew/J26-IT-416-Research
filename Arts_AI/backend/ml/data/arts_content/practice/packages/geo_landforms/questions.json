@@ -1,0 +1,732 @@
+[
+  {
+    "questionId": "prac_geo_landforms_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Mountain",
+      "Plateau",
+      "Explanations",
+      "Landform"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mountain"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Landform"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_plateau). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_plateau",
+    "sourceIds": [
+      "wiki_en_plateau"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_plateau",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_landforms_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «A landform is a land feature on the solid surface of the Earth or other planetary body.»?",
+    "options": [
+      "Plateau",
+      "Earth",
+      "Landform",
+      "Mountain"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Earth"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Landform"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mountain"
+      }
+    ],
+    "correctAnswerOrRubric": "Earth",
+    "explanation": "Source-grounded AI practice item. The passage supports «Earth». Full sentence: A landform is a land feature on the solid surface of the Earth or other planetary body. (source_id=wiki_en_landform). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_landform",
+    "sourceIds": [
+      "wiki_en_landform"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_landform",
+        "passage": "A landform is a land feature on the solid surface of the Earth or other planetary body."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_landforms_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «They may be natural or may be anthropogenic (caused or influenced by human activity).»?",
+    "options": [
+      "They",
+      "Landform",
+      "Mountain",
+      "Plateau"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "They"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Landform"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Mountain"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Plateau"
+      }
+    ],
+    "correctAnswerOrRubric": "They",
+    "explanation": "Source-grounded AI practice item. The passage supports «They». Full sentence: They may be natural or may be anthropogenic (caused or influenced by human activity). (source_id=wiki_en_mountain). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mountain",
+    "sourceIds": [
+      "wiki_en_mountain"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mountain",
+        "passage": "They may be natural or may be anthropogenic (caused or influenced by human activity)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_landforms_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «Landforms together make up a given terrain, and their arrangement in the landscape is known as topography.»?",
+    "options": [
+      "Landform",
+      "Mountain",
+      "Plateau",
+      "Landforms"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Landform"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Mountain"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Landforms"
+      }
+    ],
+    "correctAnswerOrRubric": "Landforms",
+    "explanation": "Source-grounded AI practice item. The passage supports «Landforms». Full sentence: Landforms together make up a given terrain, and their arrangement in the landscape is known as topography. (source_id=wiki_en_plateau). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_plateau",
+    "sourceIds": [
+      "wiki_en_plateau"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_plateau",
+        "passage": "Landforms together make up a given terrain, and their arrangement in the landscape is known as topography."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_landforms_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «Landforms include hills, mountains, canyons, and valleys, as well as shoreline features such as bays, peninsulas, and seas, including submerged features such as mid-ocean ridges, volcanoes, and the gr…»?",
+    "options": [
+      "Mountain",
+      "Plateau",
+      "Landforms",
+      "Landform"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mountain"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Landforms"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Landform"
+      }
+    ],
+    "correctAnswerOrRubric": "Landforms",
+    "explanation": "Source-grounded AI practice item. The passage supports «Landforms». Full sentence: Landforms include hills, mountains, canyons, and valleys, as well as shoreline features such as bays, peninsulas, and seas, including submerged features such as mid-ocean ridges, volcanoes, and the great oceanic basins. (source_id=wiki_en_landform). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_landform",
+    "sourceIds": [
+      "wiki_en_landform"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_landform",
+        "passage": "Landforms include hills, mountains, canyons, and valleys, as well as shoreline features such as bays, peninsulas, and seas, including submerged features such as mid-ocean ridges, volcanoes, and the great oceanic basins."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_landforms_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «A mountain is an elevated portion of the surface of a planet, generally with steep sides that show significant exposed bedrock.»?",
+    "options": [
+      "Mountain",
+      "Plateau",
+      "portion",
+      "Landform"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mountain"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "portion"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Landform"
+      }
+    ],
+    "correctAnswerOrRubric": "portion",
+    "explanation": "Source-grounded AI practice item. The passage supports «portion». Full sentence: A mountain is an elevated portion of the surface of a planet, generally with steep sides that show significant exposed bedrock. (source_id=wiki_en_mountain). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mountain",
+    "sourceIds": [
+      "wiki_en_mountain"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mountain",
+        "passage": "A mountain is an elevated portion of the surface of a planet, generally with steep sides that show significant exposed bedrock."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_landforms_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «Although there are no universally accepted definitions, a mountain is usually considered higher than a hill.»?",
+    "options": [
+      "Plateau",
+      "Although",
+      "Landform",
+      "Mountain"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Although"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Landform"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mountain"
+      }
+    ],
+    "correctAnswerOrRubric": "Although",
+    "explanation": "Source-grounded AI practice item. The passage supports «Although». Full sentence: Although there are no universally accepted definitions, a mountain is usually considered higher than a hill. (source_id=wiki_en_plateau). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_plateau",
+    "sourceIds": [
+      "wiki_en_plateau"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_plateau",
+        "passage": "Although there are no universally accepted definitions, a mountain is usually considered higher than a hill."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_landforms_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Landforms / main relief types: «Landforms / main relief types can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Landforms / main relief types. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_landform",
+    "sourceIds": [
+      "wiki_en_landform",
+      "wiki_en_mountain"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_geo_landforms_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «Examples are the Deccan Plateau in India and the Meseta Central on the Iberian Peninsula.»?",
+    "options": [
+      "Examples",
+      "Landform",
+      "Mountain",
+      "Plateau"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Examples"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Landform"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Mountain"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Plateau"
+      }
+    ],
+    "correctAnswerOrRubric": "Examples",
+    "explanation": "Source-grounded AI practice item. The passage supports «Examples». Full sentence: Examples are the Deccan Plateau in India and the Meseta Central on the Iberian Peninsula. (source_id=wiki_en_landform). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_landform",
+    "sourceIds": [
+      "wiki_en_landform"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_landform",
+        "passage": "Examples are the Deccan Plateau in India and the Meseta Central on the Iberian Peninsula."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_landforms_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «=== Erosion ===\nPlateaus can also be formed by the erosional processes of glaciers on mountain ranges, leaving them sitting between the mountain ranges.»?",
+    "options": [
+      "Landform",
+      "Mountain",
+      "Plateau",
+      "Erosion"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Landform"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Mountain"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Erosion"
+      }
+    ],
+    "correctAnswerOrRubric": "Erosion",
+    "explanation": "Source-grounded AI practice item. The passage supports «Erosion». Full sentence: === Erosion ===\nPlateaus can also be formed by the erosional processes of glaciers on mountain ranges, leaving them sitting between the mountain ranges. (source_id=wiki_en_mountain). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mountain",
+    "sourceIds": [
+      "wiki_en_mountain"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mountain",
+        "passage": "=== Erosion ===\nPlateaus can also be formed by the erosional processes of glaciers on mountain ranges, leaving them sitting between the mountain ranges."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_landforms_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «Water can also erode mountains and other landforms down into plateaus.»?",
+    "options": [
+      "Mountain",
+      "Plateau",
+      "Water",
+      "Landform"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mountain"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Water"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Landform"
+      }
+    ],
+    "correctAnswerOrRubric": "Water",
+    "explanation": "Source-grounded AI practice item. The passage supports «Water». Full sentence: Water can also erode mountains and other landforms down into plateaus. (source_id=wiki_en_plateau). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_plateau",
+    "sourceIds": [
+      "wiki_en_plateau"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_plateau",
+        "passage": "Water can also erode mountains and other landforms down into plateaus."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_geo_landforms_q09",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_geography",
+    "topicId": "geo_landforms",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Landforms / main relief types, which term or name is supported by this passage: «Dissected plateaus are highly eroded plateaus cut by rivers and broken by deep narrow valleys.»?",
+    "options": [
+      "Plateau",
+      "Dissected",
+      "Landform",
+      "Mountain"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Plateau"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Dissected"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Landform"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mountain"
+      }
+    ],
+    "correctAnswerOrRubric": "Dissected",
+    "explanation": "Source-grounded AI practice item. The passage supports «Dissected». Full sentence: Dissected plateaus are highly eroded plateaus cut by rivers and broken by deep narrow valleys. (source_id=wiki_en_landform). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_landform",
+    "sourceIds": [
+      "wiki_en_landform"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_landform",
+        "passage": "Dissected plateaus are highly eroded plateaus cut by rivers and broken by deep narrow valleys."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

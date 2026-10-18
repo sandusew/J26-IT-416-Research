@@ -1,0 +1,52 @@
+{
+  "steps": {
+    "contents_download": {
+      "ok": true,
+      "reused": true,
+      "bytes": 173976
+    },
+    "contents_extract": {
+      "ok": true,
+      "uncompressed": 594442,
+      "questions_csv": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\ednet\\contents\\contents\\questions.csv"
+    },
+    "kt1_download": {
+      "ok": true,
+      "reused": true,
+      "bytes": 1218656153
+    },
+    "kt1_archive": {
+      "archive_bytes": 1218656153,
+      "uncompressed_bytes": 3350575484
+    },
+    "kt1_extract": {
+      "mode": "selective_extract",
+      "members_in_archive": 784309,
+      "requested_pool": 8000,
+      "extracted_this_run": 5500,
+      "csv_files_on_disk": 8000,
+      "note": "Full archive retained; only a hardware-appropriate CSV pool extracted"
+    }
+  },
+  "errors": [],
+  "disk_free_bytes": 110629199872,
+  "estimated_need_bytes": 1796210688,
+  "subset": {
+    "dataset": "ednet_kt1_subset",
+    "status": "ok",
+    "errors": [],
+    "source_url": "https://github.com/riiid/ednet",
+    "max_students": 600,
+    "min_interactions": 50,
+    "seed": 42,
+    "readme_cached": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\ednet\\README_ednet.md",
+    "contents_layout": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\ednet\\contents",
+    "access_instructions": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\src\\arts_ai\\datasets\\ednet_access.md",
+    "correctness_derived_from": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\ednet\\contents\\Contents\\questions.csv",
+    "local_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\processed\\ednet\\ednet_kt1_subset.csv",
+    "selected_students": 600,
+    "interactions": 300851,
+    "content_hash": "2424e246af47fbe1832a4483e6a2b005079329cd63140615f96931057465be65"
+  },
+  "status": "ok"
+}

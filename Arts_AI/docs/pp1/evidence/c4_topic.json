@@ -1,0 +1,10 @@
+{
+    "topic_id":  "sub_history_t06",
+    "model_version":  "c4_topic_nl_20261013T105116_04964504",
+    "task":  "closed_set_topic_classification_nl",
+    "experiment_scope":  "closed_set_generated_nl_topics",
+    "n_supported_classes":  35,
+    "supported_in_closed_set":  true,
+    "note":  "Closed-set topic classification on generated/unreviewed educational text. Metrics such as accuracy˜0.722 are experiment-specific — not overall chatbot accuracy or local Arts validation. Marker-era 100% model is historical sanity only.",
+    "data_category":  "generated_content"
+}

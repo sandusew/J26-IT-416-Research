@@ -1,0 +1,732 @@
+[
+  {
+    "questionId": "prac_hist_sl_buddhism_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Mahinda",
+      "Establishment",
+      "Explanations",
+      "Buddhism in Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Establishment"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Buddhism in Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_mahinda_buddhist_monk). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahinda_buddhist_monk",
+    "sourceIds": [
+      "wiki_en_mahinda_buddhist_monk"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahinda_buddhist_monk",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «Theravada Buddhism is the largest and official religion of Sri Lanka, practiced by 69.8% of the population as of 2012.»?",
+    "options": [
+      "Establishment",
+      "Theravada Buddhism",
+      "Buddhism in Sri Lanka",
+      "Mahinda"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Establishment"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Theravada Buddhism"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Buddhism in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mahinda"
+      }
+    ],
+    "correctAnswerOrRubric": "Theravada Buddhism",
+    "explanation": "Source-grounded AI practice item. The passage supports «Theravada Buddhism». Full sentence: Theravada Buddhism is the largest and official religion of Sri Lanka, practiced by 69.8% of the population as of 2012. (source_id=wiki_en_buddhism_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_buddhism_sri_lanka",
+    "sourceIds": [
+      "wiki_en_buddhism_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_buddhism_sri_lanka",
+        "passage": "Theravada Buddhism is the largest and official religion of Sri Lanka, practiced by 69.8% of the population as of 2012."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «Practitioners of Sri Lankan Buddhism can be found amongst the majority Sinhalese population as well as among the minority ethnic groups, most notably the Sri Lankan Chinese.»?",
+    "options": [
+      "Practitioners",
+      "Buddhism in Sri Lanka",
+      "Mahinda",
+      "Establishment"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Practitioners"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Buddhism in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Establishment"
+      }
+    ],
+    "correctAnswerOrRubric": "Practitioners",
+    "explanation": "Source-grounded AI practice item. The passage supports «Practitioners». Full sentence: Practitioners of Sri Lankan Buddhism can be found amongst the majority Sinhalese population as well as among the minority ethnic groups, most notably the Sri Lankan Chinese. (source_id=wiki_en_buddhism_in_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_buddhism_in_sri_lanka",
+    "sourceIds": [
+      "wiki_en_buddhism_in_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_buddhism_in_sri_lanka",
+        "passage": "Practitioners of Sri Lankan Buddhism can be found amongst the majority Sinhalese population as well as among the minority ethnic groups, most notably the Sri Lankan Chinese."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «Sri Lankan Buddhists share many similarities with Southeast Asian Buddhists, specifically Thai Buddhists and Burmese Buddhists due to traditional and cultural exchange.»?",
+    "options": [
+      "Buddhism in Sri Lanka",
+      "Mahinda",
+      "Establishment",
+      "Sri Lankan Buddhists"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Buddhism in Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Establishment"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Sri Lankan Buddhists"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lankan Buddhists",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lankan Buddhists». Full sentence: Sri Lankan Buddhists share many similarities with Southeast Asian Buddhists, specifically Thai Buddhists and Burmese Buddhists due to traditional and cultural exchange. (source_id=wiki_en_mahinda_buddhist_monk). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahinda_buddhist_monk",
+    "sourceIds": [
+      "wiki_en_mahinda_buddhist_monk"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahinda_buddhist_monk",
+        "passage": "Sri Lankan Buddhists share many similarities with Southeast Asian Buddhists, specifically Thai Buddhists and Burmese Buddhists due to traditional and cultural exchange."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «Sri Lanka is one of only five countries in the world with a Theravada Buddhist majority, and others are Thailand, Cambodia, Laos and Myanmar.»?",
+    "options": [
+      "Mahinda",
+      "Establishment",
+      "Sri Lanka",
+      "Buddhism in Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Establishment"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Buddhism in Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka is one of only five countries in the world with a Theravada Buddhist majority, and others are Thailand, Cambodia, Laos and Myanmar. (source_id=wiki_en_buddhism_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_buddhism_sri_lanka",
+    "sourceIds": [
+      "wiki_en_buddhism_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_buddhism_sri_lanka",
+        "passage": "Sri Lanka is one of only five countries in the world with a Theravada Buddhist majority, and others are Thailand, Cambodia, Laos and Myanmar."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «The Theravāda (\"Elders\") is a branch of the Vibhajjavāda (\"Doctrine of Analysis\", \"the analysts\") school, which was a division of the Sthāvira Nikāya, one of the Indian early Buddhist schools.»?",
+    "options": [
+      "Mahinda",
+      "Establishment",
+      "Elders",
+      "Buddhism in Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Establishment"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Elders"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Buddhism in Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Elders",
+    "explanation": "Source-grounded AI practice item. The passage supports «Elders». Full sentence: The Theravāda (\"Elders\") is a branch of the Vibhajjavāda (\"Doctrine of Analysis\", \"the analysts\") school, which was a division of the Sthāvira Nikāya, one of the Indian early Buddhist schools. (source_id=wiki_en_buddhism_in_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_buddhism_in_sri_lanka",
+    "sourceIds": [
+      "wiki_en_buddhism_in_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_buddhism_in_sri_lanka",
+        "passage": "The Theravāda (\"Elders\") is a branch of the Vibhajjavāda (\"Doctrine of Analysis\", \"the analysts\") school, which was a division of the Sthāvira Nikāya, one of the Indian early Buddhist schools."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «The Sthāviras had emerged from the first schism in the Buddhist community.»?",
+    "options": [
+      "Establishment",
+      "Buddhist",
+      "Buddhism in Sri Lanka",
+      "Mahinda"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Establishment"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Buddhist"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Buddhism in Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mahinda"
+      }
+    ],
+    "correctAnswerOrRubric": "Buddhist",
+    "explanation": "Source-grounded AI practice item. The passage supports «Buddhist». Full sentence: The Sthāviras had emerged from the first schism in the Buddhist community. (source_id=wiki_en_mahinda_buddhist_monk). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahinda_buddhist_monk",
+    "sourceIds": [
+      "wiki_en_mahinda_buddhist_monk"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahinda_buddhist_monk",
+        "passage": "The Sthāviras had emerged from the first schism in the Buddhist community."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Establishment and expansion of Buddhism: «Establishment and expansion of Buddhism can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Establishment and expansion of Buddhism. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_buddhism_sri_lanka",
+    "sourceIds": [
+      "wiki_en_buddhism_sri_lanka",
+      "wiki_en_buddhism_in_sri_lanka"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «Demons and spirits are also invoked during Exorcisms and rituals, which seem to be customs passed down from Pre-Buddhist indigenous times.»?",
+    "options": [
+      "Demons",
+      "Buddhism in Sri Lanka",
+      "Mahinda",
+      "Establishment"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Demons"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Buddhism in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Establishment"
+      }
+    ],
+    "correctAnswerOrRubric": "Demons",
+    "explanation": "Source-grounded AI practice item. The passage supports «Demons». Full sentence: Demons and spirits are also invoked during Exorcisms and rituals, which seem to be customs passed down from Pre-Buddhist indigenous times. (source_id=wiki_en_buddhism_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_buddhism_sri_lanka",
+    "sourceIds": [
+      "wiki_en_buddhism_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_buddhism_sri_lanka",
+        "passage": "Demons and spirits are also invoked during Exorcisms and rituals, which seem to be customs passed down from Pre-Buddhist indigenous times."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «== History ==\n\n\n\n\n\n=== Anuradhapura period (377 BC–1017) ===\n\nThe Theravāda (\"Elders\") is a branch of the Vibhajjavāda (\"Doctrine of Analysis\", \"the analysts\") school, which was a division of the Sthā…»?",
+    "options": [
+      "Mahinda",
+      "Establishment",
+      "History",
+      "Buddhism in Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Establishment"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "History"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Buddhism in Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "History",
+    "explanation": "Source-grounded AI practice item. The passage supports «History». Full sentence: == History ==\n\n\n\n\n\n=== Anuradhapura period (377 BC–1017) ===\n\nThe Theravāda (\"Elders\") is a branch of the Vibhajjavāda (\"Doctrine of Analysis\", \"the analysts\") school, which was a division of the Sthāvira Nikāya, one of the Indian early Buddhist schools. (source_id=wiki_en_buddhism_in_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_buddhism_in_sri_lanka",
+    "sourceIds": [
+      "wiki_en_buddhism_in_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_buddhism_in_sri_lanka",
+        "passage": "== History ==\n\n\n\n\n\n=== Anuradhapura period (377 BC–1017) ===\n\nThe Theravāda (\"Elders\") is a branch of the Vibhajjavāda (\"Doctrine of Analysis\", \"the analysts\") school, which was a division of the Sthāvira Nikāya, one of the Indian early Buddhist schools."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «There is no agreement among modern historians on the details and dating of this schism (even on if it was before or after the date of the emperor Ashoka: 304–232 BCE).»?",
+    "options": [
+      "There",
+      "Buddhism in Sri Lanka",
+      "Mahinda",
+      "Establishment"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "There"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Buddhism in Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Establishment"
+      }
+    ],
+    "correctAnswerOrRubric": "There",
+    "explanation": "Source-grounded AI practice item. The passage supports «There». Full sentence: There is no agreement among modern historians on the details and dating of this schism (even on if it was before or after the date of the emperor Ashoka: 304–232 BCE). (source_id=wiki_en_mahinda_buddhist_monk). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_mahinda_buddhist_monk",
+    "sourceIds": [
+      "wiki_en_mahinda_buddhist_monk"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_mahinda_buddhist_monk",
+        "passage": "There is no agreement among modern historians on the details and dating of this schism (even on if it was before or after the date of the emperor Ashoka: 304–232 BCE)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_sl_buddhism_q09",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_sl_buddhism",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Establishment and expansion of Buddhism, which term or name is supported by this passage: «It is notable that Ashokan inscriptions do not refer to this council or the schism.»?",
+    "options": [
+      "Buddhism in Sri Lanka",
+      "Mahinda",
+      "Establishment",
+      "Ashokan"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Buddhism in Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Mahinda"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Establishment"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Ashokan"
+      }
+    ],
+    "correctAnswerOrRubric": "Ashokan",
+    "explanation": "Source-grounded AI practice item. The passage supports «Ashokan». Full sentence: It is notable that Ashokan inscriptions do not refer to this council or the schism. (source_id=wiki_en_buddhism_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_buddhism_sri_lanka",
+    "sourceIds": [
+      "wiki_en_buddhism_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_buddhism_sri_lanka",
+        "passage": "It is notable that Ashokan inscriptions do not refer to this council or the schism."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

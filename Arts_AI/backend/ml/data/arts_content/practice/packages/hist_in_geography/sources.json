@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "wiki_en_geography_of_india",
+    "title": "Geography of India",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_India",
+    "retrieved_at_utc": "2026-10-14T17:23:23.994410+00:00",
+    "edition_or_revision": "pageid=14597",
+    "subject_id": "sub_history",
+    "topic_id": "hist_in_geography",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "876be8391dc757db6005f9d671e3cf0a2b737f82c87e28aa07948d05978840f8",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_indo_gangetic_plain",
+    "title": "Indo-Gangetic Plain",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Indo-Gangetic_Plain",
+    "retrieved_at_utc": "2026-10-14T17:23:25.443862+00:00",
+    "edition_or_revision": "pageid=459328",
+    "subject_id": "sub_history",
+    "topic_id": "hist_in_geography",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "c46e1a79d38a024bd3116d668315bd8285561e522df30f679451725463d5b49c",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "blocked_Deccan_Plateau",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  }
+]

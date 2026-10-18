@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_westminster_system",
+    "title": "Westminster system",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Westminster_system",
+    "retrieved_at_utc": "2026-10-14T17:31:35.651775+00:00",
+    "edition_or_revision": "pageid=33782",
+    "subject_id": "sub_political",
+    "topic_id": "pol_westminster",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "bd475c84df5ff3e0f2b84b90f286475cbf1c7f6a80005a52115b6d734ba0acd5",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_parliament_of_sri_lanka",
+    "title": "Parliament of Sri Lanka",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Parliament_of_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-14T17:31:36.778153+00:00",
+    "edition_or_revision": "pageid=571660",
+    "subject_id": "sub_political",
+    "topic_id": "pol_westminster",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "61e744a7daaddb83cc4eb70e7736a13e7aec9e611a3b2513a15a4a4df0708bc0",
+    "origin": "wikipedia_api"
+  }
+]

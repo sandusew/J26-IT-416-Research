@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "wiki_en_geography_sri_lanka",
+    "title": "Geography of Sri Lanka (Wikipedia extract)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-13T17:57:36.405884+00:00",
+    "edition_or_revision": "pageid=27412; acquired snapshot",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_basic_concepts",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "83db5d478f14629f758b6e9b425472a7f40f6d39dc4ed3469273b73b40108c8a",
+    "origin": "local_approved_or_pending"
+  },
+  {
+    "source_id": "blocked_Geography",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_human_geography",
+    "title": "Human geography",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Human_geography",
+    "retrieved_at_utc": "2026-10-14T17:25:04.819280+00:00",
+    "edition_or_revision": "pageid=13372",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_basic_concepts",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "193879442318eec3c2ad02c39c855c8039f0e8170aef299984db29bac58a7cf1",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_physical_geography",
+    "title": "Physical geography",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Physical_geography",
+    "retrieved_at_utc": "2026-10-14T17:25:06.155724+00:00",
+    "edition_or_revision": "pageid=23263",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_basic_concepts",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "d0a38e8dcc595b8d55685434bcea02f97fb2442fbc728e1dc13e784278f295eb",
+    "origin": "wikipedia_api"
+  }
+]

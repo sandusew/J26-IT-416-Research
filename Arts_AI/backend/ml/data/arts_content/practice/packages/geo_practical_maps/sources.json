@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_cartography",
+    "title": "Cartography",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Cartography",
+    "retrieved_at_utc": "2026-10-14T17:26:15.464001+00:00",
+    "edition_or_revision": "pageid=7294",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_practical_maps",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "965e6cb9c704bd4e1e45fd26b822da2bfe5c1efbd40af47a7e48e26bfcb6e1ca",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_map_projection",
+    "title": "Map projection",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Map_projection",
+    "retrieved_at_utc": "2026-10-14T17:26:16.895022+00:00",
+    "edition_or_revision": "pageid=51784",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_practical_maps",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "e7ae32bea17fd614b0d508c95d2e7bf4d8e4a2b6f56096629f19d3ce27ef4ca0",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_topographic_map",
+    "title": "Topographic map",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Topographic_map",
+    "retrieved_at_utc": "2026-10-14T17:26:18.013592+00:00",
+    "edition_or_revision": "pageid=70713",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_practical_maps",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "e4293675c28babce07ac399fb47ecbb74186561179dd3d6e9a162670a4db3687",
+    "origin": "wikipedia_api"
+  }
+]

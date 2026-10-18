@@ -1,0 +1,3 @@
+teacher_id,subject_id,topic_ids,proficiency_level,data_origin,generator_version,seed
+syn_t000,sub_history,"[""sub_history_t00"", ""sub_history_t01"", ""sub_history_t02""]",secondary,synthetic_operational,0.1.0,123
+syn_t001,sub_geography,"[""sub_geography_t00"", ""sub_geography_t01"", ""sub_geography_t02""]",secondary,synthetic_operational,0.1.0,123

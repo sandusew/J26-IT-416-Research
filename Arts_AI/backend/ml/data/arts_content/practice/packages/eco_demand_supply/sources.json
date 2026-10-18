@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_supply_demand",
+    "title": "Supply and demand (Wikipedia extract)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+    "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+    "edition_or_revision": "pageid=29664",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_demand_supply",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "c864c7c0cd0b41f49d5b1f8e9a67391e1281230b2fd023fa941bc428cadcbc33",
+    "origin": "local_approved_or_pending"
+  },
+  {
+    "source_id": "wiki_en_supply_and_demand",
+    "title": "Supply and demand",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+    "retrieved_at_utc": "2026-10-14T17:29:19.111108+00:00",
+    "edition_or_revision": "pageid=29664",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_demand_supply",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "adc2ab81d3f47e50922fe6d9fb618339a073480dae33a824648916d228e548ad",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_market_economics",
+    "title": "Market (economics)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Market_%28economics%29",
+    "retrieved_at_utc": "2026-10-14T17:29:20.610432+00:00",
+    "edition_or_revision": "pageid=3736784",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_demand_supply",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "8edb4e2803c877ab538c50e4f44187fbbfe9ab5f62cd8fee029ddf169088be30",
+    "origin": "wikipedia_api"
+  }
+]

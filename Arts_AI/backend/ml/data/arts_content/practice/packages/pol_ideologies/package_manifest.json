@@ -1,0 +1,151 @@
+{
+  "topic_id": "pol_ideologies",
+  "subject_id": "sub_political",
+  "topic_title": "Political ideologies",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "An ideology is a set of ideals, values, or beliefs that is attributed to a person or group of people, especially those held for reasons that are not purely about belief in certain knowledge, and in which \"practical elements are as prominent as theoretical ones\". It is related to, but distinct from, a worldview.\n\nAn ideologue is someone who strongly believes in an ideology. The term carries negative connotations, often referring to someone who is blindly partisan, zealous, or fanatical in their beliefs.",
+      "source_ids": [
+        "wiki_en_political_ideology"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Political_ideology"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "The term was coined by Antoine Destutt de Tracy, a French Enlightenment aristocrat and philosopher, who conceived it in 1796 as the \"science of ideas\" to develop a rational system of ideas. In political science, the term is used in a descriptive sense to refer to political belief systems.\n\nThe term ideology and the system of ideas associated with it were developed in 1796 by Antoine Destutt de Tracy (1754–1836), who crystallised his ideas while in prison (November 1793 to October 1794) pending trial during the Reign of Terror of c. 1793 to July 1794. While imprisoned he read the works of Locke and Étienne Bonnot de Condillac.",
+      "source_ids": [
+        "wiki_en_political_ideology"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Political_ideology"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "The term ideology originates from French idéologie, itself coined from combining Greek: idéā (ἰδέα, 'notion, pattern'; close to the Lockean sense of idea) and -logíā (-λογῐ́ᾱ, 'the study of'). It was coined in 1796 by the French thinker Destutt de Tracy, and the term \"ideology\" originally denoted the \"science of ideas\". By 1907, however, the term had acquired a new sense in English, referring to a comprehensive framework of beliefs and doctrines that serves as a lens for interpreting the world. Over time the sense of the term grew even broader, eventually coming to describe any coherent system of political, social, or cultural ideas.\n\nHoping to form a secure foundation for the moral and political sciences, Tracy devised the term for a \"science of ideas\", basing such upon two things: (1) the sensations that people experience as they interact with the material world; and (2) the ideas that form in their minds due to those sensations. Tracy conceived of ideology as a liberal philosophy that would defend individual liberty, property, free markets, and constitutional limits on state power. He argues that, among these aspects, ideology is the most generic term because the 'science of ideas' also contains the study of their expression and deduction.",
+      "source_ids": [
+        "wiki_en_liberalism"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Liberalism"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Political ideology",
+      "definition": "Political ideology: a key idea for Political ideologies (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_political_ideology"
+      ]
+    },
+    {
+      "term": "Liberalism",
+      "definition": "For example, in a feudal mode of production, religious ideology is the most prominent aspect of the superstructure, while in capitalist formations, ideologies such as liberalism and social democracy dominate.",
+      "source_ids": [
+        "wiki_en_political_ideology"
+      ]
+    },
+    {
+      "term": "Socialism",
+      "definition": "Before 1920, the main ideological opponents of liberalism were communism, conservatism, and socialism; liberalism then faced major ideological challenges from fascism and Marxism–Leninism.",
+      "source_ids": [
+        "wiki_en_political_ideology"
+      ]
+    },
+    {
+      "term": "Political",
+      "definition": "In political science, the term is used in a descriptive sense to refer to political belief systems.",
+      "source_ids": [
+        "wiki_en_political_ideology"
+      ]
+    },
+    {
+      "term": "ideologies",
+      "definition": "In parallel with post-Soviet Russian ideas about the mono-ideologies of (for example) monotheism, Walter Brueggemann (1933–2025) has examined \"ideological extension\" in historical religious/political contexts.",
+      "source_ids": [
+        "wiki_en_political_ideology"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_political_ideology",
+    "wiki_en_political_ideology",
+    "wiki_en_liberalism",
+    "wiki_en_socialism"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_political_ideology",
+      "title": "Political ideology (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Political_ideology",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=75469",
+      "subject_id": "sub_political",
+      "topic_id": "pol_ideologies",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "78c58cad967b17d5029570f3437feac7779b878e76912cad06c6e13ba1198dd7",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_political_ideology",
+      "title": "Ideology",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Political_ideology",
+      "retrieved_at_utc": "2026-10-14T17:27:11.667154+00:00",
+      "edition_or_revision": "pageid=75469",
+      "subject_id": "sub_political",
+      "topic_id": "pol_ideologies",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "a0671d7878c41cc3462e0138ebea0b4096db9d5367ff8feb5d6108187ef15905",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_liberalism",
+      "title": "Liberalism",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Liberalism",
+      "retrieved_at_utc": "2026-10-14T17:27:13.388509+00:00",
+      "edition_or_revision": "pageid=19280734",
+      "subject_id": "sub_political",
+      "topic_id": "pol_ideologies",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "908ffb1277f0845fca224e04580c75061e9362eded3f20d8c628f42164bbbff9",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_socialism",
+      "title": "Socialism",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Socialism",
+      "retrieved_at_utc": "2026-10-14T17:27:15.143798+00:00",
+      "edition_or_revision": "pageid=26847",
+      "subject_id": "sub_political",
+      "topic_id": "pol_ideologies",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "469c6f011c544906e0892d6fd624bfa461d9874a40f1a04f2aba3a6885e477a0",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "fd2b6c1b68fd7e422c7d67aa453d02813144166ae928f3b88d03929123acc0e6",
+  "authored_at_utc": "2026-10-14T17:27:15.769383+00:00"
+}

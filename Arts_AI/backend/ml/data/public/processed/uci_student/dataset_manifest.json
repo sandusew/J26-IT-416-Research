@@ -1,0 +1,25 @@
+{
+  "dataset_id": "uci_student_performance",
+  "name": "UCI Student Performance",
+  "data_category": "authentic_public",
+  "source_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip",
+  "license": "CC BY 4.0 (UCI)",
+  "schema_version": "0.1.0",
+  "local_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\uci_student\\extracted",
+  "checksum_sha256": "4f671ae4598c20bb4e64de0f65931c98a609a52e383604e2601bd8f7e3822427",
+  "archive_size_bytes": 20478,
+  "extracted_size_bytes": 153688,
+  "selected_sample_size": null,
+  "record_counts": {
+    "student-mat.csv": 395,
+    "student-por.csv": 649
+  },
+  "filters": {},
+  "domain": "secondary_education_portugal",
+  "intended_use": "Optional separate C3 benchmark; no weekly event histories",
+  "generator_version": null,
+  "seed": null,
+  "scenario_id": null,
+  "notes": "Does not contain detailed weekly VLE-style event histories.",
+  "created_at": "2026-10-13T02:47:43.222445+00:00"
+}

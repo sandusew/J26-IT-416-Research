@@ -1,0 +1,31 @@
+{
+    "status":  "insufficient_data",
+    "probability_fail":  null,
+    "policy_band":  null,
+    "reason":  "Observation completeness not asserted. Set observation.observation_window_complete=true for a full cutoff window, or feature_availability=complete with experimental_domain_transfer for transfer experiments. All-zero feature values alone do not imply observed inactivity.",
+    "required_feature_cols":  [
+                                  "total_clicks",
+                                  "active_days",
+                                  "click_regularity_cv",
+                                  "recency_last_active_day",
+                                  "prop_resource",
+                                  "prop_oucontent",
+                                  "prop_forumng",
+                                  "prop_quiz",
+                                  "prop_other",
+                                  "num_of_prev_attempts",
+                                  "studied_credits"
+                              ],
+    "model_version":  "c3_oulad_20261013T030421_2f6e0ea2",
+    "positive_class":  "Fail",
+    "observation":  {
+                        "observation_start_day":  null,
+                        "observation_end_day":  null,
+                        "required_cutoff_days":  13,
+                        "observation_window_complete":  null,
+                        "data_source":  null,
+                        "n_vle_events_in_window":  null,
+                        "feature_availability":  null
+                    },
+    "note":  "Not A/L exam-failure prediction; public OULAD Fail outcome only"
+}

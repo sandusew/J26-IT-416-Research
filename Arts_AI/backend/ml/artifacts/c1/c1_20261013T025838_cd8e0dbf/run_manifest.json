@@ -1,0 +1,145 @@
+{
+  "run_id": "c1_20261013T025838_cd8e0dbf",
+  "component": "c1",
+  "task": "oulad_behavioural_clustering",
+  "config_name": "c1_behaviour.yaml",
+  "config": {
+    "component": "c1_behaviour",
+    "task": "oulad_behavioural_clustering",
+    "seed": 42,
+    "observation_cutoff_days": 13,
+    "registration_window_note": "Cutoff is course-relative, distinct from days after application registration",
+    "exclude_outcomes": true,
+    "exclude_identifiers": true,
+    "handling": {
+      "late_registration": "separate_flag",
+      "withdrawal": "separate_cohort_label",
+      "no_activity": "insufficient_data_state"
+    },
+    "features": [
+      "total_clicks",
+      "active_days",
+      "click_regularity_cv",
+      "recency_last_active_day",
+      "prop_resource",
+      "prop_oucontent",
+      "prop_forumng",
+      "prop_quiz",
+      "prop_other"
+    ],
+    "kmeans": {
+      "k_range": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "n_init": 10,
+      "max_iter": 300
+    },
+    "selection_metric": "silhouette",
+    "validation_fraction": 0.2,
+    "test_fraction": 0.2,
+    "n_jobs": 2,
+    "digital_twin": {
+      "min_events_for_profile": 5,
+      "observation_windows_days": [
+        7,
+        14,
+        28
+      ],
+      "insufficient_data_state": "insufficient_data"
+    }
+  },
+  "data_hashes": {
+    "features": "f03a85cc65d93a91d0f172fd50be23f6aa409628eb6afeff407406bfe1e536bf"
+  },
+  "sample_counts": {
+    "train": 15829,
+    "validation": 5301,
+    "test": 5295
+  },
+  "feature_schema": [
+    "total_clicks",
+    "active_days",
+    "click_regularity_cv",
+    "recency_last_active_day",
+    "prop_resource",
+    "prop_oucontent",
+    "prop_forumng",
+    "prop_quiz",
+    "prop_other"
+  ],
+  "split_manifest_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c1\\c1_20261013T025838_cd8e0dbf\\split_manifest.json",
+  "seeds": {
+    "split": 42,
+    "kmeans": 42
+  },
+  "hyperparameters": {
+    "k": 6,
+    "k_range": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "dependency_versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1"
+  },
+  "metrics": {
+    "selected_k": 6,
+    "silhouette_train": 0.22566798867658258,
+    "silhouette_val": 0.225238066496906,
+    "silhouette_test": 0.2234629441516727,
+    "stability_ari_val": 0.9779509831670498,
+    "cluster_sizes_train": {
+      "0": 2912,
+      "1": 5170,
+      "2": 1566,
+      "3": 1001,
+      "4": 2403,
+      "5": 2777
+    },
+    "k_selection": [
+      {
+        "k": 3,
+        "silhouette_val": 0.22020447495777049
+      },
+      {
+        "k": 4,
+        "silhouette_val": 0.2219488036913254
+      },
+      {
+        "k": 5,
+        "silhouette_val": 0.21061323198778178
+      },
+      {
+        "k": 6,
+        "silhouette_val": 0.225238066496906
+      }
+    ],
+    "cohort": {
+      "n_all": 32593,
+      "n_eligible_activity": 26425,
+      "n_late_registration": 0,
+      "n_withdrawn": 10156,
+      "n_no_activity": 6168
+    },
+    "note": "Clustering — do not report classification accuracy"
+  },
+  "artifact_paths": {
+    "model": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c1\\c1_20261013T025838_cd8e0dbf\\kmeans_pipeline.joblib",
+    "chart": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c1\\c1_20261013T025838_cd8e0dbf\\cluster_selection.png",
+    "profiles": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c1\\c1_20261013T025838_cd8e0dbf\\cluster_profiles.png"
+  },
+  "artifact_hashes": {
+    "model": "757820da281143735f6eff9cc8ca8af184f39a32ce06391f12653375651658b0"
+  },
+  "model_card_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c1\\c1_20261013T025838_cd8e0dbf\\model_card.json",
+  "status": "completed",
+  "notes": null,
+  "created_at": "2026-10-13T02:59:15.012824+00:00"
+}

@@ -1,0 +1,133 @@
+{
+  "topic_id": "hist_sl_prehistoric",
+  "subject_id": "sub_history",
+  "topic_title": "Pre-historic and early settlements",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "The prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC.\n\nThe Stone Age had approximately existed from 125,000 years ago to 1800 BC minimum.",
+      "source_ids": [
+        "wiki_en_prehistory_sri_lanka"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "There is evidence of Paleolithic (Homo erectus) people in Sri Lanka from about 300,000 BP and possibly even as early as 500,000 BP. There is strong evidence of prehistoric settlements in Sri Lanka by about 125,000 BP. Evidence of a transition between the Mesolithic and the Iron Age is scant.\n\nFindings at Iranamadu indicate that there were Paleolithic people in Sri Lanka as early as 300,000 BP. There is definite evidence of settlements by prehistoric people in Sri Lanka by about 125,000 BP. These people made tools of quartz and chert which are assignable to the Middle Palaeolithic period. The inhabitants could be found in 8 main areas in the land of Sri Lanka. They were namely,",
+      "source_ids": [
+        "wiki_en_prehistory_of_sri_lanka"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Fluctuations in sea level led to Sri Lanka being linked to the Indian subcontinent from time to time over the past million years. The last such link occurred about 5000 BC.\n\nThe island appears to have been colonized by the Balangoda Man (named after the area where his remains were discovered) prior to 34,000 BP. They have been identified as a group of Mesolithic hunter-gatherers who lived in caves. Fa Hien Cave has yielded the earliest evidence (at c. 34,000 BP) of anatomically modern humans in South Asia.",
+      "source_ids": [
+        "wiki_en_balangoda_man"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Balangoda_Man"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Prehistory of Sri Lanka",
+      "definition": "The prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC.",
+      "source_ids": [
+        "wiki_en_prehistory_sri_lanka"
+      ]
+    },
+    {
+      "term": "Balangoda Man",
+      "definition": "The Balangoda Man appears to have been responsible for creating Horton Plains, in the central hills, by burning the trees in order to catch game.",
+      "source_ids": [
+        "wiki_en_prehistory_sri_lanka"
+      ]
+    },
+    {
+      "term": "Pre-historic",
+      "definition": "Pre-historic: a key idea for Pre-historic and early settlements (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_prehistory_sri_lanka"
+      ]
+    },
+    {
+      "term": "early",
+      "definition": "The prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC.",
+      "source_ids": [
+        "wiki_en_prehistory_sri_lanka"
+      ]
+    },
+    {
+      "term": "settlements",
+      "definition": "There is strong evidence of prehistoric settlements in Sri Lanka by about 125,000 BP.",
+      "source_ids": [
+        "wiki_en_prehistory_sri_lanka"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_prehistory_sri_lanka",
+    "wiki_en_prehistory_of_sri_lanka",
+    "wiki_en_balangoda_man"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_prehistory_sri_lanka",
+      "title": "Prehistory of Sri Lanka (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=18779594",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_prehistoric",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "967179b08c07f42617308d3a0cc775014c21bd4f3202090af7bd23abb810600f",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_prehistory_of_sri_lanka",
+      "title": "Prehistory of Sri Lanka",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka",
+      "retrieved_at_utc": "2026-10-14T17:19:55.466415+00:00",
+      "edition_or_revision": "pageid=18779594",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_prehistoric",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "0ff3bc208a1a415d30f64f14faada483ebf87ea848acc69926d33f3fec3e6334",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_balangoda_man",
+      "title": "Balangoda Man",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Balangoda_Man",
+      "retrieved_at_utc": "2026-10-14T17:19:56.720586+00:00",
+      "edition_or_revision": "pageid=18161865",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_prehistoric",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "d74c29de4acfa77737f369b656269416f4c2277091eaff5bc68b71903b367b7e",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "b187edc956122861a1e9d46e95a05081528311b2ad882a2170a8462615b8cba6",
+  "authored_at_utc": "2026-10-14T17:22:23.602077+00:00"
+}

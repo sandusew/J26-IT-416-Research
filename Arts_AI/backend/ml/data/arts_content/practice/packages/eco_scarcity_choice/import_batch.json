@@ -1,0 +1,752 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_eco_scarcity_choice_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Opportunity cost",
+        "Production–possibility frontier",
+        "Explanations",
+        "Scarcity"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Opportunity cost"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Production–possibility frontier"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Scarcity"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_opportunity_cost). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_opportunity_cost",
+      "sourceIds": [
+        "wiki_en_opportunity_cost"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_opportunity_cost",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alte…»?",
+      "options": [
+        "Production–possibility frontier",
+        "opportunity",
+        "Scarcity",
+        "Opportunity cost"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Production–possibility frontier"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "opportunity"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Scarcity"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Opportunity cost"
+        }
+      ],
+      "correctAnswerOrRubric": "opportunity",
+      "explanation": "Source-grounded AI practice item. The passage supports «opportunity». Full sentence: In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives. (source_id=wiki_en_production_possibility_frontier). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_production_possibility_frontier",
+      "sourceIds": [
+        "wiki_en_production_possibility_frontier"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_production_possibility_frontier",
+          "passage": "In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «Assuming the best choice is made, it is the \"cost\" incurred by not enjoying the benefit that would have been had if the second best available choice had been taken instead.»?",
+      "options": [
+        "Assuming",
+        "Scarcity",
+        "Opportunity cost",
+        "Production–possibility frontier"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Assuming"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Scarcity"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Opportunity cost"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Production–possibility frontier"
+        }
+      ],
+      "correctAnswerOrRubric": "Assuming",
+      "explanation": "Source-grounded AI practice item. The passage supports «Assuming». Full sentence: Assuming the best choice is made, it is the \"cost\" incurred by not enjoying the benefit that would have been had if the second best available choice had been taken instead. (source_id=wiki_en_opportunity_cost). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_opportunity_cost",
+      "sourceIds": [
+        "wiki_en_opportunity_cost"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_opportunity_cost",
+          "passage": "Assuming the best choice is made, it is the \"cost\" incurred by not enjoying the benefit that would have been had if the second best available choice had been taken instead."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «The New Oxford American Dictionary defines it as \"the loss of potential gain from other alternatives when one alternative is chosen\".»?",
+      "options": [
+        "Scarcity",
+        "Opportunity cost",
+        "Production–possibility frontier",
+        "Dictionary"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Scarcity"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Opportunity cost"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Production–possibility frontier"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Dictionary"
+        }
+      ],
+      "correctAnswerOrRubric": "Dictionary",
+      "explanation": "Source-grounded AI practice item. The passage supports «Dictionary». Full sentence: The New Oxford American Dictionary defines it as \"the loss of potential gain from other alternatives when one alternative is chosen\". (source_id=wiki_en_scarcity). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_scarcity",
+      "sourceIds": [
+        "wiki_en_scarcity"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_scarcity",
+          "passage": "The New Oxford American Dictionary defines it as \"the loss of potential gain from other alternatives when one alternative is chosen\"."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «As a representation of the relationship between scarcity and choice, the objective of opportunity cost is to ensure efficient use of scarce resources.»?",
+      "options": [
+        "Opportunity cost",
+        "Production–possibility frontier",
+        "between",
+        "Scarcity"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Opportunity cost"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Production–possibility frontier"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "between"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Scarcity"
+        }
+      ],
+      "correctAnswerOrRubric": "between",
+      "explanation": "Source-grounded AI practice item. The passage supports «between». Full sentence: As a representation of the relationship between scarcity and choice, the objective of opportunity cost is to ensure efficient use of scarce resources. (source_id=wiki_en_opportunity_cost). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_opportunity_cost",
+      "sourceIds": [
+        "wiki_en_opportunity_cost"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_opportunity_cost",
+          "passage": "As a representation of the relationship between scarcity and choice, the objective of opportunity cost is to ensure efficient use of scarce resources."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «It incorporates all associated costs of a decision, both explicit and implicit.»?",
+      "options": [
+        "Production–possibility frontier",
+        "costs",
+        "Scarcity",
+        "Opportunity cost"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Production–possibility frontier"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "costs"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Scarcity"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Opportunity cost"
+        }
+      ],
+      "correctAnswerOrRubric": "costs",
+      "explanation": "Source-grounded AI practice item. The passage supports «costs». Full sentence: It incorporates all associated costs of a decision, both explicit and implicit. (source_id=wiki_en_production_possibility_frontier). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_production_possibility_frontier",
+      "sourceIds": [
+        "wiki_en_production_possibility_frontier"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_production_possibility_frontier",
+          "passage": "It incorporates all associated costs of a decision, both explicit and implicit."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Scarcity, choice and opportunity cost: «Scarcity, choice and opportunity cost is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Scarcity, choice and opportunity cost. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_opportunity_cost",
+      "sourceIds": [
+        "wiki_en_opportunity_cost",
+        "wiki_en_scarcity"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Scarcity, choice and opportunity cost: «Scarcity, choice and opportunity cost can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Scarcity, choice and opportunity cost. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_opportunity_cost",
+      "sourceIds": [
+        "wiki_en_opportunity_cost",
+        "wiki_en_scarcity"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Scarcity, choice and opportunity cost: «Listing names alone demonstrates understanding of Scarcity, choice and opportunity cost» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Scarcity, choice and opportunity cost. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_opportunity_cost",
+      "sourceIds": [
+        "wiki_en_opportunity_cost",
+        "wiki_en_scarcity"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «It derives from the political and economic thought of Malthus, as laid out in his 1798 writings, An Essay on the Principle of Population.»?",
+      "options": [
+        "Malthus",
+        "Scarcity",
+        "Opportunity cost",
+        "Production–possibility frontier"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Malthus"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Scarcity"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Opportunity cost"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Production–possibility frontier"
+        }
+      ],
+      "correctAnswerOrRubric": "Malthus",
+      "explanation": "Source-grounded AI practice item. The passage supports «Malthus». Full sentence: It derives from the political and economic thought of Malthus, as laid out in his 1798 writings, An Essay on the Principle of Population. (source_id=wiki_en_opportunity_cost). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_opportunity_cost",
+      "sourceIds": [
+        "wiki_en_opportunity_cost"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_opportunity_cost",
+          "passage": "It derives from the political and economic thought of Malthus, as laid out in his 1798 writings, An Essay on the Principle of Population."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «positive checks, such as disease, starvation, and war, which lead to high rates of premature death — resulting in what is termed a Malthusian catastrophe.»?",
+      "options": [
+        "Scarcity",
+        "Opportunity cost",
+        "Production–possibility frontier",
+        "Malthusian"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Scarcity"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Opportunity cost"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Production–possibility frontier"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Malthusian"
+        }
+      ],
+      "correctAnswerOrRubric": "Malthusian",
+      "explanation": "Source-grounded AI practice item. The passage supports «Malthusian». Full sentence: positive checks, such as disease, starvation, and war, which lead to high rates of premature death — resulting in what is termed a Malthusian catastrophe. (source_id=wiki_en_scarcity). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_scarcity",
+      "sourceIds": [
+        "wiki_en_scarcity"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_scarcity",
+          "passage": "positive checks, such as disease, starvation, and war, which lead to high rates of premature death — resulting in what is termed a Malthusian catastrophe."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q12",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_scarcity_choice",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Scarcity, choice and opportunity cost, which term or name is supported by this passage: «(In reality, the situation would be significantly more nuanced due to complex regional and individual disparities around access to food, water, and other resources.) Positive checks by their nature ar…»?",
+      "options": [
+        "Opportunity cost",
+        "Production–possibility frontier",
+        "Positive",
+        "Scarcity"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Opportunity cost"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Production–possibility frontier"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Positive"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Scarcity"
+        }
+      ],
+      "correctAnswerOrRubric": "Positive",
+      "explanation": "Source-grounded AI practice item. The passage supports «Positive». Full sentence: (In reality, the situation would be significantly more nuanced due to complex regional and individual disparities around access to food, water, and other resources.) Positive checks by their nature are more \"extreme and involuntary by nature\". (source_id=wiki_en_opportunity_cost). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_opportunity_cost",
+      "sourceIds": [
+        "wiki_en_opportunity_cost"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_opportunity_cost",
+          "passage": "(In reality, the situation would be significantly more nuanced due to complex regional and individual disparities around access to food, water, and other resources.) Positive checks by their nature are more \"extreme and involuntary by nature\"."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_eco_scarcity_choice_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicIds": [
+        "eco_scarcity_choice"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Scarcity, choice and opportunity cost — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Opportunity_cost",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_opportunity_cost",
+        "wiki_en_scarcity",
+        "wiki_en_opportunity_cost",
+        "wiki_en_production_possibility_frontier"
+      ],
+      "bodyText": "# Scarcity, choice and opportunity cost\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Scarcity, choice and opportunity cost」 (eco_scarcity_choice) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nIn microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives. Assuming the best choice is made, it is the \"cost\" incurred by not enjoying the benefit that would have been had if the second best available choice had been taken instead. The New Oxford American Dictionary defines it as \"the loss of potential gain from other alternatives when one alternative is chosen\". As a representation of the relationship between scarcity and choice, the objective of opportunity cost is to ensure efficient use of scarce resources. It incorporates all associated costs of a decision, both explicit and implicit. Thus, opportunity costs are not restricted to monetary or financial costs: the real cost of output forgone, lost time, pleasure, or any other benefit th\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Scarcity, choice and opportunity cost\n- [inferred_not_official] Explain core ideas of Scarcity, choice and opportunity cost\n- [inferred_not_official] Apply concepts from Scarcity, choice and opportunity cost using cited public sources\n\n## Core concepts and definitions\nIn microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives. Assuming the best choice is made, it is the \"cost\" incurred by not enjoying the benefit that would have been had if the second best available choice had been taken instead. The New Oxford American Dictionary defines it as \"the loss of potential gain from other alternatives when one alternative is chosen\". As a representation of the relationship between scarcity and choice, the objective of opportunity cost is to ensure efficient use of scarce resources. It incorporates all associated costs of a decision, both explicit and implicit. Thus, opportunity costs are not restricted to monetary or financial costs: the real cost of output forgone, lost time, pleasure, or any other benefit that provides utility should also be considered an opportunity cost.\n\nIf a company's printer malfunctions, then the explicit costs for the company equates to the total amount to be paid to the repair technician.\n(Source: https://en.wikipedia.org/wiki/Opportunity_cost)\n\n## Historical or systematic development\nExplicit costs are the direct costs of an action (business operating costs or expenses), executed through either a cash transaction or a physical transfer of resources. In other words, explicit opportunity costs are the out-of-pocket costs of a firm, that are easily identifiable. This means explicit costs will always have a dollar value and involve a transfer of money, e.g. paying employees. With this said, these particular costs can easily be identified under the expenses of a firm's income statement and balance sheet to represent all the cash outflows of a firm.\n\nImplicit costs (also referred to as implied, imputed or notional costs) are the opportunity costs of utilising resources owned by the firm that could be used for other purposes. These costs are often hidden to the naked eye and are not made known. Unlike explicit costs, implicit opportunity costs correspond to intangibles. Hence, they cannot be clearly identified, defined or reported. This means that they are costs that have already occurred within a project, without exchanging cash. This could include a small business owner not taking any salary in the beginning of their tenure as a way for the business to be more profitable. As implicit costs are the result of assets, they are also not recorded for the use of accounting purposes because they do not represent any monetary losses or gains. In terms of factors of production, implicit opportunity costs allow for depreciation of goods, materials and equipment that ensure the operations of a company.\n(Source: https://en.wikipedia.org/wiki/Scarcity)\n\n## Applications, evidence, and Sri Lankan / comparative context\nIf a person leaves work for an hour and spends $200 on office supplies, then the explicit costs for the individual equates to the total expenses for the office supplies of $200.\n\nExamples of implicit costs regarding production are mainly resources contributed by a business owner. These include:\n(Source: https://en.wikipedia.org/wiki/Opportunity_cost)\n\n## Key terms\n- **Scarcity**: As a representation of the relationship between scarcity and choice, the objective of opportunity cost is to ensure efficient use of scarce resources.\n- **Opportunity cost**: In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives.\n- **Production–possibility frontier**: Production–possibility frontier: a key idea for Scarcity, choice and opportunity cost (see cited sources; AI-authored gloss).\n- **Scarcity,**: There are two types of scarcity, relative and absolute scarcity.\n- **choice**: In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives.\n- **opportunity**: In microeconomic theory, the opportunity cost of a choice is the value of the best alternative forgone where, given limited resources, a choice needs to be made between several mutually exclusive alternatives.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Scarcity, choice and opportunity cost, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Scarcity, choice and opportunity cost can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Scarcity, choice and opportunity cost\n- Scarcity, choice and opportunity cost is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_opportunity_cost: Opportunity cost (Wikipedia extract) — https://en.wikipedia.org/wiki/Opportunity_cost (licence CC-BY-SA-4.0; retrieved 2026-10-14T00:18:56.370952+00:00; checksum e9a9cea1b8b8…)\n- wiki_en_scarcity: Scarcity — https://en.wikipedia.org/wiki/Scarcity (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:14.320562+00:00; checksum c97c2e0cdf24…)\n- wiki_en_opportunity_cost: Opportunity cost — https://en.wikipedia.org/wiki/Opportunity_cost (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:15.752154+00:00; checksum 6b50c5186012…)\n- wiki_en_production_possibility_frontier: Production–possibility frontier — https://en.wikipedia.org/wiki/Production%E2%80%93possibility_frontier (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:17.178845+00:00; checksum 2a64c9410010…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:43.228644+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "wiki_en_conflict_resolution",
+    "title": "Conflict resolution",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Conflict_resolution",
+    "retrieved_at_utc": "2026-10-14T17:27:16.711467+00:00",
+    "edition_or_revision": "pageid=412676",
+    "subject_id": "sub_political",
+    "topic_id": "pol_conflict",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "70ccad0d579363c5281e5c2ae6fc00293331f41e8ad9f484b2961748921a5b43",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_peacebuilding",
+    "title": "Peacebuilding",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Peacebuilding",
+    "retrieved_at_utc": "2026-10-14T17:27:18.551201+00:00",
+    "edition_or_revision": "pageid=6241951",
+    "subject_id": "sub_political",
+    "topic_id": "pol_conflict",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "2133de8b0ddf47d72d9de72acf425ab8937cf746acda5a30f2208ad66153030d",
+    "origin": "wikipedia_api"
+  }
+]

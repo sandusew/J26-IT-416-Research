@@ -1,0 +1,732 @@
+[
+  {
+    "questionId": "prac_pol_westminster_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Parliament of Sri Lanka",
+      "Westminster",
+      "Explanations",
+      "Westminster system"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Westminster system"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_westminster_system). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_westminster_system",
+    "sourceIds": [
+      "wiki_en_westminster_system"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_westminster_system",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_westminster_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «The Westminster system, or Westminster model, is a type of parliamentary government found in, and elsewhere derived from, the Parliament of the United Kingdom.»?",
+    "options": [
+      "model",
+      "Westminster",
+      "Westminster system",
+      "Parliament of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "model"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Westminster system"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Parliament of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Westminster",
+    "explanation": "Source-grounded AI practice item. The passage supports «Westminster». Full sentence: The Westminster system, or Westminster model, is a type of parliamentary government found in, and elsewhere derived from, the Parliament of the United Kingdom. (source_id=wiki_en_parliament_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_parliament_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_parliament_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_parliament_of_sri_lanka",
+        "passage": "The Westminster system, or Westminster model, is a type of parliamentary government found in, and elsewhere derived from, the Parliament of the United Kingdom."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_westminster_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «Key aspects of the system include an executive branch made up of members of the legislature which is responsible to the legislature, the presence of parliamentary opposition parties, and a ceremonial …»?",
+    "options": [
+      "include",
+      "Westminster system",
+      "Parliament of Sri Lanka",
+      "Westminster"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "include"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Westminster system"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Westminster"
+      }
+    ],
+    "correctAnswerOrRubric": "include",
+    "explanation": "Source-grounded AI practice item. The passage supports «include». Full sentence: Key aspects of the system include an executive branch made up of members of the legislature which is responsible to the legislature, the presence of parliamentary opposition parties, and a ceremonial head of state who is separate from the head of government. (source_id=wiki_en_westminster_system). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_westminster_system",
+    "sourceIds": [
+      "wiki_en_westminster_system"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_westminster_system",
+        "passage": "Key aspects of the system include an executive branch made up of members of the legislature which is responsible to the legislature, the presence of parliamentary opposition parties, and a ceremonial head of state who is separate from the head of government."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_westminster_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «The term derives from the Palace of Westminster, the seat of the British parliament.»?",
+    "options": [
+      "Westminster system",
+      "Parliament of Sri Lanka",
+      "Westminster",
+      "Palace"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Westminster system"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Palace"
+      }
+    ],
+    "correctAnswerOrRubric": "Palace",
+    "explanation": "Source-grounded AI practice item. The passage supports «Palace». Full sentence: The term derives from the Palace of Westminster, the seat of the British parliament. (source_id=wiki_en_parliament_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_parliament_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_parliament_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_parliament_of_sri_lanka",
+        "passage": "The term derives from the Palace of Westminster, the seat of the British parliament."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_westminster_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «The Westminster system can be contrasted with the presidential system, which originated in the United States, and with the semi-presidential system based on the government of France.»?",
+    "options": [
+      "Parliament of Sri Lanka",
+      "Westminster",
+      "United States",
+      "Westminster system"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "United States"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Westminster system"
+      }
+    ],
+    "correctAnswerOrRubric": "United States",
+    "explanation": "Source-grounded AI practice item. The passage supports «United States». Full sentence: The Westminster system can be contrasted with the presidential system, which originated in the United States, and with the semi-presidential system based on the government of France. (source_id=wiki_en_westminster_system). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_westminster_system",
+    "sourceIds": [
+      "wiki_en_westminster_system"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_westminster_system",
+        "passage": "The Westminster system can be contrasted with the presidential system, which originated in the United States, and with the semi-presidential system based on the government of France."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_westminster_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «The Westminster system is used, or was once used, in the national and subnational legislatures of most former colonies of the British Empire upon gaining self-government, beginning with the Province o…»?",
+    "options": [
+      "Parliament of Sri Lanka",
+      "Westminster",
+      "British Empire",
+      "Westminster system"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "British Empire"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Westminster system"
+      }
+    ],
+    "correctAnswerOrRubric": "British Empire",
+    "explanation": "Source-grounded AI practice item. The passage supports «British Empire». Full sentence: The Westminster system is used, or was once used, in the national and subnational legislatures of most former colonies of the British Empire upon gaining self-government, beginning with the Province of Canada in 1848. (source_id=wiki_en_westminster_system). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_westminster_system",
+    "sourceIds": [
+      "wiki_en_westminster_system"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_westminster_system",
+        "passage": "The Westminster system is used, or was once used, in the national and subnational legislatures of most former colonies of the British Empire upon gaining self-government, beginning with the Province of Canada in 1848."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_westminster_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «However, many former colonies have since adopted other forms of government.»?",
+    "options": [
+      "Westminster",
+      "However",
+      "Westminster system",
+      "Parliament of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "However"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Westminster system"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Parliament of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "However",
+    "explanation": "Source-grounded AI practice item. The passage supports «However». Full sentence: However, many former colonies have since adopted other forms of government. (source_id=wiki_en_parliament_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_parliament_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_parliament_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_parliament_of_sri_lanka",
+        "passage": "However, many former colonies have since adopted other forms of government."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_westminster_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Westminster model in Sri Lanka and changes: «Westminster model in Sri Lanka and changes can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Westminster model in Sri Lanka and changes. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_westminster_system",
+    "sourceIds": [
+      "wiki_en_westminster_system",
+      "wiki_en_parliament_of_sri_lanka"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_westminster_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «== Powers ==\nFollowing the Westminster model, all legislation in Sri Lanka must be passed by the Parliament to become law and it controls taxation and the supply of money to the government.»?",
+    "options": [
+      "Powers",
+      "Westminster system",
+      "Parliament of Sri Lanka",
+      "Westminster"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Powers"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Westminster system"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Westminster"
+      }
+    ],
+    "correctAnswerOrRubric": "Powers",
+    "explanation": "Source-grounded AI practice item. The passage supports «Powers». Full sentence: == Powers ==\nFollowing the Westminster model, all legislation in Sri Lanka must be passed by the Parliament to become law and it controls taxation and the supply of money to the government. (source_id=wiki_en_westminster_system). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_westminster_system",
+    "sourceIds": [
+      "wiki_en_westminster_system"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_westminster_system",
+        "passage": "== Powers ==\nFollowing the Westminster model, all legislation in Sri Lanka must be passed by the Parliament to become law and it controls taxation and the supply of money to the government."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_westminster_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «Parliament's ability to make laws, includes those that have retrospective effect and repealing or amending any provision of the Constitution, or adding any provision to the Constitution.»?",
+    "options": [
+      "Westminster system",
+      "Parliament of Sri Lanka",
+      "Westminster",
+      "Parliament"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Westminster system"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Parliament"
+      }
+    ],
+    "correctAnswerOrRubric": "Parliament",
+    "explanation": "Source-grounded AI practice item. The passage supports «Parliament». Full sentence: Parliament's ability to make laws, includes those that have retrospective effect and repealing or amending any provision of the Constitution, or adding any provision to the Constitution. (source_id=wiki_en_parliament_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_parliament_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_parliament_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_parliament_of_sri_lanka",
+        "passage": "Parliament's ability to make laws, includes those that have retrospective effect and repealing or amending any provision of the Constitution, or adding any provision to the Constitution."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_westminster_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «Government ministers must regularly answer questions in Parliament and there are a number of select committees which scrutinise particular issues and the workings of the government.»?",
+    "options": [
+      "Parliament of Sri Lanka",
+      "Westminster",
+      "Government",
+      "Westminster system"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Government"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Westminster system"
+      }
+    ],
+    "correctAnswerOrRubric": "Government",
+    "explanation": "Source-grounded AI practice item. The passage supports «Government». Full sentence: Government ministers must regularly answer questions in Parliament and there are a number of select committees which scrutinise particular issues and the workings of the government. (source_id=wiki_en_westminster_system). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_westminster_system",
+    "sourceIds": [
+      "wiki_en_westminster_system"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_westminster_system",
+        "passage": "Government ministers must regularly answer questions in Parliament and there are a number of select committees which scrutinise particular issues and the workings of the government."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_westminster_q09",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_westminster",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Westminster model in Sri Lanka and changes, which term or name is supported by this passage: «== History ==\n\nThe first legislature established in Ceylon was the Executive Council and the legislative council, which were established on 13 March 1833, according to the recommendations of the Coleb…»?",
+    "options": [
+      "Westminster system",
+      "Parliament of Sri Lanka",
+      "Westminster",
+      "History"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Westminster system"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Parliament of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Westminster"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "History"
+      }
+    ],
+    "correctAnswerOrRubric": "History",
+    "explanation": "Source-grounded AI practice item. The passage supports «History». Full sentence: == History ==\n\nThe first legislature established in Ceylon was the Executive Council and the legislative council, which were established on 13 March 1833, according to the recommendations of the Colebrook-Cameron commission. (source_id=wiki_en_parliament_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_parliament_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_parliament_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_parliament_of_sri_lanka",
+        "passage": "== History ==\n\nThe first legislature established in Ceylon was the Executive Council and the legislative council, which were established on 13 March 1833, according to the recommendations of the Colebrook-Cameron commission."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

@@ -1,0 +1,43 @@
+oulad:
+  dataset_id: oulad
+  name: Open University Learning Analytics Dataset
+  data_category: authentic_public
+  primary_url: "https://analyse.kmi.open.ac.uk/open-dataset/download"
+  mirror_url: "https://archive.ics.uci.edu/static/public/349/open+university+learning+analytics+dataset.zip"
+  license: "CC BY 4.0 (per Open University / UCI documentation)"
+  intended_use: "C1 behavioural clustering; C3 academic risk classification"
+  observation_cutoff_days: 13  # course-relative days 0–13 inclusive; NOT days since registration
+  behaviour_features:
+    - total_clicks
+    - active_days
+    - regularity
+    - recency
+    - resource_type_proportions
+
+ednet:
+  dataset_id: ednet_kt1_subset
+  name: EdNet KT1 student-level subset
+  data_category: authentic_public
+  source_url: "https://github.com/riiid/ednet"
+  license: "CC BY-NC-SA 4.0 (EdNet)"
+  intended_use: "C2 next-answer correctness modelling (public track)"
+  max_students: 200
+  min_interactions_per_student: 50
+  notes: "Deterministic student-level subset; complete histories retained for selected students"
+
+uci_student_performance:
+  dataset_id: uci_student_performance
+  name: UCI Student Performance
+  data_category: authentic_public
+  source_url: "https://archive.ics.uci.edu/static/public/320/student.zip"
+  license: "CC BY 4.0 (UCI)"
+  intended_use: "Optional separate C3 benchmark (no weekly event histories)"
+  enabled: true
+
+squad:
+  enabled: false
+  reason: "Optional QA benchmark not required for Arts knowledge base; skip large download"
+
+arts_simulation:
+  config: synthetic_arts.yaml
+  data_category: synthetic_learner

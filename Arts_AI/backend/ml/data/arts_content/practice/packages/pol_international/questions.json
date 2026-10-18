@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_pol_international_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement",
+      "Explanations",
+      "International relations"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "International relations"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_foreign_relations_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_foreign_relations_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_foreign_relations_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_foreign_relations_of_sri_lanka",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «Sri Lanka is a unitary multi-party semi-presidential representative democratic republic, whereby the President of Sri Lanka is both head of state and head of government.»?",
+    "options": [
+      "Non-Aligned Movement",
+      "Sri Lanka",
+      "International relations",
+      "Foreign relations of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "International relations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Foreign relations of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Sri Lanka",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka is a unitary multi-party semi-presidential representative democratic republic, whereby the President of Sri Lanka is both head of state and head of government. (source_id=wiki_en_non_aligned_movement). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_non_aligned_movement",
+    "sourceIds": [
+      "wiki_en_non_aligned_movement"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_non_aligned_movement",
+        "passage": "Sri Lanka is a unitary multi-party semi-presidential representative democratic republic, whereby the President of Sri Lanka is both head of state and head of government."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «Executive power is exercised by the President on the advice of the Prime Minister and the Cabinet of Ministers.»?",
+    "options": [
+      "Executive",
+      "International relations",
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Executive"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "International relations"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Non-Aligned Movement"
+      }
+    ],
+    "correctAnswerOrRubric": "Executive",
+    "explanation": "Source-grounded AI practice item. The passage supports «Executive». Full sentence: Executive power is exercised by the President on the advice of the Prime Minister and the Cabinet of Ministers. (source_id=wiki_en_politics_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics_sri_lanka",
+    "sourceIds": [
+      "wiki_en_politics_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics_sri_lanka",
+        "passage": "Executive power is exercised by the President on the advice of the Prime Minister and the Cabinet of Ministers."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «The president appoints and heads a cabinet of ministers responsible to Parliament.»?",
+    "options": [
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement",
+      "Parliament",
+      "International relations"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Parliament"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "International relations"
+      }
+    ],
+    "correctAnswerOrRubric": "Parliament",
+    "explanation": "Source-grounded AI practice item. The passage supports «Parliament». Full sentence: The president appoints and heads a cabinet of ministers responsible to Parliament. (source_id=wiki_en_foreign_relations_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_foreign_relations_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_foreign_relations_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_foreign_relations_of_sri_lanka",
+        "passage": "The president appoints and heads a cabinet of ministers responsible to Parliament."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «The president's deputy is the prime minister, who leads the ruling party in Parliament.»?",
+    "options": [
+      "Non-Aligned Movement",
+      "Parliament",
+      "International relations",
+      "Foreign relations of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Parliament"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "International relations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Foreign relations of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Parliament",
+    "explanation": "Source-grounded AI practice item. The passage supports «Parliament». Full sentence: The president's deputy is the prime minister, who leads the ruling party in Parliament. (source_id=wiki_en_non_aligned_movement). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_non_aligned_movement",
+    "sourceIds": [
+      "wiki_en_non_aligned_movement"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_non_aligned_movement",
+        "passage": "The president's deputy is the prime minister, who leads the ruling party in Parliament."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «A parliamentary no-confidence vote requires dissolution of the cabinet and the appointment of a new one by the President.»?",
+    "options": [
+      "President",
+      "International relations",
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "President"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "International relations"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Non-Aligned Movement"
+      }
+    ],
+    "correctAnswerOrRubric": "President",
+    "explanation": "Source-grounded AI practice item. The passage supports «President». Full sentence: A parliamentary no-confidence vote requires dissolution of the cabinet and the appointment of a new one by the President. (source_id=wiki_en_politics_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics_sri_lanka",
+    "sourceIds": [
+      "wiki_en_politics_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics_sri_lanka",
+        "passage": "A parliamentary no-confidence vote requires dissolution of the cabinet and the appointment of a new one by the President."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «Other notable parties include the Sri Lanka Podujana Peramuna, the Ilankai Tamil Arasu Kachchi, and the Sri Lanka Muslim Congress.»?",
+    "options": [
+      "International relations",
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement",
+      "Other"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "International relations"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Other"
+      }
+    ],
+    "correctAnswerOrRubric": "Other",
+    "explanation": "Source-grounded AI practice item. The passage supports «Other». Full sentence: Other notable parties include the Sri Lanka Podujana Peramuna, the Ilankai Tamil Arasu Kachchi, and the Sri Lanka Muslim Congress. (source_id=wiki_en_international_relations). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_international_relations",
+    "sourceIds": [
+      "wiki_en_international_relations"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_international_relations",
+        "passage": "Other notable parties include the Sri Lanka Podujana Peramuna, the Ilankai Tamil Arasu Kachchi, and the Sri Lanka Muslim Congress."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «The Parliament has 225 members, elected for a five-year term: 196 members elected in multi-seat constituencies and 29 by proportional representation.»?",
+    "options": [
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement",
+      "elected",
+      "International relations"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "elected"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "International relations"
+      }
+    ],
+    "correctAnswerOrRubric": "elected",
+    "explanation": "Source-grounded AI practice item. The passage supports «elected». Full sentence: The Parliament has 225 members, elected for a five-year term: 196 members elected in multi-seat constituencies and 29 by proportional representation. (source_id=wiki_en_foreign_relations_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_foreign_relations_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_foreign_relations_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_foreign_relations_of_sri_lanka",
+        "passage": "The Parliament has 225 members, elected for a five-year term: 196 members elected in multi-seat constituencies and 29 by proportional representation."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «Responsible to Parliament for the exercise of duties under the constitution and laws, the president may be removed from office by a two-thirds vote of Parliament with the concurrence of the Supreme Co…»?",
+    "options": [
+      "Non-Aligned Movement",
+      "Responsible",
+      "International relations",
+      "Foreign relations of Sri Lanka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Responsible"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "International relations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Foreign relations of Sri Lanka"
+      }
+    ],
+    "correctAnswerOrRubric": "Responsible",
+    "explanation": "Source-grounded AI practice item. The passage supports «Responsible». Full sentence: Responsible to Parliament for the exercise of duties under the constitution and laws, the president may be removed from office by a two-thirds vote of Parliament with the concurrence of the Supreme Court. (source_id=wiki_en_non_aligned_movement). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_non_aligned_movement",
+    "sourceIds": [
+      "wiki_en_non_aligned_movement"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_non_aligned_movement",
+        "passage": "Responsible to Parliament for the exercise of duties under the constitution and laws, the president may be removed from office by a two-thirds vote of Parliament with the concurrence of the Supreme Court."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_international_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «\"China and Sri-Lanka: Old Friendship Renewed.\" Asia Quarterly 2 (1975): 101-110.»?",
+    "options": [
+      "China",
+      "International relations",
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "China"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "International relations"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Non-Aligned Movement"
+      }
+    ],
+    "correctAnswerOrRubric": "China",
+    "explanation": "Source-grounded AI practice item. The passage supports «China». Full sentence: \"China and Sri-Lanka: Old Friendship Renewed.\" Asia Quarterly 2 (1975): 101-110. (source_id=wiki_en_politics_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics_sri_lanka",
+    "sourceIds": [
+      "wiki_en_politics_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics_sri_lanka",
+        "passage": "\"China and Sri-Lanka: Old Friendship Renewed.\" Asia Quarterly 2 (1975): 101-110."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_international_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «\"Mediating between tigers and lions: Norwegian peace diplomacy in Sri Lanka's civil war.\" Contemporary South Asia 17.2 (2009): 175-191.»?",
+    "options": [
+      "International relations",
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement",
+      "Mediating"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "International relations"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Mediating"
+      }
+    ],
+    "correctAnswerOrRubric": "Mediating",
+    "explanation": "Source-grounded AI practice item. The passage supports «Mediating». Full sentence: \"Mediating between tigers and lions: Norwegian peace diplomacy in Sri Lanka's civil war.\" Contemporary South Asia 17.2 (2009): 175-191. (source_id=wiki_en_international_relations). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_international_relations",
+    "sourceIds": [
+      "wiki_en_international_relations"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_international_relations",
+        "passage": "\"Mediating between tigers and lions: Norwegian peace diplomacy in Sri Lanka's civil war.\" Contemporary South Asia 17.2 (2009): 175-191."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_international_q06",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_international",
+    "language": "en",
+    "grade": "13",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for International politics and implications for Sri Lanka, which term or name is supported by this passage: «It was founded with the view to advancing interests of developing countries in the context of Cold War confrontation.»?",
+    "options": [
+      "Foreign relations of Sri Lanka",
+      "Non-Aligned Movement",
+      "Cold War",
+      "International relations"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Foreign relations of Sri Lanka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Cold War"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "International relations"
+      }
+    ],
+    "correctAnswerOrRubric": "Cold War",
+    "explanation": "Source-grounded AI practice item. The passage supports «Cold War». Full sentence: It was founded with the view to advancing interests of developing countries in the context of Cold War confrontation. (source_id=wiki_en_foreign_relations_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_foreign_relations_of_sri_lanka",
+    "sourceIds": [
+      "wiki_en_foreign_relations_of_sri_lanka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_foreign_relations_of_sri_lanka",
+        "passage": "It was founded with the view to advancing interests of developing countries in the context of Cold War confrontation."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

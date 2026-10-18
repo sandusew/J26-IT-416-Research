@@ -1,0 +1,796 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "British Ceylon",
+        "Sri Lankan independence movement",
+        "Explanations",
+        "History of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "History of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_british_ceylon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_british_ceylon",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «The history of Sri Lanka covers Sri Lanka and its surrounding regions of South Asia, Southeast Asia and the Indian Ocean.»?",
+      "options": [
+        "Sri Lankan independence movement",
+        "Sri Lanka",
+        "History of Sri Lanka",
+        "British Ceylon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "History of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "British Ceylon"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The history of Sri Lanka covers Sri Lanka and its surrounding regions of South Asia, Southeast Asia and the Indian Ocean. (source_id=wiki_en_sri_lankan_independence_movement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_independence_movement",
+      "sourceIds": [
+        "wiki_en_sri_lankan_independence_movement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_independence_movement",
+          "passage": "The history of Sri Lanka covers Sri Lanka and its surrounding regions of South Asia, Southeast Asia and the Indian Ocean."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «Due to the island's close proximity to Southern India, Dravidian influence on Sri Lankan politics and trade had been very active since the third century BC.»?",
+      "options": [
+        "Southern India",
+        "History of Sri Lanka",
+        "British Ceylon",
+        "Sri Lankan independence movement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Southern India"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "History of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lankan independence movement"
+        }
+      ],
+      "correctAnswerOrRubric": "Southern India",
+      "explanation": "Source-grounded AI practice item. The passage supports «Southern India». Full sentence: Due to the island's close proximity to Southern India, Dravidian influence on Sri Lankan politics and trade had been very active since the third century BC. (source_id=wiki_en_sri_lanka_history). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lanka_history",
+      "sourceIds": [
+        "wiki_en_sri_lanka_history"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lanka_history",
+          "passage": "Due to the island's close proximity to Southern India, Dravidian influence on Sri Lankan politics and trade had been very active since the third century BC."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «Trade relations between the Anuradhapura Kingdom and southern India existed very probably from an early time.»?",
+      "options": [
+        "History of Sri Lanka",
+        "British Ceylon",
+        "Sri Lankan independence movement",
+        "Trade"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "History of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Trade"
+        }
+      ],
+      "correctAnswerOrRubric": "Trade",
+      "explanation": "Source-grounded AI practice item. The passage supports «Trade». Full sentence: Trade relations between the Anuradhapura Kingdom and southern India existed very probably from an early time. (source_id=wiki_en_history_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_history_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_history_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_history_of_sri_lanka",
+          "passage": "Trade relations between the Anuradhapura Kingdom and southern India existed very probably from an early time."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «South Indian attempts at usurping power of the Anuradhapura Kingdom appears to have been at least motivated by the prospect of influencing the country's lucrative external trade.»?",
+      "options": [
+        "British Ceylon",
+        "Sri Lankan independence movement",
+        "South Indian",
+        "History of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "South Indian"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "History of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "South Indian",
+      "explanation": "Source-grounded AI practice item. The passage supports «South Indian». Full sentence: South Indian attempts at usurping power of the Anuradhapura Kingdom appears to have been at least motivated by the prospect of influencing the country's lucrative external trade. (source_id=wiki_en_british_ceylon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_british_ceylon",
+          "passage": "South Indian attempts at usurping power of the Anuradhapura Kingdom appears to have been at least motivated by the prospect of influencing the country's lucrative external trade."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «From about the fifth century AD onwards, Tamil mercenaries were brought to the island for the service of the Sinhalese monarchs.»?",
+      "options": [
+        "Sri Lankan independence movement",
+        "Tamil",
+        "History of Sri Lanka",
+        "British Ceylon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Tamil"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "History of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "British Ceylon"
+        }
+      ],
+      "correctAnswerOrRubric": "Tamil",
+      "explanation": "Source-grounded AI practice item. The passage supports «Tamil». Full sentence: From about the fifth century AD onwards, Tamil mercenaries were brought to the island for the service of the Sinhalese monarchs. (source_id=wiki_en_sri_lankan_independence_movement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_independence_movement",
+      "sourceIds": [
+        "wiki_en_sri_lankan_independence_movement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_independence_movement",
+          "passage": "From about the fifth century AD onwards, Tamil mercenaries were brought to the island for the service of the Sinhalese monarchs."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «This would play a main role in the fall of the Anuradhapura Kingdom, part of an incompetent monarchy, in the 11th century with the Chola conquest.»?",
+      "options": [
+        "Anuradhapura Kingdom",
+        "History of Sri Lanka",
+        "British Ceylon",
+        "Sri Lankan independence movement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Anuradhapura Kingdom"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "History of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lankan independence movement"
+        }
+      ],
+      "correctAnswerOrRubric": "Anuradhapura Kingdom",
+      "explanation": "Source-grounded AI practice item. The passage supports «Anuradhapura Kingdom». Full sentence: This would play a main role in the fall of the Anuradhapura Kingdom, part of an incompetent monarchy, in the 11th century with the Chola conquest. (source_id=wiki_en_sri_lanka_history). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lanka_history",
+      "sourceIds": [
+        "wiki_en_sri_lanka_history"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lanka_history",
+          "passage": "This would play a main role in the fall of the Anuradhapura Kingdom, part of an incompetent monarchy, in the 11th century with the Chola conquest."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «(Source: https://en.wikipedia.org/wiki/History_of_Sri_Lanka)\n\n## Historical or systematic development\nPrehistoric Sri Lanka goes back 125,000 years and possibly even as far back as 500,000 years.»?",
+      "options": [
+        "History of Sri Lanka",
+        "British Ceylon",
+        "Sri Lankan independence movement",
+        "Source"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "History of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Source"
+        }
+      ],
+      "correctAnswerOrRubric": "Source",
+      "explanation": "Source-grounded AI practice item. The passage supports «Source». Full sentence: (Source: https://en.wikipedia.org/wiki/History_of_Sri_Lanka)\n\n## Historical or systematic development\nPrehistoric Sri Lanka goes back 125,000 years and possibly even as far back as 500,000 years. (source_id=wiki_en_history_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_history_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_history_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_history_of_sri_lanka",
+          "passage": "(Source: https://en.wikipedia.org/wiki/History_of_Sri_Lanka)\n\n## Historical or systematic development\nPrehistoric Sri Lanka goes back 125,000 years and possibly even as far back as 500,000 years."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «The earliest humans found in Sri Lanka date to Prehistoric times about 35,000 years ago.»?",
+      "options": [
+        "British Ceylon",
+        "Sri Lankan independence movement",
+        "Sri Lanka",
+        "History of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "History of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The earliest humans found in Sri Lanka date to Prehistoric times about 35,000 years ago. (source_id=wiki_en_british_ceylon). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_british_ceylon",
+      "sourceIds": [
+        "wiki_en_british_ceylon"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_british_ceylon",
+          "passage": "The earliest humans found in Sri Lanka date to Prehistoric times about 35,000 years ago."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «Little is known about the history before the Indo-Aryan Settlement in the 6th century BC.»?",
+      "options": [
+        "Sri Lankan independence movement",
+        "Little",
+        "History of Sri Lanka",
+        "British Ceylon"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Little"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "History of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "British Ceylon"
+        }
+      ],
+      "correctAnswerOrRubric": "Little",
+      "explanation": "Source-grounded AI practice item. The passage supports «Little». Full sentence: Little is known about the history before the Indo-Aryan Settlement in the 6th century BC. (source_id=wiki_en_sri_lankan_independence_movement). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_independence_movement",
+      "sourceIds": [
+        "wiki_en_sri_lankan_independence_movement"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_independence_movement",
+          "passage": "Little is known about the history before the Indo-Aryan Settlement in the 6th century BC."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «It was in 1639 that the Dutch attacked in earnest but ended with an agreement (which was disrespected by both parties), and not until 1656 that Colombo fell.»?",
+      "options": [
+        "Dutch",
+        "History of Sri Lanka",
+        "British Ceylon",
+        "Sri Lankan independence movement"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Dutch"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "History of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lankan independence movement"
+        }
+      ],
+      "correctAnswerOrRubric": "Dutch",
+      "explanation": "Source-grounded AI practice item. The passage supports «Dutch». Full sentence: It was in 1639 that the Dutch attacked in earnest but ended with an agreement (which was disrespected by both parties), and not until 1656 that Colombo fell. (source_id=wiki_en_sri_lanka_history). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lanka_history",
+      "sourceIds": [
+        "wiki_en_sri_lanka_history"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lanka_history",
+          "passage": "It was in 1639 that the Dutch attacked in earnest but ended with an agreement (which was disrespected by both parties), and not until 1656 that Colombo fell."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_colonial_modern",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Colonial period to 1978 constitutional change, which term or name is supported by this passage: «The Dutch (who were Protestants) persecuted the Catholics (the left-over Portuguese settlers) but left the Buddhists, Hindus and Muslims alone.»?",
+      "options": [
+        "British Ceylon",
+        "Sri Lankan independence movement",
+        "Protestants",
+        "History of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "British Ceylon"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lankan independence movement"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Protestants"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "History of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Protestants",
+      "explanation": "Source-grounded AI practice item. The passage supports «Protestants». Full sentence: The Dutch (who were Protestants) persecuted the Catholics (the left-over Portuguese settlers) but left the Buddhists, Hindus and Muslims alone. (source_id=wiki_en_history_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_history_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_history_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_history_of_sri_lanka",
+          "passage": "The Dutch (who were Protestants) persecuted the Catholics (the left-over Portuguese settlers) but left the Buddhists, Hindus and Muslims alone."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_hist_sl_colonial_modern_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicIds": [
+        "hist_sl_colonial_modern"
+      ],
+      "language": "en",
+      "grade": "13",
+      "resourceType": "teaching_package",
+      "title": "Colonial period to 1978 constitutional change — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [
+        "hist_sl_post_polonnaruwa"
+      ],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/History_of_Sri_Lanka",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_sri_lanka_history",
+        "wiki_en_history_of_sri_lanka",
+        "wiki_en_british_ceylon",
+        "wiki_en_sri_lankan_independence_movement"
+      ],
+      "bodyText": "# Colonial period to 1978 constitutional change\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Colonial period to 1978 constitutional change」 (hist_sl_colonial_modern) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nThe history of Sri Lanka covers Sri Lanka and its surrounding regions of South Asia, Southeast Asia and the Indian Ocean.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Outline colonial transformation through 1978 executive presidency\n- [inferred_not_official] Explain core ideas of Colonial period to 1978 constitutional change\n- [inferred_not_official] Apply concepts from Colonial period to 1978 constitutional change using cited public sources\n\n## Core concepts and definitions\nThe history of Sri Lanka covers Sri Lanka and its surrounding regions of South Asia, Southeast Asia and the Indian Ocean.\n\nDue to the island's close proximity to Southern India, Dravidian influence on Sri Lankan politics and trade had been very active since the third century BC. Trade relations between the Anuradhapura Kingdom and southern India existed very probably from an early time. South Indian attempts at usurping power of the Anuradhapura Kingdom appears to have been at least motivated by the prospect of influencing the country's lucrative external trade. From about the fifth century AD onwards, Tamil mercenaries were brought to the island for the service of the Sinhalese monarchs. This would play a main role in the fall of the Anuradhapura Kingdom, part of an incompetent monarchy, in the 11th century with the Chola conquest.\n(Source: https://en.wikipedia.org/wiki/History_of_Sri_Lanka)\n\n## Historical or systematic development\nPrehistoric Sri Lanka goes back 125,000 years and possibly even as far back as 500,000 years. The earliest humans found in Sri Lanka date to Prehistoric times about 35,000 years ago. Little is known about the history before the Indo-Aryan Settlement in the 6th century BC. The earliest documents of the settlement on the Island and its early history are found in the national chronicles of the Mahāvamsa, Dipavamsa, and the Culavamsa.\n\nInvasion of the Anuradhapura Kingdom by Rajaraja I began in 993 AD when he sent a large army to conquer the kingdom and absorb it into the Chola Empire. By 1017 most of the island was conquered and incorporated as a province of the vast empire beginning the Polonnaruwa period (1017–1232) of Sri Lanka. However the Chola occupation would be overthrown in 1070 through a campaign of Sinhalese Resistance led by Prince Kitti (later Vijayabahu I of Polonnaruwa). From the 10th century more permanent settlements of Tamils began to appear in Sri Lanka. While not extensive, these settlements formed the nucleus for later settlements around that of Northern Sri Lanka which would later form the Sri Lankan Tamil community of today.\n(Source: https://en.wikipedia.org/wiki/History_of_Sri_Lanka)\n\n## Applications, evidence, and Sri Lankan / comparative context\nAccording to the Mahāvamsa, a chronicle written in Pāḷi, the preceding inhabitants of Sri Lanka were said to be Yakkhas and Nagas. Sinhalese history traditionally starts in 543 BC with the arrival of Prince Vijaya, a semi-legendary prince who sailed with 700 followers to the island, after being expelled from the Vanga Kingdom, in present-day Bengal. Prince Vijaya thereafter established the Sinhala Kingdom ushering in the historical period of Sri Lanka. During the Anuradhapura period (377 BCE–1017) Buddhism was introduced in the 3rd century BCE by Mahinda, son of Indian emperor Ashoka.\n\nThe Sinhalese Kingdom now located in Polonnaruwa lasted less than two centuries. During its later turbulent stages it was once again invaded from the Indian mainland in 1215, forcing the Sinhalese to abandon their tranditional center of administration in the North central region of the island and flee south into the mountainous interior. This invasion saw a catastrophic decline in centralized Sinhalese power and began the Transitional period (1232–1597), which was characterised by the succession of capitals followed by the creation of the Jaffna Kingdom as a buffer state by the South Indian Pandyans.\n(Source: https://en.wikipedia.org/wiki/British_Ceylon)\n\n## Key terms\n- **History of Sri Lanka**: The history of Sri Lanka covers Sri Lanka and its surrounding regions of South Asia, Southeast Asia and the Indian Ocean.\n- **British Ceylon**: Following the Kandyan Wars and an internal struggle between the Sinhalese monarch at the time and the Kandyan aristocracy, the island was united for the final time and came under British colonial rule in 1815 beginning the British Ceylon period (1815–1948).\n- **Sri Lankan independence movement**: The British rule on the island lasted until 1948 when the country regained independence following the Sri Lankan independence movement.\n- **Colonial**: Following the Kandyan Wars and an internal struggle between the Sinhalese monarch at the time and the Kandyan aristocracy, the island was united for the final time and came under British colonial rule in 1815 beginning the British Ceylon period (1815–1948).\n- **period**: Prince Vijaya thereafter established the Sinhala Kingdom ushering in the historical period of Sri Lanka.\n- **constitutional**: A constitution was introduced in 1978 which created Sri Lanka a unitary semi-presidential constitutional republic.\n- **change**: No new class capable of leading the struggle and heading it towards power had yet arisen.'\n\n\n=== Plantation economy ===\nAgriculture was the main source of revenue for the country and foreign exchanges.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Colonial period to 1978 constitutional change, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Colonial period to 1978 constitutional change can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Colonial period to 1978 constitutional change\n- Colonial period to 1978 constitutional change is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_sri_lanka_history: History of Sri Lanka (Wikipedia extract) — https://en.wikipedia.org/wiki/History_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-13T17:57:36.405884+00:00; checksum e3ccc9b285dd…)\n- wiki_en_history_of_sri_lanka: History of Sri Lanka — https://en.wikipedia.org/wiki/History_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:23:14.334825+00:00; checksum 32f7b30de0c3…)\n- wiki_en_british_ceylon: British Ceylon — https://en.wikipedia.org/wiki/British_Ceylon (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:23:15.921857+00:00; checksum 5ee11437b772…)\n- wiki_en_sri_lankan_independence_movement: Sri Lankan independence movement — https://en.wikipedia.org/wiki/Sri_Lankan_independence_movement (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:23:17.603813+00:00; checksum fdcd11b9ebb7…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:32.863688+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 2
+}

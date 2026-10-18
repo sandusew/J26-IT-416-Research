@@ -1,0 +1,95 @@
+{
+  "run_id": "c2_rank_rev_20261013T100237_aa0520ec",
+  "component": "c2",
+  "task": "arts_per_query_ranking_revised",
+  "config_name": "c2_recommendation.yaml",
+  "config": {},
+  "data_hashes": {},
+  "sample_counts": {},
+  "feature_schema": [],
+  "split_manifest_path": null,
+  "seeds": {},
+  "hyperparameters": {},
+  "dependency_versions": {},
+  "metrics": {
+    "experiment": "revised_per_query_ranking",
+    "data_category": "synthetic_learner",
+    "original_pooled_binary_preserved": {
+      "run": "c2_arts_20261013T025936_8b27814f",
+      "test_ap": 0.6719270222486738,
+      "test_relevance_prevalence": 0.6939163498098859,
+      "test_roc_auc": 0.47725119827561757,
+      "note": "Prevalence was mislabelled as baseline_random in docs; it is label rate, not a ranker"
+    },
+    "feature_schema_learned": [
+      "difficulty",
+      "stu_open_rate"
+    ],
+    "selected_on_val_MAP": "learned",
+    "validation": {
+      "n_queries_total": 13,
+      "n_queries_with_relevance": 11,
+      "mean_label_prevalence_in_candidate_sets": 0.07102272727272728,
+      "k": 10,
+      "relevance_definition": "opened_at is not null (simulated engagement)",
+      "random": {
+        "NDCG@10": 0.2344800619750936,
+        "MAP": 0.17427829681685397,
+        "MRR": 0.1815788269550025
+      },
+      "prerequisite_aware": {
+        "NDCG@10": 0.03222532486982686,
+        "MAP": 0.06822163515016685,
+        "MRR": 0.05709310850439882
+      },
+      "learned": {
+        "NDCG@10": 0.09901549920498293,
+        "MAP": 0.125536508388281,
+        "MRR": 0.14248866542664496
+      }
+    },
+    "test": {
+      "n_queries_total": 20,
+      "n_queries_with_relevance": 19,
+      "mean_label_prevalence_in_candidate_sets": 0.06743421052631579,
+      "k": 10,
+      "relevance_definition": "opened_at is not null (simulated engagement)",
+      "random": {
+        "NDCG@10": 0.1357939854966044,
+        "MAP": 0.14161863781989825,
+        "MRR": 0.13411128089105928
+      },
+      "prerequisite_aware": {
+        "NDCG@10": 0.1172790504588983,
+        "MAP": 0.09711756449270546,
+        "MRR": 0.08160740014286924
+      },
+      "learned": {
+        "NDCG@10": 0.20266636033360513,
+        "MAP": 0.20332716524091057,
+        "MRR": 0.267589428115744
+      }
+    },
+    "pooled_pointwise_secondary": {
+      "note": "Pooled pointwise metrics are secondary; prevalence is not a ranking baseline",
+      "label_prevalence": 0.7,
+      "pointwise_AP": 0.8207800970958865,
+      "pointwise_ROC_AUC": 0.6309523809523809,
+      "pointwise_ROC_AUC_flipped": 0.36904761904761907,
+      "spearman_difficulty_vs_label": -0.7745966692414834,
+      "interpretation": "ROC-AUC near 0.5 means weak discrimination; do not flip scores post-hoc based on test. Original pooled AP≈prevalence indicated scores were uninformative relative to prevalence."
+    },
+    "test_set_status": "revised protocol on same simulated test students — not an untouched new population",
+    "simulation_only": true
+  },
+  "artifact_paths": {
+    "model": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c2\\c2_rank_rev_20261013T100237_aa0520ec\\ranker_pointwise.joblib"
+  },
+  "artifact_hashes": {
+    "model": "102f21719cb1f2afa120cb8442bfaecc226c4ffe71f5c01b8e5c23c1ab6da2e0"
+  },
+  "model_card_path": null,
+  "status": "completed",
+  "notes": "Simulation-only ranking protocol revision",
+  "created_at": "2026-10-13T10:02:39.120522+00:00"
+}

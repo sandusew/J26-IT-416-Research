@@ -1,0 +1,704 @@
+[
+  {
+    "questionId": "prac_hist_in_geography_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Indo-Gangetic Plain",
+      "Deccan Plateau",
+      "Explanations",
+      "Geography of India"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Indo-Gangetic Plain"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Deccan Plateau"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geography of India"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_geography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_india",
+    "sourceIds": [
+      "wiki_en_geography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_india",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «India is situated north of the equator between 8°4' north (the mainland) to 37°6' north latitude and 68°7' east to 97°25' east longitude.»?",
+    "options": [
+      "Deccan Plateau",
+      "India",
+      "Geography of India",
+      "Indo-Gangetic Plain"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Deccan Plateau"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geography of India"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Indo-Gangetic Plain"
+      }
+    ],
+    "correctAnswerOrRubric": "India",
+    "explanation": "Source-grounded AI practice item. The passage supports «India». Full sentence: India is situated north of the equator between 8°4' north (the mainland) to 37°6' north latitude and 68°7' east to 97°25' east longitude. (source_id=wiki_en_indo_gangetic_plain). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_indo_gangetic_plain",
+    "sourceIds": [
+      "wiki_en_indo_gangetic_plain"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_indo_gangetic_plain",
+        "passage": "India is situated north of the equator between 8°4' north (the mainland) to 37°6' north latitude and 68°7' east to 97°25' east longitude."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «It is the seventh-largest country in the world, with a total area of 3,287,263 square kilometres (1,269,219 mi2).»?",
+    "options": [
+      "country",
+      "Geography of India",
+      "Indo-Gangetic Plain",
+      "Deccan Plateau"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "country"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geography of India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Indo-Gangetic Plain"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Deccan Plateau"
+      }
+    ],
+    "correctAnswerOrRubric": "country",
+    "explanation": "Source-grounded AI practice item. The passage supports «country». Full sentence: It is the seventh-largest country in the world, with a total area of 3,287,263 square kilometres (1,269,219 mi2). (source_id=wiki_en_geography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_india",
+    "sourceIds": [
+      "wiki_en_geography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_india",
+        "passage": "It is the seventh-largest country in the world, with a total area of 3,287,263 square kilometres (1,269,219 mi2)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «India measures 3,214 km (1,997 mi) from north to south and 2,933 km (1,822 mi) from east to west.»?",
+    "options": [
+      "Geography of India",
+      "Indo-Gangetic Plain",
+      "Deccan Plateau",
+      "India"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geography of India"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Indo-Gangetic Plain"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Deccan Plateau"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "India"
+      }
+    ],
+    "correctAnswerOrRubric": "India",
+    "explanation": "Source-grounded AI practice item. The passage supports «India». Full sentence: India measures 3,214 km (1,997 mi) from north to south and 2,933 km (1,822 mi) from east to west. (source_id=wiki_en_indo_gangetic_plain). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_indo_gangetic_plain",
+    "sourceIds": [
+      "wiki_en_indo_gangetic_plain"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_indo_gangetic_plain",
+        "passage": "India measures 3,214 km (1,997 mi) from north to south and 2,933 km (1,822 mi) from east to west."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «It has a land frontier of 15,200 km (9,445 mi) and a coastline of 7,516.6 km (4,671 mi).»?",
+    "options": [
+      "Indo-Gangetic Plain",
+      "Deccan Plateau",
+      "coastline",
+      "Geography of India"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Indo-Gangetic Plain"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Deccan Plateau"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "coastline"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Geography of India"
+      }
+    ],
+    "correctAnswerOrRubric": "coastline",
+    "explanation": "Source-grounded AI practice item. The passage supports «coastline». Full sentence: It has a land frontier of 15,200 km (9,445 mi) and a coastline of 7,516.6 km (4,671 mi). (source_id=wiki_en_geography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_india",
+    "sourceIds": [
+      "wiki_en_geography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_india",
+        "passage": "It has a land frontier of 15,200 km (9,445 mi) and a coastline of 7,516.6 km (4,671 mi)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «On the south, India projects into and is bounded by the Indian Ocean—in particular, by the Arabian Sea on the west, the Lakshadweep Sea to the southwest, the Bay of Bengal on the east, and the Indian …»?",
+    "options": [
+      "Deccan Plateau",
+      "India",
+      "Geography of India",
+      "Indo-Gangetic Plain"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Deccan Plateau"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Geography of India"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Indo-Gangetic Plain"
+      }
+    ],
+    "correctAnswerOrRubric": "India",
+    "explanation": "Source-grounded AI practice item. The passage supports «India». Full sentence: On the south, India projects into and is bounded by the Indian Ocean—in particular, by the Arabian Sea on the west, the Lakshadweep Sea to the southwest, the Bay of Bengal on the east, and the Indian Ocean proper to the south. (source_id=wiki_en_indo_gangetic_plain). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_indo_gangetic_plain",
+    "sourceIds": [
+      "wiki_en_indo_gangetic_plain"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_indo_gangetic_plain",
+        "passage": "On the south, India projects into and is bounded by the Indian Ocean—in particular, by the Arabian Sea on the west, the Lakshadweep Sea to the southwest, the Bay of Bengal on the east, and the Indian Ocean proper to the south."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «The Palk Strait and Gulf of Mannar separate India from Sri Lanka to its immediate southeast, and the Maldives are some 125 kilometres (78 mi) to the south of India's Lakshadweep Islands across the Eig…»?",
+    "options": [
+      "Gulf",
+      "Geography of India",
+      "Indo-Gangetic Plain",
+      "Deccan Plateau"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Gulf"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geography of India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Indo-Gangetic Plain"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Deccan Plateau"
+      }
+    ],
+    "correctAnswerOrRubric": "Gulf",
+    "explanation": "Source-grounded AI practice item. The passage supports «Gulf». Full sentence: The Palk Strait and Gulf of Mannar separate India from Sri Lanka to its immediate southeast, and the Maldives are some 125 kilometres (78 mi) to the south of India's Lakshadweep Islands across the Eight Degree Channel. (source_id=wiki_en_geography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_india",
+    "sourceIds": [
+      "wiki_en_geography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_india",
+        "passage": "The Palk Strait and Gulf of Mannar separate India from Sri Lanka to its immediate southeast, and the Maldives are some 125 kilometres (78 mi) to the south of India's Lakshadweep Islands across the Eight Degree Channel."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Geography and Indian history: «Geography and Indian history can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Geography and Indian history. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_india",
+    "sourceIds": [
+      "wiki_en_geography_of_india",
+      "wiki_en_indo_gangetic_plain"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Geography and Indian history: «Listing names alone demonstrates understanding of Geography and Indian history» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Geography and Indian history. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_india",
+    "sourceIds": [
+      "wiki_en_geography_of_india",
+      "wiki_en_indo_gangetic_plain"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "true_false",
+    "prompt": "True or false for Geography and Indian history: «Geography and Indian history is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "True"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "False"
+      }
+    ],
+    "correctAnswerOrRubric": "False",
+    "explanation": "False — listed as a common misconception in the AI-authored package for Geography and Indian history. Prefer source-grounded explanations. Unreviewed practice.",
+    "maxMarks": 1,
+    "difficulty": 0.35,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_india",
+    "sourceIds": [
+      "wiki_en_geography_of_india",
+      "wiki_en_indo_gangetic_plain"
+    ],
+    "supportingPassages": [],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «The fertile terrain facilitated the rise and expansion of various empires such as the Mauryas, Kushan, Guptas, all of whom had their demographic and political centers in the Indo-Gangetic plain.»?",
+    "options": [
+      "Mauryas",
+      "Geography of India",
+      "Indo-Gangetic Plain",
+      "Deccan Plateau"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Mauryas"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Geography of India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Indo-Gangetic Plain"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Deccan Plateau"
+      }
+    ],
+    "correctAnswerOrRubric": "Mauryas",
+    "explanation": "Source-grounded AI practice item. The passage supports «Mauryas». Full sentence: The fertile terrain facilitated the rise and expansion of various empires such as the Mauryas, Kushan, Guptas, all of whom had their demographic and political centers in the Indo-Gangetic plain. (source_id=wiki_en_geography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_geography_of_india",
+    "sourceIds": [
+      "wiki_en_geography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_geography_of_india",
+        "passage": "The fertile terrain facilitated the rise and expansion of various empires such as the Mauryas, Kushan, Guptas, all of whom had their demographic and political centers in the Indo-Gangetic plain."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_in_geography_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_geography",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Geography and Indian history, which term or name is supported by this passage: «The Maurya Empire existed from 4th to 2nd century BCE and unified most of the Indian subcontinent into one state, and was the largest empire ever to exist on the Indian subcontinent.»?",
+    "options": [
+      "Geography of India",
+      "Indo-Gangetic Plain",
+      "Deccan Plateau",
+      "Indian"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Geography of India"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Indo-Gangetic Plain"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Deccan Plateau"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Indian"
+      }
+    ],
+    "correctAnswerOrRubric": "Indian",
+    "explanation": "Source-grounded AI practice item. The passage supports «Indian». Full sentence: The Maurya Empire existed from 4th to 2nd century BCE and unified most of the Indian subcontinent into one state, and was the largest empire ever to exist on the Indian subcontinent. (source_id=wiki_en_indo_gangetic_plain). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_indo_gangetic_plain",
+    "sourceIds": [
+      "wiki_en_indo_gangetic_plain"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_indo_gangetic_plain",
+        "passage": "The Maurya Empire existed from 4th to 2nd century BCE and unified most of the Indian subcontinent into one state, and was the largest empire ever to exist on the Indian subcontinent."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

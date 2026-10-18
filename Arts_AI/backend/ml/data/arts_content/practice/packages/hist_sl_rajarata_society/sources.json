@@ -1,0 +1,24 @@
+[
+  {
+    "source_id": "wiki_en_anuradhapura",
+    "title": "Anuradhapura",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Anuradhapura",
+    "retrieved_at_utc": "2026-10-14T17:22:27.653981+00:00",
+    "edition_or_revision": "pageid=285857",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_rajarata_society",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "2a9160bb1f280ff7063cce8d4d6701a2a747e415db21ba46acdf5588deaa577a",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "blocked_Irrigation_in_Sri_Lanka",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  }
+]

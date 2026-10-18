@@ -1,0 +1,793 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_comparative_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Presidential system",
+        "Parliamentary system",
+        "Explanations",
+        "Comparative politics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Comparative politics"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_parliamentary_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_parliamentary_system",
+      "sourceIds": [
+        "wiki_en_parliamentary_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_parliamentary_system",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_comparative_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries.»?",
+      "options": [
+        "Parliamentary system",
+        "Comparative",
+        "Comparative politics",
+        "Presidential system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Comparative"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Presidential system"
+        }
+      ],
+      "correctAnswerOrRubric": "Comparative",
+      "explanation": "Source-grounded AI practice item. The passage supports «Comparative». Full sentence: Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries. (source_id=wiki_en_comparative_politics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_comparative_politics",
+      "sourceIds": [
+        "wiki_en_comparative_politics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_comparative_politics",
+          "passage": "Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_comparative_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development.»?",
+      "options": [
+        "Substantively",
+        "Comparative politics",
+        "Presidential system",
+        "Parliamentary system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Substantively"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Parliamentary system"
+        }
+      ],
+      "correctAnswerOrRubric": "Substantively",
+      "explanation": "Source-grounded AI practice item. The passage supports «Substantively». Full sentence: Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development. (source_id=wiki_en_presidential_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_presidential_system",
+      "sourceIds": [
+        "wiki_en_presidential_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_presidential_system",
+          "passage": "Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_comparative_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).»?",
+      "options": [
+        "Comparative politics",
+        "Presidential system",
+        "Parliamentary system",
+        "fields"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "fields"
+        }
+      ],
+      "correctAnswerOrRubric": "fields",
+      "explanation": "Source-grounded AI practice item. The passage supports «fields». Full sentence: When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government). (source_id=wiki_en_parliamentary_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_parliamentary_system",
+      "sourceIds": [
+        "wiki_en_parliamentary_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_parliamentary_system",
+          "passage": "When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government)."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_comparative_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «Marshall, Reinhard Bendix, Otto Kirchheimer, Seymour Martin Lipset, Juan Linz, Hans Daalder, Mattei Dogan, Shmuel Eisenstadt, Harry H.»?",
+      "options": [
+        "Marshall",
+        "Comparative politics",
+        "Presidential system",
+        "Parliamentary system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Marshall"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Parliamentary system"
+        }
+      ],
+      "correctAnswerOrRubric": "Marshall",
+      "explanation": "Source-grounded AI practice item. The passage supports «Marshall». Full sentence: Marshall, Reinhard Bendix, Otto Kirchheimer, Seymour Martin Lipset, Juan Linz, Hans Daalder, Mattei Dogan, Shmuel Eisenstadt, Harry H. (source_id=wiki_en_parliamentary_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_parliamentary_system",
+      "sourceIds": [
+        "wiki_en_parliamentary_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_parliamentary_system",
+          "passage": "Marshall, Reinhard Bendix, Otto Kirchheimer, Seymour Martin Lipset, Juan Linz, Hans Daalder, Mattei Dogan, Shmuel Eisenstadt, Harry H."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_comparative_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «Legal constitutionalism: Some classic scholars in this tradition are: \"Léon Duguit, Georges Burdeau, James Bryce, A.»?",
+      "options": [
+        "Comparative politics",
+        "Presidential system",
+        "Parliamentary system",
+        "Legal"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Legal"
+        }
+      ],
+      "correctAnswerOrRubric": "Legal",
+      "explanation": "Source-grounded AI practice item. The passage supports «Legal». Full sentence: Legal constitutionalism: Some classic scholars in this tradition are: \"Léon Duguit, Georges Burdeau, James Bryce, A. (source_id=wiki_en_comparative_politics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_comparative_politics",
+      "sourceIds": [
+        "wiki_en_comparative_politics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_comparative_politics",
+          "passage": "Legal constitutionalism: Some classic scholars in this tradition are: \"Léon Duguit, Georges Burdeau, James Bryce, A."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_comparative_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «Lawrence Lowell, and Woodrow Wilson.\" Schmitter argues that in the twentieth century this tradition was continued by: \"Maurice Duverger, Herman Finer, Samuel Finer, Giovanni Sartori, Carl Joachim Frie…»?",
+      "options": [
+        "Presidential system",
+        "Parliamentary system",
+        "Lawrence Lowell",
+        "Comparative politics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Lawrence Lowell"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Comparative politics"
+        }
+      ],
+      "correctAnswerOrRubric": "Lawrence Lowell",
+      "explanation": "Source-grounded AI practice item. The passage supports «Lawrence Lowell». Full sentence: Lawrence Lowell, and Woodrow Wilson.\" Schmitter argues that in the twentieth century this tradition was continued by: \"Maurice Duverger, Herman Finer, Samuel Finer, Giovanni Sartori, Carl Joachim Friedrich, Samuel Beer, Jean Blondel, Ferdinand A. (source_id=wiki_en_presidential_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_presidential_system",
+      "sourceIds": [
+        "wiki_en_presidential_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_presidential_system",
+          "passage": "Lawrence Lowell, and Woodrow Wilson.\" Schmitter argues that in the twentieth century this tradition was continued by: \"Maurice Duverger, Herman Finer, Samuel Finer, Giovanni Sartori, Carl Joachim Friedrich, Samuel Beer, Jean Blondel, Ferdinand A."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_comparative_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «Hermens, and Klaus von Beyme.\"\n\nBy some definitions, comparative politics can be traced back to Greek philosophy, as Plato's Republic and Aristotle's The Politics.»?",
+      "options": [
+        "Parliamentary system",
+        "Hermens",
+        "Comparative politics",
+        "Presidential system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Hermens"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Presidential system"
+        }
+      ],
+      "correctAnswerOrRubric": "Hermens",
+      "explanation": "Source-grounded AI practice item. The passage supports «Hermens». Full sentence: Hermens, and Klaus von Beyme.\"\n\nBy some definitions, comparative politics can be traced back to Greek philosophy, as Plato's Republic and Aristotle's The Politics. (source_id=wiki_en_parliamentary_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_parliamentary_system",
+      "sourceIds": [
+        "wiki_en_parliamentary_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_parliamentary_system",
+          "passage": "Hermens, and Klaus von Beyme.\"\n\nBy some definitions, comparative politics can be traced back to Greek philosophy, as Plato's Republic and Aristotle's The Politics."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_comparative_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «While historically the discipline explored broad questions in political science through between-country comparisons, contemporary comparative political science primarily uses subnational comparisons.»?",
+      "options": [
+        "While",
+        "Comparative politics",
+        "Presidential system",
+        "Parliamentary system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "While"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Parliamentary system"
+        }
+      ],
+      "correctAnswerOrRubric": "While",
+      "explanation": "Source-grounded AI practice item. The passage supports «While». Full sentence: While historically the discipline explored broad questions in political science through between-country comparisons, contemporary comparative political science primarily uses subnational comparisons. (source_id=wiki_en_comparative_politics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_comparative_politics",
+      "sourceIds": [
+        "wiki_en_comparative_politics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_comparative_politics",
+          "passage": "While historically the discipline explored broad questions in political science through between-country comparisons, contemporary comparative political science primarily uses subnational comparisons."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_comparative_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «More recently, there has been increasing interest in subnational comparisons and their relationship to comparative politics.»?",
+      "options": [
+        "Comparative politics",
+        "Presidential system",
+        "Parliamentary system",
+        "More"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "More"
+        }
+      ],
+      "correctAnswerOrRubric": "More",
+      "explanation": "Source-grounded AI practice item. The passage supports «More». Full sentence: More recently, there has been increasing interest in subnational comparisons and their relationship to comparative politics. (source_id=wiki_en_presidential_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_presidential_system",
+      "sourceIds": [
+        "wiki_en_presidential_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_presidential_system",
+          "passage": "More recently, there has been increasing interest in subnational comparisons and their relationship to comparative politics."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_comparative_q07",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «Subnational research contributes important methodological, theoretical, and substantive ideas to the study of politics.»?",
+      "options": [
+        "Presidential system",
+        "Parliamentary system",
+        "Subnational",
+        "Comparative politics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Presidential system"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Subnational"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Comparative politics"
+        }
+      ],
+      "correctAnswerOrRubric": "Subnational",
+      "explanation": "Source-grounded AI practice item. The passage supports «Subnational». Full sentence: Subnational research contributes important methodological, theoretical, and substantive ideas to the study of politics. (source_id=wiki_en_parliamentary_system). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_parliamentary_system",
+      "sourceIds": [
+        "wiki_en_parliamentary_system"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_parliamentary_system",
+          "passage": "Subnational research contributes important methodological, theoretical, and substantive ideas to the study of politics."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_comparative_q08",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_comparative",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Comparative models of government, which term or name is supported by this passage: «The name comparative politics refers to the discipline's historical association with the comparative method, described in detail below.»?",
+      "options": [
+        "Parliamentary system",
+        "refers",
+        "Comparative politics",
+        "Presidential system"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Parliamentary system"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "refers"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Comparative politics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Presidential system"
+        }
+      ],
+      "correctAnswerOrRubric": "refers",
+      "explanation": "Source-grounded AI practice item. The passage supports «refers». Full sentence: The name comparative politics refers to the discipline's historical association with the comparative method, described in detail below. (source_id=wiki_en_comparative_politics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_comparative_politics",
+      "sourceIds": [
+        "wiki_en_comparative_politics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_comparative_politics",
+          "passage": "The name comparative politics refers to the discipline's historical association with the comparative method, described in detail below."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_comparative_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_comparative"
+      ],
+      "language": "en",
+      "grade": "13",
+      "resourceType": "teaching_package",
+      "title": "Comparative models of government — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Comparative_politics",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_comparative_politics",
+        "wiki_en_presidential_system",
+        "wiki_en_parliamentary_system"
+      ],
+      "bodyText": "# Comparative models of government\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Comparative models of government」 (pol_comparative) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nComparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries. Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development. When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Comparative models of government\n- [inferred_not_official] Explain core ideas of Comparative models of government\n- [inferred_not_official] Apply concepts from Comparative models of government using cited public sources\n\n## Core concepts and definitions\nComparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries. Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development. When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).\n\nDecline of the dominance of rational choice theory \nAbsence of a unifying metatheory\nIncreased focus on causal inference and experimental methods\nContinued use of observational and qualitative methods\nConcerns about methodological dominance\n(Source: https://en.wikipedia.org/wiki/Comparative_politics)\n\n## Historical or systematic development\n1. Sociological constitutionalism: Some classic scholars in this tradition are: \"Polybius, Machiavelli, Montesquieu, Benjamin Constant, Alexis de Tocqueville, Lorenz von Stein, Karl Marx, Moisei Ostrogorski, Max Weber, Émile Durkheim, Robert Michels, Gaetano Mosca, Vilfredo Pareto, and Herbert Tingsten.\" Schmitter argues that, in the twentieth century, this tradition was known by the label of \"historical political sociology\" and included scholars such as \"Stein Rokkan, T. H. Marshall, Reinhard Bendix, Otto Kirchheimer, Seymour Martin Lipset, Juan Linz, Hans Daalder, Mattei Dogan, Shmuel Eisenstadt, Harry H. Eckstein, and Dankwart Rustow.\"\n2. Legal constitutionalism: Some classic scholars in this tradition are: \"Léon Duguit, Georges Burdeau, James Bryce, A. Lawrence Lowell, and Woodrow Wilson.\" Schmitter argues that in the twentieth century this tradition was continued by: \"Maurice Duverger, Herman Finer, Samuel Finer, Giovanni Sartori, Carl Joachim Friedrich, Samuel Beer, Jean Blondel, Ferdinand A. Hermens, and Klaus von Beyme.\"\n\nBy some definitions, comparative politics can be traced back to Greek philosophy, as Plato's Republic and Aristotle's The Politics.\nAs a modern sub-discipline, comparative politics is constituted by research across a range of substantive areas, including the study\n(Source: https://en.wikipedia.org/wiki/Presidential_system)\n\n## Applications, evidence, and Sri Lankan / comparative context\n1. The constitution of political science as a discipline, 1880–1920\n2. The Behavioral Revolution, 1921–1966\n3. The Post-Behavioral Period, 1967–1988\n4. The Second Scientific Revolution 1989–2005\n5. Classical and early foundations (Ancient- 18th Century)\nComparative analysis can be traced back to Aristotle, who extensively compared various constitutions to understand political stability and governance.\nThinkers like Plato, Polybius, and later Montesquieu used comparison to determine and classify regimes and to study the relationship between social conditions and political organisations.\nThis era emphasises normative evaluation, putting what constitutes a just or stable government, rather than empirical testing, in the limelight.\n\nPolitics of democratic states\nPolitics of authoritarian states\nPublic goods provision and distributive politics\nPolitical violence\nPolitical identity, including ethnic and religious politics\nDemocratization and regime change\nElections and electoral and party systems\nPolitical economy of development\nCollective action\nVoting behavior\nOrigins of the state\nComparative political institutions\nMethodologies for comparative political research\nQuantitative politics with democracy indices\nWhile many researchers, research regimes, and research institutions are identified according to the above categories or foci, it is not uncommon to claim geographic or country specialization as the differentiating category.\nThe division between comparative politics and international relations is artificial, as processes within nations shape international processes, and international processes shape processes within states. Some scholars have called for an integration of the fields. Comparative Politics does not have similar \"isms\" as international relations scholarship.\n(Source: https://en.wikipedia.org/wiki/Parliamentary_system)\n\n## Key terms\n- **Comparative politics**: Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries.\n- **Presidential system**: has a liberal, democratic presidential system, in contrast to India's parliamentary system.\n- **Parliamentary system**: Some examples of comparative politics are studying the differences between presidential and parliamentary systems, democracies and dictatorships, parliamentary systems in different countries, multi-party systems such as Canada and two-party systems such as the United States.\n- **Comparative**: Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries.\n- **models**: models: a key idea for Comparative models of government (see cited sources; AI-authored gloss).\n- **government**: When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Comparative models of government, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Comparative models of government can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Comparative models of government\n- Comparative models of government is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_comparative_politics: Comparative politics — https://en.wikipedia.org/wiki/Comparative_politics (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:26:22.029814+00:00; checksum c2f31fadddfd…)\n- wiki_en_presidential_system: Presidential system — https://en.wikipedia.org/wiki/Presidential_system (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:28:09.463726+00:00; checksum ec5395c38553…)\n- wiki_en_parliamentary_system: Parliamentary system — https://en.wikipedia.org/wiki/Parliamentary_system (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:28:10.807650+00:00; checksum ef68dca0b520…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:40.441067+00:00",
+  "before_distinct": 10,
+  "after_distinct": 12,
+  "newly_authored_here": 4
+}

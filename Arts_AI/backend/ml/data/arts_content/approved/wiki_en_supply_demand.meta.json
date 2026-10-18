@@ -1,0 +1,41 @@
+{
+  "document_id": "wiki_en_supply_demand",
+  "title": "Supply and demand (Wikipedia extract)",
+  "source_url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+  "supplied_file_origin": "backend/ml/data/arts_content/approved/wiki_en_supply_demand.txt",
+  "publisher_author": "Wikipedia contributors",
+  "publication_version": "pageid=29664",
+  "subject_id": "sub_economics",
+  "topic_id": "eco_demand_supply",
+  "grade_year": "A/L",
+  "language": "en",
+  "acquisition_timestamp_utc": "2026-10-14T00:18:56.370952+00:00",
+  "file_hash": "3a60577abad1c1a9b8e0fa36c55e4dd852767a3896fcae243beccb67c7421cc0",
+  "text_hash": "cc54629b6539ec2018ab23054190dea9677f7af8f9a43480ff054edde1de8b44",
+  "usage_permission_or_license": "CC-BY-SA-4.0",
+  "usage_permitted": true,
+  "curriculum_relevance_checked": true,
+  "curriculum_relevance_note": null,
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "curriculum_mapping_basis": "manual_map_to_canonical_topic_id_provisional_registry",
+  "learning_outcomes_supported": [
+    "Demonstrate understanding of: Demand, supply and markets"
+  ],
+  "role": "supplemental_not_complete_al_teaching_corpus",
+  "review_status": "unreviewed",
+  "content_review_status": "unreviewed",
+  "review_evidence": null,
+  "teacher_reviewed": false,
+  "extraction_method": "utf8_text",
+  "extraction_quality_status": "ok",
+  "ocr_required": false,
+  "extraction_quality": {
+    "n_chars": 9628,
+    "n_sinhala_chars": 0,
+    "ok": true,
+    "status": "ok"
+  },
+  "data_origin": "authentic_public_cc_by_sa_supplemental",
+  "acquired": true,
+  "sinhala_support_claimed": false
+}

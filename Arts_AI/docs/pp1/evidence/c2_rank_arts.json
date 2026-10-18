@@ -1,0 +1,24 @@
+{
+    "ok":  true,
+    "modelVersion":  "c2_rank_rev_20261013T105157_40d91e8c",
+    "trainedScorerUsed":  true,
+    "feature_cols":  [
+                         "difficulty",
+                         "stu_open_rate"
+                     ],
+    "scores":  [
+                   {
+                       "resourceId":  "res_hist_sl_sources_v1",
+                       "topicId":  "hist_sl_sources",
+                       "score":  0.4790632903449173,
+                       "reason":  "trained_pointwise_open_probability"
+                   },
+                   {
+                       "resourceId":  "res_hist_sl_geography_v1",
+                       "topicId":  "hist_sl_geography",
+                       "score":  0.42106628905176996,
+                       "reason":  "trained_pointwise_open_probability"
+                   }
+               ],
+    "note":  "Simulation-trained scorer; not real-student effectiveness"
+}

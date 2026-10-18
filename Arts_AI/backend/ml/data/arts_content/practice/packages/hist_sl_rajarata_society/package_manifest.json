@@ -1,0 +1,104 @@
+{
+  "topic_id": "hist_sl_rajarata_society",
+  "subject_id": "sub_history",
+  "topic_title": "Economy, irrigation and society of Rajarata",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central plain of Sri Lanka. It is the capital city of North Central Province and the capital of Anuradhapura District. The city lies 205 kilometres (127 mi) north of the current capital of Colombo in the North Central Province, on the banks of the historic Malwathu Oya.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Anuradhapura"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "The city is now a World Heritage Site famous for its well-preserved ruins of the ancient Sinhalese civilisation. While Mahāvaṃsa places the founding of the city in 437 BCE, the site has been inhabited for much longer, making it a major human settlement on the island for almost three millennia and one of the oldest continuously occupied cities in Asia. It is the cradle of the Hydraulic Sinhalese civilisation, Theravada Buddhism, and the longest-serving ancient capital of Sri Lanka that has survived for 1500 years.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Anuradhapura"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "Moreover, it was the first capital of the Sinhala Kingdom of Rajarata, following the kingdoms of Tambapanni and Upatissa Nuwara. These vast networks of ancient temples and monasteries now cover over 100 square kilometres (40 mi2) of area of the city today. The city was mostly destroyed and largely deserted after 993 CE, with the Chola invasion from South India.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Anuradhapura"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Anuradhapura",
+      "definition": "Anuradhapura (Sinhala: අනුරාධපුරය, romanised: Anurādhapuraya, IPA: [ənuraːd̪əpurəjə]; Tamil: அனுராதபுரம், romanised: Aṉurātapuram, IPA: [ɐnuɾaːðɐβuɾɐm]) is a major city located in the north central plain of Sri Lanka.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "Irrigation in Sri Lanka",
+      "definition": "Irrigation in Sri Lanka: a key idea for Economy, irrigation and society of Rajarata (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "Economy,",
+      "definition": "Economy,: a key idea for Economy, irrigation and society of Rajarata (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "irrigation",
+      "definition": "irrigation: a key idea for Economy, irrigation and society of Rajarata (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "society",
+      "definition": "society: a key idea for Economy, irrigation and society of Rajarata (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    },
+    {
+      "term": "Rajarata",
+      "definition": "Moreover, it was the first capital of the Sinhala Kingdom of Rajarata, following the kingdoms of Tambapanni and Upatissa Nuwara.",
+      "source_ids": [
+        "wiki_en_anuradhapura"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_anuradhapura"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_anuradhapura",
+      "title": "Anuradhapura",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Anuradhapura",
+      "retrieved_at_utc": "2026-10-14T17:22:27.653981+00:00",
+      "edition_or_revision": "pageid=285857",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_rajarata_society",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "2a9160bb1f280ff7063cce8d4d6701a2a747e415db21ba46acdf5588deaa577a",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "0127416ffbe50b567212277e4e3bf7a7fb642b3219047a57dea730edaa91514d",
+  "authored_at_utc": "2026-10-14T17:22:44.135969+00:00"
+}

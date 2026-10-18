@@ -1,0 +1,65 @@
+{
+  "experiment": "revised_c4_topic_classifier",
+  "original_evaluation_preserved": {
+    "accuracy": 0.041666666666666664,
+    "macro_f1": 0.01514563140130953,
+    "path": "artifacts/c4/c4_topic_* (pre-revision) and reports/c4_topic_metrics.json backup",
+    "root_cause": "generic cross-topic template sentences; v0/v1 near-duplicates"
+  },
+  "data_category": "generated_content",
+  "origin": "generated",
+  "review_status": "unreviewed",
+  "split": "GroupShuffleSplit by source_document_id; val then test; unseen topics held out",
+  "test_set_status": "revised_experiment_test \u2014 not claimed as untouched original holdout",
+  "validation": {
+    "n": 0
+  },
+  "test_closed_set": {
+    "n": 0
+  },
+  "unseen_topic_detection": {
+    "task": "unseen_topic_detection",
+    "held_out_topics": [
+      "sub_economics_t03",
+      "sub_history_t01",
+      "sub_political_t00",
+      "sub_political_t04",
+      "sub_sinhala_lit_t07"
+    ],
+    "threshold_selected_on_val": 0.1,
+    "val_detection_f1": 1.0,
+    "test_detection_f1": 0.75,
+    "test_detection_accuracy": 0.6,
+    "note": "Separate from closed-set topic classification"
+  },
+  "model_classes": [
+    "sub_economics_t00",
+    "sub_economics_t01",
+    "sub_economics_t02",
+    "sub_economics_t04",
+    "sub_economics_t05",
+    "sub_economics_t06",
+    "sub_economics_t07",
+    "sub_geography_t00",
+    "sub_geography_t02",
+    "sub_geography_t03",
+    "sub_geography_t04",
+    "sub_geography_t07",
+    "sub_history_t02",
+    "sub_history_t03",
+    "sub_history_t04",
+    "sub_history_t06",
+    "sub_political_t01",
+    "sub_political_t02",
+    "sub_political_t05",
+    "sub_political_t07",
+    "sub_sinhala_lit_t00",
+    "sub_sinhala_lit_t02",
+    "sub_sinhala_lit_t03",
+    "sub_sinhala_lit_t04",
+    "sub_sinhala_lit_t05",
+    "sub_sinhala_lit_t06"
+  ],
+  "n_train": 78,
+  "note": "Improved generated content remains unreviewed. Closed-set metrics are not institutional validation."
+}

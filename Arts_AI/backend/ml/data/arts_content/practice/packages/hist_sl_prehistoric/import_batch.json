@@ -1,0 +1,795 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_hist_sl_prehistoric_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Balangoda Man",
+        "Pre-historic",
+        "Explanations",
+        "Prehistory of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Prehistory of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_balangoda_man). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_balangoda_man",
+      "sourceIds": [
+        "wiki_en_balangoda_man"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_balangoda_man",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «The prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC.»?",
+      "options": [
+        "Pre-historic",
+        "Sri Lanka",
+        "Prehistory of Sri Lanka",
+        "Balangoda Man"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Prehistory of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Balangoda Man"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC. (source_id=wiki_en_prehistory_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_prehistory_sri_lanka",
+      "sourceIds": [
+        "wiki_en_prehistory_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_prehistory_sri_lanka",
+          "passage": "The prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «The Stone Age had approximately existed from 125,000 years ago to 1800 BC minimum.»?",
+      "options": [
+        "existed",
+        "Prehistory of Sri Lanka",
+        "Balangoda Man",
+        "Pre-historic"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "existed"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Prehistory of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Pre-historic"
+        }
+      ],
+      "correctAnswerOrRubric": "existed",
+      "explanation": "Source-grounded AI practice item. The passage supports «existed». Full sentence: The Stone Age had approximately existed from 125,000 years ago to 1800 BC minimum. (source_id=wiki_en_prehistory_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_prehistory_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_prehistory_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_prehistory_of_sri_lanka",
+          "passage": "The Stone Age had approximately existed from 125,000 years ago to 1800 BC minimum."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «(Source: https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka)\n\n## Historical or systematic development\nThere is evidence of Paleolithic (Homo erectus) people in Sri Lanka from about 300,000 BP and p…»?",
+      "options": [
+        "Prehistory of Sri Lanka",
+        "Balangoda Man",
+        "Pre-historic",
+        "Source"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Prehistory of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Source"
+        }
+      ],
+      "correctAnswerOrRubric": "Source",
+      "explanation": "Source-grounded AI practice item. The passage supports «Source». Full sentence: (Source: https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka)\n\n## Historical or systematic development\nThere is evidence of Paleolithic (Homo erectus) people in Sri Lanka from about 300,000 BP and possibly even as early as 500,000 BP. (source_id=wiki_en_balangoda_man). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_balangoda_man",
+      "sourceIds": [
+        "wiki_en_balangoda_man"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_balangoda_man",
+          "passage": "(Source: https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka)\n\n## Historical or systematic development\nThere is evidence of Paleolithic (Homo erectus) people in Sri Lanka from about 300,000 BP and possibly even as early as 500,000 BP."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «There is strong evidence of prehistoric settlements in Sri Lanka by about 125,000 BP.»?",
+      "options": [
+        "Balangoda Man",
+        "Pre-historic",
+        "There",
+        "Prehistory of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "There"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Prehistory of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "There",
+      "explanation": "Source-grounded AI practice item. The passage supports «There». Full sentence: There is strong evidence of prehistoric settlements in Sri Lanka by about 125,000 BP. (source_id=wiki_en_prehistory_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_prehistory_sri_lanka",
+      "sourceIds": [
+        "wiki_en_prehistory_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_prehistory_sri_lanka",
+          "passage": "There is strong evidence of prehistoric settlements in Sri Lanka by about 125,000 BP."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «Evidence of a transition between the Mesolithic and the Iron Age is scant.»?",
+      "options": [
+        "Pre-historic",
+        "Evidence",
+        "Prehistory of Sri Lanka",
+        "Balangoda Man"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Evidence"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Prehistory of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Balangoda Man"
+        }
+      ],
+      "correctAnswerOrRubric": "Evidence",
+      "explanation": "Source-grounded AI practice item. The passage supports «Evidence». Full sentence: Evidence of a transition between the Mesolithic and the Iron Age is scant. (source_id=wiki_en_prehistory_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_prehistory_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_prehistory_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_prehistory_of_sri_lanka",
+          "passage": "Evidence of a transition between the Mesolithic and the Iron Age is scant."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «Findings at Iranamadu indicate that there were Paleolithic people in Sri Lanka as early as 300,000 BP.»?",
+      "options": [
+        "Findings",
+        "Prehistory of Sri Lanka",
+        "Balangoda Man",
+        "Pre-historic"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Findings"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Prehistory of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Pre-historic"
+        }
+      ],
+      "correctAnswerOrRubric": "Findings",
+      "explanation": "Source-grounded AI practice item. The passage supports «Findings». Full sentence: Findings at Iranamadu indicate that there were Paleolithic people in Sri Lanka as early as 300,000 BP. (source_id=wiki_en_balangoda_man). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_balangoda_man",
+      "sourceIds": [
+        "wiki_en_balangoda_man"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_balangoda_man",
+          "passage": "Findings at Iranamadu indicate that there were Paleolithic people in Sri Lanka as early as 300,000 BP."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «These people made tools of quartz and chert which are assignable to the Middle Palaeolithic period.»?",
+      "options": [
+        "Balangoda Man",
+        "Pre-historic",
+        "Middle Palaeolithic",
+        "Prehistory of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Middle Palaeolithic"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Prehistory of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Middle Palaeolithic",
+      "explanation": "Source-grounded AI practice item. The passage supports «Middle Palaeolithic». Full sentence: These people made tools of quartz and chert which are assignable to the Middle Palaeolithic period. (source_id=wiki_en_prehistory_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_prehistory_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_prehistory_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_prehistory_of_sri_lanka",
+          "passage": "These people made tools of quartz and chert which are assignable to the Middle Palaeolithic period."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «The inhabitants could be found in 8 main areas in the land of Sri Lanka.»?",
+      "options": [
+        "Pre-historic",
+        "Sri Lanka",
+        "Prehistory of Sri Lanka",
+        "Balangoda Man"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Prehistory of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Balangoda Man"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The inhabitants could be found in 8 main areas in the land of Sri Lanka. (source_id=wiki_en_balangoda_man). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_balangoda_man",
+      "sourceIds": [
+        "wiki_en_balangoda_man"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_balangoda_man",
+          "passage": "The inhabitants could be found in 8 main areas in the land of Sri Lanka."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «Its morphometric traits do not easily match those of Homo erectus, but they correlate with hominid specimens called archaic Homo sapiens, which include pre-Neanderthals from Europe and West Asia.»?",
+      "options": [
+        "Homo",
+        "Prehistory of Sri Lanka",
+        "Balangoda Man",
+        "Pre-historic"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Homo"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Prehistory of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Pre-historic"
+        }
+      ],
+      "correctAnswerOrRubric": "Homo",
+      "explanation": "Source-grounded AI practice item. The passage supports «Homo». Full sentence: Its morphometric traits do not easily match those of Homo erectus, but they correlate with hominid specimens called archaic Homo sapiens, which include pre-Neanderthals from Europe and West Asia. (source_id=wiki_en_prehistory_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_prehistory_sri_lanka",
+      "sourceIds": [
+        "wiki_en_prehistory_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_prehistory_sri_lanka",
+          "passage": "Its morphometric traits do not easily match those of Homo erectus, but they correlate with hominid specimens called archaic Homo sapiens, which include pre-Neanderthals from Europe and West Asia."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «Other classifications of the skull include Homo heidelbergensis and evolved Homo erectus, but the latter has been disputed by some as having no taxonomic meaning.»?",
+      "options": [
+        "Prehistory of Sri Lanka",
+        "Balangoda Man",
+        "Pre-historic",
+        "Other"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Prehistory of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Other"
+        }
+      ],
+      "correctAnswerOrRubric": "Other",
+      "explanation": "Source-grounded AI practice item. The passage supports «Other». Full sentence: Other classifications of the skull include Homo heidelbergensis and evolved Homo erectus, but the latter has been disputed by some as having no taxonomic meaning. (source_id=wiki_en_prehistory_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_prehistory_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_prehistory_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_prehistory_of_sri_lanka",
+          "passage": "Other classifications of the skull include Homo heidelbergensis and evolved Homo erectus, but the latter has been disputed by some as having no taxonomic meaning."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q10",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_prehistoric",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Pre-historic and early settlements, which term or name is supported by this passage: «== Sri Lankan skeletal and cultural discoveries ==\nCompared to the earlier Sri Lankan fossils, the island's fossil records from around 40,000 BP onwards are much more complete.»?",
+      "options": [
+        "Balangoda Man",
+        "Pre-historic",
+        "Sri Lankan",
+        "Prehistory of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Balangoda Man"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Pre-historic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lankan"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Prehistory of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lankan",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lankan». Full sentence: == Sri Lankan skeletal and cultural discoveries ==\nCompared to the earlier Sri Lankan fossils, the island's fossil records from around 40,000 BP onwards are much more complete. (source_id=wiki_en_balangoda_man). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_balangoda_man",
+      "sourceIds": [
+        "wiki_en_balangoda_man"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_balangoda_man",
+          "passage": "== Sri Lankan skeletal and cultural discoveries ==\nCompared to the earlier Sri Lankan fossils, the island's fossil records from around 40,000 BP onwards are much more complete."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_hist_sl_prehistoric_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicIds": [
+        "hist_sl_prehistoric"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Pre-historic and early settlements — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [
+        "hist_sl_geography"
+      ],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_prehistory_sri_lanka",
+        "wiki_en_prehistory_of_sri_lanka",
+        "wiki_en_balangoda_man"
+      ],
+      "bodyText": "# Pre-historic and early settlements\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Pre-historic and early settlements」 (hist_sl_prehistoric) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nThe prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Describe pre-historic eras and early Aryan settlements\n- [inferred_not_official] Explain core ideas of Pre-historic and early settlements\n- [inferred_not_official] Apply concepts from Pre-historic and early settlements using cited public sources\n\n## Core concepts and definitions\nThe prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC.\n\nThe Stone Age had approximately existed from 125,000 years ago to 1800 BC minimum.\n(Source: https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka)\n\n## Historical or systematic development\nThere is evidence of Paleolithic (Homo erectus) people in Sri Lanka from about 300,000 BP and possibly even as early as 500,000 BP. There is strong evidence of prehistoric settlements in Sri Lanka by about 125,000 BP. Evidence of a transition between the Mesolithic and the Iron Age is scant.\n\nFindings at Iranamadu indicate that there were Paleolithic people in Sri Lanka as early as 300,000 BP. There is definite evidence of settlements by prehistoric people in Sri Lanka by about 125,000 BP. These people made tools of quartz and chert which are assignable to the Middle Palaeolithic period. The inhabitants could be found in 8 main areas in the land of Sri Lanka. They were namely,\n(Source: https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka)\n\n## Applications, evidence, and Sri Lankan / comparative context\nFluctuations in sea level led to Sri Lanka being linked to the Indian subcontinent from time to time over the past million years. The last such link occurred about 5000 BC.\n\nThe island appears to have been colonized by the Balangoda Man (named after the area where his remains were discovered) prior to 34,000 BP. They have been identified as a group of Mesolithic hunter-gatherers who lived in caves. Fa Hien Cave has yielded the earliest evidence (at c. 34,000 BP) of anatomically modern humans in South Asia.\n(Source: https://en.wikipedia.org/wiki/Balangoda_Man)\n\n## Key terms\n- **Prehistory of Sri Lanka**: The prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC.\n- **Balangoda Man**: The Balangoda Man appears to have been responsible for creating Horton Plains, in the central hills, by burning the trees in order to catch game.\n- **Pre-historic**: Pre-historic: a key idea for Pre-historic and early settlements (see cited sources; AI-authored gloss).\n- **early**: The prehistory of Sri Lanka covers the Palaeolithic, Mesolithic and early Iron Age of the country until the Pre Anuradhapura period in 543 BC.\n- **settlements**: There is strong evidence of prehistoric settlements in Sri Lanka by about 125,000 BP.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Pre-historic and early settlements, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Pre-historic and early settlements can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Pre-historic and early settlements\n- Pre-historic and early settlements is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_prehistory_sri_lanka: Prehistory of Sri Lanka (Wikipedia extract) — https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-14T00:18:56.370952+00:00; checksum 967179b08c07…)\n- wiki_en_prehistory_of_sri_lanka: Prehistory of Sri Lanka — https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:19:55.466415+00:00; checksum 0ff3bc208a1a…)\n- wiki_en_balangoda_man: Balangoda Man — https://en.wikipedia.org/wiki/Balangoda_Man (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:19:56.720586+00:00; checksum d74c29de4acf…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:31.147188+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

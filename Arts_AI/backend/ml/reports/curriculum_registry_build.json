@@ -1,0 +1,13 @@
+{
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "registry_path": "backend/ml/data/curriculum/nie_al_arts_provisional_v0.1_registry.json",
+  "registry_sha256": "a66b6621258c3f71f843bc68cb51b4671dc499b36722e4e7fc79b19ad6c0e3bc",
+  "n_topics": 46,
+  "n_legacy_mappings": 40,
+  "mapping_status_counts": {
+    "exact_match": 0,
+    "reviewed_equivalent": 0,
+    "partial_match": 32,
+    "unmapped": 8
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "run_id": "c3_synth_20261013T025937_2c8eb38e",
+  "component": "c3",
+  "task": "synthetic_arts_risk",
+  "config_name": "c3_risk.yaml",
+  "config": {},
+  "data_hashes": {},
+  "sample_counts": {
+    "train": 240,
+    "validation": 80,
+    "test": 80
+  },
+  "feature_schema": [
+    "n_events",
+    "mean_active_seconds",
+    "mean_progress"
+  ],
+  "split_manifest_path": null,
+  "seeds": {},
+  "hyperparameters": {},
+  "dependency_versions": {},
+  "metrics": {
+    "data_category": "synthetic_learner",
+    "f1": 0.5714285714285714,
+    "roc_auc": 0.6449843260188087,
+    "n_test": 80,
+    "note": "Measures performance under simulation assumptions only; not real Arts risk validation"
+  },
+  "artifact_paths": {
+    "model": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c3\\c3_synth_20261013T025937_2c8eb38e\\synth_risk.joblib"
+  },
+  "artifact_hashes": {
+    "model": "8cb13d45ec5b22fa2d4ef5773d82ccb89581c2da67b85a284b001b0eee9b8e14"
+  },
+  "model_card_path": null,
+  "status": "completed",
+  "notes": null,
+  "created_at": "2026-10-13T02:59:37.788069+00:00"
+}

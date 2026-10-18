@@ -1,0 +1,4326 @@
+{
+  "exported_at_utc": "2026-10-15T00:30:17.598247+00:00",
+  "n_questions": 540,
+  "questions": [
+    {
+      "questionId": "prac_hist_sl_sources_q01",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "8903c687dd66b23714f5ad415646ba639216a4cad66d7c6e8fecb6f2eb1a2368",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q02",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "4c28ee06fe3f8f3223e60280a9d39a0648ed58bb706635d3ae6146d513c26dbe",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q03",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "720c0570e342f4c8f21aab837667f0b8cd583a24ef3c8e9c88b4a19f948c5dbc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q04",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "7ee7c1a7727c4cd1738c1fe7e503290f9dd7dd3ef6ab8e8662b7a15b2dce40f2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q05",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "cf6248b5f78f481971089c408608a69156152d58f1acc8c7ce43524d2e463867",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q06",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "f213db5899c752febf5f7af73020c4e136693614c897876b93f3b6c8f71b8b94",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q07",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "0b2adb62f6a8f0fc4e0ea2ee0851cc820fc7a51b9f478bdc1b4d1f943c076494",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q08",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "4a469cfac4643681fbf16732101e417c0164a749ab2b5a20290a26a967b7666d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q09",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "949fddc4af850af316987e1aaf669ab7c7277fc22f32517e450588d91d65ead7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q10",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "1876752f9cea4d0dd02a23318a8afe20a46d16e28a8e0c8e931f2dfc2cc42b1c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q11",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "a2f4cc5bf4f806c3fe24cfc5a4f5af0dd7c036388aa51077cca751b033e51d8f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_sources_q12",
+      "version": "1",
+      "topicId": "hist_sl_sources",
+      "contentHash": "16fdcec417b2ea0aee18f57d4f11f3bbdd01acbd45882692d67fce2578644670",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q01",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "fbe8e737d6620c89c51ac3302500aaa83b415b4e14cdbe45545725a17f9ccb66",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q02",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "4592272d62a7c1a73d009a4d41ec95606f5544d1b4db3001e00f6a84f347f176",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q03",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "b7e83053d1f842be9b27750da43d8b45856c00bf64dfd0a7e8a72a25c7c3ee52",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q04",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "20203410041f1311e827f14d27630f838cb1db53f419094701b44eb0d839f3a3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q05",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "42d9b85488f4111ea7c9999a4bf8dc49e0ef41d986eeab2e2e87bb18a79b4e27",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q06",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "8614e0d6cc50c15d250e8c77720f2ca7199e5d34bf4e8b5bd0f3cae65f6ebe80",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q07",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "f7a209405afa229c29b14759c4b808d22a4ccc4a1a320df4a3d6d045013cf106",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q08",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "e08427acfb3aa03b09c005e530d3f25f08f868378efbb5e5edc264a332c24231",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q09",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "5d32ef0c8d5efe803b37a70744401008feb381271cb3fb555c8bda38786eb8ee",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q10",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "8eddcb8b6306cfa0c1329232d06b037e319b16b8ade786e5b2acdbd3875df256",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q11",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "48a1c10656bc3e70bcb8281cc672574897d4d7d375deb3a3742195d495033eec",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_geography_q12",
+      "version": "1",
+      "topicId": "hist_sl_geography",
+      "contentHash": "af3f30bce75888235b07600fef80751ba3798dbbeeb19e7334da15d61b5da96e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q01",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "fbc43595d1b58baea6674b7342c2bd09e3bf1cea6029e45fa45eb160066cb40f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q02",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "2ba27dc2f2ab12d4deef3c78a0c30776904e6eab9d683663fdb6abbd5986ebbc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q03",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "5278b3a59ae970c8fc02efd461b5803dc3da1d5d1d59d799329f7b106d7ab00d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q04",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "9b9db79046388839c8254b5a9fce2eda5b08c027d2b2ffe6da1fb6358526a7e0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q05",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "a29fce06c7481d35705bd17d461241fbf989c48804b90ede49c34e2dc27ee8d0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q06",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "d5aab7228949b1957f4b13fbef3326ecec4155f0c4ea3dc2a26aebb5f5057c31",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q07",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "3e02e17620110aa785cb8b932f0d77e06bc7c5a9b7dc6347171aa8ce955c344e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q08",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "52fe793db219e96f7589b444a579443355aa478f7808798ef9ec5cbacc72b539",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q09",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "5a697d2940fb1bef325dd44267082661842697a491d9200a5fd50a7be69388f5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q10",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "1784bc8a49c35328021238d930e846b9fc3d9bd0263647f8ce3cc1b43814351a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q11",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "3b3ff9752e4477710929b84953b042dc4456595707a64a7d91c9490cd4cd892e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_prehistoric_q12",
+      "version": "1",
+      "topicId": "hist_sl_prehistoric",
+      "contentHash": "2a4dce4c50b7b744c0ddce773f3525bf9f2aebd3b69ecff8546395c78d53de0d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q01",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "1910ff400e23e25678e53d87c8b8ad15dea556de011495bb140f5451b5d9f7bd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q02",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "2e1dcb144b80fb94cf43999b0f3e774cccea099ee202275719b66bf01bbac5c0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q03",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "d452bf51dfe29db124d465ff3fee950a87bced8ec3cf0144aeb7461a112b859a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q04",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "b6c755aac5aa22caf8c4eed1a44f1a66ae2540b92c4e262465763713f0d1fe9a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q05",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "c2b71075ab1da5cdb530a1be3e65ac3eaacfda36e84dc9f94488f48c6c257e2d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q06",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "98bf78dfacfb28c97a6a487cd5225f81a44e00791b4d8c01dd2e2dc71c919583",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q07",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "adfd5bcd3e602d76ffe69ffd24f5fcf38f37ae9d274e7b92021d61d294b76e3f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q08",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "32d60fead9922d767bbdfac8cf92d8e5dd923c45e4b534f58489047f6a2ecd84",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q09",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "7a916f2c73b687b7d6d4ac8f981951daa8cc9a2bd57024c3ca39808e6f009ad1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q10",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "6986f1f78c810d2d8e9f809707484c1f9ec804fd854f55c591abbb82f5642857",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q11",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "ac640fda366235b506dc10785b7f264a4649f85e40f6dc04ea63ccdc6aa4f34f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_buddhism_q12",
+      "version": "1",
+      "topicId": "hist_sl_buddhism",
+      "contentHash": "ca68b353c6b8286402e54ae58bc3caf78a28556fef8ecf4eb87dc0401b77e787",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q01",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "59a1f66bd05e3d30303932e459c37b734e5bef77d88588637ca23c2ed9dc15e5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q02",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "9a240fc20e0dff872dee56843a0f8a474bf58877cc21747ce810f15d9993a84b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q03",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "27ff9622712ffeda55cfc55545e00df072777051974562091939a3e13295908f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q04",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "15f663b97e089e74abe249fcd491268826725d879535391a9fa0d31da4501942",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q05",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "e6339f1fc2016ece129c94f71b584cb5c8fda138f8dc3fb6b963f386838243a8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q06",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "88e2900693dab6491de20d382f46eacdda1fc95a62340f1709b735a34ade454f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q07",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "350c1fc5ef2f5c219f8db8f9d9998d13302884f6d1a00d090e56ad03d1bfabb8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q08",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "455b1b6e4c1483a1dc8695041ac37739c819f8cafdabd86cd38f7f4326bc1539",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q09",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "cfe42eef4c5ea8e0689517e66668e694bc6ca0b25d54bf5eac396173a6718f5a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q10",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "5d456339ccbd6224de8ceb757988a95aa1beaae3fcf8a7f50aa02833b45c6be1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q11",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "d2cf92e02c3adba29653f15c89d62ece95c37ef6e35aa917ae2618768a29f508",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_politics_q12",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_politics",
+      "contentHash": "44acb2b917377780225d964057691be89762bf8dfa84ed4c7e0a0006f42d0c95",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q01",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "9e1b85c76fff7d9f75f61026db116d444c10180a2708158d330fee06cade4745",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q02",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "b9ca696be6c1c2688ff1bf7c586e36b81b7597d45e19b559be4537a8fdf60e1b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q03",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "65373177e082cc31016eef18e798c5709a1e3def7e7d0238a706b161172b5c25",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q04",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "818d99a5984bd87c0c7afe289ee82517f83172b5137ee81d8e50aacc7df9fc38",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q05",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "80de655d123d3a765ef8f64bb3f0fa2af53d5b46b1461b51ed27369b577690c4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q06",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "02bd5027e69ff5ef4c3502d81815203a136d7c72d4eba8dece3ca37eacf02dfc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q07",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "008bc290f1f3cf1582340701452cbadfe252ac6493e0baeb071b343d532b42d1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q08",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "54ec6a249d5e417c17ae60cd0321151940f7c3c1eac00f56a1417ff935cc267e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q09",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "0bbefce25ce6f8aee1f3d912b5954d93940fcb1a382a718ffcd8c56bdac2771b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q10",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "72b873cb6f8e599cde4efd4504f99d5840720c572f0ff8772c2b824faab4e932",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q11",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "fb9386884f78dcbad1133efe80e4eb639eba004b1c98e2733bc9ec274cab9325",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_rajarata_society_q12",
+      "version": "1",
+      "topicId": "hist_sl_rajarata_society",
+      "contentHash": "884b959c69151cdd78edba0a7c7e617b61d8e7f6c77cb0b44c4a4820420814b6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q01",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "3a8c5297cf74685670decdf51d99a004ea1db49cc8d13b7a835a02d214e48ba1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q02",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "5ce750ab1c7c47aba56ca95fad4aa22f36e2e46288916711d9c57c92b689d141",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q03",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "272a0b67522b2c4291f30f982372aa003e845e596ad824506f60f6469f66f8f4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q04",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "3f372c50bf23fe8d62eba11d1808a568966267efdd3b327e018ebbaa8db64c82",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q05",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "8ea368c66404dc28590c86721f9e44a2de9f70949f93fd2f9da02cf626a16f7f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q06",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "50c776c6eaaedcff9959c5b89e00d84db5ee9638249642ec9f51563930528941",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q07",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "c4588fa4df52bd31321d31f0d19e7434b60851b79bfe50900807d1b009294efb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q08",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "40fabda3b76e600669b1b5fc08a951bd4b090db5d269090f21c0adc844ef3a23",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q09",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "092475f21c3cc5d5778d7a393f1159ca783165b060750a558a14e697dc3040db",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q10",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "392291730aa56c904819c0fbe18e9db638e63dc19e09cebe40e8a4f38392e6ce",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q11",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "54c78e21279d2fabdc87a43334f302b0580caa5323cb8bf9e66276e17528253e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q12",
+      "version": "1",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "contentHash": "3fa8449761a21af1f5b56a30bd0705fcea40c0880687bd484ebe7aefb2e8bc62",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q01",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "ec8416bac570c1564dfef5a9e6da1e26d2ceb8b305a05784a4a61b8cf3f352c4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q02",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "5a1f74bd8b4eb286bd7d7f8d78f900b35f79f40585732ea5daf39143854427ba",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q03",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "4a99251f64a77e30a40423e35dd71bba59d6e2184a77885a69646faff9b5ca65",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q04",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "535ca54a0450e0f26520c5c868035cc7088159c38423b59bc9755289263dc8c3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q05",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "8163e6393f3d4c6dc86ce43a98c361c3fd79c825639f8a3c6e4f7c8f1b7d471d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q06",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "524ee69b8012152b6bf1cd858dca63bec241dc5e62ef8d59ebc9a7ff49f6cbbc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q07",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "a505e6c63dca02dd0c989cb7fb10b6d8e3222e65835cb49f9caccb22e5b179b3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q08",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "2270511c833c5fabdfb6352abd73aaf9a23880cf508d67ca10ca7c7ee521f21c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q09",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "467e0e3796978e53556c1be9c4a26d7a89f68cf6cbce092a4c75136c18390980",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q10",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "32ce1ebec30438fec90a380e8a79fb94e5b58576e07a8f0d59f6b548559c0802",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q11",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "c5c73abb5970b3e9c96b040e8eb17b70fe6add66642f48bae0fd8aeeab766bc1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_sl_colonial_modern_q12",
+      "version": "1",
+      "topicId": "hist_sl_colonial_modern",
+      "contentHash": "1f662e96d959379815bcb8b188c4bb910e90175b508666049f25b10373223c90",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q01",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "31d5b5ae00dbfa7710e7cafdc0bdf2032a8e7a38f6378a5816041e5d320c672d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q02",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "9543c4b20e686d67edf1d8306fafc382a7b5d8a3b4846ed513e9af714b8e28c8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q03",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "f25d9236143f6d8b1b486b5d5727f29903375ee7ab4fcd16c3ca035866b09e31",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q04",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "7856092689285263dc6afecdde6a557231efd0940f1455bd5dee754533f70101",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q05",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "44caf94c48e7c5921e7e001708d77dd4bab6e202e9c5d22f13b594bee1ecfe1d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q06",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "bef6e818419e756170b26010f737e14a61cbf37b8658c469031c935cdaac7d99",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q07",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "9f749c9cde90d6c76c644dac133e5830b3c002980fe9ee06e75b474be5d03401",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q08",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "71d40cd46d07c1c69a597dc8467c918cd2afb37f14c1fbb36481fcca2b77f4d1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q09",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "2161eded2b06f526a0a2b90066280e4d65180005ed4eb18c7687f1f2aac0a240",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q10",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "7db2fd4fd6975e896e024bd3b7e873eb84d821b4f2efdbae9205817eaaf1a7c8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q11",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "3dd937032d904f0476a7eb56d130f82014d6b227fd3c8ec4906d6e889f4b7d55",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_sources_q12",
+      "version": "1",
+      "topicId": "hist_in_sources",
+      "contentHash": "446cba8d5fa9c64610e50b0fe788e6021807a527500ab5e60ec4721793eb14c7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q01",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "6f79b6f00c3a42e868da4af900a3538cfb994334ed2203e44f1c1a65d7396220",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q02",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "913867067856878ba21abf9c66fa504f27e2ea76151edc54342da951d72510ca",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q03",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "fc8f728e3e63b3227b96eb55a4c56592e364ac07cd31ffbc5eb9d625fa40bb1f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q04",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "65632c144fce202c7ed93e182bd8af6d79198331ef271873148a7f2df425c21c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q05",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "a4d1b0a39ab009b2f9d4231a45612cba96df8118d1b3b5b026d7423ee540fb46",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q06",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "6b7fb3fdd10caa120f9ee9a6affd087295cb13ae53a750a67251e97bed032f21",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q07",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "54fbf2e1d4e099256a65128d19fd210cd9f4108fa40b676216a4d0f0767dab23",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q08",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "34657a312e83695583604721ac27960d9336c6355bbf02bbc961da13cc4a4da8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q09",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "181aeb17aab739d404fdf459525e328edfaadb1c4ec87a748291335c37abffd8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q10",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "1022076d51ca7d07be8d8f479fc3f64b71c50af6cf5845323f92f48d77c4b8c6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q11",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "80c6f8b425a3e0ba6683724a7cbd2b6c503c97e3b158770a5430bdb70a191509",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_geography_q12",
+      "version": "1",
+      "topicId": "hist_in_geography",
+      "contentHash": "2205015291063c8d6943ce07bf96f4c0d89cb431c13f2a389169002559f4d107",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q01",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "048c81659683e1f79dd857afa2f25dbc85bd0b3f0b8acf6e717e81017d11f330",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q02",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "a62e985d0aa01642ec839fa7bbea7d30a06c69e00f27e76d6fa1d12297dea82f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q03",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "1f60f020f6e3ff31225b3a10dfd4a8ff49c522b91d7a91e8334746461d97a8c8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q04",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "101020ac99bd7c31cdfa2b26e05e254e85e9b0103c583672732b6d437657a12a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q05",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "2a76d8b10ef046989b56c37dde1acda0b34e4a5e0cdb759642b4da2b34951af4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q06",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "02f3c6cf35c7eeeb1361ce435246dd621ae764f06b9e3e8f86f7d1dfed048852",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q07",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "b8617d344f34ea18a73aaace02e6551af2d786bca86e57b64ce5d1c1313db2a7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q08",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "8b4c1448e2e6e57041beab1690b040f1041577f6949837ddaf492829da28c930",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q09",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "83506c792e05854f785857126e5acd0d4ca650c54ff93317b542d18db7d93cd0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q10",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "33e852c3750c08284c18d27b7d3da819f619ead685710d688fbd1a9ff7970aef",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q11",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "de717b077c884af7cbca41d7c07da14ebc6080c0e449a650f1ecfa6e260cdee5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_in_indus_vedic_q12",
+      "version": "1",
+      "topicId": "hist_in_indus_vedic",
+      "contentHash": "3d84d6cbcb34a68316e0b91a60553ad558493f150d8efbffa15acadcc46daf5c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q01",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "2f75ec0a768319a0c90c1504f2121fe89a0ad0121fc4c91c904222521e8a3b01",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q02",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "c11f8e6429655a00722e299adccfc4e202ac52708ebbec4620b7a75e941596d6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q03",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "b3e7fb0767186a37110a99b8587105326ac023aec576426b4d6e3597a3938c98",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q04",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "430f8396e7a0c9b53dafbbf14160c419b0dafae297711a8f9f351a88a99e7aef",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q05",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "f9ba72a749f6d3218225497b1d20c3fb59bf22750cc64844007fd5f88fee12ef",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q06",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "8a535f48b95f39ed848e861ffe3780040ccd6287f362c375db6f023c4650cd59",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q07",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "f191d62782605235fd4cea28432611aa5813cf28781c5a4e4fcdabf4c360e68c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q08",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "d1740dbf1a56350e8448aa36f3962905824fa3faf4609de1ce2c05d0d0151673",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q09",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "6d3acbbc964b01835e1ffff9d6e0bc67665f3f95bde182273c5fc7e6a67331ec",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q10",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "2c802a7491aab2c5c83564596d8fe5bf223cfb7a7edc1b77cab3f48ecc3c4d4e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q11",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "60e9fb6cc5f6eeff4eb8a330dc83026c3b1d2e353bf6c01a8eeef6f1d7de8d24",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_civilization_q12",
+      "version": "1",
+      "topicId": "hist_eu_civilization",
+      "contentHash": "d9ef466583afa3f68e66964b1102ac7a487b14c83482912e4ccb96c3a89cd1f8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q01",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "1e72c080d4f033ace8f2b1e5314e5babe529366620f8e44203bbe401a5201b05",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q02",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "2724f9e71f5beca3cee3a22c79a0ee0c0d6f6ff2b31ad3c2f56432230f8c7484",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q03",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "f1693104a8997952c7ea3ac8093356931b2a3bcfbf77be16137d4ec052e3cd4d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q04",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "a4191625d4cbdf1ef96442493a7d08aad08cee4c1a5ee1407cbbfea32169a741",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q05",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "66e39ccb34f96e0cd938549b0e0cdb75d4325dc25cb398d3be7d4ced9bcf11ef",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q06",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "2fbdb38d024be9390aab2c988b6c278fc24e94d75c0b9b242a83f937b2be6a5f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q07",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "39736963fb27c9576cc6f562db57b14433ce85b2917acc981f5182f3f4640a7f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q08",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "8f1a88f3c0290591e48cefd0660ebd00fa16d01c2d56067ed24eb91d58d7e289",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q09",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "ccc97c46872dbfd302c75dbf4a9ef188a4c091f5f89561342189b9d79af2e3bd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q10",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "d4b74afa9a18b446b17f2fce832f03ccd0cb529a99a400b7b559fe057fafa9cb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q11",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "a999ca16b778d2737bbdc8bbaeaa85077c0243b3000c1287750868c5ea4b7f35",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_eu_modern_q12",
+      "version": "1",
+      "topicId": "hist_eu_modern",
+      "contentHash": "e019d9cd804559010b5a78e1eded42d033cceccd326bf3f30a098412ab144143",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q01",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "b77b098968be181ea70fa39a93f1db3671b041f501c1c011c52461a789e262fe",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q02",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "bc17e9e6a284c4034c08ef6db89ff6803a82bda9d9d1ddfc66c78dcbf595a967",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q03",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "889901f452e113775d32c34db32631cd0d2c0e2f623176e6338aec98a4c49895",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q04",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "beff0036a524493b6e0231605482e9045122e90b59152ae3f164a4287473e5f3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q05",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "6d40b15f0723720600acdb9c74b2ec7b432869ab71b4489742b05502feaefcf5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q06",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "5247d4b2a4bd6142b3db2e5629f7bef0e46372689c7c78d6295ebb8ec4bb87e1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q07",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "82099ca2a801c072e5a5d823c003068b2394835cbd4683efa25180f1da0f80b2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q08",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "96c9d958b866719def5221cab5967e17e6bc04a2815b1053e13ece8356f373f1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q09",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "f8841c9bf7b4660cdd9810e2c178b170eab98574591023a41bc069770160218c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q10",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "8c81ffec318e8ea52e1f0c66572710ac00f7afba552fc52def47cb8dee6ee13f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q11",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "239e4cfed7774a3393fef660906e4cd395bc3fd1b4cd750015a10212d7e5ea26",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q12",
+      "version": "1",
+      "topicId": "hist_mw_since_1500",
+      "contentHash": "060b164d07376b7bc6ae450ad225d896b659b281be745d10367ff91e8674024d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q01",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "f22943c467987bcb7232d8559f310d225d438eff28af501521735e873396c7f2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q02",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "bfccee36cd1719ed3460d8fa743f4dd404f0971381441bdedea9391ce392a64f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q03",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "a249232f04f9fcebf2a789550d54d5137e7172ae43d5282a4e3455064198c604",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q04",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "eef71e4fa224b82029764fb993c64b366d6abb1578f8ad9b76d0ec86c1bcd8cc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q05",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "069b85a3903780acdc6080234184bd19194bfd571d5439161a4011f2c4223b1c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q06",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "a0d40da1ffe78c13c3c4b5dcb3cdcea85b011ec79943490f6d11826a507a8fa4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q07",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "816dba8864b574b8c0d5ee5734ee27ec86d680c5b9fd74ad0f91400e385727ef",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q08",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "d0ae5f29f8f36759da7d1c23511a7f0435851999817d429889ba6e7749eaffd1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q09",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "91a5909c94320c9c30be3891868d06878273341803fa6cc0b4d8b1a4a9a576b0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q10",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "b10f87fe3f17420e665d332a8891a8c67ebe24edde9d3c8f74591fd2f3f4d5db",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q11",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "c7a35cd7a7c4bdea27eb54fa45dcba9783c4896238874b5c5f37980a87484a09",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q12",
+      "version": "1",
+      "topicId": "geo_basic_concepts",
+      "contentHash": "b99e8c701821fd3e17d1045699dae8e12af3bdf9f198b7fee87c564bf411db7b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q01",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "80e9a8be6c0206d6ddca7c943ab1b170d7c46e2f4e90c051e80dde2da9d8f955",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q02",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "77d87654020546be39bfe94d9018d09d36ac67cf222f1101dfa16fcc9e13b7d6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q03",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "874db8bfe6c99f1dec9d982dd9f8569dc0cb5e053ec277c107644d4b95ffe224",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q04",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "7e304a6ff63997c82f570aecfcfef5c058d50a25d72311a7bdf63c327393c6e3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q05",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "2dc2c7eb6fe5355982ab083c88474dd349dddd0470b09317dc1d16938e63f603",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q06",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "65b45eaba690dd320854e858620e898b1a8e8191baf9c878db25a6306c7eb36f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q07",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "5445104827d424cee6c4366ac3931083039e617a30f39fdce603891befb224e8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q08",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "c9958b1e8099afe2ff446ad37a12c2a442ea409d7f02b37dd82d551efcafec24",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q09",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "bf52f3953ac37a5466a96db8c242849ecd539de8dc8a279088c606e206796a2c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q10",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "3355b6e1ec620f18c967002e852110b62d9a95f12d34f1e47196812ebc803705",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q11",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "9d66e2ce6805bf2a611769dbe94f3ca148e21d45af627f60a04466a2ad1343c4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_physical_nature_q12",
+      "version": "1",
+      "topicId": "geo_physical_nature",
+      "contentHash": "ed90b048214fc0007448cedc32aad7919b827f7ba80ac0461dbd4c8a54809bc9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q01",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "cf1bbb1f245426628bedba45e8534483c8fb1ff606534460f8e3de69efad3dd3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q02",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "79642f50a794174ecbc04b052570a0f757cdaf99cb3daf5ecf34b5d396e5af22",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q03",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "b2af696e9611b1d3fbf7be16d55da982899fefa39198a722463dea257fa223e1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q04",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "ed390af353121b2ef40587b9bf2dd3d651122f5f0fe761f473a8e7911b80ea11",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q05",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "a6c7d35e54b18faa62a6190f3b61f2cdb6e62a838a43371fece2c5dfee034fc9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q06",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "5ec70a3a65877507d54f83b9925fe6b0b0b3192ea6d18ff727e717944f11b6e6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q07",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "43990c2ee5947f5ac8993f05ff6baf676e83feab32b5c7d635ba2169c524bbd7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q08",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "8084f46c6f10079fac902aa444e4e8412f820b5819956582a230883291a47ace",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q09",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "f4003b7ebc4c61f0860f2c389249b815700116b5c9269cba16443c184f20e0ef",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q10",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "f4d2cbe1991aadc1ea8ee6fbae6f45bee8ce8a77afdfd9472a01e00f21395a58",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q11",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "f06a8ec87b4dfb1426bf6884db76681e2afd9dd508d4cbd38249df5f5bd94d96",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_landforms_q12",
+      "version": "1",
+      "topicId": "geo_landforms",
+      "contentHash": "8363e59ed744b511bde1ade2af3436bd3fa7724058357ee078b900006b6b446f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q01",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "55bbd29f68a87d3661d290f2bc56579f74e77a0b3c258b0e76b5c626bc98f6ed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q02",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "b17a90b2b3f4d172528949ae1a042645cefae8e2f76b44a2a166e9441998be32",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q03",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "ffd7371ab65ae9225bed1398444ed74f9ba8a0a7365ff9c39bb0a8195eb308f0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q04",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "09762096b298420c9b8295ae58bc933c53f05013aba385ea80e7f70efa2c80c7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q05",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "211ea0781495108d401a4e6fe2c1f96c3aed23afd48c2ba8795ddf2cecc4452d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q06",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "f1164e995aa73ed4b3aebb623267d4f2bd68da6d4017fd465a098b3bc026ff33",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q07",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "96ee1c1ff3d70df403246a22182c10def18cdcf89d8ae8f77a92718a8070c813",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q08",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "92a3eb125bc9cfc711853de41a67dce39a0c2b21cd8f7746e28d89ea7c5c8122",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q09",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "127f7e08362653a0610a3755af343229d8a064f45624a52a5771925c81cd5c41",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q10",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "eedf77e924d19c187c6152f951ead4a8120187bf9302e7eca3ea324384920e98",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q11",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "00012ab92167e6135f637fac0e558fbd66fdb5eddb73bc744ef4a82bd18a10e2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_climate_q12",
+      "version": "1",
+      "topicId": "geo_climate",
+      "contentHash": "eb64df60fda78a0612b45ef63bc8a23aa767000e35d3f1652a418ed4cfcee3d2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q01",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "cc727449653285806567f3c9689e091789c91d77e7a517c81094bc3260433fb8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q02",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "cca83aca212337f886cd985bad5f13325fc0c079554c55525a72e8b6480224c5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q03",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "f3d5b0574481de1239f4dfca32ce16a12a681f090b28af9e82bf889883c23099",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q04",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "be80a1edf16e49fe5903d2a826854ac287082a86820de77f33a1036b41462ada",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q05",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "6ba9d8ea4a404fb8f2f4e8ff887bded69669148e6c69c5822d13eebb88d842cd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q06",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "a8c1e7dc33703aae766c16e88976255a925708109bd8eaacfa2b0a3248c1311a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q07",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "42729719c285757d1cff702a46dcaccd4a329fca39922513d7928d5991546b51",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q08",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "fbe953af3de1a7faca1f6a1f662bb4de7ff851b0c176f0a4578d24d4f56f917b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q09",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "46fdf5c7895e47c0dd344ff80a1733660fe3d72de99c51901d6bf41b2d6a154b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q10",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "3881483661791d795d062cc755630635b157425285652d8864dcd49e088ab101",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q11",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "5a33102e70953b0b40d7f719f1ef1c36314d1610f6142a05213e76806a07337f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_population_q12",
+      "version": "1",
+      "topicId": "geo_population",
+      "contentHash": "237b8cc8afb2ad4df0938113bcc970e163dc39c1e76fefd4d553d8bdd3f524db",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q01",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "fb5b6bc77cb9062c39a995d0ffe61f10bc8dfb34551d847b6c036303e54df486",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q02",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "e9fb1ee055d6b875b9fc151595eb027b12f875d962bf5599afbec0afaebc8bc8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q03",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "a3c20572ef5ce2d68f4339b731584cfc6fa41043e8154f022b81078826b02dc5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q04",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "a9a8e65ac48b912659d8dbef584739a8ecd5143f7af8d3ca2033b8ffe236de3d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q05",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "dcc0c7606c5f65265d4613498a9ca8ad00f12292dccd8cef2a741de481624847",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q06",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "f8efdc972a7ca783a690abfaa9bad8642f47bca97d3f740650b44c0c5e971e8f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q07",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "a6ad92ef9a336ddbc8a90a733d44247be55760f98cfc5fe20d9f68fafc2c7da2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q08",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "7b63e06b7ea05f31065956584281b14493df827da0c9c6d325cad5ccce5c4c53",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q09",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "c13149082903f9c30c767630cbb86564990f7bf10d5bd57eaf941d9eb7c6079f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q10",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "4366720473be34807d482a93f1cd19a1933f2b40fb4e5e3de32f0848d2501bdd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q11",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "fd4fc0fcfd07843efcdf508398a0b05887065e25dca54300609a90542718164f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_settlement_urban_q12",
+      "version": "1",
+      "topicId": "geo_settlement_urban",
+      "contentHash": "3fd20ff9595c7431eaaf75681aa9b7c0782994c5f46695f3f5b37637b11dd842",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q01",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "7571c20d1f44a9db9968c711da1047389d86ee2f906294e15e751968c5adce50",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q02",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "d063062146916d54402ef03fa1449f131e3bc34ae4a8ddceba0d0f22548ff0e1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q03",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "6ad1433e6f5173f589e8d8537fa01fdcbf74ae7b5dca1e6fa4e3851b5a1768bc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q04",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "e949cb48221eb782beb51030f96e31e6bc8a3597acaee386d0e37f2412cad2d5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q05",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "ef7c50f0fb4bfcdab51f37554997393de0f558d6aa6231d8c64afe5bf1f671f2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q06",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "8dc85c909f9cf60cf39cd0ac42b96ea4d2a9728aca0eb98f8d7cee96359c6be5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q07",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "15139e08a2a25c4717a9f0968d26663e0ab8e8896ceae9960b857e1d89629710",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q08",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "b442c8133f47e32b835d6ae012ac65f3773b4a520513ab443635e6f74e5ca80e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q09",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "fd555aea5b2680a05f791ca260b2cbdca00beddf6e936d4f062197707e539473",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q10",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "b029caf9ae72d77746bef0b704c1f58be422a00c532ec9c7ed1e57ef1ad000c2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q11",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "b129c88905d40648daa4d70bef0367169226d676bf2145afc7d3680aff71bfed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_agriculture_q12",
+      "version": "1",
+      "topicId": "geo_agriculture",
+      "contentHash": "66d402ffd3734617fae61415654f213ecda3ebe12bd386499f189fadac60aeea",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q01",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "febdb02f0713a2d97bbf8a0341a97056dd97fe6ac45f7f4f0e081c0153342bce",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q02",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "70800cf20fa983c0b5b1eaac7593362eb31e856b6a4c2063d3d4716bab28339e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q03",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "ce614fb391274c6f94c7daa7b61796972d03dd7fd471e6432b66abed37864a5f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q04",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "cd61bf8d7d5ed3cc7452f2556b08718cce7d2a2c2cfe2bac694c31fbcf7cafd8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q05",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "f648c8f2e72c89ac093a5e1dcd026526df1211499575ec7d6927940065c45409",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q06",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "67c459dbf38e00166967f8f32e1df3d477f2c2238348629ae14d1319e5863d53",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q07",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "d3ac12106c8a81416b98743eaf14dc564b1471fb2996adb8e407e86b4898c954",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q08",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "d89f484239d1763d3338490b791779e0dfb17ce99a4dc048994fc0dd341ed588",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q09",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "1c7df0f111388bc511ca4cad8caa68417de313301d062d77e9451b9d9cba48ab",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q10",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "68b7843d024086c4bea737d1209148647fd5a082a2d60fc9d3e485ceb5edac59",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q11",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "f87d0d75a4f67eb3efd26d8c75bf3ad5e691a5088eba3b9fcc8b244d51d4bc29",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_geo_practical_maps_q12",
+      "version": "1",
+      "topicId": "geo_practical_maps",
+      "contentHash": "5e5786338b5098d693c364c1b3cff5f1bc7f358785094e202ba8853627342161",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q01",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "ab22ba2957a793de73d85d3bf5ec9bc498723dd3e7d1c9156a262e1c042977ba",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q02",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "8789a1421ac469a6519fb517c50f23a7aa9f33b1ff87fc82d96d95d734768328",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q03",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "d68588762e365e19364096cb6d1f3bca52f1a7fed9072917bf6c2f5d986a13c1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q04",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "b170238a2516e60fe8bfa01c9d2acc74e004ad2958d8bb7bad82578544e7f57d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q05",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "d888839d068a3bd0420cae98b9b743369bea2679968e15fa10c42500435c1371",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q06",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "3683e978cdc9cbe4c258ea3503582f08dff3fb95244c1a5028168df6a922a83b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q07",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "da2763ac9ede0a8e1f55581e510cd50841e003dedc005ba01fed9f90865b2c3b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q08",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "9a3653967adad559611bb03f2ff0f280949d87903553c5e9879fe2f2ed415980",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q09",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "f952fbff60daa8cf92b24dca76cf281b7498bf835e314c32a1bf7dda8e5a323a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q10",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "550e3159d9ffb684d1705cecc691e8589f7b061a03e13c2943e862ed9f2cc037",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q11",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "ef1387da5e0fd5abc2e5febfa39c8cb37b6e3a23a4707a24c5116ed5014b752b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_nature_q12",
+      "version": "1",
+      "topicId": "pol_nature",
+      "contentHash": "382a3f2d60807b3d2e06ce2fc3881983dab1b3e229e44fba116763cd7243cc48",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q01",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "39250f35de724172ba7458891bc0c3032d94b7876ba829aa93d9c52b4355986c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q02",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "90b5e3550d5ad59ab4365045ab60ab24a1d70562321f2fd3d4e8dbc30b920411",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q03",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "c0abe06f35ad9a9aa43372038a44281811d5274e8d995dd76158df7a8f746916",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q04",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "b157148156cc9f510bbc148a9c7186e2fcba6b8dc074fa25d4960c1e6efe1bfe",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q05",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "a6f35c3e21837a7a95853a8dc8831c78c210662e716fe8ebc8fc6bef64250af6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q06",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "74f34dce43688489dc03995995069b2c0907aa0349043ac59949e083db06c963",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q07",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "df40b6b4684bd8ff5a18212857ea5f3b25d80efd26dddf27a4acae2b9172e22c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q08",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "995048cead0fdbc601d850bf017739f404d0508fac8fccef5121bb1dc4962400",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q09",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "a021e156e47ce630ab5f87a757184c81a2bcaae9e991e45f76cbf27262ff6e67",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q10",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "93acd8d584dd96af2a29781538467d1301f9dbb09960bf9101aa298efae659ae",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q11",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "9a85a75efc8180049e9bdddd22069c903ca4d411e3ef6b630dc784d42ebfa1a2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_subfields_q12",
+      "version": "1",
+      "topicId": "pol_subfields",
+      "contentHash": "8a3db2cf7c1eb8535306621688a2d19432f0c5d0035c8d907e421c9c0c17e8f1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q01",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "7d206b0f95d8135c84b41d04429c3f033652e654f1e68affa21f4f663c6ff85c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q02",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "6bea3327c1581e2c705fca922cf66334406ca9da0835bb453efdae781e8301e5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q03",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "66c1266e1d14cdf391fa1fe1905ae8c78c681160bf020a9c73daeda5a4bfbcdf",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q04",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "95cbb5f7f66f7b902c3bef4e47e7b91699c43c63b40ef8b4a593f04beba384a0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q05",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "cdc0b6267fe9dbcc5c4164bc512b82643dd542df08edec6f2213db065db5b2b8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q06",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "bd23eef867e5ad410c14c9c7c3f2737a3fe04018b4035de9c7857712b249ed46",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q07",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "f6d65de9f079c5767c2b6c92f4956a4fa617c932d380c0416bc3c47e36736136",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q08",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "9fb27a6d14aa4d046005efd7acbd56069faaf795c535afba7657340cd1496634",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q09",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "5a10f32544f467f7f139a97e1254d76142b527d09b4e9e7a370d25cf7e52fb39",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q10",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "c9f145744bd4dbdbbe2092a08ae472871009c6035bb5543f8dcbb7b759c78dc8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q11",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "260cdfec3f39fd38f25adb6a4b1641c38867e0609dc2817c72107fa2e3fecd30",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_state_q12",
+      "version": "1",
+      "topicId": "pol_state",
+      "contentHash": "4dd2a2fe5c0b805167c74d5f94be2bd3ce50e958db8324525fcf01f5f6a700de",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q01",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "267bfbb0bb06bb4f2e8eb142b95a63d4186df4cc737582dd2e3303d89575beaa",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q02",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "cd1969cc90ace910d144ffa9c9efee974bcf063f7f0548d1aeecba7490063516",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q03",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "e7919fc9ebd03c69783694fdab97a983beb1de8387dc96e36de0820c73e99ec0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q04",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "77b5eb145942d56ac874b75c8aa22c6f6056010d72c8d1a1cd85857c1aebdb92",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q05",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "e2222b8d1b07d98f53eb7e9deeeb0be92d10c7b928cf66f34786f0ee85f66fd8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q06",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "ba0d4206c119c694ca180881723f77d4312d1ea4dfda4056968952565857655b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q07",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "62f560a43e92f02ed8de0b2446a89a60a669575d62adf95f0ae11c022245614d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q08",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "41f1b8b96e9fa4d7a6ab9b58fa53d51c57ddc48995762b9ddb958d1d84d9c872",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q09",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "aacfcbfaed017f51386fd73f923c941ff87d4502d1145177264c790cbafe1015",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q10",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "5e7fd747ac203ce90d94017bc8546682b3eb2ef3ad5907da25ee3c6fd3df96f0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q11",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "9ed8776a503315a875caf92d8c6e506fb7f4d56a845fd3b003a49b39a0639d23",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_forms_gov_q12",
+      "version": "1",
+      "topicId": "pol_forms_gov",
+      "contentHash": "a54ad0cea4f02a945cbe8226f8b3550e2d55c0af277f153f3ffc4454b675022a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q01",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "7e09fb2f8319ec4c6e9ea71b4c291bd63426dc9d12528a2f37f391d705551fa8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q02",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "f58481af785733b24435836fc43b1704a3c2306716b5ac3f195aa149df685a7b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q03",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "607773557fab911779a7a0bde0c21bbb10289256acab85263f83e70e83a9f498",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q04",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "df6a2a9a057d541726f948f87fd6ba1ee3fff6ea6d1bf94c8d77e4f3d4f506c7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q05",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "a9d9767b727c2646a36231a69ed90c0285610002250160df0c090e32048235b6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q06",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "5ff86fffda3bb55eb73a21f850892bf33f9ceda853570ecf03193788e2b040bb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q07",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "8927bbea923fd4e7036a85624ccebb446ed79baeb2572f37ee2d9ea85bc3d335",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q08",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "5d7caa11ad8ded689865b9e02d7c1521e2c58a7ca29f1fa235305a7de517b4db",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q09",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "93df99972cd139cdf49f677f90c9903eb36ffe61e75fb791e31689d85428e9a1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q10",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "686716cc6a5559b76c8c274fc2ba4260b81ae34963d70300e327d784a4e792df",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q11",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "7122422b930c5b3f7d5d77e671d361e73cd74f6e5a008dd14f5f527970363721",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_ideologies_q12",
+      "version": "1",
+      "topicId": "pol_ideologies",
+      "contentHash": "0051f9a0de99db3bc7bab2e077bdd779dbeb4498fc7ae998a95adeee9d9af788",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q01",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "20ea066e97e6a2646be7fbc6a1a4b3e98da2decc9dda0c488011c75297c1c3e9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q02",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "6538fb44bc19b3b0428a045ffcb3b638e2cca8e5b6acfd2615e32f3686214a3f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q03",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "50b5b28bb9781957eee14bb4928add7f69b3b41f1f0793c7e364a438bb978f8a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q04",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "ed29260e45a823c92d6db9f63975761c54f0f6917f464540c12acd3d97c52cb6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q05",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "2cdf43b3c2a677c9f93dd9261a4ed69950f4e14256d3ca1a3342aed6b1ca215f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q06",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "3e9a9516c9e738c0c775af7cfad604b2e5ecbbef6c57e2d6719c75da480dc364",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q07",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "2307bf9631e706ece1088eee8841be18d3fdc1a1fcf9c113606fde4e144a1bf7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q08",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "045d65327909ac4c26f6fea24dff363e433c45881de034ba068700337ff629cb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q09",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "540a0b9abc4410aa1adc15f3fdc2f313d6f5bc1e6c9d55feff19f7e5a07413aa",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q10",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "4929835f1eb8f83782ddc6d6150b442c0c3abfffc0c4dd6ef3146a6de11191bd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q11",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "ac1ef0548298a3d08d4e2622dba2bcc4d1e8b1d9cb28f96f54bb7ff13a77716c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_conflict_q12",
+      "version": "1",
+      "topicId": "pol_conflict",
+      "contentHash": "e4544684408cd8a84e35aea88bed4f5722ca60018026ede477a9d0a64558b338",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q01",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "5f44c6391d0488429f488c845badab613f4e1fb5b62790ca5a5708c04ead6ed5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q02",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "cd10e1850489a6350ac1423d978f5fce49ba04d6c8ea90403f7c9f71c12613db",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q03",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "d667812a2ad4dcf6f40b96089db227089904d91aeff7b473a3ea6963b9f37721",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q04",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "b999a6b8c455cb3cbbab1b6c069f4814705197fd01dc0812583727ed2f92f188",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q05",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "3f5667ca2b54d84318c365672369199ebee83f5004d347b56dbffc92d439e6dd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q06",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "365c4099dda915380dade06a394cf0704c1cd3b717d05a370844b1334c48c03b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q07",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "ed5aac63d31a33f72c2043322ed477eeb1aa247846ca742199feef12395651e6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q08",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "f2fdbe1cbe824c6e8f6b079329506b36665ab1dacf36c12e05c7789c31a8e784",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q09",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "ed94a3162de73579b78fe751f585585d31ad9e5615faa08f85c6dd1d59faa401",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q10",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "6a015b5a1c0600d36f51a40f830b42946bff9e419ad6bf8bedd403fe8f84153b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q11",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "b4f80ab80afaa1525c647bfa5724e3c39e962285bcc695fa6c0b425f33144181",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_colonial_q12",
+      "version": "1",
+      "topicId": "pol_colonial",
+      "contentHash": "339417b87b7a0f688ca647ab64ddc308da22d8127e8d9c8ef0b8a62fd3d871e9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q01",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "fe8e1ea7eb16a3e38ff0c8cc1eb5dcd7340291b922453a7826efe9511ed9e80d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q02",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "c2a56f4c7e54a4a3a31fbd9198a9a9cb4ae8b8236e652da564f65a9ec42d0960",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q03",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "65a40152257cd1658c0e59ee6c10933885145a39c0805484f92b681ee5631957",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q04",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "820275b39344b5622a9baa3d41cbeec6f2e4782d87d9bb6d0bd1c13b73779850",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q05",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "c91c92c6b6eb93f1de79bb971418a585c7b1989ce555bde396c2f58169c55f58",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q06",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "126ff1a02f79c1a927c095d1e3866efab46a9936a9d3d980eafdc6d1586aae38",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q07",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "0e6ba231a9cb75a2823c7f5d1fbd427a2f4cd4a4bb5060d4e5ba559e25c7ca67",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q08",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "3194a6cf6206df781ac4d01de2b372d3388e44d8ea5c9b3ba1f34d481d340611",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q09",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "5ed63f23193907bee8de1746f261aeace8f608eff5b77ce35e16632febd5724f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q10",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "978a8412c3ab7528ef27b6ad0cdb49fd4fc2a66399da10fb46724648fc230e82",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q11",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "5d8313bceddb5239725a1dcb5142ada583766058e9d317d23c0a9b5445c0fc34",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_westminster_q12",
+      "version": "1",
+      "topicId": "pol_westminster",
+      "contentHash": "f807ab05487e1b501e97f017f76a7292187535122b141d8815bd18400e9c3d86",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q01",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "d708ec35593e102db1364f60ad8f7d0d0f83916b683a9889c0fbe3c72964af00",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q02",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "3bce11ed3fb45bb45b1dc8c43dc8bbd0cca7c8e958581bd2d22759421f7ce3a8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q03",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "7970d2640633484be7852e4982f5eab99e38b05c219107b48c422ca094c976f9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q04",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "0135ce50a6c4ed42aca4f4c0c0157d7f960b0b5485ce20e302e3c1d35f77b531",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q05",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "dda11bba6e8298986cc38fa2b3d6843f1f7fa061c858ad4a2d7dbbad52c4b19a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q06",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "1a2dfafcba5668f87d55f89c7cccd88ed99ab6bab37713cc98bed394acaf0c52",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q07",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "64088ed69794599dedd12c20d41d2fd523467e4208fc287c179215f7c9feef3e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q08",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "2688c17979e8eb83c48c1c8342eb1276666db3b5a493041d622b5e2aa92a56d5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q09",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "45a6b7d059b1a6b9cdb4c191d2b117bbc25a4c6715f2f75a4edc217a7cecaab5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q10",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "b11a9d24c704a6ef66f1375a430226cd1f412c327089944e3f6be01d2e79ad6e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q11",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "119eeaf5b092bc8034d7d4a124e0d9e9a571f6cfde4edf1ad926f7810764f996",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_democracy_q12",
+      "version": "1",
+      "topicId": "pol_democracy",
+      "contentHash": "1d6903b4f902a1e8d760a580dafb082bd7dcc38d63cd61ea92420ac646adda03",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q01",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "5381f711e2f1cf1f45ab3f57de047149b7e12d3b9f9ea7396c6ec9380606e938",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q02",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "6eeb07627584f8059436a635c7d1ca04e10f7ae995ea1eac19e3d2d70422e4cc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q03",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "af3c0d8cf730a291c309d495a91c864470eb3af5196d0025dae4cfec653ed577",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q04",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "0b01c66329bf93c0e80e3102b4e2c5e52517bf78a40863390e0d0b5493175677",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q05",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "08cfdcf32dd48b88e29fca9a9656f227c4b03e7ed4ef8cfeef554f81a3a676e5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q06",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "0de883b4d0ef8320746d3c74cbc905561172a25db5eee0135894ecaaa5e68d60",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q07",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "3048b0557a2e81ddaa7714db01418c431338afdc2b4ee7b3219c63f1efe54346",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q08",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "a6c4bd6511c5467b5b3c609e2b6693b14471ff00cf7a2830c5255fb4f9d4c2b6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q09",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "89f83cd43068ad356b4657ba82c6208cbdd548567f78b41cde06415e8babbec6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q10",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "fccddafcecf2ed45a1de9ff1c1eab7ed2f8f1713db220a17e11c999b6619d331",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q11",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "8979a4d5991f3379153a9ba69be36154787cd3300b4d020652982165e84a74fc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_comparative_q12",
+      "version": "1",
+      "topicId": "pol_comparative",
+      "contentHash": "1e4f7ad01a9696f70ba24c9e82cb3c16b909b4f754834a17971b7fd368209b19",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q01",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "3a18f7ce2a081dcc140d7d7c5486a31927604cac298f94fc5fd1c6e914deeca0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q02",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "fde00a5b12cb6868a5740a0d9f5232addc21a7a08a754b363f3825753812224f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q03",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "955ccb1a8f77ab3889790f0ccbab93701390e2619ea3eddf1512106e00fe62ea",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q04",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "bf97ac174847a69170e31247f45f0631f1c49abdb437448fe64a7d49c54b8007",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q05",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "2e9f2f3810a269ef51494fd3c26dda46aa9f17bc510d6cb450d9183eebe658f3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q06",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "fe76c7234b1c361d20dcdcf2094a9e2fa9c39c0a8f2532fe1c1be4869746d26b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q07",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "273366c9a3b2acdb2c88e75378415f3954b60193078a3bbb27d5b97f959c4453",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q08",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "f5ef5cffb448568ed193fd9c4f6d40f6955c894f6b825c63db26fa984b33f8dd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q09",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "9ab7c8c85c91fd977173b326eb14f7fbc35dcba0bd660f60b564cb1cdf0df7e9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q10",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "7f75d16e3f6884b265cce2243a0295bfdef0d523c483fa3ca63e717c4a4240ba",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q11",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "c109b6b95f0e95e69fd73571244697bb8eab66635d6d391c15025edcf5746223",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q12",
+      "version": "1",
+      "topicId": "pol_constitution_1978",
+      "contentHash": "4ec788c8475ea5d93b7a9adf719e30b7717a634fe6cb9b510b2ef3337fbcdbb8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q01",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "34945f0f3437daf8424b927847d6574d31b260bf56ef7c30daba381d1dadbb8a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q02",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "bd43159b79ba67a2af2137b2ac7f7e9cfaf5e417da1713bb1082491c28b3a4a5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q03",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "a1e486de8a966dd1aca7e6309059e113646750d008de84cf44a8a638f62d314f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q04",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "a1aa35e81b3a812868425c13bc32b7a85b8612609e0ec41c47c54c0c8f09ee7a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q05",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "a4be549bd90b4e7d5b911b9353c6c266135f002644fecd0390e7ebaad026ecfb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q06",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "412e7ef85aee62cdbfe076ac8e24ccb992163963047bed14704188c6d592f6d1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q07",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "30fffec11cb44518b4b5f10327cee52c2d56f5b3284550731eadf56e96811bcd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q08",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "687cf140cf4293837c106b37ef37133eaa2c89348bcbd061ecd6ddc36534c0bc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q09",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "2dd3e56e928742caf60a6df684dc8d42fbfbaf1cdd831a0b68a66f5b204b834f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q10",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "0c1d81b680fae477cc66c694ef5d90e8e648a5e43d3fdc366881cc016ec5b37e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q11",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "f39c8f7bc5271578881503233c7478b32b9808855be1960a9afa6ef2307b9094",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_parties_q12",
+      "version": "1",
+      "topicId": "pol_parties",
+      "contentHash": "b9b3453d87767c4907d642dc3afca2461c259d230c135c71306c11e03cfdb271",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q01",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "16240f68781803f070ed0a5be68d1204a69b575a99ff42c76ea1eb7f258bf0a5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q02",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "87ee50cd6876f7617f94962e0cef668c6bfd91eddae1df6145695cd94bc9c0a9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q03",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "f83fd94fe4fe7b1e72d46e8949d0855c6fe9be5640e24dacc79390f0d1a88fc7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q04",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "1786d054ef515c0bc923d1574e7e6dc1c8b4c53e4ff64f9b5f1ee6cda67fdd33",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q05",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "5c186279b12919f56bed7474d18dae3dbb130782ea740fbd3af6dccd0830a544",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q06",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "d4155fdb23c51a53d3464203dd10be15ecc3cf5a8375a6ad06865a2251f8cbff",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q07",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "10374597a2ab5027a685a72345c7ea24b6901529cfc851745e4096560421fc6e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q08",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "2cb37b1a7a059925bcadf8d1dc0e8248e5ecc6e508e566f95ae5cb41f0e5f773",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q09",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "3b497831a1825a43d85a98d71d4bb0c8285128f517e98c1aeb455ba0744e5ac0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q10",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "de9b919a707b1c6200fca6b8985e15fc0b0ab52b1f2634049697962c53bb120d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q11",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "0dc3d14ea77c9602151089f2c0a0f7909c240f2644cad4590f613c679b4ab515",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_international_q12",
+      "version": "1",
+      "topicId": "pol_international",
+      "contentHash": "3bc64de77c11b52f186778afe7b8cfb987bd56b9a03e3940096251cd270d702e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q01",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "88b2451811d1946a4684aaa8844703e92d751c24cf59ddf31d039352b041b0e6",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q02",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "f1d229690d1ea36f4e9c6cd62ac25e7928746ed9889e6a73b57a7f48df50d39c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q03",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "0d8d8c249be8d05a97dc91a701fc3975feb7c11e6620c4eec38a31a9a249bdc7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q04",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "74f9561972b2908f4aad58f7540bdb81f7b9ef06934ff8b7ca80cc9d6d183ce5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q05",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "ce274dd16db36dabfc018e180dea5c8283d06126e50be6952b8c521094092731",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q06",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "ec12aef1a6c5c771f4530f455e3210018fb8f9ed1eefaba703f09ae530eb3fce",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q07",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "6a42916ae638c96085e1d8ddf036bdb3e54b099214096276ea33a37a67d13ea0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q08",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "9d62cff95759ffc28b52b83be594241bf0ed9effac487643a0145a6c0e07eea0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q09",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "d79c687d87c55c73c013420c7a9436112c6851120ed445b718cca679511e4ff8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q10",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "4af5f0db42fe2821628f47fba372bde596e0ec6bf5b5eada21d5ba8719e5d1cf",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q11",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "903dfce5c51e7b2b54afb5021155d378fba058921b4598762ece42c82dc008be",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_public_policy_q12",
+      "version": "1",
+      "topicId": "pol_public_policy",
+      "contentHash": "b6d9c34efb73a7ae50a897de12b49e428dedcd8a0b2ea55b627484a4d3233eab",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q01",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "932e5a8f45b238215197d6df3bf329632c9571b8e1861c624cfb7ef3b31087d7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q02",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "3e1a0b38f93a040204deb5fb410e8023548d2733e852f957ed1d0184cdbe7474",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q03",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "f9b1ade8cfb3e66e087798fd6a26e4da117aaae15f73f6411194050b2f4c42a5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q04",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "e2f4dbc7f94a9310d4c95bd826c199c240188c34bd0abd0cef9bfbb070995a51",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q05",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "93878a61617cb3f53c7e8b8be2daea64797cf1d27d943d60d63907eef8942064",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q06",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "5245c8bb2facb1dbab57a3554ef2d473d9fec581516864f236f57bc0638ad630",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q07",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "408c353c6b4218d4e2ae59d820f13d4595012c4099b4382db43fed1cbc065d26",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q08",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "00979e1a05b86aedf44ef154be62f9a3e6513052830e3a55862679e45bb7510f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q09",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "835c103b0070f0b7ab8d9f9aa8338edd1b9845a0af2e10aefe16510c9b050b41",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q10",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "7200f28f54ff49b9206095b51641ae271e254d735b52b7ad367203ef5a870ac7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q11",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "bd6d3bf6b21bea84c1e87bdc774465be7eda99a3400a1d366f298c2a48fb3fda",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_pol_citizen_q12",
+      "version": "1",
+      "topicId": "pol_citizen",
+      "contentHash": "d2735c627a009dae99b97afb46e9e7f92a4710893aee2f4fd163079ad10c9a53",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q01",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "cff5d031dfa441355d4223844e296e89b67151351f68da1af1fb8c74e404a201",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q02",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "9c468235df5fdd5db725c32524e13f5ff9fe19ba8078ca78ba63db56b67c150a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q03",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "ed6866175b4b9bd3c14107330f20105ce4ade91a5e72f57d40b01beece77b3cf",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q04",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "4b127394fa1a9c662ce1a8534e349484b80e9c2870de863d3a04c2a62d189b7c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q05",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "1dfc1e26412a7e646821f551e52a7a1e55425d1d7f08d69c59efab30bc1dfc37",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q06",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "e75ec728a2d64f4f0cf81eba30d1fdf6e1c0146b6ea3a6c6e4319391cecb6f2c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q07",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "5b6dc4dbc0ca39570adb745b55d6fe0916e0deccd1fe1a3ebb166515f46f02bb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q08",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "84ec87926f85dbf745fa94fcac70f71f3991a0a9713994a8442e0ce436241057",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q09",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "974208f593330744b7ded71541a6674657c77666395bcf243e696d1ba3d259e3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q10",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "0d2e7605bd2d5358cb5afd6fb60ab775212eac744d4142f42f2291042d4a2bc3",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q11",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "79e87312834e3675b6891705783b5128e829520138c50107a26382b5ba2c9567",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intro_q12",
+      "version": "1",
+      "topicId": "eco_intro",
+      "contentHash": "fb3a0bc8edf892e037e6fcea511abb687572c60fb2a9f754e7a4bdca90dab193",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q01",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "692410ad3a0ada56c49c8e14b732b3d1fe0044d7f6e719f17c1dba665c185848",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q02",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "f5f593ce24f3e5affc7660b44b959690e81c2deafa8352698e70f72600193bdd",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q03",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "d0e35909ac642e2310de53d308ca7c229f3da0fbc18d7b58a63f7ddc46a0af42",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q04",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "b3ec30cc189560da620061161862b882981283a78c70c9b9309eed9baeb0c698",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q05",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "b59cdc2cd96aa5e9684cbf7566f3d808773e4e4ae3642432ad2a2fc343371981",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q06",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "be0faa4b8888a3a66836d37276df0919074178a8fd47297a170fc1703002d248",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q07",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "5e9d3c99810bc69977967e7906563a625cc418a76bb688e0a8086e0c54c5edca",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q08",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "9165466fd005332247b9a3ba6dc580163f9e660e0a63ebfbb683059b1581ed83",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q09",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "cadcafbc2d6904add20a273d9abd8e9ac96f6c0299d40b13f91f44883c220d6a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q10",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "e128979c041fe0451a7127bbd014fb69f5f8c2ef79854665c6702b678803472b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q11",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "e100f1edff2659cb10db949550eec56de8cf50742a21247a152945c3a580cb33",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_scarcity_choice_q12",
+      "version": "1",
+      "topicId": "eco_scarcity_choice",
+      "contentHash": "fc5ef8dfc0426f5a416ff81c9dfcb8571bf033df059413d8aa31a7edf2c3acff",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q01",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "29ca5b184d1ad3c409f42d385df388f354c9061a1bf3faa89bda4de392c15266",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q02",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "2ff5eb0f231c240a3537a72c7d43bed9ab9e218421b5b0ee135ed4e179a7c77b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q03",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "0f463edf50970a6d952ee2342941dd6112fa362071782583befb75d417806b9e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q04",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "86ab6e7a81b0e267b057a71c67a508dddf5c99e161066c77440ca3ae444e4af9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q05",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "33a63e39f88446472c0b2cad1babee3ee0b92a9b885c44662efa306381f0c420",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q06",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "1870f35d7a03765e0041d98461153e0d2c6b46948a47fb7e76beaf49f7add557",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q07",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "e6e8eb2b96501f8ff192aa300315dc040c574185df1a121d74b79c7d205f703a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q08",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "de0a6a0fcee9d13696a01e67e1b75a3cb3c4390cf5dde19e7a481009c450c156",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q09",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "c7bbc46ac8b419761dd844de0ccfd3d07896079a2aa363f9eb8f15b24c9fb0bb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q10",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "cb92197e436592bda32f7c08c82c6e4674ecb7651600e766e9a165965fe06c76",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q11",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "c24d0630c75125ce999c083c22e605393550b248948296972a75f011583c95d9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_demand_supply_q12",
+      "version": "1",
+      "topicId": "eco_demand_supply",
+      "contentHash": "c67a530a26fe6de88c322deb56c682aece4e07ddefde93d6ee55d4bdd82a8d7e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q01",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "e83d118f9da684eb106154cc7260fb7331288f46ba4266ecbcb374e8a99141bb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q02",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "0ae46d8d35fa9412231ac35243bf8c91e9c8e72350f15dd7e02418f36b2c22c1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q03",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "d6353afc1192027097c72c2f8b2420ced3ed4ce910c632c6bfc5e1d2cfc8ef86",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q04",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "2341974e07b839ab8f6edadbb028be5218ff2a603d2373e52b321b121123c87f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q05",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "e5c7569cd0dd545cc68cdb14b93981d1892499400b4f129373aef0902561bdde",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q06",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "50fa24bea96bedb71c4720ba518561f952880c354791121b071b5e89df923303",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q07",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "0fc67bfdfe002851ac1f476978ad7c41dd6d6ae177d4c8ebd8d145eb565fd578",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q08",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "8685016804a2259bdd1a128d3c4c0bbde9a33e7242fb04fb6a407da103967a2d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q09",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "24ab90e4451e6b4ef7de39f804541a96f3cb25c811691edc7ec949a199331ecf",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q10",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "90af742a5f8de33011131c9fa5efae34ad83bfbf8b7d3875225b3e469b43ea40",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q11",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "0fcabec853e69845b2fc860217760867e683cbb4dca3882ebae7954b5a89c6d4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_national_income_q12",
+      "version": "1",
+      "topicId": "eco_national_income",
+      "contentHash": "367066518fee9b7e08c570ff262c1a02e0a172e9568621cc97001bd20104d357",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q01",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "49fbc46d4b08b5d76fd30b27287a3837c24a0361ae6e6588de79efdfbe9799f4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q02",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "33ce522434c5a556b4fdbd6c6c4b741606f524c08330cf7db53989ce5a42d66e",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q03",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "10300fed13b05c85faa5a5cd88b9be2c0efafa9ae5818214f453ec761973fe11",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q04",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "c314c18aac80decb42c186295d98acb755588d424bb663c5b3aeef4712a38777",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q05",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "fd1a5ced2694dd0d4c328d0c2a9c1e624a7c83640d50b9e04f4f8adc7e215605",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q06",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "d12b6a2433f92f31eee0ecb2ad9ea81e3203b154b0db0d8bb44bdd57486683b2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q07",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "fffda6fd1b0739b9d1436479707badeb007b497f2f866fae4b0aa8ac7210b9bf",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q08",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "79b2043628a5f6c8c9aa5eca5e01e1a233e43b1da94ba50bda0920cc57906bfc",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q09",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "6fb8d520e9dc3fe0b0eadfad5592856eac96141b99921156896c409aea889f46",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q10",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "36e6c955d5f12441abfa76b86883b7d572f7c6923acc2f2659c7de64d9b56cf7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q11",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "41c2fc006d9e9adbf75586b83b476540075d59bcacea9bba20267d154d1c251d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q12",
+      "version": "1",
+      "topicId": "eco_money_banking",
+      "contentHash": "c9789af27cd347724f930ae86a918bf1f12ceba8db05f252ae561872b714a57b",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q01",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "66d1e9b5364e7129e964103c4cd53693c77bcfdd03b2c0baec2d5c1e72cfe759",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q02",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "f358be58faa63939ae54a07b3a0afe334943032f3d305868dc476098c1d6e17c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q03",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "13a0d0c198f13d6f9bb710b08827a7927f6eb6cc32c6292ec6cdb9d0a946b39c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q04",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "727a7ade5d3733d0fffb332c223eb147b0dbff6cc6d59573a2d0e5271f1764fe",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q05",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "58df90dd35e18d97d2727b8cb5b8c828ceb734d595adf1229c484b61602bab17",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q06",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "4972da69b6c4babfb4c51269444b1035746b3fc9bd4cbade113770298a3a223d",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q07",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "06d19068b3b96507ca7e8056991bdbb6199dd9991fbd048739c40f8d8465f7ef",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q08",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "f89b5cc480f66b5ab10f1bd6fc8f56180dc6b91dc5f69ed97e970374699ec013",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q09",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "4f4edade94ed1c62f274c4789fbb7fb96d3ba47ecfe435c04a655a9679621380",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q10",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "cee0ca6dfffa6ad50e0fa830e868aff3e36e7e15e6f073fdd8e932b5b9c6c67a",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q11",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "f4c9bb1af10bceb9210d7e5a1578013b4fd52d622c714b6e12d8ce08cb63a2c7",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_gov_policy_q12",
+      "version": "1",
+      "topicId": "eco_gov_policy",
+      "contentHash": "3fdbc383f51609abcdd6baab08c5464d24a367e8bd65ce7d760a0ec1361fabf0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q01",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "f85eb520b4173934494c326aa838efc5362d825fedab71c5038c79a9846851f5",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q02",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "93dc37ac7b7eae68f5c77ab0199b9edcaea35d90b156fd88495d10e92528a1b0",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q03",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "8e5092970262903da01432a228de226380b9094031178b3b1886b8f4e1b714bb",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q04",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "b0f4be3a6cef8c8695b32be111b2bff2a6a480a936a613ea5e2ff270ec88b513",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q05",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "b85fa6c469fbb78a381e9be9ede5be04277b758605ea9b2c3d22de42032d3b58",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q06",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "ced84d2de0de3a066be1249cb7d3e6ebd7387e632281cac3f3b2dc79f7e5adc8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q07",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "73ac3fce107e19aa318f4c159f0b442fccd9519e78ef742955de17c488cd5c26",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q08",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "8b6af6044c3035aa269c282518661590c378856c5f999f55f2d7cb30a6f59e7c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q09",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "36972e98033df6915da2f5662809c976a83033f9c089a05776260fc3b6b0e194",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q10",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "d79526c61dfcfa8d33e8b5ea8964fff62bb55acb596c638d04ffaa344ab2b795",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q11",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "7ef3d6466f82ccab76b86ae487d4203237bfdb8fe9d9f53d7b8c5c97f0dcbe37",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_intl_trade_q12",
+      "version": "1",
+      "topicId": "eco_intl_trade",
+      "contentHash": "16174f2e43a3fed3237eaef0e00592ed33ecbc19533b2013e41fe8c3245242f8",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q01",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "d653294731a94a62f0e285db61d78d14d8acc82d6002e942819c43e270537390",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q02",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "373f0138dc551e9f3094a381bccca140c6d668a6a9276aa820fdf617b5a6f93c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q03",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "443ed0bd863cc040b26b3f632c11db62fff419d1146cd854e19d0c2091ec7dd2",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q04",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "5a2931ba827f7d85cb079c2fec33e2af4f0ea2d54c47c13338e23215db701d62",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q05",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "1df6dd78b822b16bf9822ed779dc951629598c9408941761aa705de311c761ac",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q06",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "2bd3a87764fc4f2b9c3a83dfabd8d8aa45178ddf7df0889573747d2815d7f08c",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q07",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "7dc55526a3be3d97ddf3a8f59a7893f198d28e19ad4b62cfdf49ef2594874ef1",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q08",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "658edd6a0a43bec7a6be6ead4e6b83a9d2f88f8a25ec0f7d26926654a1139816",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q09",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "a1ef1640f4e3f741c9ca7e29e974e43ce89eb98c5f6c5495cb7b3918f4d30ede",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q10",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "03873ac8c5aa6880f4eeaac6d9e6ff92796bcc66e3b615694ddd1ef1bb01057f",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q11",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "28f7bacef4143307c7e033e7bea61c5fa2bf368eab4808d65d8c4cc497c060c9",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    },
+    {
+      "questionId": "prac_eco_development_q12",
+      "version": "1",
+      "topicId": "eco_development",
+      "contentHash": "c38195be7a6800f69cd5ebedf261f804cc0015f125ca862f30d5b77a3b6c31c4",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft"
+    }
+  ]
+}

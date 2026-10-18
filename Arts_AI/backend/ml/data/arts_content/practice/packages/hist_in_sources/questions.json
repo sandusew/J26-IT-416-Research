@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_hist_in_sources_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Puranas",
+      "Edicts of Ashoka",
+      "Explanations",
+      "Historiography of India"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Historiography of India"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_edicts_of_ashoka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_edicts_of_ashoka",
+    "sourceIds": [
+      "wiki_en_edicts_of_ashoka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_edicts_of_ashoka",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «The historiography of India refers to the studies, sources, critical methods and interpretations used by scholars to develop a history of India.»?",
+    "options": [
+      "Edicts of Ashoka",
+      "India",
+      "Historiography of India",
+      "Puranas"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Puranas"
+      }
+    ],
+    "correctAnswerOrRubric": "India",
+    "explanation": "Source-grounded AI practice item. The passage supports «India». Full sentence: The historiography of India refers to the studies, sources, critical methods and interpretations used by scholars to develop a history of India. (source_id=wiki_en_historiography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_historiography_of_india",
+    "sourceIds": [
+      "wiki_en_historiography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_historiography_of_india",
+        "passage": "The historiography of India refers to the studies, sources, critical methods and interpretations used by scholars to develop a history of India."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «In recent decades there have been four main schools of historiography in how historians study India: Cambridge, Nationalist, Marxist, and subaltern.»?",
+    "options": [
+      "India",
+      "Historiography of India",
+      "Puranas",
+      "Edicts of Ashoka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "India"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Edicts of Ashoka"
+      }
+    ],
+    "correctAnswerOrRubric": "India",
+    "explanation": "Source-grounded AI practice item. The passage supports «India». Full sentence: In recent decades there have been four main schools of historiography in how historians study India: Cambridge, Nationalist, Marxist, and subaltern. (source_id=wiki_en_puranas). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_puranas",
+    "sourceIds": [
+      "wiki_en_puranas"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_puranas",
+        "passage": "In recent decades there have been four main schools of historiography in how historians study India: Cambridge, Nationalist, Marxist, and subaltern."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «The once common \"Orientalist\" approach, with its image of a sensuous, inscrutable, and wholly spiritual India, has died out in serious scholarship.»?",
+    "options": [
+      "Historiography of India",
+      "Puranas",
+      "Edicts of Ashoka",
+      "Orientalist"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Orientalist"
+      }
+    ],
+    "correctAnswerOrRubric": "Orientalist",
+    "explanation": "Source-grounded AI practice item. The passage supports «Orientalist». Full sentence: The once common \"Orientalist\" approach, with its image of a sensuous, inscrutable, and wholly spiritual India, has died out in serious scholarship. (source_id=wiki_en_edicts_of_ashoka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_edicts_of_ashoka",
+    "sourceIds": [
+      "wiki_en_edicts_of_ashoka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_edicts_of_ashoka",
+        "passage": "The once common \"Orientalist\" approach, with its image of a sensuous, inscrutable, and wholly spiritual India, has died out in serious scholarship."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «However, it cannot be concluded that the ancient Indians lacked an understanding of objective historical writing, as there were some attempts akin to historiography.»?",
+    "options": [
+      "However",
+      "Historiography of India",
+      "Puranas",
+      "Edicts of Ashoka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "However"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Edicts of Ashoka"
+      }
+    ],
+    "correctAnswerOrRubric": "However",
+    "explanation": "Source-grounded AI practice item. The passage supports «However». Full sentence: However, it cannot be concluded that the ancient Indians lacked an understanding of objective historical writing, as there were some attempts akin to historiography. (source_id=wiki_en_edicts_of_ashoka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_edicts_of_ashoka",
+    "sourceIds": [
+      "wiki_en_edicts_of_ashoka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_edicts_of_ashoka",
+        "passage": "However, it cannot be concluded that the ancient Indians lacked an understanding of objective historical writing, as there were some attempts akin to historiography."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «At various points in Indian history, there were efforts to record and chronicle the reigns of particular dynasties and rulers in India.»?",
+    "options": [
+      "Historiography of India",
+      "Puranas",
+      "Edicts of Ashoka",
+      "Indian"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Indian"
+      }
+    ],
+    "correctAnswerOrRubric": "Indian",
+    "explanation": "Source-grounded AI practice item. The passage supports «Indian». Full sentence: At various points in Indian history, there were efforts to record and chronicle the reigns of particular dynasties and rulers in India. (source_id=wiki_en_historiography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_historiography_of_india",
+    "sourceIds": [
+      "wiki_en_historiography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_historiography_of_india",
+        "passage": "At various points in Indian history, there were efforts to record and chronicle the reigns of particular dynasties and rulers in India."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «Within the Vedic, Buddhist, Jain and other religious literature, the names of teachers are attentively recorded.»?",
+    "options": [
+      "Puranas",
+      "Edicts of Ashoka",
+      "Within",
+      "Historiography of India"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Within"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Historiography of India"
+      }
+    ],
+    "correctAnswerOrRubric": "Within",
+    "explanation": "Source-grounded AI practice item. The passage supports «Within». Full sentence: Within the Vedic, Buddhist, Jain and other religious literature, the names of teachers are attentively recorded. (source_id=wiki_en_puranas). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_puranas",
+    "sourceIds": [
+      "wiki_en_puranas"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_puranas",
+        "passage": "Within the Vedic, Buddhist, Jain and other religious literature, the names of teachers are attentively recorded."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «The Chinese Buddhist pilgrim Xuanzang mentioned that in every province of India, there would be officials who would be responsible for documenting in-writing \"good and evil events, calamities, and for…»?",
+    "options": [
+      "Edicts of Ashoka",
+      "Xuanzang",
+      "Historiography of India",
+      "Puranas"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Xuanzang"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Puranas"
+      }
+    ],
+    "correctAnswerOrRubric": "Xuanzang",
+    "explanation": "Source-grounded AI practice item. The passage supports «Xuanzang». Full sentence: The Chinese Buddhist pilgrim Xuanzang mentioned that in every province of India, there would be officials who would be responsible for documenting in-writing \"good and evil events, calamities, and fortunate occurrences\". (source_id=wiki_en_edicts_of_ashoka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_edicts_of_ashoka",
+    "sourceIds": [
+      "wiki_en_edicts_of_ashoka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_edicts_of_ashoka",
+        "passage": "The Chinese Buddhist pilgrim Xuanzang mentioned that in every province of India, there would be officials who would be responsible for documenting in-writing \"good and evil events, calamities, and fortunate occurrences\"."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «These three, together with Lomaharshana's, comprise the Mulasamhita, from which the later eighteen Puranas were derived.»?",
+    "options": [
+      "Lomaharshana",
+      "Historiography of India",
+      "Puranas",
+      "Edicts of Ashoka"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Lomaharshana"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Edicts of Ashoka"
+      }
+    ],
+    "correctAnswerOrRubric": "Lomaharshana",
+    "explanation": "Source-grounded AI practice item. The passage supports «Lomaharshana». Full sentence: These three, together with Lomaharshana's, comprise the Mulasamhita, from which the later eighteen Puranas were derived. (source_id=wiki_en_historiography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_historiography_of_india",
+    "sourceIds": [
+      "wiki_en_historiography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_historiography_of_india",
+        "passage": "These three, together with Lomaharshana's, comprise the Mulasamhita, from which the later eighteen Puranas were derived."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «Kane states that it is not certain whether these texts refer to several works or a single work with the term purana.»?",
+    "options": [
+      "Historiography of India",
+      "Puranas",
+      "Edicts of Ashoka",
+      "Kane"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Kane"
+      }
+    ],
+    "correctAnswerOrRubric": "Kane",
+    "explanation": "Source-grounded AI practice item. The passage supports «Kane». Full sentence: Kane states that it is not certain whether these texts refer to several works or a single work with the term purana. (source_id=wiki_en_puranas). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_puranas",
+    "sourceIds": [
+      "wiki_en_puranas"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_puranas",
+        "passage": "Kane states that it is not certain whether these texts refer to several works or a single work with the term purana."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q07",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «The late Vedic text Taittiriya Aranyaka (II.10) uses the term in the plural.»?",
+    "options": [
+      "Puranas",
+      "Edicts of Ashoka",
+      "Vedic",
+      "Historiography of India"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Puranas"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Vedic"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Historiography of India"
+      }
+    ],
+    "correctAnswerOrRubric": "Vedic",
+    "explanation": "Source-grounded AI practice item. The passage supports «Vedic». Full sentence: The late Vedic text Taittiriya Aranyaka (II.10) uses the term in the plural. (source_id=wiki_en_edicts_of_ashoka). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_edicts_of_ashoka",
+    "sourceIds": [
+      "wiki_en_edicts_of_ashoka"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_edicts_of_ashoka",
+        "passage": "The late Vedic text Taittiriya Aranyaka (II.10) uses the term in the plural."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_hist_in_sources_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_history",
+    "topicId": "hist_in_sources",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Sources for Indian history, which term or name is supported by this passage: «Therefore, Kane states that in the later Vedic period at least, the Puranas referred to three or more texts, and that they were studied and recited.»?",
+    "options": [
+      "Edicts of Ashoka",
+      "Therefore",
+      "Historiography of India",
+      "Puranas"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Edicts of Ashoka"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Therefore"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Historiography of India"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Puranas"
+      }
+    ],
+    "correctAnswerOrRubric": "Therefore",
+    "explanation": "Source-grounded AI practice item. The passage supports «Therefore». Full sentence: Therefore, Kane states that in the later Vedic period at least, the Puranas referred to three or more texts, and that they were studied and recited. (source_id=wiki_en_historiography_of_india). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_historiography_of_india",
+    "sourceIds": [
+      "wiki_en_historiography_of_india"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_historiography_of_india",
+        "passage": "Therefore, Kane states that in the later Vedic period at least, the Puranas referred to three or more texts, and that they were studied and recited."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

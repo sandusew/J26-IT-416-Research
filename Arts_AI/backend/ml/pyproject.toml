@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arts-ai"
+version = "0.1.0"
+description = "Arts AI — local ML research backend for Sri Lankan A/L Arts personalized learning"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Arts AI Research" }]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

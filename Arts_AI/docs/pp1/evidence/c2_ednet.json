@@ -1,0 +1,6 @@
+{
+    "probability_correct":  0.3779534455330171,
+    "model_version":  "c2_ednet_v2_20261013T153128_f83023f6",
+    "selected":  "logistic_regression",
+    "note":  "Correctness prediction is not recommendation effectiveness"
+}

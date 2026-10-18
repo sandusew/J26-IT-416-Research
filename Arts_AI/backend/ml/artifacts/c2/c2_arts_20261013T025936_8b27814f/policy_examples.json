@@ -1,0 +1,490 @@
+{
+  "examples": [
+    [
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t00_r1",
+        "topic_id": "sub_history_t00",
+        "score": 0.9407996821248099,
+        "policy": "prerequisite_aware",
+        "rank": 1
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t00_r0",
+        "topic_id": "sub_history_t00",
+        "score": 0.9139056584049113,
+        "policy": "prerequisite_aware",
+        "rank": 2
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t00_r2",
+        "topic_id": "sub_history_t00",
+        "score": 0.9049909760838708,
+        "policy": "prerequisite_aware",
+        "rank": 3
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t00_r3",
+        "topic_id": "sub_history_t00",
+        "score": 0.9011887056721757,
+        "policy": "prerequisite_aware",
+        "rank": 4
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t02_r1",
+        "topic_id": "sub_history_t02",
+        "score": 0.04568092954440395,
+        "policy": "prerequisite_aware",
+        "rank": 5
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t01_r2",
+        "topic_id": "sub_history_t01",
+        "score": 0.04543396930243879,
+        "policy": "prerequisite_aware",
+        "rank": 6
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t03_r3",
+        "topic_id": "sub_history_t03",
+        "score": 0.04531377272824788,
+        "policy": "prerequisite_aware",
+        "rank": 7
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t02_r0",
+        "topic_id": "sub_history_t02",
+        "score": 0.04518486236354527,
+        "policy": "prerequisite_aware",
+        "rank": 8
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t02_r3",
+        "topic_id": "sub_history_t02",
+        "score": 0.0451545294820688,
+        "policy": "prerequisite_aware",
+        "rank": 9
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t03_r2",
+        "topic_id": "sub_history_t03",
+        "score": 0.04501224272907154,
+        "policy": "prerequisite_aware",
+        "rank": 10
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t05_r2",
+        "topic_id": "sub_history_t05",
+        "score": 0.04495715581985567,
+        "policy": "prerequisite_aware",
+        "rank": 11
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t03_r1",
+        "topic_id": "sub_history_t03",
+        "score": 0.04490641501638462,
+        "policy": "prerequisite_aware",
+        "rank": 12
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t01_r1",
+        "topic_id": "sub_history_t01",
+        "score": 0.044722208064571056,
+        "policy": "prerequisite_aware",
+        "rank": 13
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t06_r0",
+        "topic_id": "sub_history_t06",
+        "score": 0.044682869771615806,
+        "policy": "prerequisite_aware",
+        "rank": 14
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t04_r2",
+        "topic_id": "sub_history_t04",
+        "score": 0.04466550970728869,
+        "policy": "prerequisite_aware",
+        "rank": 15
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t01_r0",
+        "topic_id": "sub_history_t01",
+        "score": 0.04462060202513717,
+        "policy": "prerequisite_aware",
+        "rank": 16
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t01_r3",
+        "topic_id": "sub_history_t01",
+        "score": 0.044372758793031965,
+        "policy": "prerequisite_aware",
+        "rank": 17
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t05_r3",
+        "topic_id": "sub_history_t05",
+        "score": 0.043819671216357305,
+        "policy": "prerequisite_aware",
+        "rank": 18
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t02_r2",
+        "topic_id": "sub_history_t02",
+        "score": 0.04377745866132597,
+        "policy": "prerequisite_aware",
+        "rank": 19
+      },
+      {
+        "student_id": "syn_s0000",
+        "resource_id": "sub_history_t07_r0",
+        "topic_id": "sub_history_t07",
+        "score": 0.04377568632333792,
+        "policy": "prerequisite_aware",
+        "rank": 20
+      }
+    ],
+    [
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t00_r1",
+        "topic_id": "sub_history_t00",
+        "score": 0.9407996821248099,
+        "policy": "prerequisite_aware",
+        "rank": 1
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t00_r0",
+        "topic_id": "sub_history_t00",
+        "score": 0.9139056584049113,
+        "policy": "prerequisite_aware",
+        "rank": 2
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t03_r3",
+        "topic_id": "sub_history_t03",
+        "score": 0.9062754545649576,
+        "policy": "prerequisite_aware",
+        "rank": 3
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t00_r2",
+        "topic_id": "sub_history_t00",
+        "score": 0.9049909760838708,
+        "policy": "prerequisite_aware",
+        "rank": 4
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t00_r3",
+        "topic_id": "sub_history_t00",
+        "score": 0.9011887056721757,
+        "policy": "prerequisite_aware",
+        "rank": 5
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t03_r2",
+        "topic_id": "sub_history_t03",
+        "score": 0.9002448545814308,
+        "policy": "prerequisite_aware",
+        "rank": 6
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t03_r1",
+        "topic_id": "sub_history_t03",
+        "score": 0.8981283003276923,
+        "policy": "prerequisite_aware",
+        "rank": 7
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t03_r0",
+        "topic_id": "sub_history_t03",
+        "score": 0.8471670479825908,
+        "policy": "prerequisite_aware",
+        "rank": 8
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t02_r1",
+        "topic_id": "sub_history_t02",
+        "score": 0.05481711545328473,
+        "policy": "prerequisite_aware",
+        "rank": 9
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t02_r0",
+        "topic_id": "sub_history_t02",
+        "score": 0.05422183483625431,
+        "policy": "prerequisite_aware",
+        "rank": 10
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t02_r3",
+        "topic_id": "sub_history_t02",
+        "score": 0.05418543537848256,
+        "policy": "prerequisite_aware",
+        "rank": 11
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t05_r2",
+        "topic_id": "sub_history_t05",
+        "score": 0.0539485869838268,
+        "policy": "prerequisite_aware",
+        "rank": 12
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t06_r0",
+        "topic_id": "sub_history_t06",
+        "score": 0.05361944372593896,
+        "policy": "prerequisite_aware",
+        "rank": 13
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t05_r3",
+        "topic_id": "sub_history_t05",
+        "score": 0.052583605459628764,
+        "policy": "prerequisite_aware",
+        "rank": 14
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t02_r2",
+        "topic_id": "sub_history_t02",
+        "score": 0.05253295039359116,
+        "policy": "prerequisite_aware",
+        "rank": 15
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t07_r0",
+        "topic_id": "sub_history_t07",
+        "score": 0.0525308235880055,
+        "policy": "prerequisite_aware",
+        "rank": 16
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t07_r1",
+        "topic_id": "sub_history_t07",
+        "score": 0.05235994465680417,
+        "policy": "prerequisite_aware",
+        "rank": 17
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t07_r2",
+        "topic_id": "sub_history_t07",
+        "score": 0.052103342743201934,
+        "policy": "prerequisite_aware",
+        "rank": 18
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t06_r1",
+        "topic_id": "sub_history_t06",
+        "score": 0.05200186203598293,
+        "policy": "prerequisite_aware",
+        "rank": 19
+      },
+      {
+        "student_id": "syn_s0001",
+        "resource_id": "sub_history_t05_r0",
+        "topic_id": "sub_history_t05",
+        "score": 0.05185305672157201,
+        "policy": "prerequisite_aware",
+        "rank": 20
+      }
+    ],
+    [
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t00_r1",
+        "topic_id": "sub_history_t00",
+        "score": 0.9407996821248099,
+        "policy": "prerequisite_aware",
+        "rank": 1
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t00_r0",
+        "topic_id": "sub_history_t00",
+        "score": 0.9139056584049113,
+        "policy": "prerequisite_aware",
+        "rank": 2
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t00_r2",
+        "topic_id": "sub_history_t00",
+        "score": 0.9049909760838708,
+        "policy": "prerequisite_aware",
+        "rank": 3
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t00_r3",
+        "topic_id": "sub_history_t00",
+        "score": 0.9011887056721757,
+        "policy": "prerequisite_aware",
+        "rank": 4
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t02_r1",
+        "topic_id": "sub_history_t02",
+        "score": 0.04568092954440395,
+        "policy": "prerequisite_aware",
+        "rank": 5
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t01_r2",
+        "topic_id": "sub_history_t01",
+        "score": 0.04543396930243879,
+        "policy": "prerequisite_aware",
+        "rank": 6
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t03_r3",
+        "topic_id": "sub_history_t03",
+        "score": 0.04531377272824788,
+        "policy": "prerequisite_aware",
+        "rank": 7
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t02_r0",
+        "topic_id": "sub_history_t02",
+        "score": 0.04518486236354527,
+        "policy": "prerequisite_aware",
+        "rank": 8
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t02_r3",
+        "topic_id": "sub_history_t02",
+        "score": 0.0451545294820688,
+        "policy": "prerequisite_aware",
+        "rank": 9
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t03_r2",
+        "topic_id": "sub_history_t03",
+        "score": 0.04501224272907154,
+        "policy": "prerequisite_aware",
+        "rank": 10
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t05_r2",
+        "topic_id": "sub_history_t05",
+        "score": 0.04495715581985567,
+        "policy": "prerequisite_aware",
+        "rank": 11
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t03_r1",
+        "topic_id": "sub_history_t03",
+        "score": 0.04490641501638462,
+        "policy": "prerequisite_aware",
+        "rank": 12
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t01_r1",
+        "topic_id": "sub_history_t01",
+        "score": 0.044722208064571056,
+        "policy": "prerequisite_aware",
+        "rank": 13
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t06_r0",
+        "topic_id": "sub_history_t06",
+        "score": 0.044682869771615806,
+        "policy": "prerequisite_aware",
+        "rank": 14
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t04_r2",
+        "topic_id": "sub_history_t04",
+        "score": 0.04466550970728869,
+        "policy": "prerequisite_aware",
+        "rank": 15
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t01_r0",
+        "topic_id": "sub_history_t01",
+        "score": 0.04462060202513717,
+        "policy": "prerequisite_aware",
+        "rank": 16
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t01_r3",
+        "topic_id": "sub_history_t01",
+        "score": 0.044372758793031965,
+        "policy": "prerequisite_aware",
+        "rank": 17
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t05_r3",
+        "topic_id": "sub_history_t05",
+        "score": 0.043819671216357305,
+        "policy": "prerequisite_aware",
+        "rank": 18
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t02_r2",
+        "topic_id": "sub_history_t02",
+        "score": 0.04377745866132597,
+        "policy": "prerequisite_aware",
+        "rank": 19
+      },
+      {
+        "student_id": "syn_s0013",
+        "resource_id": "sub_history_t07_r0",
+        "topic_id": "sub_history_t07",
+        "score": 0.04377568632333792,
+        "policy": "prerequisite_aware",
+        "rank": 20
+      }
+    ]
+  ]
+}

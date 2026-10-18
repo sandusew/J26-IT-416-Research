@@ -1,0 +1,794 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_eco_intro_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Microeconomics",
+        "Macroeconomics",
+        "Explanations",
+        "Economics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Macroeconomics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economics"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_microeconomics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_microeconomics",
+      "sourceIds": [
+        "wiki_en_microeconomics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_microeconomics",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «Economics () is a social science that studies the production, distribution, and consumption of goods and services.»?",
+      "options": [
+        "Nature",
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Nature"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Macroeconomics"
+        }
+      ],
+      "correctAnswerOrRubric": "Economics",
+      "explanation": "Source-grounded AI practice item. The passage supports «Economics». Full sentence: Economics () is a social science that studies the production, distribution, and consumption of goods and services. (source_id=wiki_en_macroeconomics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_macroeconomics",
+      "sourceIds": [
+        "wiki_en_macroeconomics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_macroeconomics",
+          "passage": "Economics () is a social science that studies the production, distribution, and consumption of goods and services."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «Economic analysis can be applied throughout society, including business, finance, cybersecurity, health care, engineering and government.»?",
+      "options": [
+        "Economic",
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Macroeconomics"
+        }
+      ],
+      "correctAnswerOrRubric": "Economic",
+      "explanation": "Source-grounded AI practice item. The passage supports «Economic». Full sentence: Economic analysis can be applied throughout society, including business, finance, cybersecurity, health care, engineering and government. (source_id=wiki_en_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economics",
+      "sourceIds": [
+        "wiki_en_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economics",
+          "passage": "Economic analysis can be applied throughout society, including business, finance, cybersecurity, health care, engineering and government."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «It is also applied to such diverse subjects as crime, education, the family, feminism, law, philosophy, politics, religion, social institutions, war, science, and the environment.»?",
+      "options": [
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics",
+        "subjects"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Macroeconomics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "subjects"
+        }
+      ],
+      "correctAnswerOrRubric": "subjects",
+      "explanation": "Source-grounded AI practice item. The passage supports «subjects». Full sentence: It is also applied to such diverse subjects as crime, education, the family, feminism, law, philosophy, politics, religion, social institutions, war, science, and the environment. (source_id=wiki_en_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economics",
+      "sourceIds": [
+        "wiki_en_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economics",
+          "passage": "It is also applied to such diverse subjects as crime, education, the family, feminism, law, philosophy, politics, religion, social institutions, war, science, and the environment."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «(Source: https://en.wikipedia.org/wiki/Economics)\n\n## Historical or systematic development\nEconomics focuses on the behaviour and interactions of economic agents and how economies work.»?",
+      "options": [
+        "Microeconomics",
+        "Macroeconomics",
+        "Source",
+        "Economics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Macroeconomics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Source"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economics"
+        }
+      ],
+      "correctAnswerOrRubric": "Source",
+      "explanation": "Source-grounded AI practice item. The passage supports «Source». Full sentence: (Source: https://en.wikipedia.org/wiki/Economics)\n\n## Historical or systematic development\nEconomics focuses on the behaviour and interactions of economic agents and how economies work. (source_id=wiki_en_microeconomics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_microeconomics",
+      "sourceIds": [
+        "wiki_en_microeconomics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_microeconomics",
+          "passage": "(Source: https://en.wikipedia.org/wiki/Economics)\n\n## Historical or systematic development\nEconomics focuses on the behaviour and interactions of economic agents and how economies work."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions.»?",
+      "options": [
+        "Nature",
+        "Microeconomics",
+        "Economics",
+        "Macroeconomics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Nature"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Macroeconomics"
+        }
+      ],
+      "correctAnswerOrRubric": "Microeconomics",
+      "explanation": "Source-grounded AI practice item. The passage supports «Microeconomics». Full sentence: Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions. (source_id=wiki_en_macroeconomics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_macroeconomics",
+      "sourceIds": [
+        "wiki_en_macroeconomics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_macroeconomics",
+          "passage": "Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «The earlier term for the discipline was \"political economy\", but since the late 19th century, it has commonly been called \"economics\".»?",
+      "options": [
+        "political",
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "political"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Macroeconomics"
+        }
+      ],
+      "correctAnswerOrRubric": "political",
+      "explanation": "Source-grounded AI practice item. The passage supports «political». Full sentence: The earlier term for the discipline was \"political economy\", but since the late 19th century, it has commonly been called \"economics\". (source_id=wiki_en_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economics",
+      "sourceIds": [
+        "wiki_en_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economics",
+          "passage": "The earlier term for the discipline was \"political economy\", but since the late 19th century, it has commonly been called \"economics\"."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «The term is ultimately derived from Ancient Greek οἰκονομία (oikonomia), a term for the \"way (nomos) to run a household (oikos)\", or in other words the know-how of an οἰκονομικός (oikonomikos), or \"ho…»?",
+      "options": [
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics",
+        "Ancient Greek"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Macroeconomics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Ancient Greek"
+        }
+      ],
+      "correctAnswerOrRubric": "Ancient Greek",
+      "explanation": "Source-grounded AI practice item. The passage supports «Ancient Greek». Full sentence: The term is ultimately derived from Ancient Greek οἰκονομία (oikonomia), a term for the \"way (nomos) to run a household (oikos)\", or in other words the know-how of an οἰκονομικός (oikonomikos), or \"household or homestead manager\". (source_id=wiki_en_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economics",
+      "sourceIds": [
+        "wiki_en_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economics",
+          "passage": "The term is ultimately derived from Ancient Greek οἰκονομία (oikonomia), a term for the \"way (nomos) to run a household (oikos)\", or in other words the know-how of an οἰκονομικός (oikonomikos), or \"household or homestead manager\"."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «Derived terms such as \"economy\" can therefore often mean \"frugal\" or \"thrifty\".»?",
+      "options": [
+        "Microeconomics",
+        "Macroeconomics",
+        "Derived",
+        "Economics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Macroeconomics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Derived"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economics"
+        }
+      ],
+      "correctAnswerOrRubric": "Derived",
+      "explanation": "Source-grounded AI practice item. The passage supports «Derived». Full sentence: Derived terms such as \"economy\" can therefore often mean \"frugal\" or \"thrifty\". (source_id=wiki_en_microeconomics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_microeconomics",
+      "sourceIds": [
+        "wiki_en_microeconomics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_microeconomics",
+          "passage": "Derived terms such as \"economy\" can therefore often mean \"frugal\" or \"thrifty\"."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «By extension then, \"political economy\" was the way to manage a polis or state.»?",
+      "options": [
+        "Macroeconomics",
+        "economy",
+        "Economics",
+        "Microeconomics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Macroeconomics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "economy"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Microeconomics"
+        }
+      ],
+      "correctAnswerOrRubric": "economy",
+      "explanation": "Source-grounded AI practice item. The passage supports «economy». Full sentence: By extension then, \"political economy\" was the way to manage a polis or state. (source_id=wiki_en_macroeconomics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_macroeconomics",
+      "sourceIds": [
+        "wiki_en_macroeconomics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_macroeconomics",
+          "passage": "By extension then, \"political economy\" was the way to manage a polis or state."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_intro_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «Potential policies to influence these developments include education reform, incentives to change saving rates, or incentives to increase R&D activities.»?",
+      "options": [
+        "Potential",
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Potential"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Macroeconomics"
+        }
+      ],
+      "correctAnswerOrRubric": "Potential",
+      "explanation": "Source-grounded AI practice item. The passage supports «Potential». Full sentence: Potential policies to influence these developments include education reform, incentives to change saving rates, or incentives to increase R&D activities. (source_id=wiki_en_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economics",
+      "sourceIds": [
+        "wiki_en_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economics",
+          "passage": "Potential policies to influence these developments include education reform, incentives to change saving rates, or incentives to increase R&D activities."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_intro_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_intro",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Nature and scope of Economics, which term or name is supported by this passage: «=== Output and income ===\nNational output is the total amount of everything a country produces in a given period of time.»?",
+      "options": [
+        "Economics",
+        "Microeconomics",
+        "Macroeconomics",
+        "Output"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economics"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Microeconomics"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Macroeconomics"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Output"
+        }
+      ],
+      "correctAnswerOrRubric": "Output",
+      "explanation": "Source-grounded AI practice item. The passage supports «Output». Full sentence: === Output and income ===\nNational output is the total amount of everything a country produces in a given period of time. (source_id=wiki_en_economics). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economics",
+      "sourceIds": [
+        "wiki_en_economics"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economics",
+          "passage": "=== Output and income ===\nNational output is the total amount of everything a country produces in a given period of time."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_eco_intro_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicIds": [
+        "eco_intro"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Nature and scope of Economics — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Economics",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_economics",
+        "wiki_en_economics",
+        "wiki_en_microeconomics",
+        "wiki_en_macroeconomics"
+      ],
+      "bodyText": "# Nature and scope of Economics\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Nature and scope of Economics」 (eco_intro) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nEconomics () is a social science that studies the production, distribution, and consumption of goods and services.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Nature and scope of Economics\n- [inferred_not_official] Explain core ideas of Nature and scope of Economics\n- [inferred_not_official] Apply concepts from Nature and scope of Economics using cited public sources\n\n## Core concepts and definitions\nEconomics () is a social science that studies the production, distribution, and consumption of goods and services.\n\nEconomic analysis can be applied throughout society, including business, finance, cybersecurity, health care, engineering and government. It is also applied to such diverse subjects as crime, education, the family, feminism, law, philosophy, politics, religion, social institutions, war, science, and the environment.\n(Source: https://en.wikipedia.org/wiki/Economics)\n\n## Historical or systematic development\nEconomics focuses on the behaviour and interactions of economic agents and how economies work. Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions. Individual agents may include households, firms, buyers, and sellers. Macroeconomics analyses economies as systems where production, distribution, consumption, savings, and investment expenditure interact; and the factors of production affecting them, such as: labour, capital, land, and enterprise, inflation, economic growth, and public policies that impact these elements. It also seeks to analyse and describe the global economy.\n\nThe earlier term for the discipline was \"political economy\", but since the late 19th century, it has commonly been called \"economics\". The term is ultimately derived from Ancient Greek οἰκονομία (oikonomia), a term for the \"way (nomos) to run a household (oikos)\", or in other words the know-how of an οἰκονομικός (oikonomikos), or \"household or homestead manager\". Derived terms such as \"economy\" can therefore often mean \"frugal\" or \"thrifty\". By extension then, \"political economy\" was the way to manage a polis or state.\n(Source: https://en.wikipedia.org/wiki/Economics)\n\n## Applications, evidence, and Sri Lankan / comparative context\nOther broad distinctions within economics include those between positive economics, describing \"what is\", and normative economics, advocating \"what ought to be\"; between economic theory and applied economics; between rational and behavioural economics; and between mainstream economics and heterodox economics.\n\nThere are a variety of modern definitions of economics; some reflect evolving views of the subject or different views among economists. Scottish philosopher Adam Smith (1776) defined what was then called political economy as \"an inquiry into the nature and causes of the wealth of nations\", in particular as:\n(Source: https://en.wikipedia.org/wiki/Microeconomics)\n\n## Key terms\n- **Economics**: Economics () is a social science that studies the production, distribution, and consumption of goods and services.\n- **Microeconomics**: Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions.\n- **Macroeconomics**: There are other criticisms as well, such as in scarcity not accounting for the macroeconomics of high unemployment.\n- **Nature**: Nature: a key idea for Nature and scope of Economics (see cited sources; AI-authored gloss).\n- **scope**: Some subsequent comments criticised the definition as overly broad, failing to limit its scope to market analysis.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Nature and scope of Economics, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Nature and scope of Economics can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Nature and scope of Economics\n- Nature and scope of Economics is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_economics: Economics (Wikipedia extract) — https://en.wikipedia.org/wiki/Economics (licence CC-BY-SA-4.0; retrieved 2026-10-13T17:57:36.405884+00:00; checksum 529e94ca85e2…)\n- wiki_en_economics: Economics — https://en.wikipedia.org/wiki/Economics (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:09.707779+00:00; checksum df9bc7282b05…)\n- wiki_en_microeconomics: Microeconomics — https://en.wikipedia.org/wiki/Microeconomics (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:11.142932+00:00; checksum 661b9ed1c7f2…)\n- wiki_en_macroeconomics: Macroeconomics — https://en.wikipedia.org/wiki/Macroeconomics (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:29:12.925923+00:00; checksum ebffdf676d7c…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:42.797507+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 2
+}

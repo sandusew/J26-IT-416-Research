@@ -1,0 +1,231 @@
+{
+  "generated_at_utc": "2026-10-15T04:09:10.458Z",
+  "api": "http://127.0.0.1:4000",
+  "ml": "http://127.0.0.1:8000",
+  "studentId": "demo_s0001",
+  "passed": 26,
+  "failed": 0,
+  "steps": [
+    {
+      "name": "api_health",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "ml_ready",
+      "ok": true,
+      "detail": "c4_index_20261014T173535_894e48ef"
+    },
+    {
+      "name": "auth_student",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "auth_teacher",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "catalogue_meta_practice",
+      "ok": true,
+      "detail": {
+        "authenticApprovedQuestions": 0,
+        "authenticApprovedResources": 0,
+        "publishedPracticeQuestions": 540,
+        "publishedPracticeResources": 45,
+        "unpublishedDraftQuestions": 631,
+        "unpublishedDraftResources": 0,
+        "testFixtureQuestions": 0,
+        "testFixtureResources": 0,
+        "teacherReviewedQuestions": 0,
+        "teacherReviewedResources": 0,
+        "aiAuthoredPublishedQuestions": 540,
+        "note": "Publication does not increase authenticApproved* or teacherReviewed* counts"
+      }
+    },
+    {
+      "name": "authentic_still_zero",
+      "ok": true,
+      "detail": 0
+    },
+    {
+      "name": "assign_hist_sl_rajarata_politics",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "n": 3,
+        "labels": [
+          "AI-authored practice content (source-grounded)",
+          "Not teacher-reviewed"
+        ]
+      }
+    },
+    {
+      "name": "submit_hist_sl_rajarata_politics",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "score": 1
+      }
+    },
+    {
+      "name": "idempotent_hist_sl_rajarata_politics",
+      "ok": true,
+      "detail": {
+        "status": 409,
+        "error": "already_submitted",
+        "score": 1
+      }
+    },
+    {
+      "name": "assign_geo_climate",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "n": 3,
+        "labels": [
+          "AI-authored practice content (source-grounded)",
+          "Not teacher-reviewed"
+        ]
+      }
+    },
+    {
+      "name": "submit_geo_climate",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "score": 1
+      }
+    },
+    {
+      "name": "idempotent_geo_climate",
+      "ok": true,
+      "detail": {
+        "status": 409,
+        "error": "already_submitted",
+        "score": 1
+      }
+    },
+    {
+      "name": "assign_pol_forms_gov",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "n": 3,
+        "labels": [
+          "AI-authored practice content (source-grounded)",
+          "Not teacher-reviewed"
+        ]
+      }
+    },
+    {
+      "name": "submit_pol_forms_gov",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "score": 1
+      }
+    },
+    {
+      "name": "idempotent_pol_forms_gov",
+      "ok": true,
+      "detail": {
+        "status": 409,
+        "error": "already_submitted",
+        "score": 1
+      }
+    },
+    {
+      "name": "assign_eco_demand_supply",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "n": 3,
+        "labels": [
+          "AI-authored practice content (source-grounded)",
+          "Not teacher-reviewed"
+        ]
+      }
+    },
+    {
+      "name": "submit_eco_demand_supply",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "score": 1
+      }
+    },
+    {
+      "name": "idempotent_eco_demand_supply",
+      "ok": true,
+      "detail": {
+        "status": 409,
+        "error": "already_submitted",
+        "score": 1
+      }
+    },
+    {
+      "name": "twin_read",
+      "ok": true,
+      "detail": {
+        "status": 200,
+        "keys": [
+          "profile",
+          "persistent"
+        ]
+      }
+    },
+    {
+      "name": "progress_read",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "recommendations",
+      "ok": true,
+      "detail": {
+        "n": 8
+      }
+    },
+    {
+      "name": "domain_chat",
+      "ok": true,
+      "detail": {
+        "status": 200,
+        "corpus": "domain",
+        "citations": 5,
+        "answer_type": "extractive_template",
+        "provenance_hint": "domain_cc_or_permitted"
+      }
+    },
+    {
+      "name": "consultation_request",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "meetingIntegrationStatus": "unconfigured",
+        "meetingUrl": null
+      }
+    },
+    {
+      "name": "consultation_approve_unconfigured",
+      "ok": true,
+      "detail": {
+        "status": 200,
+        "note": "URL may be null when meeting provider unconfigured"
+      }
+    },
+    {
+      "name": "consultation_cancel",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "strict_mode_empty_bank",
+      "ok": true,
+      "detail": "canonical_question_bank_unavailable"
+    }
+  ],
+  "note": "Demo users are synthetic; content may be AI-authored published practice"
+}

@@ -1,0 +1,791 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_geo_population_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Population of Sri Lanka",
+        "Population",
+        "Explanations",
+        "Demography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Demography"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Educational institutions usually treat demography as a field of sociology, although independent demography departments do exist.»?",
+      "options": [
+        "Population",
+        "Educational",
+        "Demography",
+        "Population of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Educational"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Demography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Population of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Educational",
+      "explanation": "Source-grounded AI practice item. The passage supports «Educational». Full sentence: Educational institutions usually treat demography as a field of sociology, although independent demography departments do exist. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Educational institutions usually treat demography as a field of sociology, although independent demography departments do exist."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Demographic analysis (usually abbreviated to DA) examines and measures the dimensions and dynamics of populations, including whole societies or groups defined by criteria such as education, nationalit…»?",
+      "options": [
+        "Demography",
+        "Population of Sri Lanka",
+        "Population",
+        "Demographic"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Demography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Demographic"
+        }
+      ],
+      "correctAnswerOrRubric": "Demographic",
+      "explanation": "Source-grounded AI practice item. The passage supports «Demographic». Full sentence: Demographic analysis (usually abbreviated to DA) examines and measures the dimensions and dynamics of populations, including whole societies or groups defined by criteria such as education, nationality, religion, and ethnicity. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Demographic analysis (usually abbreviated to DA) examines and measures the dimensions and dynamics of populations, including whole societies or groups defined by criteria such as education, nationality, religion, and ethnicity."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «In the context of human biological populations, demographic analysis uses administrative records to develop an independent estimate of the population.»?",
+      "options": [
+        "Population of Sri Lanka",
+        "Population",
+        "biological",
+        "Demography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "biological"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Demography"
+        }
+      ],
+      "correctAnswerOrRubric": "biological",
+      "explanation": "Source-grounded AI practice item. The passage supports «biological». Full sentence: In the context of human biological populations, demographic analysis uses administrative records to develop an independent estimate of the population. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "In the context of human biological populations, demographic analysis uses administrative records to develop an independent estimate of the population."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Demographic analysis estimates are often considered a reliable standard for judging the accuracy of census information.»?",
+      "options": [
+        "Population",
+        "Demographic",
+        "Demography",
+        "Population of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Demographic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Demography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Population of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Demographic",
+      "explanation": "Source-grounded AI practice item. The passage supports «Demographic». Full sentence: Demographic analysis estimates are often considered a reliable standard for judging the accuracy of census information. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Demographic analysis estimates are often considered a reliable standard for judging the accuracy of census information."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Census to include comparative analysis between independent housing estimates, and differences between census address lists at different key times.»?",
+      "options": [
+        "Census",
+        "Demography",
+        "Population of Sri Lanka",
+        "Population"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Census"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Demography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Population"
+        }
+      ],
+      "correctAnswerOrRubric": "Census",
+      "explanation": "Source-grounded AI practice item. The passage supports «Census». Full sentence: Census to include comparative analysis between independent housing estimates, and differences between census address lists at different key times. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Census to include comparative analysis between independent housing estimates, and differences between census address lists at different key times."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Direct standardization computes an age-adjusted rate by applying the age-specific rates of each study population to a standard population.»?",
+      "options": [
+        "Demography",
+        "Population of Sri Lanka",
+        "Population",
+        "Direct"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Demography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Direct"
+        }
+      ],
+      "correctAnswerOrRubric": "Direct",
+      "explanation": "Source-grounded AI practice item. The passage supports «Direct». Full sentence: Direct standardization computes an age-adjusted rate by applying the age-specific rates of each study population to a standard population. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Direct standardization computes an age-adjusted rate by applying the age-specific rates of each study population to a standard population."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Indirect standardization, used when the age-specific rates are unknown, computes a standardized incident ratio, such as the standardized mortality ratio.»?",
+      "options": [
+        "Population of Sri Lanka",
+        "Population",
+        "Indirect",
+        "Demography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Indirect"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Demography"
+        }
+      ],
+      "correctAnswerOrRubric": "Indirect",
+      "explanation": "Source-grounded AI practice item. The passage supports «Indirect». Full sentence: Indirect standardization, used when the age-specific rates are unknown, computes a standardized incident ratio, such as the standardized mortality ratio. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Indirect standardization, used when the age-specific rates are unknown, computes a standardized incident ratio, such as the standardized mortality ratio."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «The product of the standardized incident ratio and the reference population’s crude rate approximates the study population's age-adjusted rate.»?",
+      "options": [
+        "Population",
+        "incident",
+        "Demography",
+        "Population of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "incident"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Demography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Population of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "incident",
+      "explanation": "Source-grounded AI practice item. The passage supports «incident». Full sentence: The product of the standardized incident ratio and the reference population’s crude rate approximates the study population's age-adjusted rate. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "The product of the standardized incident ratio and the reference population’s crude rate approximates the study population's age-adjusted rate."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_population_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Mathematicians, such as Edmond Halley, developed the life table as the basis for life insurance mathematics.»?",
+      "options": [
+        "Mathematicians",
+        "Demography",
+        "Population of Sri Lanka",
+        "Population"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Mathematicians"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Demography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Population"
+        }
+      ],
+      "correctAnswerOrRubric": "Mathematicians",
+      "explanation": "Source-grounded AI practice item. The passage supports «Mathematicians». Full sentence: Mathematicians, such as Edmond Halley, developed the life table as the basis for life insurance mathematics. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Mathematicians, such as Edmond Halley, developed the life table as the basis for life insurance mathematics."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_population_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «Richard Price was credited with the first textbook on life contingencies published in 1771, followed later by Augustus De Morgan, On the Application of Probabilities to Life Contingencies (1838).»?",
+      "options": [
+        "Demography",
+        "Population of Sri Lanka",
+        "Population",
+        "Richard Price"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Demography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Richard Price"
+        }
+      ],
+      "correctAnswerOrRubric": "Richard Price",
+      "explanation": "Source-grounded AI practice item. The passage supports «Richard Price». Full sentence: Richard Price was credited with the first textbook on life contingencies published in 1771, followed later by Augustus De Morgan, On the Application of Probabilities to Life Contingencies (1838). (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "Richard Price was credited with the first textbook on life contingencies published in 1771, followed later by Augustus De Morgan, On the Application of Probabilities to Life Contingencies (1838)."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_population_q05",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_population",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Population, which term or name is supported by this passage: «In 1755, Benjamin Franklin published his essay Observations Concerning the Increase of Mankind, Peopling of Countries, etc., projecting exponential growth in British colonies.»?",
+      "options": [
+        "Population of Sri Lanka",
+        "Population",
+        "Benjamin Franklin",
+        "Demography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Population of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Population"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Benjamin Franklin"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Demography"
+        }
+      ],
+      "correctAnswerOrRubric": "Benjamin Franklin",
+      "explanation": "Source-grounded AI practice item. The passage supports «Benjamin Franklin». Full sentence: In 1755, Benjamin Franklin published his essay Observations Concerning the Increase of Mankind, Peopling of Countries, etc., projecting exponential growth in British colonies. (source_id=wiki_en_demography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_demography",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_demography",
+          "passage": "In 1755, Benjamin Franklin published his essay Observations Concerning the Increase of Mankind, Peopling of Countries, etc., projecting exponential growth in British colonies."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_geo_population_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicIds": [
+        "geo_population"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Population — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Demography",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_demography"
+      ],
+      "bodyText": "# Population\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Population」 (geo_population) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nDemography (from Ancient Greek  δῆμος (dêmos) 'people, society' and  -γραφία (-graphía) 'writing, drawing, description') is the statistical study of human populations: their size, composition (e.g., ethnic group, age), and how they change through the interplay of fertility (births), mortality (deaths), and migration.\nFormal demography limits its object of study to the measurement of population processes, while the broader field of social demography (or population studies) also analyses the relationships among economic, social, institutional, cultural, and biological processes that influence a population. Educational institutions usually treat demography as a field of sociology, although independent demography departments do exist.\nDemographic analysis (usually abbreviated to DA) examines and measures the dimensions and dynamics of populations, including whole societies or groups defined \n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate competency related to: Population\n- [inferred_not_official] Explain core ideas of Population\n- [inferred_not_official] Apply concepts from Population using cited public sources\n\n## Core concepts and definitions\nDemography (from Ancient Greek  δῆμος (dêmos) 'people, society' and  -γραφία (-graphía) 'writing, drawing, description') is the statistical study of human populations: their size, composition (e.g., ethnic group, age), and how they change through the interplay of fertility (births), mortality (deaths), and migration.\nFormal demography limits its object of study to the measurement of population processes, while the broader field of social demography (or population studies) also analyses the relationships among economic, social, institutional, cultural, and biological processes that influence a population. Educational institutions usually treat demography as a field of sociology, although independent demography departments do exist.\nDemographic analysis (usually abbreviated to DA) examines and measures the dimensions and dynamics of populations, including whole societies or groups defined by criteria such as education, nationality, religion, and ethnicity.  The methods of DA have primarily been developed to study human populations, but have also been used in a variety of areas where researchers want to know how other non-human populations of social actors can change across time through processes of birth, death, and migration. \nDemographic analysis is used in a wide variety of contexts. In the labor force, DA is used to estimate sizes and flows of populations of workers; in population ecology the focus is on the birth, death, emigration and immigration of individuals in a population of living organisms; in the social sciences this could involve the movement of firms and institutional forms; in business planning DA is often used to describe the population in a business's geographic area. \nIn the context of human biological populations, demographic analysis uses administrative records to develop an independent estimate of the population. For example, patient demographics such as date of birth, gender, date of death, postal code, ethnicity, blood type, emergency contact information, family doctor, insurance provider data, allergies, major diagnoses, and major medical history form the core of the data for any medical institution, allowing the identification and categorization of a patient for the purpose of statistical analysis.\nDemographic analysis estimates are often considered a reliable standard for judging the accuracy of census information. For example, the U.S. Census Bureau expanded its DA categories for the 2010 U.S. Census to include comparative analysis between independent housing estimates, and differences between census address lists at different key times.\n\nDirect standardization computes an age-adjusted rate by applying the age-specific rates of each study population to a standard population.\nIndirect standardization, used when the age-specific rates are unknown, computes a standardized incident ratio, such as the standardized mortality ratio.  The product of the standardized incident ratio and the reference population’s crude rate approximates the study population's age-adjusted rate.\nAn alternative approach, the decomposition method, expresses the difference between crude rates as the sum of two terms: one due to differing age-specific event rates and another due to differing population compositions.  Standardization and decomposition methods extend to compositional variables other than age.\n(Source: https://en.wikipedia.org/wiki/Demography)\n\n## Historical or systematic development\nDirect methods calculate measures from empirical records of demographic events and population counts collected through administrative registers, civil registration systems, censuses, surveys, or big data (see table).\nA register continuously updates administrative data and attributes for its target population of persons or objects (such as dwellings, buildings or businesses).  Registers serve administrative functions of government or private institutions such as \"monitoring of taxes, the allocation of pensions, the provision of services, the production of goods, or the administering of bank accounts.\"  Civil registration systems record the occurrence and characteristics of vital events, such as births, deaths, and infant mortality.\nA census periodically records information from people within a specific geographic area, attempting to represent each person within this region.  The typical interval between censuses is 5 to 10 years.  A national census measures total female, and male populations.  A census may fail to count a person or count one person multiple times.  Demographers may identify and correct these errors by comparing the census's observed male-to-female ratio at each age to the expected ratio at each age.\nSurveys record data from a sample rather than the whole population. Although this method can provide more timely or distinct data than a census or register, sampled data may be less comprehensive and less precise for local data.  The  United Kingdom conducted four consecutive prospective cohort surveys: the 1946 National Survey of Health and Development, the 1958 National Child Development Study, the 1970 British Cohort Study, and the 2000 Millennium Cohort Study. These surveys sampled cohorts to identify generational changes over decades in health, education, development, economic status, and lifestyle choices. \nThe World Wide Web and electronic device sensors generate big data: high-volume, high-velocity, and highly varied information.  Big data originates from multiple sources: administrative records, sensor recordings, mobile phone communications, and social media.  Statisticians use specialized methods to process big data, evaluate quality, and fix bias, missing data, or missing identifiers.\nResearchers commonly combine these methods.  For instance, France's rolling census continuously surveys its population over an extended time to generate nationwide data.\n(Source: https://en.wikipedia.org/wiki/Demography)\n\n## Applications, evidence, and Sri Lankan / comparative context\nSurvivorship: Parametric models describe survivorship, the probability of surviving from birth to each age.  The Gompertz model applies to older adults, the Gompertz–Makeham model applies to all adults, and the Siler model applies to persons of all ages.  In the Brass method relational logit system, a linear function relates logit transformed survivorship of a study population to logit transformed survivorship of a standard population.  The Lee-Carter model predicts age-specific mortality rates from prior age-specific rates.\nMaternal mortality ratio: The sisterhood method surveys adults about whether their sisters of reproductive age died during pregnancy, childbirth, or the postpartum period. It then applies a model to this survey data to estimate maternal mortality ratios.\nAge-specific fertility rate:  The Coale–Trussell model estimates age-specific marital fertility using empirical data of natural age-specific fertility and age-specific fertility control.  Statistical probability distributions may also describe age-specific fertility.  These include the inverse Gaussian (Hadwiger model), gamma distribution, and beta distribution.  Spline methods generate smooth distributions from incomplete data.  The Brass relational Gompertz model relates incomplete fertility data in a study population to a standard data set.  The Page model of marital fertility estimates fertility rates from a woman's age and duration of marriage.\nAge-specific migration rate: The Rogers-Castro migration model uses multiple exponential functions to describe how migration changes at each age.\nMigration flow:  The Gravity migration model, Lowry and gravity push-pull model and theory of intervening opportunities predict where people migrate.\n(Source: https://en.wikipedia.org/wiki/Demography)\n\n## Key terms\n- **Demography**: Educational institutions usually treat demography as a field of sociology, although independent demography departments do exist.\n- **Population of Sri Lanka**: Population of Sri Lanka: a key idea for Population (see cited sources; AI-authored gloss).\n- **Population**: Demographic analysis (usually abbreviated to DA) examines and measures the dimensions and dynamics of populations, including whole societies or groups defined by criteria such as education, nationality, religion, and ethnicity.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Population, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Population can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Population\n- Population is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_demography: Demography — https://en.wikipedia.org/wiki/Demography (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:31:12.228545+00:00; checksum de5b457ef4db…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:35.900025+00:00",
+  "before_distinct": 11,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

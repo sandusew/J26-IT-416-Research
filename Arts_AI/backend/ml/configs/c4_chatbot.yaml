@@ -1,0 +1,28 @@
+component: c4_chatbot
+seed: 42
+
+retrieval:
+  chunk_size: 400
+  chunk_overlap: 50
+  embedding_model: sentence-transformers/all-MiniLM-L6-v2
+  index_type: faiss_flat_ip
+  top_k: 5
+  min_similarity: 0.25
+  insufficient_evidence_message: "Insufficient reviewed evidence in the knowledge base to answer confidently."
+
+generation:
+  mode: extractive_with_template  # no large LLM auto-download
+  llm_auto_download: false
+  citations_required: true
+
+topic_classifier:
+  enabled: true
+  note: "Trainable subtask on labelled/generated topic examples with document-level split"
+
+consultation:
+  meeting_integration: unconfigured
+  timezone: Asia/Colombo
+  conflict_check: true
+
+squad:
+  enabled: false

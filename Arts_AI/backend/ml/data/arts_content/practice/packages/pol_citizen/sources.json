@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "blocked_Citizenship",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_political_culture",
+    "title": "Political culture",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Political_culture",
+    "retrieved_at_utc": "2026-10-14T17:29:07.150843+00:00",
+    "edition_or_revision": "pageid=1183635",
+    "subject_id": "sub_political",
+    "topic_id": "pol_citizen",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "3322613713256776f98c32025f715088dcd1d791aee675a831bc2fdee2cb0709",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_civic_engagement",
+    "title": "Civic engagement",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Civic_engagement",
+    "retrieved_at_utc": "2026-10-14T17:29:08.381074+00:00",
+    "edition_or_revision": "pageid=2931151",
+    "subject_id": "sub_political",
+    "topic_id": "pol_citizen",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "48ae650cca9af28ad81a1be3287c28dd4b638ade65164017e35bd6f453cfdadf",
+    "origin": "wikipedia_api"
+  }
+]

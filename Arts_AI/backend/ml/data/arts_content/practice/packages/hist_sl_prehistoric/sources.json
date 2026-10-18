@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_prehistory_sri_lanka",
+    "title": "Prehistory of Sri Lanka (Wikipedia extract)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+    "edition_or_revision": "pageid=18779594",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_prehistoric",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "967179b08c07f42617308d3a0cc775014c21bd4f3202090af7bd23abb810600f",
+    "origin": "local_approved_or_pending"
+  },
+  {
+    "source_id": "wiki_en_prehistory_of_sri_lanka",
+    "title": "Prehistory of Sri Lanka",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Prehistory_of_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-14T17:19:55.466415+00:00",
+    "edition_or_revision": "pageid=18779594",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_prehistoric",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "0ff3bc208a1a415d30f64f14faada483ebf87ea848acc69926d33f3fec3e6334",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_balangoda_man",
+    "title": "Balangoda Man",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Balangoda_Man",
+    "retrieved_at_utc": "2026-10-14T17:19:56.720586+00:00",
+    "edition_or_revision": "pageid=18161865",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_prehistoric",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "d74c29de4acfa77737f369b656269416f4c2277091eaff5bc68b71903b367b7e",
+    "origin": "wikipedia_api"
+  }
+]

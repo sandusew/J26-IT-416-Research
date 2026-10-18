@@ -1,0 +1,750 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_eco_money_banking_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Bank",
+        "Central bank",
+        "Explanations",
+        "Money"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Bank"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Central bank"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Money"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_bank",
+      "sourceIds": [
+        "wiki_en_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_bank",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans.»?",
+      "options": [
+        "Central bank",
+        "accepts",
+        "Money",
+        "Bank"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Central bank"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "accepts"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Money"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Bank"
+        }
+      ],
+      "correctAnswerOrRubric": "accepts",
+      "explanation": "Source-grounded AI practice item. The passage supports «accepts». Full sentence: A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans. (source_id=wiki_en_central_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_central_bank",
+      "sourceIds": [
+        "wiki_en_central_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_central_bank",
+          "passage": "A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «Lending activities can be directly performed by the bank or indirectly through capital markets.»?",
+      "options": [
+        "Lending",
+        "Money",
+        "Bank",
+        "Central bank"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Lending"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Money"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Bank"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Central bank"
+        }
+      ],
+      "correctAnswerOrRubric": "Lending",
+      "explanation": "Source-grounded AI practice item. The passage supports «Lending». Full sentence: Lending activities can be directly performed by the bank or indirectly through capital markets. (source_id=wiki_en_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_bank",
+      "sourceIds": [
+        "wiki_en_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_bank",
+          "passage": "Lending activities can be directly performed by the bank or indirectly through capital markets."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «Banks play an important role in financial stability and the economy of a country, so most countries exercise a high degree of regulation over banks.»?",
+      "options": [
+        "Money",
+        "Bank",
+        "Central bank",
+        "Banks"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Money"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Bank"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Central bank"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Banks"
+        }
+      ],
+      "correctAnswerOrRubric": "Banks",
+      "explanation": "Source-grounded AI practice item. The passage supports «Banks». Full sentence: Banks play an important role in financial stability and the economy of a country, so most countries exercise a high degree of regulation over banks. (source_id=wiki_en_central_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_central_bank",
+      "sourceIds": [
+        "wiki_en_central_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_central_bank",
+          "passage": "Banks play an important role in financial stability and the economy of a country, so most countries exercise a high degree of regulation over banks."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «Most countries have institutionalized a system known as fractional-reserve banking, under which banks hold liquid assets equal to only a portion of their current liabilities.»?",
+      "options": [
+        "Bank",
+        "Central bank",
+        "Most",
+        "Money"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Bank"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Central bank"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Most"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Money"
+        }
+      ],
+      "correctAnswerOrRubric": "Most",
+      "explanation": "Source-grounded AI practice item. The passage supports «Most». Full sentence: Most countries have institutionalized a system known as fractional-reserve banking, under which banks hold liquid assets equal to only a portion of their current liabilities. (source_id=wiki_en_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_bank",
+      "sourceIds": [
+        "wiki_en_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_bank",
+          "passage": "Most countries have institutionalized a system known as fractional-reserve banking, under which banks hold liquid assets equal to only a portion of their current liabilities."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «In addition to other regulations intended to ensure liquidity, banks are generally subject to minimum capital requirements based on an international set of capital standards, the Basel Accords.»?",
+      "options": [
+        "Central bank",
+        "Basel Accords",
+        "Money",
+        "Bank"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Central bank"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Basel Accords"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Money"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Bank"
+        }
+      ],
+      "correctAnswerOrRubric": "Basel Accords",
+      "explanation": "Source-grounded AI practice item. The passage supports «Basel Accords». Full sentence: In addition to other regulations intended to ensure liquidity, banks are generally subject to minimum capital requirements based on an international set of capital standards, the Basel Accords. (source_id=wiki_en_central_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_central_bank",
+      "sourceIds": [
+        "wiki_en_central_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_central_bank",
+          "passage": "In addition to other regulations intended to ensure liquidity, banks are generally subject to minimum capital requirements based on an international set of capital standards, the Basel Accords."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Money, banking and financial system: «Money, banking and financial system is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Money, banking and financial system. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_bank",
+      "sourceIds": [
+        "wiki_en_bank",
+        "wiki_en_central_bank"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Money, banking and financial system: «Money, banking and financial system can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Money, banking and financial system. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_bank",
+      "sourceIds": [
+        "wiki_en_bank",
+        "wiki_en_central_bank"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Money, banking and financial system: «Listing names alone demonstrates understanding of Money, banking and financial system» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Money, banking and financial system. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_bank",
+      "sourceIds": [
+        "wiki_en_bank",
+        "wiki_en_central_bank"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «the Bank of Amsterdam, Bank of Hamburg, Bank of England, or Wiener Stadtbank.»?",
+      "options": [
+        "Bank",
+        "Money",
+        "Central bank",
+        "Money,"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Bank"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Money"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Central bank"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Money,"
+        }
+      ],
+      "correctAnswerOrRubric": "Bank",
+      "explanation": "Source-grounded AI practice item. The passage supports «Bank». Full sentence: the Bank of Amsterdam, Bank of Hamburg, Bank of England, or Wiener Stadtbank. (source_id=wiki_en_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_bank",
+      "sourceIds": [
+        "wiki_en_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_bank",
+          "passage": "the Bank of Amsterdam, Bank of Hamburg, Bank of England, or Wiener Stadtbank."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «Naming practices subsequently evolved as more central banks were established.»?",
+      "options": [
+        "Money",
+        "Bank",
+        "Central bank",
+        "Naming"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Money"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Bank"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Central bank"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Naming"
+        }
+      ],
+      "correctAnswerOrRubric": "Naming",
+      "explanation": "Source-grounded AI practice item. The passage supports «Naming». Full sentence: Naming practices subsequently evolved as more central banks were established. (source_id=wiki_en_central_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_central_bank",
+      "sourceIds": [
+        "wiki_en_central_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_central_bank",
+          "passage": "Naming practices subsequently evolved as more central banks were established."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_money_banking_q12",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_money_banking",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Money, banking and financial system, which term or name is supported by this passage: «The expression \"central bank\" itself only appeared in the early 19th century, but at that time it referred to the head office of a multi-branched bank, and was still used in that sense by Walter Bageh…»?",
+      "options": [
+        "Bank",
+        "Central bank",
+        "Walter Bagehot",
+        "Money"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Bank"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Central bank"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Walter Bagehot"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Money"
+        }
+      ],
+      "correctAnswerOrRubric": "Walter Bagehot",
+      "explanation": "Source-grounded AI practice item. The passage supports «Walter Bagehot». Full sentence: The expression \"central bank\" itself only appeared in the early 19th century, but at that time it referred to the head office of a multi-branched bank, and was still used in that sense by Walter Bagehot in his seminal 1873 book Lombard Street. (source_id=wiki_en_bank). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_bank",
+      "sourceIds": [
+        "wiki_en_bank"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_bank",
+          "passage": "The expression \"central bank\" itself only appeared in the early 19th century, but at that time it referred to the head office of a multi-branched bank, and was still used in that sense by Walter Bagehot in his seminal 1873 book Lombard Street."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_eco_money_banking_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicIds": [
+        "eco_money_banking"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Money, banking and financial system — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Bank",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_bank",
+        "wiki_en_central_bank"
+      ],
+      "bodyText": "# Money, banking and financial system\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Money, banking and financial system」 (eco_money_banking) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nA bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans. Lending activities can be directly performed by the bank or indirectly through capital markets.\nBanks play an important role in financial stability and the economy of a country, so most countries exercise a high degree of regulation over banks. Most countries have institutionalized a system known as fractional-reserve banking, under which banks hold liquid assets equal to only a portion of their current liabilities. In addition to other regulations intended to ensure liquidity, banks are generally subject to minimum capital requirements based on an international set of capital standards, the Basel Accords.\nBanking in its modern sense evolved in the 14th century in the prosperous cities of Renaissance Italy but, in many ways, functioned as a continuation of ideas and co\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Money, banking and financial system\n- [inferred_not_official] Explain core ideas of Money, banking and financial system\n- [inferred_not_official] Apply concepts from Money, banking and financial system using cited public sources\n\n## Core concepts and definitions\nA bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans. Lending activities can be directly performed by the bank or indirectly through capital markets.\nBanks play an important role in financial stability and the economy of a country, so most countries exercise a high degree of regulation over banks. Most countries have institutionalized a system known as fractional-reserve banking, under which banks hold liquid assets equal to only a portion of their current liabilities. In addition to other regulations intended to ensure liquidity, banks are generally subject to minimum capital requirements based on an international set of capital standards, the Basel Accords.\nBanking in its modern sense evolved in the 14th century in the prosperous cities of Renaissance Italy but, in many ways, functioned as a continuation of ideas and concepts of credit and lending that have their roots in the ancient world. In the history of banking, a number of banking dynasties –  notably, the Medicis, the Pazzi, the Fuggers, the Welsers, the Berenbergs, and the Rothschilds –  have played a central role over many centuries. The oldest existing retail bank is Banca Monte dei Paschi di Siena (founded in 1472), while the oldest existing merchant bank is Berenberg Bank (founded in 1590).\nA banker is a person who engages in the business of banking.\n\nFirst, this includes the Gramm–Leach–Bliley Act, which allows banks again to merge with investment and insurance houses. Merging banking, investment, and insurance functions allows traditional banks to respond to increasing consumer demands for \"one-stop shopping\" by enabling cross-selling of products (which, the banks hope, will also increase profitability).\nSecond, they have expanded the use of risk-based pricing from business lending to consumer lending, which means charging higher interest rates to those customers that are considered to be a higher credit risk and thus increased chance of default on loans. This helps to offset the losses from bad loans, lowers the price of loans to those who have better credit histories, and offers credit products to high risk customers who would otherwise be denied credit.\nThird, they have sought to increase the methods of payment processing available to the general public and business clients. These products include debit cards, prepaid cards, smart cards, and credit cards. They make it easier for consumers to conveniently make transactions and smooth their consumption over time (in some countries with underdeveloped financial systems, it is still common to deal strictly in cash, including carrying suitcases filled with cash to purchase a home).\nHowever, with the convenience of easy credit, there is also an increased risk that consumers will mismanage their financial resources and accumulate excessive debt. Banks make money from card products through interest charges and fees charged to credit and debit card holders, and transaction fees to retailers who accept the bank's cards for payments.\nThis helps in making a profit and facilitates economic development as a whole.\nRecently, as banks have been faced with pressure from fintechs, new and additional business models have been suggested such as freemium, monetization of data, white-labeling of banking and payment applications, or the cross-selling of complementary products.\n(Source: https://en.wikipedia.org/wiki/Bank)\n\n## Historical or systematic development\nBanks act as payment agents by conducting checking or current accounts for customers, paying checks drawn by customers in the bank, and collecting checks deposited to customers' current accounts. Banks also enable customer payments via other payment methods such as Automated Clearing House (ACH), wire transfers or telegraphic transfer, EFTPOS, and automated teller machines (ATMs).\nBanks borrow money by accepting funds deposited on current accounts, by accepting term deposits, and by issuing debt securities such as banknotes and bonds. Banks lend money by making advances to customers on current accounts, by making installment loans, and by investing in marketable debt securities and other forms of money lending.\nBanks provide different payment services, and a bank account is considered indispensable by most businesses and individuals. Nonbanks that provide payment services such as remittance companies are normally not considered as an adequate substitute for a bank account.\nBanks issue new money when they make loans. In contemporary banking systems, regulators set a minimum level of reserve funds that banks must hold against the deposit liabilities created by the funding of these loans, in order to ensure that the banks can meet demands for payment of such deposits. These reserves can be acquired through the acceptance of new deposits, sale of other assets, or borrowing from other banks including the central bank.\n\nBanking as an archaic activity (or quasi-banking) is thought to have begun as early as the end of the 4th millennium BCE, to the 3rd millennia BCE.\n(Source: https://en.wikipedia.org/wiki/Central_bank)\n\n## Applications, evidence, and Sri Lankan / comparative context\nBranch, in-person banking in a retail location\nAutomated teller machine banking adjacent to or remote from the bank\nBank by mail: Most banks accept check deposits via mail and use mail to communicate to their customers\nOnline banking over the Internet to perform multiple types of transactions\nMobile banking is using one's mobile phone to conduct banking transactions\nTelephone banking allows customers to conduct transactions over the telephone with an automated attendant, or when requested, with a telephone operator\nVideo banking performs banking transactions or professional banking consultations via a remote video and audio connection. Video banking can be performed via purpose built banking transaction machines (similar to an Automated teller machine) or via a video conference enabled bank branch clarification\nRelationship manager, mostly for private banking or business banking, who visits customers at their homes or businesses\nDirect Selling Agent, who works for the bank based on a contract, whose main job is to increase the customer base for the bank\n\nFractional reserve banking and the issue of banknotes emerged in the 17th and 18th centuries. Merchants started to store their gold with the goldsmiths of London, who possessed private vaults, and who charged a fee for that service. In exchange for each deposit of precious metal, the goldsmiths issued receipts certifying the quantity and purity of the metal they held as a bailee; these receipts could not be assigned, only the original depositor could collect the stored goods.\nGradually the goldsmiths began to lend money out on behalf of the depositor, and promissory notes, which evolved into banknotes, were issued for money deposited as a loan to the goldsmith. By the 19th century, ordinary deposits of money in banks had become a mere loan, or mutuum, and the bank restored an equivalent sum whenever it was demanded\nMoney, when paid into a bank, ceases altogether to be the money of the principal (see Parker v. Marchant, 1 Phillips 360); it is then the money of the banker, who is bound to return an equivalent, by paying a similar sum to that deposited with him, when he is asked for it.\n(Source: https://en.wikipedia.org/wiki/Bank)\n\n## Key terms\n- **Money**: Banks borrow money by accepting funds deposited on current accounts, by accepting term deposits, and by issuing debt securities such as banknotes and bonds.\n- **Bank**: A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans.\n- **Central bank**: These reserves can be acquired through the acceptance of new deposits, sale of other assets, or borrowing from other banks including the central bank.\n- **Money,**: By the 19th century, ordinary deposits of money in banks had become a mere loan, or mutuum, and the bank restored an equivalent sum whenever it was demanded\nMoney, when paid into a bank, ceases altogether to be the money of the principal (see Parker v.\n- **banking**: Most countries have institutionalized a system known as fractional-reserve banking, under which banks hold liquid assets equal to only a portion of their current liabilities.\n- **financial**: A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans.\n- **system**: Most countries have institutionalized a system known as fractional-reserve banking, under which banks hold liquid assets equal to only a portion of their current liabilities.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Money, banking and financial system, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Money, banking and financial system can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Money, banking and financial system\n- Money, banking and financial system is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_bank: Bank — https://en.wikipedia.org/wiki/Bank (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:30:07.261659+00:00; checksum 5ee518407c1d…)\n- wiki_en_central_bank: Central bank — https://en.wikipedia.org/wiki/Central_bank (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:30:10.332571+00:00; checksum 1b1a0866ee63…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:43.914177+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

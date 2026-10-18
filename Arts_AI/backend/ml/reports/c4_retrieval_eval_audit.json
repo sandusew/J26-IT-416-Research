@@ -1,0 +1,165 @@
+{
+  "generated_at_utc": "2026-10-14T00:55:42.466659+00:00",
+  "evaluation_id": "c4_retr_eval_20261014T005538_f17e0e8b",
+  "corpus_version": "c4_index_20261014T002208_333d545a",
+  "index_sha256": "fc2a252be49ea9e1a927ff8ede78f840a349826a78f2c3b4232afa608dbc82c3",
+  "eval_cases_sha256": "686d33ee6bd592b1a2b9aa5b06acccb302b63b019d740ee34fafe136a31dac65",
+  "eval_cases_path": "backend/ml/data/arts_content/eval/domain_retrieval_eval_cases.json",
+  "result_path": "backend/ml/reports/c4_domain_retrieval_eval.json",
+  "result_generated_at_utc": "2026-10-14T00:55:40.974101+00:00",
+  "total_questions": 11,
+  "n_answerable_with_gold": 8,
+  "n_unanswerable": 2,
+  "exclusions": [
+    {
+      "id": "q_si_unclaimed",
+      "reason": "sinhala_query_support_not_claimed_excluded_from_hit_denominator"
+    },
+    {
+      "id": "q_wrong_subject_geo_as_history",
+      "reason": "wrong_subject_filter_probe_not_in_hit_denominator"
+    }
+  ],
+  "gold_relevance_unit": "document_id (not passage/chunk)",
+  "metric_definitions": {
+    "Hit@3": "1 if any gold document_id appears in top-3 retrieved docs; denominator = answerable-with-gold",
+    "Recall@3_micro": "|union over Q of (gold\u2229top3)| style: sum_q |gold\u2229top3| / sum_q |gold|",
+    "prior_report_recall_at_3": 0.75,
+    "prior_report_note": "Earlier c4_domain_retrieval_eval.json used Hit@3 rate labelled recall_at_3 (single-label Hit@k). This audit distinguishes Hit@3 from multi-gold Recall@3."
+  },
+  "hit_at_3": {
+    "numerator": 6,
+    "denominator": 8,
+    "value": 0.75
+  },
+  "recall_at_3_micro": {
+    "numerator": 7,
+    "denominator": 16,
+    "value": 0.4375
+  },
+  "per_question": [
+    {
+      "id": "q_hist_answerable",
+      "answerable": true,
+      "gold_unit": "document_id",
+      "n_gold_docs": 4,
+      "hit_at_3": true,
+      "recall_at_3_question": 0.5,
+      "retrieved_top3": [
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_anuradhapura"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "q_geo_answerable",
+      "answerable": true,
+      "gold_unit": "document_id",
+      "n_gold_docs": 2,
+      "hit_at_3": true,
+      "recall_at_3_question": 0.5,
+      "retrieved_top3": [
+        "wiki_en_physical_geography",
+        "wiki_en_physical_geography",
+        "wiki_en_physical_geography"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "q_econ_answerable",
+      "answerable": true,
+      "gold_unit": "document_id",
+      "n_gold_docs": 1,
+      "hit_at_3": true,
+      "recall_at_3_question": 1.0,
+      "retrieved_top3": [
+        "wiki_en_economics",
+        "wiki_en_economics",
+        "wiki_en_economics"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "q_pol_answerable",
+      "answerable": true,
+      "gold_unit": "document_id",
+      "n_gold_docs": 2,
+      "hit_at_3": true,
+      "recall_at_3_question": 0.5,
+      "retrieved_top3": [
+        "wiki_en_forms_of_government",
+        "wiki_en_forms_of_government",
+        "wiki_en_forms_of_government"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "q_ambiguous_trade",
+      "answerable": true,
+      "gold_unit": "document_id",
+      "n_gold_docs": 2,
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "retrieved_top3": [
+        "wiki_en_urbanization",
+        "wiki_en_urbanization",
+        "wiki_en_politics_sri_lanka"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "q_hist_anuradhapura",
+      "answerable": true,
+      "gold_unit": "document_id",
+      "n_gold_docs": 2,
+      "hit_at_3": false,
+      "recall_at_3_question": 0.0,
+      "retrieved_top3": [
+        "wiki_en_buddhism_sri_lanka",
+        "wiki_en_sri_lanka_history",
+        "wiki_en_buddhism_sri_lanka"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "q_eco_supply_demand",
+      "answerable": true,
+      "gold_unit": "document_id",
+      "n_gold_docs": 2,
+      "hit_at_3": true,
+      "recall_at_3_question": 0.5,
+      "retrieved_top3": [
+        "wiki_en_supply_demand",
+        "wiki_en_supply_demand",
+        "wiki_en_supply_demand"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed"
+    },
+    {
+      "id": "q_pol_ideology",
+      "answerable": true,
+      "gold_unit": "document_id",
+      "n_gold_docs": 1,
+      "hit_at_3": true,
+      "recall_at_3_question": 1.0,
+      "retrieved_top3": [
+        "wiki_en_political_ideology",
+        "wiki_en_political_ideology",
+        "wiki_en_political_ideology"
+      ],
+      "authoring_provenance": "machine_authored_research_eval",
+      "review_status": "unreviewed"
+    }
+  ],
+  "teacher_reviewed_cases": 0,
+  "machine_authored_cases": 11,
+  "expansion_required": "Expand held-out eval across subjects/grades/languages after scope confirmation; choose coverage before tuning; keep teacher-reviewed cases separate."
+}

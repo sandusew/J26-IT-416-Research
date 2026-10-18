@@ -1,0 +1,101 @@
+{
+  "topic_id": "pol_state",
+  "subject_id": "sub_political",
+  "topic_title": "The State",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "A state is a political entity that rules and governs society and the population within a definite territory, or in other words, it is referred to as the country itself with various administrative divisions. Governments are considered as an apparatus, representative, or instrument of states as such the term is used as a metonym for them in governmental topics. It is widely defined by the legitimacy of its sole discretion in the use of offensive and defensive force.\n\nOver time, varied forms of states developed that used many different justifications for their existence (such as divine right, the theory of the social contract, etc.). Today, the modern nation state is the predominant form of state to which people are subject. Sovereign states have sovereignty; any ingroup's claim to have a state faces some practical limits via the degree to which other states recognize them as such. Satellite states are states that have de facto sovereignty but are often indirectly controlled by another state.",
+      "source_ids": [
+        "wiki_en_state_polity"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/State_(polity)"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "A state may be a unitary state or some type of federal union; in the latter type, the term \"state\" is sometimes used to refer to the federated polities that make up the federation, and they may have some of the attributes of a sovereign state, except being under their federation and without the same capacity to act internationally. (Other terms that are used in such federal systems may include \"province\", \"region\" or other terms.)\n\nDefinitions of a state are disputed. According to sociologist Max Weber, a \"state\" is a polity that maintains a monopoly on the legitimate use of violence, although other definitions are common. Absence of a state does not preclude the existence of a society, such as stateless societies like the Haudenosaunee Confederacy that \"do not have either purely or even primarily political institutions or roles\". The degree and extent of governance of a state is used to determine whether it has failed.",
+      "source_ids": [
+        "wiki_en_nation_state"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Nation_state"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "For most of prehistory, people lived in stateless societies. The earliest forms of states arose about 5,500 years ago. Over time societies became more stratified and developed institutions leading to centralised governments. These gained state capacity in conjunction with the growth of cities, which was often dependent on climate and economic development, with centralisation often spurred on by insecurity and territorial competition.\n\nThe word state and its cognates in some other European languages (such as stato in Italian, estado in Spanish and Portuguese, état in French, Staat in German and Dutch) ultimately derive from the Latin word status, meaning \"condition, circumstances\". Latin status derives from stare, \"to stand\", or remain or be permanent, thus providing the sacred or magical connotation of the political entity.",
+      "source_ids": [
+        "wiki_en_state_polity"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/State_(polity)"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "State",
+      "definition": "A state is a political entity that rules and governs society and the population within a definite territory, or in other words, it is referred to as the country itself with various administrative divisions.",
+      "source_ids": [
+        "wiki_en_state_polity"
+      ]
+    },
+    {
+      "term": "Sovereignty",
+      "definition": "Sovereign states have sovereignty; any ingroup's claim to have a state faces some practical limits via the degree to which other states recognize them as such.",
+      "source_ids": [
+        "wiki_en_state_polity"
+      ]
+    },
+    {
+      "term": "Nation state",
+      "definition": "Today, the modern nation state is the predominant form of state to which people are subject.",
+      "source_ids": [
+        "wiki_en_state_polity"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_state_polity",
+    "wiki_en_nation_state"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_state_polity",
+      "title": "State (polity) (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/State_(polity)",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=28151",
+      "subject_id": "sub_political",
+      "topic_id": "pol_state",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "32afd342063bae3c4828ac51c27db625d7f777b4d1194d835dcfda64073411a3",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_nation_state",
+      "title": "Nation state",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Nation_state",
+      "retrieved_at_utc": "2026-10-14T17:27:05.031512+00:00",
+      "edition_or_revision": "pageid=21627",
+      "subject_id": "sub_political",
+      "topic_id": "pol_state",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "b86986a16b936f08ec230ca67f64098e7f7527eea2de1e0c07ecc4399ad6ad2f",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "ad83315ac90ecc91c8c5c33b0eda889299032173bd30ca4bc2f5cb02eae2583e",
+  "authored_at_utc": "2026-10-14T17:27:05.643293+00:00"
+}

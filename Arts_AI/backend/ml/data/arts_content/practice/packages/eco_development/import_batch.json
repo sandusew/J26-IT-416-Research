@@ -1,0 +1,778 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_eco_development_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Economy of Sri Lanka",
+        "Economic",
+        "Explanations",
+        "Economic development"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economy of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economic development"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_economic_development). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economic_development",
+      "sourceIds": [
+        "wiki_en_economic_development"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economic_development",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_development_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are i…»?",
+      "options": [
+        "Economic",
+        "development",
+        "Economic development",
+        "Economy of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "development"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economic development"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economy of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "development",
+      "explanation": "Source-grounded AI practice item. The passage supports «development». Full sentence: In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives. (source_id=wiki_en_economy_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economy_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_economy_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economy_of_sri_lanka",
+          "passage": "In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_development_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «The term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for far longer.»?",
+      "options": [
+        "West",
+        "Economic development",
+        "Economy of Sri Lanka",
+        "Economic"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "West"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economic development"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economy of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economic"
+        }
+      ],
+      "correctAnswerOrRubric": "West",
+      "explanation": "Source-grounded AI practice item. The passage supports «West». Full sentence: The term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for far longer. (source_id=wiki_en_economic_development). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economic_development",
+      "sourceIds": [
+        "wiki_en_economic_development"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economic_development",
+          "passage": "The term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for far longer."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_development_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «\"Modernization\", and especially \"Industrialization\" are other terms often used while discussing economic development.»?",
+      "options": [
+        "Economic development",
+        "Economy of Sri Lanka",
+        "Economic",
+        "Modernization"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economic development"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economy of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Modernization"
+        }
+      ],
+      "correctAnswerOrRubric": "Modernization",
+      "explanation": "Source-grounded AI practice item. The passage supports «Modernization». Full sentence: \"Modernization\", and especially \"Industrialization\" are other terms often used while discussing economic development. (source_id=wiki_en_economy_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economy_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_economy_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economy_of_sri_lanka",
+          "passage": "\"Modernization\", and especially \"Industrialization\" are other terms often used while discussing economic development."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_development_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «Historically, economic development policies focused on industrialization and infrastructure; Since the 1960s, it has increasingly focused on poverty reduction.»?",
+      "options": [
+        "Economy of Sri Lanka",
+        "Economic",
+        "Historically",
+        "Economic development"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economy of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Historically"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economic development"
+        }
+      ],
+      "correctAnswerOrRubric": "Historically",
+      "explanation": "Source-grounded AI practice item. The passage supports «Historically». Full sentence: Historically, economic development policies focused on industrialization and infrastructure; Since the 1960s, it has increasingly focused on poverty reduction. (source_id=wiki_en_economic_development). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economic_development",
+      "sourceIds": [
+        "wiki_en_economic_development"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economic_development",
+          "passage": "Historically, economic development policies focused on industrialization and infrastructure; Since the 1960s, it has increasingly focused on poverty reduction."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_development_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «Economist Paul Bairoch argues that forced economic liberalism imposed on the Global South during the 19th century  played a central role in delaying its industrialization.»?",
+      "options": [
+        "Economy of Sri Lanka",
+        "Economic",
+        "Economist Paul Bairoch",
+        "Economic development"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economy of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economist Paul Bairoch"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economic development"
+        }
+      ],
+      "correctAnswerOrRubric": "Economist Paul Bairoch",
+      "explanation": "Source-grounded AI practice item. The passage supports «Economist Paul Bairoch». Full sentence: Economist Paul Bairoch argues that forced economic liberalism imposed on the Global South during the 19th century  played a central role in delaying its industrialization. (source_id=wiki_en_economic_development). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economic_development",
+      "sourceIds": [
+        "wiki_en_economic_development"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economic_development",
+          "passage": "Economist Paul Bairoch argues that forced economic liberalism imposed on the Global South during the 19th century  played a central role in delaying its industrialization."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_development_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «Linguist Noam Chomsky argues that successful development has historically required the radical violation of free-market doctrine promoted by the U.S.»?",
+      "options": [
+        "Economic",
+        "Linguist Noam Chomsky",
+        "Economic development",
+        "Economy of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Linguist Noam Chomsky"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economic development"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economy of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Linguist Noam Chomsky",
+      "explanation": "Source-grounded AI practice item. The passage supports «Linguist Noam Chomsky». Full sentence: Linguist Noam Chomsky argues that successful development has historically required the radical violation of free-market doctrine promoted by the U.S. (source_id=wiki_en_economy_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economy_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_economy_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economy_of_sri_lanka",
+          "passage": "Linguist Noam Chomsky argues that successful development has historically required the radical violation of free-market doctrine promoted by the U.S."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_development_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Economic development and Sri Lankan context: «Economic development and Sri Lankan context can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Economic development and Sri Lankan context. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economic_development",
+      "sourceIds": [
+        "wiki_en_economic_development",
+        "wiki_en_economy_of_sri_lanka"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_development_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «And the key to greater production is a wider and more vigorous application of modem scientific and technical knowledge.\"\nThere have been several major phases of development theory since 1945.»?",
+      "options": [
+        "There",
+        "Economic development",
+        "Economy of Sri Lanka",
+        "Economic"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "There"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economic development"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economy of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economic"
+        }
+      ],
+      "correctAnswerOrRubric": "There",
+      "explanation": "Source-grounded AI practice item. The passage supports «There». Full sentence: And the key to greater production is a wider and more vigorous application of modem scientific and technical knowledge.\"\nThere have been several major phases of development theory since 1945. (source_id=wiki_en_economic_development). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economic_development",
+      "sourceIds": [
+        "wiki_en_economic_development"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economic_development",
+          "passage": "And the key to greater production is a wider and more vigorous application of modem scientific and technical knowledge.\"\nThere have been several major phases of development theory since 1945."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_development_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «Alexander Gerschenkron argued that the less developed the country is at the outset of economic development (relative to others), the more likely certain conditions are to occur.»?",
+      "options": [
+        "Economic development",
+        "Economy of Sri Lanka",
+        "Economic",
+        "Alexander Gerschenkron"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economic development"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economy of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Alexander Gerschenkron"
+        }
+      ],
+      "correctAnswerOrRubric": "Alexander Gerschenkron",
+      "explanation": "Source-grounded AI practice item. The passage supports «Alexander Gerschenkron». Full sentence: Alexander Gerschenkron argued that the less developed the country is at the outset of economic development (relative to others), the more likely certain conditions are to occur. (source_id=wiki_en_economy_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economy_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_economy_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economy_of_sri_lanka",
+          "passage": "Alexander Gerschenkron argued that the less developed the country is at the outset of economic development (relative to others), the more likely certain conditions are to occur."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_development_q08",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «From the 1940s to the 1960s the state played a large role in promoting industrialization in developing countries, following the idea of modernization theory.»?",
+      "options": [
+        "Economy of Sri Lanka",
+        "Economic",
+        "large",
+        "Economic development"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economy of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "large"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economic development"
+        }
+      ],
+      "correctAnswerOrRubric": "large",
+      "explanation": "Source-grounded AI practice item. The passage supports «large». Full sentence: From the 1940s to the 1960s the state played a large role in promoting industrialization in developing countries, following the idea of modernization theory. (source_id=wiki_en_economic_development). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economic_development",
+      "sourceIds": [
+        "wiki_en_economic_development"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economic_development",
+          "passage": "From the 1940s to the 1960s the state played a large role in promoting industrialization in developing countries, following the idea of modernization theory."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_development_q09",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_development",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Economic development and Sri Lankan context, which term or name is supported by this passage: «This period was followed by a brief period of basic needs development focusing on human capital development and redistribution in the 1970s.»?",
+      "options": [
+        "Economic",
+        "brief",
+        "Economic development",
+        "Economy of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Economic"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "brief"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Economic development"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Economy of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "brief",
+      "explanation": "Source-grounded AI practice item. The passage supports «brief». Full sentence: This period was followed by a brief period of basic needs development focusing on human capital development and redistribution in the 1970s. (source_id=wiki_en_economy_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_economy_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_economy_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_economy_of_sri_lanka",
+          "passage": "This period was followed by a brief period of basic needs development focusing on human capital development and redistribution in the 1970s."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_eco_development_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicIds": [
+        "eco_development"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Economic development and Sri Lankan context — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Economic_development",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_economic_development",
+        "wiki_en_economy_of_sri_lanka"
+      ],
+      "bodyText": "# Economic development and Sri Lankan context\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Economic development and Sri Lankan context」 (eco_development) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nIn economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.\nThe term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for far longer. \"Modernization\", and especially \"Industrialization\" are other terms often used while discussing economic development. Historically, economic development policies focused on industrialization and infrastructure; Since the 1960s, it has increasingly focused on poverty reduction.\nWhereas economic development is a policy intervention aiming to improve the well-being of people, economic growth is a phenomenon of market productivity and increases in GDP; economist Amartya Sen describes economic growth as but \"one aspect of the\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Economic development and Sri Lankan context\n- [inferred_not_official] Explain core ideas of Economic development and Sri Lankan context\n- [inferred_not_official] Apply concepts from Economic development and Sri Lankan context using cited public sources\n\n## Core concepts and definitions\nIn economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.\nThe term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for far longer. \"Modernization\", and especially \"Industrialization\" are other terms often used while discussing economic development. Historically, economic development policies focused on industrialization and infrastructure; Since the 1960s, it has increasingly focused on poverty reduction.\nWhereas economic development is a policy intervention aiming to improve the well-being of people, economic growth is a phenomenon of market productivity and increases in GDP; economist Amartya Sen describes economic growth as but \"one aspect of the process of economic development\".\n\nEconomist Paul Bairoch argues that forced economic liberalism imposed on the Global South during the 19th century  played a central role in delaying its industrialization. Linguist Noam Chomsky argues that successful development has historically required the radical violation of free-market doctrine promoted by the U.S. and the international financial institutions, and that this can be seen with every major economy, including England, the U.S., and the economic miracles of East Asia. Economist Joseph Stiglitz asserts that the \"free trade\" orthodoxy ignores  the fact that today’s advanced nations, such as the U.S. and Japan, built their wealth by protecting infant industries until they were globally competitive. Today, he argues, the International Monetary Fund (IMF) and World Bank demand the opposite, forcing vulnerable economies to open their markets to heavily subsidized Western goods. He contends that this doesn't create growth; it kills jobs. When small-scale farmers and local manufacturers are crushed by foreign competition without the support of low interest rates or social welfare, 'liberalization' becomes a mechanism for producing misery rather than prosperity.\n(Source: https://en.wikipedia.org/wiki/Economic_development)\n\n## Historical or systematic development\nThe precise definition of economic development has been contested: while economists in the 20th century viewed development primarily in terms of economic growth, sociologists instead emphasized broader processes of change and modernization. Development and urban studies scholar Karl Seidman summarizes economic development as \"a process of creating and utilizing physical, human, financial, and social assets to generate improved and broadly shared economic well-being and quality of life for a community or region\". Daphne Greenwood and Richard Holt distinguish economic development from economic growth on the basis that economic development is a \"broadly based and sustainable increase in the overall standard of living for individuals within a community\", and measures of growth such as per capita income do not necessarily correlate with improvements in quality of life.  The United Nations Development Programme in 1997 defined development as increasing people‟s choices. Choices depend on the people in question and their nation.  The UNDP indicates four chief factors in development, especially human development, which are empowerment, equity, productivity, and sustainability.\nMansell and Wehn state that economic development has been understood by non-practitioners since the World War II to involve economic growth, namely the increase in per capita income, and (if currently absent) the attainment of a standard of living equivalent to that of industrialized countries. Economic development can also be considered as a static theory that documents the state of an economy at a certain place. According to Schumpeter and Backhaus (2003), the changes in this equilibrium state documented in economic theory can only be caused by intervening factors coming from the outside.\n\nEconomist Ha-Joon Chang argues that all developed countries, during their development, from the 14th century until the East Asian newly industrialized countries in the late 20th century, used active state-interventionist industrial, trade and technology policies to promote infant industries and economic development. Consequently, he argues, the free-market policies promoted by the developed countries and the international development policy establishment they control is at odds with historical experience. Chang says that, despite the importance of tariff protection in the development of most Now Developed Countries, it was:by no means the only, nor even necessarily the most important, policy tool used by these countries in promoting infant industries. There were many other tools, such as export subsidies, tariff rebates on inputs used for exports, conferring of monopoly rights, cartel arrangements, directed credits, investment planning, manpower planning, R&D supports and the promotion of institutions that allow public-private cooperation.Chang says that economic growth rates in developing nations during the period of state-led industrialization were significantly higher than those achieved under the market-oriented neoliberal reforms. Under state-led industrialization in the 1960s and 1970s, per capita income in developing countries grew by 3.0% annually, according to Chang. He says that following the shift to neoliberal orthodoxy in the 1980s, that percentage plummeted to just 1.7%, and this decline would be even sharper if China and India were excluded. For example, he says, under state-led industrialization between 1964 and 1974, the Middle East achieved robust economic expansion, with GDP and GDP per capita growth rates averaging 7.5% and 4.8%, respectively. However, he says, these figures saw a dramatic decline during the 1985–1995 neoliberal period, falling to 2.9% for GDP and a stagnant 0.3% for per capita GDP. According to economist Alice Amsden's analysis of World Bank data, the period in which developing countriesm implemented state-led industrialization—from 1950 to 1980—marked a historic first: developing economies grew at an average rate of over 5% annually, outperforming developed economies, which grew at 4%. She calls this timeframe \"a period of unprecedented expansion in living standards, per capita income, wages, and poverty reduction.\" \nEconomic anthropologist Jason Hickel argues that neoliberal economic policies promoted by international institutions such as the World Bank, the IMF, and the World Trade Organization (WTO) over recent decades have aimed to aggressively liberalize markets in developing countries. These measures, he says, have opened economies in ways that grant multinational corporations extensive access to inexpensive land, natural resources, and labor. Sociologist Walden Bello posits that neoliberal policies pushed by the U.S., the World Bank, and the IMF intentionally undermine local producers in developing nations. By lifting import tariffs, deregulating foreign investment, and stripping away labor protections, these policies effectively force local economies into a Western-dominated global market. According to geographer David Harvey, the IMF and WTO drive a \"new imperialism\" by compelling world markets to liberalize, leading to what he labels \"accumulation by dispossession.\" In his view, these organizations break down national economic barriers with the ongoing support of U.S. intervention.\n(Source: https://en.wikipedia.org/wiki/Economy_of_Sri_Lanka)\n\n## Applications, evidence, and Sri Lankan / comparative context\n\"More than half the people of the world are living in conditions approaching misery. Their food is inadequate, they are victims of the disease. Their economic life is primitive and stagnant. Their poverty is a handicap and a threat both to them and to more prosperous areas. For the first time in history, humanity possesses the knowledge and the skill to relieve the suffering of these people ... I believe that we should make available to peace-loving people the benefits of our store of technical knowledge to help them realize their aspirations for a better life… What we envisage is a program of development based on the concepts of democratic fair dealing ... Greater production is the key to prosperity and peace. And the key to greater production is a wider and more vigorous application of modem scientific and technical knowledge.\"\nThere have been several major phases of development theory since 1945. Alexander Gerschenkron argued that the less developed the country is at the outset of economic development (relative to others), the more likely certain conditions are to occur. Hence, all countries do not progress similarly.  From the 1940s to the 1960s the state played a large role in promoting industrialization in developing countries, following the idea of modernization theory. This period was followed by a brief period of basic needs development focusing on human capital development and redistribution in the 1970s. Neoliberalism emerged in the 1980s, with an agenda of free trade and removal of import substitution industrialization policies.\nIn economics, the study of economic development was born out of an extension to traditional economics that focused entirely on the national product, or the aggregate output of goods and services. Economic development was concerned with the expansion of people's entitlements and their corresponding capabilities, such as morbidity, nourishment, literacy, education, and other socio-economic indicators. Borne out of the backdrop of Keynesian economics (advocating government intervention), and neoclassical economics (stressing reduced intervention), with the rise of high-growth countries (Singapore, South Korea, Hong Kong) and planned governments (Argentina, Chile, Sudan, Uganda), economic development and more generally development economics emerged amidst these mid-20th century theoretical interpretations of how economies prosper. Economist Albert O. Hirschman, a major contributor to development economics, argued that economic development grew to concentrate on the poor regions of the world, primarily in Africa, Asia and Latin America yet on the outpouring of fundamental ideas and models.\nIt has also been argued, notably by Asian and European proponents of infrastructure-based development, that systematic, long-term government investments in transportation, housing, education, and healthcare are necessary to ensure sustainable economic growth in emerging countries.\nDuring Robert McNamara's 13 years at the World Bank, he introduced key changes, most notably shifting the Bank's economic development policies toward targeted poverty reduction. Before his tenure at the World Bank, poverty did not receive substantial attention as part of international and national economic development; the focus of development had been on industrialization and infrastructure. Poverty also came to be redefined as a condition faced by people rather than countries. According to Martha Finnemore, the World Bank under McNamara's tenure \"sold\" states poverty reduction \"through a mixture of persuasion and coercion.\"\n\nSri Lanka has a developing mixed economy. It was valued at LKR 32.7 trillion (around US$109 billion) in 2025 by gross domestic product (GDP) and $371.27 billion by purchasing power parity (PPP) Sri Lanka's economy has experienced a strong recovery in recent years, driven by rising domestic consumption, increased investment, and improved performance in the industry and services sectors. GDP growth remained strong, recording 5.0% in both 2024 and 2025, with both years performing above earlier expectations. This recovery follows a period of severe economic difficulties between 2018 and 2022, including the COVID-19 pandemic, foreign exchange shortages, and the 2022 economic crisis.\nSri Lanka has met the Millennium Development Goal (MDG) target of halving extreme poverty and is on track to meet most of the other MDGs, outperforming other South Asian countries. Sri Lanka's poverty headcount index was 4.1% by 2016. Since the end of the three-decade-long Sri Lankan Civil War, Sri Lanka has begun focusing on long-term strategic and structural development challenges and has financed several infrastructure projects. The nation experienced a sovereign debt default in 2022 amid unsustainable external obligations and severe macroeconomic imbalances, rebounding in 2024 with support from the IMF.\n(Source: https://en.wikipedia.org/wiki/Economic_development)\n\n## Key terms\n- **Economic development**: In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.\n- **Economy of Sri Lanka**: Economy of Sri Lanka: a key idea for Economic development and Sri Lankan context (see cited sources; AI-authored gloss).\n- **Economic**: In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.\n- **development**: In economics, economic development (or economic and social development) is the process by which the economic well-being and quality of life of a nation, region, local community, or an individual are improved according to targeted goals and objectives.\n- **Lankan**: Since the end of the three-decade-long Sri Lankan Civil War, Sri Lanka has begun focusing on long-term strategic and structural development challenges and has financed several infrastructure projects.\n- **context**: context: a key idea for Economic development and Sri Lankan context (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Economic development and Sri Lankan context, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Economic development and Sri Lankan context can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Economic development and Sri Lankan context\n- Economic development and Sri Lankan context is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_economic_development: Economic development — https://en.wikipedia.org/wiki/Economic_development (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:30:19.356877+00:00; checksum a89a8b2786d5…)\n- wiki_en_economy_of_sri_lanka: Economy of Sri Lanka — https://en.wikipedia.org/wiki/Economy_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:30:20.972842+00:00; checksum 4c129eaf4a99…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:44.678691+00:00",
+  "before_distinct": 10,
+  "after_distinct": 12,
+  "newly_authored_here": 4
+}

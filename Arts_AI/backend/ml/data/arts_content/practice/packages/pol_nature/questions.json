@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_pol_nature_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Politics",
+      "Nature",
+      "Explanations",
+      "Political science"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Politics"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Political science"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_science",
+    "sourceIds": [
+      "wiki_en_political_science"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_science",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_nature_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics.»?",
+    "options": [
+      "Nature",
+      "Political",
+      "Political science",
+      "Politics"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Political"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Politics"
+      }
+    ],
+    "correctAnswerOrRubric": "Political",
+    "explanation": "Source-grounded AI practice item. The passage supports «Political». Full sentence: Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics. (source_id=wiki_en_politics). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics",
+    "sourceIds": [
+      "wiki_en_politics"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics",
+        "passage": "Political science (sometimes abbreviated as poli sci) is a field which aims to study the scientific aspect of politics."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_nature_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «It deals with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws.»?",
+    "options": [
+      "governance",
+      "Political science",
+      "Politics",
+      "Nature"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "governance"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Politics"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Nature"
+      }
+    ],
+    "correctAnswerOrRubric": "governance",
+    "explanation": "Source-grounded AI practice item. The passage supports «governance». Full sentence: It deals with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_science",
+    "sourceIds": [
+      "wiki_en_political_science"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_science",
+        "passage": "It deals with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_nature_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «Political science emerged as a distinct academic discipline in the late 19th century, influenced by the rise of empiricism and positivism.»?",
+    "options": [
+      "Political science",
+      "Politics",
+      "Nature",
+      "Political"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Politics"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Political"
+      }
+    ],
+    "correctAnswerOrRubric": "Political",
+    "explanation": "Source-grounded AI practice item. The passage supports «Political». Full sentence: Political science emerged as a distinct academic discipline in the late 19th century, influenced by the rise of empiricism and positivism. (source_id=wiki_en_politics). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics",
+    "sourceIds": [
+      "wiki_en_politics"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics",
+        "passage": "Political science emerged as a distinct academic discipline in the late 19th century, influenced by the rise of empiricism and positivism."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_nature_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «It emerged from history, philosophy, and law amid university professionalization and the founding of bodies such as the American Political Science Association in 1903.»?",
+    "options": [
+      "American Political Science Association",
+      "Political science",
+      "Politics",
+      "Nature"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "American Political Science Association"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Politics"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Nature"
+      }
+    ],
+    "correctAnswerOrRubric": "American Political Science Association",
+    "explanation": "Source-grounded AI practice item. The passage supports «American Political Science Association». Full sentence: It emerged from history, philosophy, and law amid university professionalization and the founding of bodies such as the American Political Science Association in 1903. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_science",
+    "sourceIds": [
+      "wiki_en_political_science"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_science",
+        "passage": "It emerged from history, philosophy, and law amid university professionalization and the founding of bodies such as the American Political Science Association in 1903."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_nature_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «Politics is usually concerned with resolving issues within a society via a government.»?",
+    "options": [
+      "Political science",
+      "Nature",
+      "Political",
+      "Politics"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Political"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Politics"
+      }
+    ],
+    "correctAnswerOrRubric": "Politics",
+    "explanation": "Source-grounded AI practice item. The passage supports «Politics». Full sentence: Politics is usually concerned with resolving issues within a society via a government. (source_id=wiki_en_politics). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics",
+    "sourceIds": [
+      "wiki_en_politics"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics",
+        "passage": "Politics is usually concerned with resolving issues within a society via a government."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_nature_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «The branch of social science that studies politics and government is referred to as political science.»?",
+    "options": [
+      "Politics",
+      "Nature",
+      "science",
+      "Political science"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Politics"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "science"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Political science"
+      }
+    ],
+    "correctAnswerOrRubric": "science",
+    "explanation": "Source-grounded AI practice item. The passage supports «science». Full sentence: The branch of social science that studies politics and government is referred to as political science. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_science",
+    "sourceIds": [
+      "wiki_en_political_science"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_science",
+        "passage": "The branch of social science that studies politics and government is referred to as political science."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_nature_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «A variety of methods are deployed in politics, which include promoting one's own political views among people, negotiation with other political subjects, making laws, and exercising internal and exter…»?",
+    "options": [
+      "Nature",
+      "deployed",
+      "Political science",
+      "Politics"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "deployed"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Politics"
+      }
+    ],
+    "correctAnswerOrRubric": "deployed",
+    "explanation": "Source-grounded AI practice item. The passage supports «deployed». Full sentence: A variety of methods are deployed in politics, which include promoting one's own political views among people, negotiation with other political subjects, making laws, and exercising internal and external force, including warfare against adversaries. (source_id=wiki_en_politics). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics",
+    "sourceIds": [
+      "wiki_en_politics"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics",
+        "passage": "A variety of methods are deployed in politics, which include promoting one's own political views among people, negotiation with other political subjects, making laws, and exercising internal and external force, including warfare against adversaries."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_nature_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «=== Behavioral revolution and new institutionalism ===\nIn the 1950s and 1960s, a behavioral revolution stressing the systematic, rigorously scientific study of individual and group behavior swept the …»?",
+    "options": [
+      "Behavioral",
+      "Political science",
+      "Politics",
+      "Nature"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Behavioral"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Politics"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Nature"
+      }
+    ],
+    "correctAnswerOrRubric": "Behavioral",
+    "explanation": "Source-grounded AI practice item. The passage supports «Behavioral». Full sentence: === Behavioral revolution and new institutionalism ===\nIn the 1950s and 1960s, a behavioral revolution stressing the systematic, rigorously scientific study of individual and group behavior swept the discipline. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_science",
+    "sourceIds": [
+      "wiki_en_political_science"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_science",
+        "passage": "=== Behavioral revolution and new institutionalism ===\nIn the 1950s and 1960s, a behavioral revolution stressing the systematic, rigorously scientific study of individual and group behavior swept the discipline."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_nature_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «The late 1960s and early 1970s witnessed a takeoff in the use of deductive, game-theoretic formal modelling techniques aimed at generating a more analytical corpus of knowledge in the discipline.»?",
+    "options": [
+      "Political science",
+      "Politics",
+      "Nature",
+      "takeoff"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Politics"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "takeoff"
+      }
+    ],
+    "correctAnswerOrRubric": "takeoff",
+    "explanation": "Source-grounded AI practice item. The passage supports «takeoff». Full sentence: The late 1960s and early 1970s witnessed a takeoff in the use of deductive, game-theoretic formal modelling techniques aimed at generating a more analytical corpus of knowledge in the discipline. (source_id=wiki_en_politics). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics",
+    "sourceIds": [
+      "wiki_en_politics"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics",
+        "passage": "The late 1960s and early 1970s witnessed a takeoff in the use of deductive, game-theoretic formal modelling techniques aimed at generating a more analytical corpus of knowledge in the discipline."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_nature_q07",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «This period saw a surge of research that borrowed theory and methods from economics to study political institutions, such as the United States Congress, as well as political behavior, such as voting.»?",
+    "options": [
+      "Politics",
+      "Nature",
+      "United States Congress",
+      "Political science"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Politics"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "United States Congress"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Political science"
+      }
+    ],
+    "correctAnswerOrRubric": "United States Congress",
+    "explanation": "Source-grounded AI practice item. The passage supports «United States Congress». Full sentence: This period saw a surge of research that borrowed theory and methods from economics to study political institutions, such as the United States Congress, as well as political behavior, such as voting. (source_id=wiki_en_political_science). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_political_science",
+    "sourceIds": [
+      "wiki_en_political_science"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_political_science",
+        "passage": "This period saw a surge of research that borrowed theory and methods from economics to study political institutions, such as the United States Congress, as well as political behavior, such as voting."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_nature_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_nature",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Nature of Political Science, study of politics and approaches, which term or name is supported by this passage: «Riker and his colleagues and students at the University of Rochester were the main proponents of this shift.»?",
+    "options": [
+      "Nature",
+      "Riker",
+      "Political science",
+      "Politics"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Nature"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Riker"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Political science"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Politics"
+      }
+    ],
+    "correctAnswerOrRubric": "Riker",
+    "explanation": "Source-grounded AI practice item. The passage supports «Riker». Full sentence: Riker and his colleagues and students at the University of Rochester were the main proponents of this shift. (source_id=wiki_en_politics). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_politics",
+    "sourceIds": [
+      "wiki_en_politics"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_politics",
+        "passage": "Riker and his colleagues and students at the University of Rochester were the main proponents of this shift."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

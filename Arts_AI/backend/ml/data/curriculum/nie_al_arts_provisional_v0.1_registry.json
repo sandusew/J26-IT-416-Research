@@ -1,0 +1,1222 @@
+{
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "generated_at_utc": "2026-10-13T18:28:07.467012+00:00",
+  "scope_status": "provisional_awaiting_stakeholder_confirmation",
+  "n_topics": 46,
+  "subjects": [
+    "sub_economics",
+    "sub_geography",
+    "sub_history",
+    "sub_political",
+    "sub_sinhala_lit"
+  ],
+  "note": "PROVISIONAL. Approved proposal missing from repo. Structure titles from NIE public syllabi; not teacher-reviewed; not full Arts stream coverage.",
+  "topics": [
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_sri_lanka",
+      "unit_title": "History of Sri Lanka (compulsory)",
+      "topic_id": "hist_sl_sources",
+      "topic_title": "Sources for Sri Lankan history",
+      "learning_outcomes": [
+        "Use literary and archaeological sources critically"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.1 competency 1.0",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_sri_lanka",
+      "unit_title": "History of Sri Lanka (compulsory)",
+      "topic_id": "hist_sl_geography",
+      "topic_title": "Geographical factors in Sri Lankan history",
+      "learning_outcomes": [
+        "Analyse geographical influence on civilization"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.1 competency 2.0",
+      "prerequisite_topic_ids": [
+        "hist_sl_sources"
+      ],
+      "prerequisite_basis": "proposed_sequential_research_not_official_nie_rule",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_sri_lanka",
+      "unit_title": "History of Sri Lanka (compulsory)",
+      "topic_id": "hist_sl_prehistoric",
+      "topic_title": "Pre-historic and early settlements",
+      "learning_outcomes": [
+        "Describe pre-historic eras and early Aryan settlements"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.1 competency 3.0",
+      "prerequisite_topic_ids": [
+        "hist_sl_geography"
+      ],
+      "prerequisite_basis": "proposed_sequential_research_not_official_nie_rule",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_sri_lanka",
+      "unit_title": "History of Sri Lanka (compulsory)",
+      "topic_id": "hist_sl_buddhism",
+      "topic_title": "Establishment and expansion of Buddhism",
+      "learning_outcomes": [
+        "Explain establishment of Buddhism and socio-cultural change"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.1 competency 4.0",
+      "prerequisite_topic_ids": [
+        "hist_sl_prehistoric"
+      ],
+      "prerequisite_basis": "proposed_sequential_research_not_official_nie_rule",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_sri_lanka",
+      "unit_title": "History of Sri Lanka (compulsory)",
+      "topic_id": "hist_sl_rajarata_politics",
+      "topic_title": "Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa)",
+      "learning_outcomes": [
+        "Analyse rise/fall of Anuradhapura and Polonnaruwa politics"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.1 competency 5.0",
+      "prerequisite_topic_ids": [
+        "hist_sl_buddhism"
+      ],
+      "prerequisite_basis": "proposed_sequential_research_not_official_nie_rule",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_sri_lanka",
+      "unit_title": "History of Sri Lanka (compulsory)",
+      "topic_id": "hist_sl_rajarata_society",
+      "topic_title": "Economy, irrigation and society of Rajarata",
+      "learning_outcomes": [
+        "Examine agriculture, irrigation, trade and culture"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.1 competency 6.0",
+      "prerequisite_topic_ids": [
+        "hist_sl_rajarata_politics"
+      ],
+      "prerequisite_basis": "proposed_sequential_research_not_official_nie_rule",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_sri_lanka",
+      "unit_title": "History of Sri Lanka (compulsory)",
+      "topic_id": "hist_sl_post_polonnaruwa",
+      "topic_title": "Kingdoms after Polonnaruwa to 16th century",
+      "learning_outcomes": [
+        "Describe successor kingdoms and foreign relations"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.1 competency 7.0",
+      "prerequisite_topic_ids": [
+        "hist_sl_rajarata_society"
+      ],
+      "prerequisite_basis": "proposed_sequential_research_not_official_nie_rule",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "13",
+      "unit_id": "hist_unit_sri_lanka",
+      "unit_title": "History of Sri Lanka (compulsory)",
+      "topic_id": "hist_sl_colonial_modern",
+      "topic_title": "Colonial period to 1978 constitutional change",
+      "learning_outcomes": [
+        "Outline colonial transformation through 1978 executive presidency"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "syllabus intro / Grade 13 SL themes",
+      "prerequisite_topic_ids": [
+        "hist_sl_post_polonnaruwa"
+      ],
+      "prerequisite_basis": "proposed_sequential_research_not_official_nie_rule",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_india",
+      "unit_title": "History elective: india",
+      "topic_id": "hist_in_sources",
+      "topic_title": "Sources for Indian history",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Sources for Indian history"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.2",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_india",
+      "unit_title": "History elective: india",
+      "topic_id": "hist_in_geography",
+      "topic_title": "Geography and Indian history",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Geography and Indian history"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.2",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_india",
+      "unit_title": "History elective: india",
+      "topic_id": "hist_in_indus_vedic",
+      "topic_title": "Indus and Vedic civilizations",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Indus and Vedic civilizations"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "\u00a73.2",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_europe",
+      "unit_title": "History elective: europe",
+      "topic_id": "hist_eu_civilization",
+      "topic_title": "Forces shaping European civilization",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Forces shaping European civilization"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "syllabus intro Europe",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_europe",
+      "unit_title": "History elective: europe",
+      "topic_id": "hist_eu_modern",
+      "topic_title": "Europe 1500\u20131989 selected themes",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Europe 1500\u20131989 selected themes"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "syllabus intro Europe",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_history",
+      "subject_name": "History",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "hist_unit_modern_world",
+      "unit_title": "History elective: modern_world",
+      "topic_id": "hist_mw_since_1500",
+      "topic_title": "Modern world since 1500 (Asia/Africa/Europe/America)",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Modern world since 1500 (Asia/Africa/Europe/America)"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl11.pdf",
+      "source_page_or_section": "syllabus intro Modern World",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_geography",
+      "subject_name": "Geography",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "geo_unit_intro",
+      "unit_title": "Geography: intro",
+      "topic_id": "geo_basic_concepts",
+      "topic_title": "Basic concepts of Geography",
+      "learning_outcomes": [
+        "Demonstrate competency related to: Basic concepts of Geography"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "source_page_or_section": "Grade 12 TG contents",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_geography",
+      "subject_name": "Geography",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "geo_unit_physical",
+      "unit_title": "Geography: physical",
+      "topic_id": "geo_physical_nature",
+      "topic_title": "Nature of Physical Geography",
+      "learning_outcomes": [
+        "Demonstrate competency related to: Nature of Physical Geography"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "source_page_or_section": "Physical Geography",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_geography",
+      "subject_name": "Geography",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "geo_unit_physical",
+      "unit_title": "Geography: physical",
+      "topic_id": "geo_landforms",
+      "topic_title": "Landforms / main relief types",
+      "learning_outcomes": [
+        "Demonstrate competency related to: Landforms / main relief types"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "source_page_or_section": "Physical Geography",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_geography",
+      "subject_name": "Geography",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "geo_unit_physical",
+      "unit_title": "Geography: physical",
+      "topic_id": "geo_climate",
+      "topic_title": "Climate systems",
+      "learning_outcomes": [
+        "Demonstrate competency related to: Climate systems"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "source_page_or_section": "Physical Geography",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_geography",
+      "subject_name": "Geography",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "geo_unit_human",
+      "unit_title": "Geography: human",
+      "topic_id": "geo_population",
+      "topic_title": "Population",
+      "learning_outcomes": [
+        "Demonstrate competency related to: Population"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "source_page_or_section": "Human Geography",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_geography",
+      "subject_name": "Geography",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "geo_unit_human",
+      "unit_title": "Geography: human",
+      "topic_id": "geo_settlement_urban",
+      "topic_title": "Settlement and urbanization (incl. Sri Lanka)",
+      "learning_outcomes": [
+        "Demonstrate competency related to: Settlement and urbanization (incl. Sri Lanka)"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "source_page_or_section": "Human Geography",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_geography",
+      "subject_name": "Geography",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "geo_unit_human",
+      "unit_title": "Geography: human",
+      "topic_id": "geo_agriculture",
+      "topic_title": "World / regional agriculture",
+      "learning_outcomes": [
+        "Demonstrate competency related to: World / regional agriculture"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "source_page_or_section": "Human Geography",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_geography",
+      "subject_name": "Geography",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "geo_unit_practical",
+      "unit_title": "Geography: practical",
+      "topic_id": "geo_practical_maps",
+      "topic_title": "Practical Geography and map skills",
+      "learning_outcomes": [
+        "Demonstrate competency related to: Practical Geography and map skills"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eGr12TG%20Geography.pdf",
+      "source_page_or_section": "Practical Geography",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_nature",
+      "topic_title": "Nature of Political Science, study of politics and approaches",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Nature of Political Science, study of politics and approaches"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Topics 1\u20132",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_subfields",
+      "topic_title": "Political Science and its sub-fields",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Political Science and its sub-fields"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Topic 2",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_state",
+      "topic_title": "The State",
+      "learning_outcomes": [
+        "Demonstrate understanding of: The State"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Topic 3",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_forms_gov",
+      "topic_title": "Forms of government",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Forms of government"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Topic 4",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_ideologies",
+      "topic_title": "Political ideologies",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Political ideologies"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Topic 5",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_conflict",
+      "topic_title": "Conflict and conflict resolution",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Conflict and conflict resolution"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Topic 6",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_colonial",
+      "topic_title": "Colonial transformation of Sri Lanka",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Colonial transformation of Sri Lanka"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Topic 7",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_westminster",
+      "topic_title": "Westminster model in Sri Lanka and changes",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Westminster model in Sri Lanka and changes"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Topic 8",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "13",
+      "unit_id": "pol_grade_13",
+      "unit_title": "Political Science Grade 13",
+      "topic_id": "pol_democracy",
+      "topic_title": "Democratic governance \u2014 theory and practice",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Democratic governance \u2014 theory and practice"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Grade 13 Topic 1",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "13",
+      "unit_id": "pol_grade_13",
+      "unit_title": "Political Science Grade 13",
+      "topic_id": "pol_comparative",
+      "topic_title": "Comparative models of government",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Comparative models of government"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Grade 13 comparative",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "13",
+      "unit_id": "pol_grade_13",
+      "unit_title": "Political Science Grade 13",
+      "topic_id": "pol_constitution_1978",
+      "topic_title": "Constitution of 1978 and selected amendments",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Constitution of 1978 and selected amendments"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "1978 constitution themes",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "13",
+      "unit_id": "pol_grade_13",
+      "unit_title": "Political Science Grade 13",
+      "topic_id": "pol_parties",
+      "topic_title": "Political party system of Sri Lanka",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Political party system of Sri Lanka"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Party system",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "13",
+      "unit_id": "pol_grade_13",
+      "unit_title": "Political Science Grade 13",
+      "topic_id": "pol_international",
+      "topic_title": "International politics and implications for Sri Lanka",
+      "learning_outcomes": [
+        "Demonstrate understanding of: International politics and implications for Sri Lanka"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "International politics",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "13",
+      "unit_id": "pol_grade_13",
+      "unit_title": "Political Science Grade 13",
+      "topic_id": "pol_public_policy",
+      "topic_title": "Public policy (introductory)",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Public policy (introductory)"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "syllabus narrative",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_political",
+      "subject_name": "Political Science",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "pol_grade_12",
+      "unit_title": "Political Science Grade 12",
+      "topic_id": "pol_citizen",
+      "topic_title": "Citizenship and political values",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Citizenship and political values"
+      ],
+      "source_reference": "https://www.nie.lk/pdffiles/tg/eALSyl%20Political.pdf",
+      "source_page_or_section": "Aims of teaching",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_economics",
+      "subject_name": "Economics",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "eco_al_core",
+      "unit_title": "Economics A/L core (structure provisional)",
+      "topic_id": "eco_intro",
+      "topic_title": "Nature and scope of Economics",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Nature and scope of Economics"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "source_page_or_section": "Economics syllabus intro",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_economics",
+      "subject_name": "Economics",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "eco_al_core",
+      "unit_title": "Economics A/L core (structure provisional)",
+      "topic_id": "eco_scarcity_choice",
+      "topic_title": "Scarcity, choice and opportunity cost",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Scarcity, choice and opportunity cost"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "source_page_or_section": "core concepts",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_economics",
+      "subject_name": "Economics",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "eco_al_core",
+      "unit_title": "Economics A/L core (structure provisional)",
+      "topic_id": "eco_demand_supply",
+      "topic_title": "Demand, supply and markets",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Demand, supply and markets"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "source_page_or_section": "market analysis",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_economics",
+      "subject_name": "Economics",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "eco_al_core",
+      "unit_title": "Economics A/L core (structure provisional)",
+      "topic_id": "eco_national_income",
+      "topic_title": "National income and macroeconomic indicators",
+      "learning_outcomes": [
+        "Demonstrate understanding of: National income and macroeconomic indicators"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "source_page_or_section": "macro",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_economics",
+      "subject_name": "Economics",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "eco_al_core",
+      "unit_title": "Economics A/L core (structure provisional)",
+      "topic_id": "eco_money_banking",
+      "topic_title": "Money, banking and financial system",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Money, banking and financial system"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "source_page_or_section": "macro/finance",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_economics",
+      "subject_name": "Economics",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "eco_al_core",
+      "unit_title": "Economics A/L core (structure provisional)",
+      "topic_id": "eco_gov_policy",
+      "topic_title": "Government economic policy",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Government economic policy"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "source_page_or_section": "policy",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_economics",
+      "subject_name": "Economics",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "eco_al_core",
+      "unit_title": "Economics A/L core (structure provisional)",
+      "topic_id": "eco_intl_trade",
+      "topic_title": "International trade and finance",
+      "learning_outcomes": [
+        "Demonstrate understanding of: International trade and finance"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "source_page_or_section": "external sector",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_economics",
+      "subject_name": "Economics",
+      "medium": "english",
+      "grade": "12",
+      "unit_id": "eco_al_core",
+      "unit_title": "Economics A/L core (structure provisional)",
+      "topic_id": "eco_development",
+      "topic_title": "Economic development and Sri Lankan context",
+      "learning_outcomes": [
+        "Demonstrate understanding of: Economic development and Sri Lankan context"
+      ],
+      "source_reference": "https://nie.lk/pdffiles/tg/e12syl49.pdf",
+      "source_page_or_section": "development",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    },
+    {
+      "curriculum_version": "nie_al_arts_provisional_v0.1",
+      "subject_id": "sub_sinhala_lit",
+      "subject_name": "Sinhala Literature",
+      "medium": "sinhala",
+      "grade": "12",
+      "unit_id": "si_lit_deferred",
+      "unit_title": "Sinhala Literature (structure pending official syllabus intake)",
+      "topic_id": "si_lit_placeholder",
+      "topic_title": "Placeholder \u2014 official unit list not yet registered",
+      "learning_outcomes": [],
+      "source_reference": "PENDING_official_sinhala_literature_syllabus",
+      "source_page_or_section": "n/a",
+      "prerequisite_topic_ids": [],
+      "prerequisite_basis": "none_stated_in_nie_excerpt",
+      "scope_status": "provisional_awaiting_stakeholder_confirmation",
+      "review_status": "structure_unreviewed"
+    }
+  ],
+  "legacy_topic_mappings": [
+    {
+      "legacy_topic_id": "sub_history_t00",
+      "canonical_topic_id": "hist_sl_sources",
+      "canonical_title": "Sources for Sri Lankan history",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_history_t01",
+      "canonical_topic_id": "hist_sl_geography",
+      "canonical_title": "Geographical factors in Sri Lankan history",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_history_t02",
+      "canonical_topic_id": "hist_sl_prehistoric",
+      "canonical_title": "Pre-historic and early settlements",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_history_t03",
+      "canonical_topic_id": "hist_sl_buddhism",
+      "canonical_title": "Establishment and expansion of Buddhism",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_history_t04",
+      "canonical_topic_id": "hist_sl_rajarata_politics",
+      "canonical_title": "Political evolution of Rajarata (Anuradhapura\u2013Polonnaruwa)",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_history_t05",
+      "canonical_topic_id": "hist_sl_rajarata_society",
+      "canonical_title": "Economy, irrigation and society of Rajarata",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_history_t06",
+      "canonical_topic_id": "hist_sl_post_polonnaruwa",
+      "canonical_title": "Kingdoms after Polonnaruwa to 16th century",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_history_t07",
+      "canonical_topic_id": "hist_sl_colonial_modern",
+      "canonical_title": "Colonial period to 1978 constitutional change",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_geography_t00",
+      "canonical_topic_id": "geo_basic_concepts",
+      "canonical_title": "Basic concepts of Geography",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_geography_t01",
+      "canonical_topic_id": "geo_physical_nature",
+      "canonical_title": "Nature of Physical Geography",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_geography_t02",
+      "canonical_topic_id": "geo_landforms",
+      "canonical_title": "Landforms / main relief types",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_geography_t03",
+      "canonical_topic_id": "geo_climate",
+      "canonical_title": "Climate systems",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_geography_t04",
+      "canonical_topic_id": "geo_population",
+      "canonical_title": "Population",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_geography_t05",
+      "canonical_topic_id": "geo_settlement_urban",
+      "canonical_title": "Settlement and urbanization (incl. Sri Lanka)",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_geography_t06",
+      "canonical_topic_id": "geo_agriculture",
+      "canonical_title": "World / regional agriculture",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_geography_t07",
+      "canonical_topic_id": "geo_practical_maps",
+      "canonical_title": "Practical Geography and map skills",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_economics_t00",
+      "canonical_topic_id": "eco_intro",
+      "canonical_title": "Nature and scope of Economics",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_economics_t01",
+      "canonical_topic_id": "eco_scarcity_choice",
+      "canonical_title": "Scarcity, choice and opportunity cost",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_economics_t02",
+      "canonical_topic_id": "eco_demand_supply",
+      "canonical_title": "Demand, supply and markets",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_economics_t03",
+      "canonical_topic_id": "eco_national_income",
+      "canonical_title": "National income and macroeconomic indicators",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_economics_t04",
+      "canonical_topic_id": "eco_money_banking",
+      "canonical_title": "Money, banking and financial system",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_economics_t05",
+      "canonical_topic_id": "eco_gov_policy",
+      "canonical_title": "Government economic policy",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_economics_t06",
+      "canonical_topic_id": "eco_intl_trade",
+      "canonical_title": "International trade and finance",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_economics_t07",
+      "canonical_topic_id": "eco_development",
+      "canonical_title": "Economic development and Sri Lankan context",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_political_t00",
+      "canonical_topic_id": "pol_nature",
+      "canonical_title": "Nature of Political Science, study of politics and approaches",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_political_t01",
+      "canonical_topic_id": "pol_subfields",
+      "canonical_title": "Political Science and its sub-fields",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_political_t02",
+      "canonical_topic_id": "pol_state",
+      "canonical_title": "The State",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_political_t03",
+      "canonical_topic_id": "pol_forms_gov",
+      "canonical_title": "Forms of government",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_political_t04",
+      "canonical_topic_id": "pol_ideologies",
+      "canonical_title": "Political ideologies",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_political_t05",
+      "canonical_topic_id": "pol_conflict",
+      "canonical_title": "Conflict and conflict resolution",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_political_t06",
+      "canonical_topic_id": "pol_colonial",
+      "canonical_title": "Colonial transformation of Sri Lanka",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_political_t07",
+      "canonical_topic_id": "pol_westminster",
+      "canonical_title": "Westminster model in Sri Lanka and changes",
+      "status": "partial_match",
+      "note": "Ordinal slot mapping from provisional generated Topic N \u2014 not name-equivalent; requires teacher review"
+    },
+    {
+      "legacy_topic_id": "sub_sinhala_lit_t00",
+      "canonical_topic_id": null,
+      "status": "unmapped",
+      "note": "Sinhala Literature canonical units pending official syllabus registration"
+    },
+    {
+      "legacy_topic_id": "sub_sinhala_lit_t01",
+      "canonical_topic_id": null,
+      "status": "unmapped",
+      "note": "Sinhala Literature canonical units pending official syllabus registration"
+    },
+    {
+      "legacy_topic_id": "sub_sinhala_lit_t02",
+      "canonical_topic_id": null,
+      "status": "unmapped",
+      "note": "Sinhala Literature canonical units pending official syllabus registration"
+    },
+    {
+      "legacy_topic_id": "sub_sinhala_lit_t03",
+      "canonical_topic_id": null,
+      "status": "unmapped",
+      "note": "Sinhala Literature canonical units pending official syllabus registration"
+    },
+    {
+      "legacy_topic_id": "sub_sinhala_lit_t04",
+      "canonical_topic_id": null,
+      "status": "unmapped",
+      "note": "Sinhala Literature canonical units pending official syllabus registration"
+    },
+    {
+      "legacy_topic_id": "sub_sinhala_lit_t05",
+      "canonical_topic_id": null,
+      "status": "unmapped",
+      "note": "Sinhala Literature canonical units pending official syllabus registration"
+    },
+    {
+      "legacy_topic_id": "sub_sinhala_lit_t06",
+      "canonical_topic_id": null,
+      "status": "unmapped",
+      "note": "Sinhala Literature canonical units pending official syllabus registration"
+    },
+    {
+      "legacy_topic_id": "sub_sinhala_lit_t07",
+      "canonical_topic_id": null,
+      "status": "unmapped",
+      "note": "Sinhala Literature canonical units pending official syllabus registration"
+    }
+  ]
+}

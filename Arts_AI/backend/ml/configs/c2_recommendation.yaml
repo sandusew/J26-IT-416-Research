@@ -1,0 +1,33 @@
+component: c2_recommendation
+seed: 42
+
+public_track:
+  dataset: ednet_kt1_subset
+  task: next_answer_correctness
+  max_students: 200
+  min_history: 5
+  features_before_response_only: true
+  forbid_target_correctness: true
+  forbid_target_duration: true
+  models:
+    baseline: majority_class
+    primary: logistic_regression
+  test_fraction: 0.2
+  validation_fraction: 0.15
+
+arts_simulation_track:
+  dataset: synthetic_arts
+  subjects_provisional: true
+  recommendation:
+    policy_baseline: prerequisite_aware
+    scoring_model: lightgbm_ranker_lite  # lightweight candidate scoring on simulated labels
+  candidate_set_size: 20
+  relevance_definition: "simulated open+complete within 7 days OR next-topic prerequisite readiness"
+  outcome_definition: "simulated learning gain on topic post-assessment (simulation assumption only)"
+  scenario_variations:
+    - cold_start
+    - sparse_history
+    - improving
+    - declining
+    - inactive
+  holdout: simulated_learners_by_seed

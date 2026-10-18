@@ -1,0 +1,18 @@
+# Detected at project bootstrap — CPU defaults for training
+os: Windows 10.0.26200
+cpu: Intel Core i7-10750H
+cores: 6
+logical_processors: 12
+ram_gb: 15.83
+disk_free_gb_c: 105
+gpu: NVIDIA GeForce GTX 1650 Ti Max-Q (4GB) + Intel UHD
+python: "3.13.9"
+node: "v24.10.0"
+training_device: cpu
+n_jobs: 2
+max_ednet_students: 200
+random_seed: 42
+notes: >
+  GPU present but CPU defaults used per project policy.
+  EdNet subset limited for laptop RAM (~16GB).
+  Avoid unrestricted parallel training.

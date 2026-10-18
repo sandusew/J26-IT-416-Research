@@ -1,0 +1,39 @@
+{
+  "train_docs": [
+    "doc_sub_economics_t00",
+    "doc_sub_economics_t01",
+    "doc_sub_economics_t02",
+    "doc_sub_economics_t04",
+    "doc_sub_economics_t05",
+    "doc_sub_economics_t06",
+    "doc_sub_economics_t07",
+    "doc_sub_geography_t00",
+    "doc_sub_geography_t02",
+    "doc_sub_geography_t03",
+    "doc_sub_geography_t04",
+    "doc_sub_geography_t07",
+    "doc_sub_history_t02",
+    "doc_sub_history_t03",
+    "doc_sub_history_t04",
+    "doc_sub_history_t06",
+    "doc_sub_political_t01",
+    "doc_sub_political_t02",
+    "doc_sub_political_t05",
+    "doc_sub_political_t07",
+    "doc_sub_sinhala_lit_t00",
+    "doc_sub_sinhala_lit_t02",
+    "doc_sub_sinhala_lit_t03",
+    "doc_sub_sinhala_lit_t04",
+    "doc_sub_sinhala_lit_t05",
+    "doc_sub_sinhala_lit_t06"
+  ],
+  "val_docs": [],
+  "test_docs": [],
+  "unseen_topics": [
+    "sub_economics_t03",
+    "sub_history_t01",
+    "sub_political_t00",
+    "sub_political_t04",
+    "sub_sinhala_lit_t07"
+  ]
+}

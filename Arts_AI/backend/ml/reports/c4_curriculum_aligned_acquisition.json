@@ -1,0 +1,62 @@
+{
+  "generated_at_utc": "2026-10-14T00:18:56.370952+00:00",
+  "curriculum_version": "nie_al_arts_provisional_v0.1",
+  "n_acquired": 12,
+  "acquired": [
+    {
+      "document_id": "wiki_en_anuradhapura",
+      "topic_id": "hist_sl_rajarata_politics"
+    },
+    {
+      "document_id": "wiki_en_polonnaruwa",
+      "topic_id": "hist_sl_rajarata_politics"
+    },
+    {
+      "document_id": "wiki_en_buddhism_sri_lanka",
+      "topic_id": "hist_sl_buddhism"
+    },
+    {
+      "document_id": "wiki_en_physical_geography",
+      "topic_id": "geo_physical_nature"
+    },
+    {
+      "document_id": "wiki_en_urbanization",
+      "topic_id": "geo_settlement_urban"
+    },
+    {
+      "document_id": "wiki_en_supply_demand",
+      "topic_id": "eco_demand_supply"
+    },
+    {
+      "document_id": "wiki_en_opportunity_cost",
+      "topic_id": "eco_scarcity_choice"
+    },
+    {
+      "document_id": "wiki_en_forms_of_government",
+      "topic_id": "pol_forms_gov"
+    },
+    {
+      "document_id": "wiki_en_political_ideology",
+      "topic_id": "pol_ideologies"
+    },
+    {
+      "document_id": "wiki_en_prehistory_sri_lanka",
+      "topic_id": "hist_sl_prehistoric"
+    },
+    {
+      "document_id": "wiki_en_state_polity",
+      "topic_id": "pol_state"
+    },
+    {
+      "document_id": "wiki_en_national_income",
+      "topic_id": "eco_national_income"
+    }
+  ],
+  "errors": [
+    {
+      "document_id": "wiki_en_climate_sri_lanka",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "note": "Supplemental CC BY-SA only; not complete A/L syllabus teaching coverage; unreviewed"
+}

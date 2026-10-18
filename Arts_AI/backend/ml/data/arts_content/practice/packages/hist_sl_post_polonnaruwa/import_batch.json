@@ -1,0 +1,752 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Kingdom of Kotte",
+        "Kingdom of Sitawaka",
+        "Explanations",
+        "Kingdom of Dambadeniya"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Kingdom of Kotte"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Kingdom of Sitawaka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Kingdom of Dambadeniya"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_kingdom_of_kotte). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_kotte",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_kotte",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «The Kingdom of Kotte (Sinhala: කෝට්ටේ රාජධානිය, romanized: Kōṭṭē Rajadhaniya, Tamil: கோட்டை அரசு), named after its capital, Kotte, was a Sinhalese kingdom that flourished in Sri Lanka during the 15th …»?",
+      "options": [
+        "Kingdom of Sitawaka",
+        "Kotte",
+        "Kingdom of Dambadeniya",
+        "Kingdom of Kotte"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Kingdom of Sitawaka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Kotte"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Kingdom of Dambadeniya"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Kingdom of Kotte"
+        }
+      ],
+      "correctAnswerOrRubric": "Kotte",
+      "explanation": "Source-grounded AI practice item. The passage supports «Kotte». Full sentence: The Kingdom of Kotte (Sinhala: කෝට්ටේ රාජධානිය, romanized: Kōṭṭē Rajadhaniya, Tamil: கோட்டை அரசு), named after its capital, Kotte, was a Sinhalese kingdom that flourished in Sri Lanka during the 15th century. (source_id=wiki_en_kingdom_of_sitawaka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_sitawaka",
+      "sourceIds": [
+        "wiki_en_kingdom_of_sitawaka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_sitawaka",
+          "passage": "The Kingdom of Kotte (Sinhala: කෝට්ටේ රාජධානිය, romanized: Kōṭṭē Rajadhaniya, Tamil: கோட்டை அரசு), named after its capital, Kotte, was a Sinhalese kingdom that flourished in Sri Lanka during the 15th century."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «Founded by Parakramabahu VI with the help of the Ming, the Kingdom managed to conquer the Jaffna kingdom and the Vanni principalities, and bring the country under one flag.»?",
+      "options": [
+        "Founded",
+        "Kingdom of Dambadeniya",
+        "Kingdom of Kotte",
+        "Kingdom of Sitawaka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Founded"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Kingdom of Dambadeniya"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Kingdom of Kotte"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Kingdom of Sitawaka"
+        }
+      ],
+      "correctAnswerOrRubric": "Founded",
+      "explanation": "Source-grounded AI practice item. The passage supports «Founded». Full sentence: Founded by Parakramabahu VI with the help of the Ming, the Kingdom managed to conquer the Jaffna kingdom and the Vanni principalities, and bring the country under one flag. (source_id=wiki_en_kingdom_of_kotte). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_kotte",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_kotte",
+          "passage": "Founded by Parakramabahu VI with the help of the Ming, the Kingdom managed to conquer the Jaffna kingdom and the Vanni principalities, and bring the country under one flag."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «It led to a punitive invasion against the Vijayanagar dynasty and captured a port.»?",
+      "options": [
+        "Kingdom of Dambadeniya",
+        "Kingdom of Kotte",
+        "Kingdom of Sitawaka",
+        "Vijayanagar"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Kingdom of Dambadeniya"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Kingdom of Kotte"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Kingdom of Sitawaka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Vijayanagar"
+        }
+      ],
+      "correctAnswerOrRubric": "Vijayanagar",
+      "explanation": "Source-grounded AI practice item. The passage supports «Vijayanagar». Full sentence: It led to a punitive invasion against the Vijayanagar dynasty and captured a port. (source_id=wiki_en_kingdom_of_sitawaka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_sitawaka",
+      "sourceIds": [
+        "wiki_en_kingdom_of_sitawaka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_sitawaka",
+          "passage": "It led to a punitive invasion against the Vijayanagar dynasty and captured a port."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «The Kotte Kingdom was largely dissolved during the Sinhalese-Portuguese War, as it faced attacks from rival Sinhalese kingdoms, the Kingdom of Sitawaka and Kingdom of Kandy.»?",
+      "options": [
+        "Kingdom of Kotte",
+        "Kingdom of Sitawaka",
+        "Sinhalese",
+        "Kingdom of Dambadeniya"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Kingdom of Kotte"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Kingdom of Sitawaka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sinhalese"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Kingdom of Dambadeniya"
+        }
+      ],
+      "correctAnswerOrRubric": "Sinhalese",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sinhalese». Full sentence: The Kotte Kingdom was largely dissolved during the Sinhalese-Portuguese War, as it faced attacks from rival Sinhalese kingdoms, the Kingdom of Sitawaka and Kingdom of Kandy. (source_id=wiki_en_kingdom_of_kotte). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_kotte",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_kotte",
+          "passage": "The Kotte Kingdom was largely dissolved during the Sinhalese-Portuguese War, as it faced attacks from rival Sinhalese kingdoms, the Kingdom of Sitawaka and Kingdom of Kandy."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «Dom João Dharmapala handed it over to the Portuguese, thus leading to the formation of Portuguese Ceylon.»?",
+      "options": [
+        "Kingdom of Sitawaka",
+        "Dharmapala",
+        "Kingdom of Dambadeniya",
+        "Kingdom of Kotte"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Kingdom of Sitawaka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Dharmapala"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Kingdom of Dambadeniya"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Kingdom of Kotte"
+        }
+      ],
+      "correctAnswerOrRubric": "Dharmapala",
+      "explanation": "Source-grounded AI practice item. The passage supports «Dharmapala». Full sentence: Dom João Dharmapala handed it over to the Portuguese, thus leading to the formation of Portuguese Ceylon. (source_id=wiki_en_kingdom_of_sitawaka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_sitawaka",
+      "sourceIds": [
+        "wiki_en_kingdom_of_sitawaka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_sitawaka",
+          "passage": "Dom João Dharmapala handed it over to the Portuguese, thus leading to the formation of Portuguese Ceylon."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «Kanakasooriya Cinkaiariyan and his two son's also returned from Madurai with mercenaries and managed to conquer Jaffna.»?",
+      "options": [
+        "Kanakasooriya Cinkaiariyan",
+        "Kingdom of Dambadeniya",
+        "Kingdom of Kotte",
+        "Kingdom of Sitawaka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Kanakasooriya Cinkaiariyan"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Kingdom of Dambadeniya"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Kingdom of Kotte"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Kingdom of Sitawaka"
+        }
+      ],
+      "correctAnswerOrRubric": "Kanakasooriya Cinkaiariyan",
+      "explanation": "Source-grounded AI practice item. The passage supports «Kanakasooriya Cinkaiariyan». Full sentence: Kanakasooriya Cinkaiariyan and his two son's also returned from Madurai with mercenaries and managed to conquer Jaffna. (source_id=wiki_en_kingdom_of_kotte). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_kotte",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_kotte",
+          "passage": "Kanakasooriya Cinkaiariyan and his two son's also returned from Madurai with mercenaries and managed to conquer Jaffna."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Kingdoms after Polonnaruwa to 16th century: «Kingdoms after Polonnaruwa to 16th century can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Kingdoms after Polonnaruwa to 16th century. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_kotte",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte",
+        "wiki_en_kingdom_of_sitawaka"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Kingdoms after Polonnaruwa to 16th century: «Listing names alone demonstrates understanding of Kingdoms after Polonnaruwa to 16th century» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Kingdoms after Polonnaruwa to 16th century. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_kotte",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte",
+        "wiki_en_kingdom_of_sitawaka"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Kingdoms after Polonnaruwa to 16th century: «Kingdoms after Polonnaruwa to 16th century is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Kingdoms after Polonnaruwa to 16th century. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_kotte",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte",
+        "wiki_en_kingdom_of_sitawaka"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «The kingdom of Sitawaka initially covered a relatively small area including Kosgama, Ruwanwella, Yatiyanthota, Hanwella, Padukka, Ehaliyagoda, Kuruwita and Rathnapura.»?",
+      "options": [
+        "Sitawaka",
+        "Kingdom of Dambadeniya",
+        "Kingdom of Kotte",
+        "Kingdom of Sitawaka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sitawaka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Kingdom of Dambadeniya"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Kingdom of Kotte"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Kingdom of Sitawaka"
+        }
+      ],
+      "correctAnswerOrRubric": "Sitawaka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sitawaka». Full sentence: The kingdom of Sitawaka initially covered a relatively small area including Kosgama, Ruwanwella, Yatiyanthota, Hanwella, Padukka, Ehaliyagoda, Kuruwita and Rathnapura. (source_id=wiki_en_kingdom_of_kotte). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_kotte",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_kotte",
+          "passage": "The kingdom of Sitawaka initially covered a relatively small area including Kosgama, Ruwanwella, Yatiyanthota, Hanwella, Padukka, Ehaliyagoda, Kuruwita and Rathnapura."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_hist_sl_post_polonnaruwa_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_sl_post_polonnaruwa",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Kingdoms after Polonnaruwa to 16th century, which term or name is supported by this passage: «The terrain was hilly, bordered to the east by Kandy and with no access to the sea.»?",
+      "options": [
+        "Kingdom of Dambadeniya",
+        "Kingdom of Kotte",
+        "Kingdom of Sitawaka",
+        "Kandy"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Kingdom of Dambadeniya"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Kingdom of Kotte"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Kingdom of Sitawaka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Kandy"
+        }
+      ],
+      "correctAnswerOrRubric": "Kandy",
+      "explanation": "Source-grounded AI practice item. The passage supports «Kandy». Full sentence: The terrain was hilly, bordered to the east by Kandy and with no access to the sea. (source_id=wiki_en_kingdom_of_sitawaka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_kingdom_of_sitawaka",
+      "sourceIds": [
+        "wiki_en_kingdom_of_sitawaka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_kingdom_of_sitawaka",
+          "passage": "The terrain was hilly, bordered to the east by Kandy and with no access to the sea."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_hist_sl_post_polonnaruwa_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicIds": [
+        "hist_sl_post_polonnaruwa"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Kingdoms after Polonnaruwa to 16th century — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [
+        "hist_sl_rajarata_society"
+      ],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Kingdom_of_Kotte",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_kingdom_of_kotte",
+        "wiki_en_kingdom_of_sitawaka"
+      ],
+      "bodyText": "# Kingdoms after Polonnaruwa to 16th century\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Kingdoms after Polonnaruwa to 16th century」 (hist_sl_post_polonnaruwa) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nThe Kingdom of Kotte (Sinhala: කෝට්ටේ රාජධානිය, romanized: Kōṭṭē Rajadhaniya, Tamil: கோட்டை அரசு), named after its capital, Kotte, was a Sinhalese kingdom that flourished in Sri Lanka during the 15th century.\nFounded by Parakramabahu VI with the help of the Ming, the Kingdom managed to conquer the Jaffna kingdom and the Vanni principalities, and bring the country under one flag. It led to a punitive invasion against the Vijayanagar dynasty and captured a port.\nThe Kotte Kingdom was largely dissolved during the Sinhalese-Portuguese War, as it faced attacks from rival Sinhalese kingdoms, the Kingdom of Sitawaka and Kingdom of Kandy. Dom João Dharmapala handed it over to the Portuguese, thus leading to the formation of Portuguese Ceylon. Kanakasooriya Cinkaiariyan and his two son's also returned from Madurai with mercenaries and managed to conquer Jaffna. The remainder was annexed into Sita\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Describe successor kingdoms and foreign relations\n- [inferred_not_official] Explain core ideas of Kingdoms after Polonnaruwa to 16th century\n- [inferred_not_official] Apply concepts from Kingdoms after Polonnaruwa to 16th century using cited public sources\n\n## Core concepts and definitions\nThe Kingdom of Kotte (Sinhala: කෝට්ටේ රාජධානිය, romanized: Kōṭṭē Rajadhaniya, Tamil: கோட்டை அரசு), named after its capital, Kotte, was a Sinhalese kingdom that flourished in Sri Lanka during the 15th century.\nFounded by Parakramabahu VI with the help of the Ming, the Kingdom managed to conquer the Jaffna kingdom and the Vanni principalities, and bring the country under one flag. It led to a punitive invasion against the Vijayanagar dynasty and captured a port.\nThe Kotte Kingdom was largely dissolved during the Sinhalese-Portuguese War, as it faced attacks from rival Sinhalese kingdoms, the Kingdom of Sitawaka and Kingdom of Kandy. Dom João Dharmapala handed it over to the Portuguese, thus leading to the formation of Portuguese Ceylon. Kanakasooriya Cinkaiariyan and his two son's also returned from Madurai with mercenaries and managed to conquer Jaffna. The remainder was annexed into Sitawaka and Kandy.\n\nAlagakkonara\nParakramabahu VI of Kotte\nManikka Taleivar\nBhuvanekabahu VI, known also as Sapumal Kumaraya or Chempaka Perumal.\nVeediya Bandara\nPrince of Ambulugala\nSamarakone Rala\n(Source: https://en.wikipedia.org/wiki/Kingdom_of_Kotte)\n\n## Historical or systematic development\nThe downfall of the Kotte Kingdom began in 1521 with the event known as the Vijayaba Kollaya. The three sons of King Vijayabahu VII mutinied and killed their father, dividing the kingdom among themselves. This led to the creation of three smaller realms: Kotte, Sitawaka, and the Principality of Raigama. Among these, the Kingdom of Sitawaka grew increasingly powerful, gaining strong local support, while the Kotte Kingdom became reliant on Portuguese assistance.\nFollowing the Vijayaba Kollaya, King Buvenekabahu VII of Kotte sought Portuguese help to defeat his brother, Mayadunne. He also permitted his daughter’s son, Prince Dharmapala, to be baptized as a Catholic by the Portuguese. After naming Dharmapala as his heir, Buvenekabahu VII was reportedly shot—allegedly by accident—by a Portuguese soldier.\nIn 1565, the capital of Kotte was abandoned by King Dharmapala due to repeated attacks from the Kingdom of Sitawaka, led by Mayadunne and his son Rajasinghe I. Dharmapala was taken to Colombo under Portuguese protection. Most of the areas of Kotte Kingdom were annexed to the Kingdom of Sitawaka. but after the downfall of Sitawaka in 1594, these areas were re-annexed to the Kotte kingdom. In 1597, Dharmapala formally ceded the Kotte Kingdom to the Portuguese crown, marking the official end of the Kotte era.\n\nPadmawthi Piriwena, Karagala\nVijayaba Piriwena,Thotagamuwa\nSunethradevi Piriwena, Papiliyana\nSiri Perakumba Pirivena, Ethul Kotte\n(Source: https://en.wikipedia.org/wiki/Kingdom_of_Sitawaka)\n\n## Applications, evidence, and Sri Lankan / comparative context\nÆth – elephant regiments\nAśwa – horse regiments\nRiya – chariot regiments\nPābala – infantry regiments.\n\nBuddhism was the state religion for most of the kingdom’s existence. Parakramabahu VI built a shrine for the Sacred Tooth Relic near the royal palace. He also established the Kotte Raja Maha Viharaya to host the Esala Perahera pageant in honor of the Sacred Tooth Relic. Additionally, he also repaired Kelaniya Raja Maha Vihara which along with the Sri Perakumba Pirivena and Sunethra Devi Pirivena became the most famous monasteries in the country.\nHinduism was also given a prominent place in society. Many Buddhist temples included shrines dedicated to Hindu deities such as Vishnu, Murugan (God Kataragama), goddess Paththini, and Gambara, the provincial god. Prince Sapumal (later crowned Bhuvanekabahu VI) built a shrine near the ancient Bo tree of the Kotte Raja Maha Viharaya as a vow to defeat Arya Chakravarthi. He is also credited with building or renovating the Nallur Kandaswamy temple in Jaffna.\nThe Portuguese converted much of the population to Roman Catholicism. The last king of Kotte, Don Juan Dharmapala, was one of only two Catholic Sinhalese monarchs in Sri Lankan history (the other was Kusumasena Devi), although several other contemporary kings had also adopted Catholicism temporarily.\n(Source: https://en.wikipedia.org/wiki/Kingdom_of_Kotte)\n\n## Key terms\n- **Kingdom of Dambadeniya**: Kingdom of Dambadeniya: a key idea for Kingdoms after Polonnaruwa to 16th century (see cited sources; AI-authored gloss).\n- **Kingdom of Kotte**: The Kingdom of Kotte (Sinhala: කෝට්ටේ රාජධානිය, romanized: Kōṭṭē Rajadhaniya, Tamil: கோட்டை அரசு), named after its capital, Kotte, was a Sinhalese kingdom that flourished in Sri Lanka during the 15th century.\n- **Kingdom of Sitawaka**: The Kotte Kingdom was largely dissolved during the Sinhalese-Portuguese War, as it faced attacks from rival Sinhalese kingdoms, the Kingdom of Sitawaka and Kingdom of Kandy.\n- **Kingdoms**: The Kotte Kingdom was largely dissolved during the Sinhalese-Portuguese War, as it faced attacks from rival Sinhalese kingdoms, the Kingdom of Sitawaka and Kingdom of Kandy.\n- **after**: The Kingdom of Kotte (Sinhala: කෝට්ටේ රාජධානිය, romanized: Kōṭṭē Rajadhaniya, Tamil: கோட்டை அரசு), named after its capital, Kotte, was a Sinhalese kingdom that flourished in Sri Lanka during the 15th century.\n- **Polonnaruwa**: Polonnaruwa: a key idea for Kingdoms after Polonnaruwa to 16th century (see cited sources; AI-authored gloss).\n- **century**: The Kingdom of Kotte (Sinhala: කෝට්ටේ රාජධානිය, romanized: Kōṭṭē Rajadhaniya, Tamil: கோட்டை அரசு), named after its capital, Kotte, was a Sinhalese kingdom that flourished in Sri Lanka during the 15th century.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Kingdoms after Polonnaruwa to 16th century, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Kingdoms after Polonnaruwa to 16th century can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Kingdoms after Polonnaruwa to 16th century\n- Kingdoms after Polonnaruwa to 16th century is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_kingdom_of_kotte: Kingdom of Kotte — https://en.wikipedia.org/wiki/Kingdom_of_Kotte (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:23:11.033000+00:00; checksum eafa6e3ffa76…)\n- wiki_en_kingdom_of_sitawaka: Kingdom of Sitawaka — https://en.wikipedia.org/wiki/Kingdom_of_Sitawaka (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:23:12.431859+00:00; checksum 1e04e21664a2…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:32.387661+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 2
+}

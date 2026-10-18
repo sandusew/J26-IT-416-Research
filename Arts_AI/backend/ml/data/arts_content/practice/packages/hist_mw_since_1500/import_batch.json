@@ -1,0 +1,750 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_hist_mw_since_1500_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Age of Discovery",
+        "Cold War",
+        "Explanations",
+        "Early modern period"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Age of Discovery"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Cold War"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Early modern period"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_early_modern_period). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_early_modern_period",
+      "sourceIds": [
+        "wiki_en_early_modern_period"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_early_modern_period",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «1800, is a historical period with divisions based primarily on the history of Europe and the broader concept of modernity.»?",
+      "options": [
+        "Cold War",
+        "Europe",
+        "Early modern period",
+        "Age of Discovery"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Cold War"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Europe"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Early modern period"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Age of Discovery"
+        }
+      ],
+      "correctAnswerOrRubric": "Europe",
+      "explanation": "Source-grounded AI practice item. The passage supports «Europe». Full sentence: 1800, is a historical period with divisions based primarily on the history of Europe and the broader concept of modernity. (source_id=wiki_en_age_of_discovery). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_age_of_discovery",
+      "sourceIds": [
+        "wiki_en_age_of_discovery"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_age_of_discovery",
+          "passage": "1800, is a historical period with divisions based primarily on the history of Europe and the broader concept of modernity."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «There is no exact date that marks the beginning or end of the period, and its extent may vary depending on the area of history being studied.»?",
+      "options": [
+        "There",
+        "Early modern period",
+        "Age of Discovery",
+        "Cold War"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "There"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Early modern period"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Age of Discovery"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Cold War"
+        }
+      ],
+      "correctAnswerOrRubric": "There",
+      "explanation": "Source-grounded AI practice item. The passage supports «There». Full sentence: There is no exact date that marks the beginning or end of the period, and its extent may vary depending on the area of history being studied. (source_id=wiki_en_early_modern_period). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_early_modern_period",
+      "sourceIds": [
+        "wiki_en_early_modern_period"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_early_modern_period",
+          "passage": "There is no exact date that marks the beginning or end of the period, and its extent may vary depending on the area of history being studied."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «In general, the early modern period is considered to have started at the beginning of the 16th or 17th century (c.»?",
+      "options": [
+        "Early modern period",
+        "Age of Discovery",
+        "Cold War",
+        "modern"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Early modern period"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Age of Discovery"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Cold War"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "modern"
+        }
+      ],
+      "correctAnswerOrRubric": "modern",
+      "explanation": "Source-grounded AI practice item. The passage supports «modern». Full sentence: In general, the early modern period is considered to have started at the beginning of the 16th or 17th century (c. (source_id=wiki_en_age_of_discovery). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_age_of_discovery",
+      "sourceIds": [
+        "wiki_en_age_of_discovery"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_age_of_discovery",
+          "passage": "In general, the early modern period is considered to have started at the beginning of the 16th or 17th century (c."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «1600), and it is variably considered to have ended at the 18th or 19th century (1700–1800).»?",
+      "options": [
+        "Age of Discovery",
+        "Cold War",
+        "ended",
+        "Early modern period"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Age of Discovery"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Cold War"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "ended"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Early modern period"
+        }
+      ],
+      "correctAnswerOrRubric": "ended",
+      "explanation": "Source-grounded AI practice item. The passage supports «ended». Full sentence: 1600), and it is variably considered to have ended at the 18th or 19th century (1700–1800). (source_id=wiki_en_early_modern_period). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_early_modern_period",
+      "sourceIds": [
+        "wiki_en_early_modern_period"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_early_modern_period",
+          "passage": "1600), and it is variably considered to have ended at the 18th or 19th century (1700–1800)."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «In a European context, it is defined as the period following the Middle Ages and preceding the advent of modernity, but there is no universal agreement on the dates of these boundaries.»?",
+      "options": [
+        "Cold War",
+        "European",
+        "Early modern period",
+        "Age of Discovery"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Cold War"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "European"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Early modern period"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Age of Discovery"
+        }
+      ],
+      "correctAnswerOrRubric": "European",
+      "explanation": "Source-grounded AI practice item. The passage supports «European». Full sentence: In a European context, it is defined as the period following the Middle Ages and preceding the advent of modernity, but there is no universal agreement on the dates of these boundaries. (source_id=wiki_en_age_of_discovery). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_age_of_discovery",
+      "sourceIds": [
+        "wiki_en_age_of_discovery"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_age_of_discovery",
+          "passage": "In a European context, it is defined as the period following the Middle Ages and preceding the advent of modernity, but there is no universal agreement on the dates of these boundaries."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «In the context of global history, the early modern period is often used in contexts where there is no equivalent \"medieval\" period.»?",
+      "options": [
+        "history",
+        "Early modern period",
+        "Age of Discovery",
+        "Cold War"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "history"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Early modern period"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Age of Discovery"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Cold War"
+        }
+      ],
+      "correctAnswerOrRubric": "history",
+      "explanation": "Source-grounded AI practice item. The passage supports «history». Full sentence: In the context of global history, the early modern period is often used in contexts where there is no equivalent \"medieval\" period. (source_id=wiki_en_early_modern_period). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_early_modern_period",
+      "sourceIds": [
+        "wiki_en_early_modern_period"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_early_modern_period",
+          "passage": "In the context of global history, the early modern period is often used in contexts where there is no equivalent \"medieval\" period."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Modern world since 1500 (Asia/Africa/Europe/America): «Modern world since 1500 (Asia/Africa/Europe/America) can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Modern world since 1500 (Asia/Africa/Europe/America). Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_early_modern_period",
+      "sourceIds": [
+        "wiki_en_early_modern_period",
+        "wiki_en_age_of_discovery"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Modern world since 1500 (Asia/Africa/Europe/America): «Listing names alone demonstrates understanding of Modern world since 1500 (Asia/Africa/Europe/America)» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Modern world since 1500 (Asia/Africa/Europe/America). Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_early_modern_period",
+      "sourceIds": [
+        "wiki_en_early_modern_period",
+        "wiki_en_age_of_discovery"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Modern world since 1500 (Asia/Africa/Europe/America): «Modern world since 1500 (Asia/Africa/Europe/America) is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Modern world since 1500 (Asia/Africa/Europe/America). Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_early_modern_period",
+      "sourceIds": [
+        "wiki_en_early_modern_period",
+        "wiki_en_age_of_discovery"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «In his 1926 work A Short History of Civilization, Thorndike proposed the periodization as a broader alternative to the Renaissance.»?",
+      "options": [
+        "Short History",
+        "Early modern period",
+        "Age of Discovery",
+        "Cold War"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Short History"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Early modern period"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Age of Discovery"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Cold War"
+        }
+      ],
+      "correctAnswerOrRubric": "Short History",
+      "explanation": "Source-grounded AI practice item. The passage supports «Short History». Full sentence: In his 1926 work A Short History of Civilization, Thorndike proposed the periodization as a broader alternative to the Renaissance. (source_id=wiki_en_early_modern_period). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_early_modern_period",
+      "sourceIds": [
+        "wiki_en_early_modern_period"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_early_modern_period",
+          "passage": "In his 1926 work A Short History of Civilization, Thorndike proposed the periodization as a broader alternative to the Renaissance."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_hist_mw_since_1500_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicId": "hist_mw_since_1500",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Modern world since 1500 (Asia/Africa/Europe/America), which term or name is supported by this passage: «It was first picked up within the field of economic history during the 1940s and 1950s and gradually spread to other historians in the following decades and became widely known among scholars during t…»?",
+      "options": [
+        "Early modern period",
+        "Age of Discovery",
+        "Cold War",
+        "within"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Early modern period"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Age of Discovery"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Cold War"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "within"
+        }
+      ],
+      "correctAnswerOrRubric": "within",
+      "explanation": "Source-grounded AI practice item. The passage supports «within». Full sentence: It was first picked up within the field of economic history during the 1940s and 1950s and gradually spread to other historians in the following decades and became widely known among scholars during the 1990s. (source_id=wiki_en_age_of_discovery). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_age_of_discovery",
+      "sourceIds": [
+        "wiki_en_age_of_discovery"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_age_of_discovery",
+          "passage": "It was first picked up within the field of economic history during the 1940s and 1950s and gradually spread to other historians in the following decades and became widely known among scholars during the 1990s."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_hist_mw_since_1500_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_history",
+      "topicIds": [
+        "hist_mw_since_1500"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Modern world since 1500 (Asia/Africa/Europe/America) — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Early_modern_period",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_early_modern_period",
+        "wiki_en_age_of_discovery"
+      ],
+      "bodyText": "# Modern world since 1500 (Asia/Africa/Europe/America)\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Modern world since 1500 (Asia/Africa/Europe/America)」 (hist_mw_since_1500) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nThe early modern period, c. 1500 – c. 1800, is a historical period with divisions based primarily on the history of Europe and the broader concept of modernity. There is no exact date that marks the beginning or end of the period, and its extent may vary depending on the area of history being studied. In general, the early modern period is considered to have started at the beginning of the 16th or 17th century (c. 1500 – c. 1600), and it is variably considered to have ended at the 18th or 19th century (1700–1800). In a European context, it is defined as the period following the Middle Ages and preceding the advent of modernity, but there is no universal agreement on the dates of these boundaries. In the context of global history, the early modern period is often used in contexts where there is no equivalent \"medieval\" period.\nVarious events and historical transitions have been proposed a\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Modern world since 1500 (Asia/Africa/Europe/America)\n- [inferred_not_official] Explain core ideas of Modern world since 1500 (Asia/Africa/Europe/America)\n- [inferred_not_official] Apply concepts from Modern world since 1500 (Asia/Africa/Europe/America) using cited public sources\n\n## Core concepts and definitions\nThe early modern period, c. 1500 – c. 1800, is a historical period with divisions based primarily on the history of Europe and the broader concept of modernity. There is no exact date that marks the beginning or end of the period, and its extent may vary depending on the area of history being studied. In general, the early modern period is considered to have started at the beginning of the 16th or 17th century (c. 1500 – c. 1600), and it is variably considered to have ended at the 18th or 19th century (1700–1800). In a European context, it is defined as the period following the Middle Ages and preceding the advent of modernity, but there is no universal agreement on the dates of these boundaries. In the context of global history, the early modern period is often used in contexts where there is no equivalent \"medieval\" period.\nVarious events and historical transitions have been proposed as the start of the early modern period, including the start of the Renaissance, the beginning of the printing revolution in the 1440s, the Fall of Constantinople in 1453, the Age of Discovery, or the start of the Reformation. Its transition into the late modern period in the late 18th century was marked by the major developments brought about by the Industrial Revolution, the American Revolution, and the French Revolution (along with Napoleon's rise to power in France), followed by the second wave of modern colonization referred to as New Imperialism.\nHistorians in recent decades have argued that, from a worldwide standpoint, the most important feature of the early modern period was the spread of globalization. From this viewpoint, the Columbian contact and its newfound notion of a New World being added to the Old World is another marker of the start of the period. New economies and institutions emerged, becoming more sophisticated and globally articulated over the course of the period. The early modern period also included the rise of the dominance of mercantilism as an economic theory. Other notable developments of the period include the Scientific Revolution, increasingly rapid technological progress, secularized civic politics, accelerated travel due to improvements in mapping and ship design, and the strengthening of the administrative structures of monarchies and states in the process of formation.\n\nPortuguese oceanic exploration began with maritime expeditions to the Macaronesian islands, including the Canary Islands, as well as Madeira and the Azores. It continued with voyages along the coast of West Africa in 1434, and culminated in the establishment of a sea route to India in 1498 by Vasco da Gama, which initiated Portugal's maritime and commercial presence in Kerala and the Indian Ocean. Spain made the transatlantic voyages of Christopher Columbus (1492–1504), which marked the beginning of colonization in the Americas, the Magellan expedition (1519–1522), which opened a route from the Atlantic to the Pacific and, under Juan Sebastián Elcano, completed the first circumnavigation of the globe. Spain also undertook other major early voyages, including the conquest of Mexico (1519–1521), the conquest of Peru (1532–1533), and the Manila galleon trade route (1565–1815), which linked the Americas and Asia across the Pacific. These Spanish expeditions significantly impacted European perceptions of the world and eventually led to numerous naval expeditions across the Atlantic, Indian, and Pacific Oceans, and land expeditions in the Americas, Asia, Africa, and Oceania that continued into the 19th century, followed by polar exploration in the 20th century.\nEuropean exploration initiated the Columbian exchange between the Old World (Europe, Asia, and Africa) and New World (Americas). This exchange involved the transfer of plants, animals, human populations (including slaves), communicable diseases, and culture across the Eastern and Western Hemispheres. The Age of Discovery and European exploration involved mapping the world, shaping a new worldview and facilitating contact with distant civilizations. The continents drawn by European mapmakers developed from abstract \"blobs\" into the outlines more recognizable to us. Simultaneously, the spread of new diseases, especially affecting American Indians, led to rapid declines in some populations. The era saw widespread enslavement, exploitation and military conquest of Indigenous peoples, concurrent with the growing economic influence and spread of Western culture, science, and technology leading to a faster-than-exponential population growth world-wide.\n(Source: https://en.wikipedia.org/wiki/Early_modern_period)\n\n## Historical or systematic development\nIn the Americas, pre-Columbian peoples had built a large and varied civilization, including the Aztec Empire, the Inca civilization, the Maya civilization and its cities, and the Muisca. The European colonization of the Americas began during the early modern period, as did the establishment of European trading hubs in Asia and Africa, which contributed to the spread of Christianity around the world. The rise of sustained contacts between previously isolated parts of the globe, in particular the Columbian Exchange that linked the Old World and the New World, greatly altered the human environment. Notably, the Atlantic slave trade and colonization of Indigenous peoples of the Americas began during this period. The Ottoman Empire conquered Southeastern Europe, and parts of West Asia and North Africa.\nFollowing the fragmentation of the Timurid Empire, the Ottoman, Safavid, and Mughal empires—traditionally known as the Gunpowder Empires—consolidated their power across the Islamic world. Although the use of firearms and artillery was decisive for their territorial expansion and military capabilities, their strength also rested on the construction of centralized states, efficient bureaucracies, tax collection systems, control over strategic trade routes, and the administration of ethnically and religiously diverse societies. Thus, these empires distinguished themselves not only through military might but also through their political, economic, and cultural development. The Suri Empire, despite employing similar military technologies and playing a significant role in the history of northern India, is not generally classified as one of the Gunpowder Empires. Particularly in the Indian subcontinent, Mughal architecture, culture, and art reached their zenith, while the empire itself is believed to have had the world's largest economy, bigger than the entirety of Western Europe and worth 25% of global GDP. By the mid-18th century, India was a major proto-industrializing region.\nVarious Chinese dynasties controlled the East Asian sphere. In Japan, the Edo period from 1600 to 1868 is also referred to as the early modern period. In Korea, the early modern period is considered to have lasted from the rise of the Joseon dynasty to the enthronement of King Gojong. By the 16th century, Asian economies under the Ming dynasty and Mughal Bengal were stimulated by trade with the Portuguese, the Spanish, and the Dutch, while Japan engaged in the Nanban trade after the arrival of the first European Portuguese during the Azuchi–Momoyama period.\nMeanwhile, in Southeast Asia, the Toungoo Empire along with Ayutthaya experienced a golden age and ruled a large extent of Mainland Southeast Asia, with the Nguyen and Trinh lords de facto ruling the south and north of present-day Vietnam respectively, whereas the Mataram Sultanate was the dominant power in Maritime Southeast Asia. The early modern period experienced an influx of European traders and missionaries into the region.\n\nThe concept of discovery has been scrutinized, critically highlighting the history of the core term of this periodization. The term \"age of discovery\" is in historical literature and still commonly used. J. H. Parry, calling the period the Age of Reconnaissance, argues that not only was the era one of European explorations, but it also produced the expansion of geographical knowledge and empirical science: \"It saw also the first major victories of empirical inquiry over authority, the beginnings of that close association of science, technology, and everyday work which is an essential characteristic of the modern western world.\" Anthony Pagden draws on the work of Edmundo O'Gorman for the statement that \"For all Europeans, the events of October 1492 constituted a 'discovery'. Something of which they had no prior knowledge had suddenly presented itself to their gaze.\" O'Gorman argues that the physical encounter with new territories was less important than the Europeans' effort to integrate this new knowledge into their worldview, what he calls \"the invention of America\". Pagden examines the origins of the terms \"discovery\" and \"invention\". In English, \"discovery\" and its forms in romance languages derive from \"disco-operio, meaning to uncover, to reveal, to expose to the gaze\", what was revealed existed previously. Few Europeans during the period used the term \"invention\" for the European encounters, with the exception of Martin Waldseemüller, whose map first used the term \"America\".\nA central legal concept of the discovery doctrine, expounded by the United States Supreme Court in 1823, draws on assertions of European powers' right to claim land during their explorations. The concept of \"discovery\" has been used to enforce colonial claiming and discovery, but has been challenged by Indigenous peoples and researchers. Many indigenous peoples have fundamentally challenged the concept of colonial claiming of \"discovery\" over their lands and people, as forced and negating indigenous presence.\nThe period alternatively called the Age of Exploration, has been scrutinized through reflections on the exploration. Its understanding and use, has been discussed as being framed and used for colonial ventures, discrimination and exploitation, by combining it with concepts such as the frontier (as in Frontier Thesis) and manifest destiny, up to the contemporary age of space exploration. Alternatively, the term contact, as in first contact, has been used to shed more light on the age of discovery and colonialism, using the alternative names of Age of Contact or Contact Period, discussing it as an \"unfinished, diverse project\".\n(Source: https://en.wikipedia.org/wiki/Age_of_Discovery)\n\n## Applications, evidence, and Sri Lankan / comparative context\nThe Age of Discovery (c. 1418 – c. 1620), also known as the Age of Exploration, was part of the early modern period and overlapped with the Age of Sail. It was a period from approximately the 15th to the 17th century, during which seafarers from European countries explored, colonized, and conquered regions across the globe. The Age of Discovery was a transformative period when previously isolated parts of the world became connected to form the world-system, and laid the groundwork for globalization. The extensive overseas exploration, particularly the opening of maritime routes to the East Indies and European colonization of the Americas by the Portuguese and Spaniards, later joined by the English, French, and Dutch, spurred international global trade. The interconnected global economy of the 21st century has its origins in the expansion of trade networks during this era. The exploration created European colonial empires and marked an increased adoption of colonialism as a government policy in several European states. As such, it is sometimes synonymous with the first wave of European colonization. This colonization reshaped power dynamics causing geopolitical shifts in Europe and creating new centers of power beyond Europe.\n\nIn 1492, the Catholic Monarchs of Spain funded Christopher Columbus's plan to sail west to reach the Indies, by crossing the Atlantic. Columbus encountered a continent uncharted by Europeans (though it had been explored and temporarily colonized by the Norse 500 years earlier). Later, it was called America after Amerigo Vespucci, a trader working for Portugal. Portugal quickly claimed those lands under the terms of the Treaty of Alcáçovas, but Castile was able to persuade the Pope, who was Castilian, to issue four papal bulls to divide the world into two regions of exploration, where each kingdom had exclusive rights to claim newly discovered lands. These were modified by the Treaty of Tordesillas, ratified by Pope Julius II.\n(Source: https://en.wikipedia.org/wiki/Early_modern_period)\n\n## Key terms\n- **Early modern period**: In general, the early modern period is considered to have started at the beginning of the 16th or 17th century (c.\n- **Age of Discovery**: The Age of Discovery was a transformative period when previously isolated parts of the world became connected to form the world-system, and laid the groundwork for globalization.\n- **Cold War**: Cold War: a key idea for Modern world since 1500 (Asia/Africa/Europe/America) (see cited sources; AI-authored gloss).\n- **Modern**: 1800, is a historical period with divisions based primarily on the history of Europe and the broader concept of modernity.\n- **world**: Historians in recent decades have argued that, from a worldwide standpoint, the most important feature of the early modern period was the spread of globalization.\n- **since**: since: a key idea for Modern world since 1500 (Asia/Africa/Europe/America) (see cited sources; AI-authored gloss).\n- **Asia/Africa/Europe/America**: Asia/Africa/Europe/America: a key idea for Modern world since 1500 (Asia/Africa/Europe/America) (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Modern world since 1500 (Asia/Africa/Europe/America), state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Modern world since 1500 (Asia/Africa/Europe/America) can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Modern world since 1500 (Asia/Africa/Europe/America)\n- Modern world since 1500 (Asia/Africa/Europe/America) is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_early_modern_period: Early modern period — https://en.wikipedia.org/wiki/Early_modern_period (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:24:21.405925+00:00; checksum 08b7f2b308e4…)\n- wiki_en_age_of_discovery: Age of Discovery — https://en.wikipedia.org/wiki/Age_of_Discovery (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:24:23.390982+00:00; checksum 86987c31d985…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:34.338905+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 2
+}

@@ -1,0 +1,17 @@
+{
+  "dataset": "ednet_kt1_subset",
+  "status": "ok",
+  "errors": [],
+  "source_url": "https://github.com/riiid/ednet",
+  "max_students": 600,
+  "min_interactions": 50,
+  "seed": 42,
+  "readme_cached": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\ednet\\README_ednet.md",
+  "contents_layout": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\ednet\\contents",
+  "access_instructions": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\src\\arts_ai\\datasets\\ednet_access.md",
+  "correctness_derived_from": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\raw\\ednet\\contents\\Contents\\questions.csv",
+  "local_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\public\\processed\\ednet\\ednet_kt1_subset.csv",
+  "selected_students": 600,
+  "interactions": 300851,
+  "content_hash": "2424e246af47fbe1832a4483e6a2b005079329cd63140615f96931057465be65"
+}

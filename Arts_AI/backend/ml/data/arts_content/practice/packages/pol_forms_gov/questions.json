@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_pol_forms_gov_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Democracy",
+      "Republic",
+      "Explanations",
+      "Form of government"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Democracy"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Form of government"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_democracy). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_democracy",
+    "sourceIds": [
+      "wiki_en_democracy"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_democracy",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «This article lists forms of government and political systems, which are not mutually exclusive, and often have much in common.»?",
+    "options": [
+      "Republic",
+      "forms",
+      "Form of government",
+      "Democracy"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "forms"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Democracy"
+      }
+    ],
+    "correctAnswerOrRubric": "forms",
+    "explanation": "Source-grounded AI practice item. The passage supports «forms». Full sentence: This article lists forms of government and political systems, which are not mutually exclusive, and often have much in common. (source_id=wiki_en_republic). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_republic",
+    "sourceIds": [
+      "wiki_en_republic"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_republic",
+        "passage": "This article lists forms of government and political systems, which are not mutually exclusive, and often have much in common."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «(Source: https://en.wikipedia.org/wiki/List_of_forms_of_government)\n\n## Historical or systematic development\ntotalitarian regimes and, sitting between these two, authoritarian regimes with hybrid regi…»?",
+    "options": [
+      "Source",
+      "Form of government",
+      "Democracy",
+      "Republic"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Source"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Democracy"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Republic"
+      }
+    ],
+    "correctAnswerOrRubric": "Source",
+    "explanation": "Source-grounded AI practice item. The passage supports «Source». Full sentence: (Source: https://en.wikipedia.org/wiki/List_of_forms_of_government)\n\n## Historical or systematic development\ntotalitarian regimes and, sitting between these two, authoritarian regimes with hybrid regimes. (source_id=wiki_en_forms_of_government). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_forms_of_government",
+    "sourceIds": [
+      "wiki_en_forms_of_government"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_forms_of_government",
+        "passage": "(Source: https://en.wikipedia.org/wiki/List_of_forms_of_government)\n\n## Historical or systematic development\ntotalitarian regimes and, sitting between these two, authoritarian regimes with hybrid regimes."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «Another modern classification system includes monarchies as a standalone entity or as a hybrid system of the main three.»?",
+    "options": [
+      "Form of government",
+      "Democracy",
+      "Republic",
+      "Another"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Democracy"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Another"
+      }
+    ],
+    "correctAnswerOrRubric": "Another",
+    "explanation": "Source-grounded AI practice item. The passage supports «Another». Full sentence: Another modern classification system includes monarchies as a standalone entity or as a hybrid system of the main three. (source_id=wiki_en_form_of_government). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_form_of_government",
+    "sourceIds": [
+      "wiki_en_form_of_government"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_form_of_government",
+        "passage": "Another modern classification system includes monarchies as a standalone entity or as a hybrid system of the main three."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q07",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «Scholars generally refer to a dictatorship as either a form of government which is characterized by a leader who holds absolute or near-absolute political power.»?",
+    "options": [
+      "Democracy",
+      "Republic",
+      "Scholars",
+      "Form of government"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Democracy"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Scholars"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Form of government"
+      }
+    ],
+    "correctAnswerOrRubric": "Scholars",
+    "explanation": "Source-grounded AI practice item. The passage supports «Scholars». Full sentence: Scholars generally refer to a dictatorship as either a form of government which is characterized by a leader who holds absolute or near-absolute political power. (source_id=wiki_en_democracy). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_democracy",
+    "sourceIds": [
+      "wiki_en_democracy"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_democracy",
+        "passage": "Scholars generally refer to a dictatorship as either a form of government which is characterized by a leader who holds absolute or near-absolute political power."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q08",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «De jure democratic governments with a de facto oligarchy are ruled by a small group of segregated, powerful or influential people who usually share similar interests or family relations.»?",
+    "options": [
+      "Republic",
+      "facto",
+      "Form of government",
+      "Democracy"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "facto"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Democracy"
+      }
+    ],
+    "correctAnswerOrRubric": "facto",
+    "explanation": "Source-grounded AI practice item. The passage supports «facto». Full sentence: De jure democratic governments with a de facto oligarchy are ruled by a small group of segregated, powerful or influential people who usually share similar interests or family relations. (source_id=wiki_en_republic). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_republic",
+    "sourceIds": [
+      "wiki_en_republic"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_republic",
+        "passage": "De jure democratic governments with a de facto oligarchy are ruled by a small group of segregated, powerful or influential people who usually share similar interests or family relations."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «These people may spread power and elect candidates equally or not equally.»?",
+    "options": [
+      "spread",
+      "Form of government",
+      "Democracy",
+      "Republic"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "spread"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Democracy"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Republic"
+      }
+    ],
+    "correctAnswerOrRubric": "spread",
+    "explanation": "Source-grounded AI practice item. The passage supports «spread». Full sentence: These people may spread power and elect candidates equally or not equally. (source_id=wiki_en_forms_of_government). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_forms_of_government",
+    "sourceIds": [
+      "wiki_en_forms_of_government"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_forms_of_government",
+        "passage": "These people may spread power and elect candidates equally or not equally."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «An oligarchy is different from a true democracy because very few people are given the chance to change things.»?",
+    "options": [
+      "Form of government",
+      "Republic",
+      "Forms",
+      "democracy"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Forms"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "democracy"
+      }
+    ],
+    "correctAnswerOrRubric": "democracy",
+    "explanation": "Source-grounded AI practice item. The passage supports «democracy». Full sentence: An oligarchy is different from a true democracy because very few people are given the chance to change things. (source_id=wiki_en_form_of_government). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_form_of_government",
+    "sourceIds": [
+      "wiki_en_form_of_government"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_form_of_government",
+        "passage": "An oligarchy is different from a true democracy because very few people are given the chance to change things."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «The question raised by Plato in the Republic: What kind of state is best?»?",
+    "options": [
+      "Democracy",
+      "Republic",
+      "Plato",
+      "Form of government"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Democracy"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Plato"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Form of government"
+      }
+    ],
+    "correctAnswerOrRubric": "Plato",
+    "explanation": "Source-grounded AI practice item. The passage supports «Plato». Full sentence: The question raised by Plato in the Republic: What kind of state is best? (source_id=wiki_en_democracy). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_democracy",
+    "sourceIds": [
+      "wiki_en_democracy"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_democracy",
+        "passage": "The question raised by Plato in the Republic: What kind of state is best?"
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «Some critics of capitalism and/or representative democracy think of the United States and the United Kingdom as oligarchies.»?",
+    "options": [
+      "Republic",
+      "Some",
+      "Form of government",
+      "Democracy"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Some"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Democracy"
+      }
+    ],
+    "correctAnswerOrRubric": "Some",
+    "explanation": "Source-grounded AI practice item. The passage supports «Some». Full sentence: Some critics of capitalism and/or representative democracy think of the United States and the United Kingdom as oligarchies. (source_id=wiki_en_republic). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_republic",
+    "sourceIds": [
+      "wiki_en_republic"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_republic",
+        "passage": "Some critics of capitalism and/or representative democracy think of the United States and the United Kingdom as oligarchies."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «In later Latin works the term republic can also be used in a general way to refer to any regime, or to refer specifically to governments which work for the public good.»?",
+    "options": [
+      "Latin",
+      "Form of government",
+      "Democracy",
+      "Republic"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Latin"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Democracy"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Republic"
+      }
+    ],
+    "correctAnswerOrRubric": "Latin",
+    "explanation": "Source-grounded AI practice item. The passage supports «Latin». Full sentence: In later Latin works the term republic can also be used in a general way to refer to any regime, or to refer specifically to governments which work for the public good. (source_id=wiki_en_forms_of_government). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_forms_of_government",
+    "sourceIds": [
+      "wiki_en_forms_of_government"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_forms_of_government",
+        "passage": "In later Latin works the term republic can also be used in a general way to refer to any regime, or to refer specifically to governments which work for the public good."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_forms_gov_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_forms_gov",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for Forms of government, which term or name is supported by this passage: «In medieval Northern Italy, a number of city states had commune or signoria based governments.»?",
+    "options": [
+      "Form of government",
+      "Democracy",
+      "Republic",
+      "Northern Italy"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Form of government"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Democracy"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Republic"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Northern Italy"
+      }
+    ],
+    "correctAnswerOrRubric": "Northern Italy",
+    "explanation": "Source-grounded AI practice item. The passage supports «Northern Italy». Full sentence: In medieval Northern Italy, a number of city states had commune or signoria based governments. (source_id=wiki_en_form_of_government). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_form_of_government",
+    "sourceIds": [
+      "wiki_en_form_of_government"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_form_of_government",
+        "passage": "In medieval Northern Italy, a number of city states had commune or signoria based governments."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

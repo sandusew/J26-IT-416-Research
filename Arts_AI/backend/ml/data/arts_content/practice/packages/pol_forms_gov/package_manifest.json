@@ -1,0 +1,151 @@
+{
+  "topic_id": "pol_forms_gov",
+  "subject_id": "sub_political",
+  "topic_title": "Forms of government",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "This article lists forms of government and political systems, which are not mutually exclusive, and often have much in common. According to Yale professor Juan José Linz there are three main types of political systems today: democracies,\n\nOligarchies are societies controlled and organised by a small class of privileged people, with no intervention from the most part of society; this small elite is defined as sharing some common trait.",
+      "source_ids": [
+        "wiki_en_forms_of_government"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/List_of_forms_of_government"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "totalitarian regimes and, sitting between these two, authoritarian regimes with hybrid regimes. Another modern classification system includes monarchies as a standalone entity or as a hybrid system of the main three. Scholars generally refer to a dictatorship as either a form of government which is characterized by a leader who holds absolute or near-absolute political power.\n\nDe jure democratic governments with a de facto oligarchy are ruled by a small group of segregated, powerful or influential people who usually share similar interests or family relations. These people may spread power and elect candidates equally or not equally. An oligarchy is different from a true democracy because very few people are given the chance to change things. An oligarchy does not have to be hereditary or monarchic. An oligarchy does not have one clear ruler but several rulers. (Ancient Greek ὀλιγαρχία (oligarkhía) literally meant \"rule by few\")",
+      "source_ids": [
+        "wiki_en_form_of_government"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Form_of_government"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "The ancient Greek philosopher Plato discusses in the Republic five types of regimes: aristocracy, timocracy, oligarchy, democracy, and tyranny. The question raised by Plato in the Republic: What kind of state is best? Generational changes informed by new political and cultural beliefs, technological progress, values and morality over millenniums have resulted in considerable shifts in the belief about the origination of political authority, who may participate in matters of state, how people might participate, the determination of what is just, and so forth.\n\nSome historical examples of oligarchy include the Roman Republic, in which only males of the nobility could run for office and only wealthy males could vote, and the Athenian democracy, which used sortition to elect candidates, almost always male, Greek, educated citizens holding a minimum of land, wealth and status. Some critics of capitalism and/or representative democracy think of the United States and the United Kingdom as oligarchies.",
+      "source_ids": [
+        "wiki_en_democracy"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Democracy"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Form of government",
+      "definition": "Scholars generally refer to a dictatorship as either a form of government which is characterized by a leader who holds absolute or near-absolute political power.",
+      "source_ids": [
+        "wiki_en_forms_of_government"
+      ]
+    },
+    {
+      "term": "Democracy",
+      "definition": "The ancient Greek philosopher Plato discusses in the Republic five types of regimes: aristocracy, timocracy, oligarchy, democracy, and tyranny.",
+      "source_ids": [
+        "wiki_en_forms_of_government"
+      ]
+    },
+    {
+      "term": "Republic",
+      "definition": "The ancient Greek philosopher Plato discusses in the Republic five types of regimes: aristocracy, timocracy, oligarchy, democracy, and tyranny.",
+      "source_ids": [
+        "wiki_en_forms_of_government"
+      ]
+    },
+    {
+      "term": "Forms",
+      "definition": "This article lists forms of government and political systems, which are not mutually exclusive, and often have much in common.",
+      "source_ids": [
+        "wiki_en_forms_of_government"
+      ]
+    },
+    {
+      "term": "government",
+      "definition": "This article lists forms of government and political systems, which are not mutually exclusive, and often have much in common.",
+      "source_ids": [
+        "wiki_en_forms_of_government"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_forms_of_government",
+    "wiki_en_form_of_government",
+    "wiki_en_democracy",
+    "wiki_en_republic"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_forms_of_government",
+      "title": "Forms of government (Wikipedia extract)",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/List_of_forms_of_government",
+      "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+      "edition_or_revision": "pageid=542341",
+      "subject_id": "sub_political",
+      "topic_id": "pol_forms_gov",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "314c8a9c76a2f4830b37c6d57f6eee99b5fc831b853a98738213c9fb7d1f9c5f",
+      "origin": "local_approved_or_pending"
+    },
+    {
+      "source_id": "wiki_en_form_of_government",
+      "title": "Government",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Form_of_government",
+      "retrieved_at_utc": "2026-10-14T17:27:06.514819+00:00",
+      "edition_or_revision": "pageid=12229",
+      "subject_id": "sub_political",
+      "topic_id": "pol_forms_gov",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "d7c6e7a2e1fa87a80bb17c58ec56de3bb092b29f51543a23abe51d62f661e75e",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_democracy",
+      "title": "Democracy",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Democracy",
+      "retrieved_at_utc": "2026-10-14T17:27:08.255263+00:00",
+      "edition_or_revision": "pageid=7959",
+      "subject_id": "sub_political",
+      "topic_id": "pol_forms_gov",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "bd232a84e660d5933a1899fb6bed968ca5d750df9de3c59415306d38b81ddf8c",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_republic",
+      "title": "Republic",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Republic",
+      "retrieved_at_utc": "2026-10-14T17:27:09.936659+00:00",
+      "edition_or_revision": "pageid=25536",
+      "subject_id": "sub_political",
+      "topic_id": "pol_forms_gov",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "1c01f39d386e8f76ec22499f015de918d4bd04790324586951ede69910500f56",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "61efab95500b6633e2add9ee9f8d2b9335c903aff3251f2b2610022922743da4",
+  "authored_at_utc": "2026-10-14T17:27:10.559503+00:00"
+}

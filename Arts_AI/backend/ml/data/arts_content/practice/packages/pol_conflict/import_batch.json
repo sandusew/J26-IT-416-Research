@@ -1,0 +1,750 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_conflict_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Peacebuilding",
+        "Conflict",
+        "Explanations",
+        "Conflict resolution"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Peacebuilding"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Conflict"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Conflict resolution"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_conflict_resolution). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_conflict_resolution",
+      "sourceIds": [
+        "wiki_en_conflict_resolution"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_conflict_resolution",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.»?",
+      "options": [
+        "resolution",
+        "Conflict",
+        "Conflict resolution",
+        "Peacebuilding"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "resolution"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Conflict"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Conflict resolution"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Peacebuilding"
+        }
+      ],
+      "correctAnswerOrRubric": "Conflict",
+      "explanation": "Source-grounded AI practice item. The passage supports «Conflict». Full sentence: Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution. (source_id=wiki_en_peacebuilding). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_peacebuilding",
+      "sourceIds": [
+        "wiki_en_peacebuilding"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_peacebuilding",
+          "passage": "Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «Dimensions of resolution typically parallel the dimensions of conflict in the way the conflict is processed.»?",
+      "options": [
+        "Dimensions",
+        "Conflict resolution",
+        "Peacebuilding",
+        "Conflict"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Dimensions"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Conflict resolution"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Peacebuilding"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Conflict"
+        }
+      ],
+      "correctAnswerOrRubric": "Dimensions",
+      "explanation": "Source-grounded AI practice item. The passage supports «Dimensions». Full sentence: Dimensions of resolution typically parallel the dimensions of conflict in the way the conflict is processed. (source_id=wiki_en_conflict_resolution). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_conflict_resolution",
+      "sourceIds": [
+        "wiki_en_conflict_resolution"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_conflict_resolution",
+          "passage": "Dimensions of resolution typically parallel the dimensions of conflict in the way the conflict is processed."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «Cognitive resolution is the way disputants understand and view the conflict, with beliefs, perspectives, understandings and attitudes.»?",
+      "options": [
+        "Conflict resolution",
+        "Peacebuilding",
+        "Conflict",
+        "Cognitive"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Conflict resolution"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Peacebuilding"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Conflict"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Cognitive"
+        }
+      ],
+      "correctAnswerOrRubric": "Cognitive",
+      "explanation": "Source-grounded AI practice item. The passage supports «Cognitive». Full sentence: Cognitive resolution is the way disputants understand and view the conflict, with beliefs, perspectives, understandings and attitudes. (source_id=wiki_en_peacebuilding). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_peacebuilding",
+      "sourceIds": [
+        "wiki_en_peacebuilding"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_peacebuilding",
+          "passage": "Cognitive resolution is the way disputants understand and view the conflict, with beliefs, perspectives, understandings and attitudes."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «Emotional resolution is in the way disputants feel about a conflict, the emotional energy.»?",
+      "options": [
+        "Peacebuilding",
+        "Conflict",
+        "Emotional",
+        "Conflict resolution"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Peacebuilding"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Conflict"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Emotional"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Conflict resolution"
+        }
+      ],
+      "correctAnswerOrRubric": "Emotional",
+      "explanation": "Source-grounded AI practice item. The passage supports «Emotional». Full sentence: Emotional resolution is in the way disputants feel about a conflict, the emotional energy. (source_id=wiki_en_conflict_resolution). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_conflict_resolution",
+      "sourceIds": [
+        "wiki_en_conflict_resolution"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_conflict_resolution",
+          "passage": "Emotional resolution is in the way disputants feel about a conflict, the emotional energy."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «Behavioral resolution is reflective of how the disputants act, their behavior.»?",
+      "options": [
+        "Conflict",
+        "Behavioral",
+        "Conflict resolution",
+        "Peacebuilding"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Conflict"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Behavioral"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Conflict resolution"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Peacebuilding"
+        }
+      ],
+      "correctAnswerOrRubric": "Behavioral",
+      "explanation": "Source-grounded AI practice item. The passage supports «Behavioral». Full sentence: Behavioral resolution is reflective of how the disputants act, their behavior. (source_id=wiki_en_peacebuilding). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_peacebuilding",
+      "sourceIds": [
+        "wiki_en_peacebuilding"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_peacebuilding",
+          "passage": "Behavioral resolution is reflective of how the disputants act, their behavior."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Conflict and conflict resolution: «Conflict and conflict resolution is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Conflict and conflict resolution. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_conflict_resolution",
+      "sourceIds": [
+        "wiki_en_conflict_resolution",
+        "wiki_en_peacebuilding"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Conflict and conflict resolution: «Conflict and conflict resolution can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Conflict and conflict resolution. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_conflict_resolution",
+      "sourceIds": [
+        "wiki_en_conflict_resolution",
+        "wiki_en_peacebuilding"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "true_false",
+      "prompt": "True or false for Conflict and conflict resolution: «Listing names alone demonstrates understanding of Conflict and conflict resolution» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Conflict and conflict resolution. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_conflict_resolution",
+      "sourceIds": [
+        "wiki_en_conflict_resolution",
+        "wiki_en_peacebuilding"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_conflict_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «The X-axis evaluates  cooperativity, the extent by which mutual goals are achieved.»?",
+      "options": [
+        "extent",
+        "Conflict resolution",
+        "Peacebuilding",
+        "Conflict"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "extent"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Conflict resolution"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Peacebuilding"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Conflict"
+        }
+      ],
+      "correctAnswerOrRubric": "extent",
+      "explanation": "Source-grounded AI practice item. The passage supports «extent». Full sentence: The X-axis evaluates  cooperativity, the extent by which mutual goals are achieved. (source_id=wiki_en_conflict_resolution). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_conflict_resolution",
+      "sourceIds": [
+        "wiki_en_conflict_resolution"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_conflict_resolution",
+          "passage": "The X-axis evaluates  cooperativity, the extent by which mutual goals are achieved."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_conflict_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «The Y-axis evaluates assertiveness, how parties insist on carrying their own objectives.»?",
+      "options": [
+        "Conflict resolution",
+        "Peacebuilding",
+        "Conflict",
+        "parties"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Conflict resolution"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Peacebuilding"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Conflict"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "parties"
+        }
+      ],
+      "correctAnswerOrRubric": "parties",
+      "explanation": "Source-grounded AI practice item. The passage supports «parties». Full sentence: The Y-axis evaluates assertiveness, how parties insist on carrying their own objectives. (source_id=wiki_en_peacebuilding). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_peacebuilding",
+      "sourceIds": [
+        "wiki_en_peacebuilding"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_peacebuilding",
+          "passage": "The Y-axis evaluates assertiveness, how parties insist on carrying their own objectives."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_conflict_q12",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_conflict",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Conflict and conflict resolution, which term or name is supported by this passage: «Thomas and Kilmann extended that grid with a rating system for five modes of behavior.»?",
+      "options": [
+        "Peacebuilding",
+        "Conflict",
+        "Thomas",
+        "Conflict resolution"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Peacebuilding"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Conflict"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Thomas"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Conflict resolution"
+        }
+      ],
+      "correctAnswerOrRubric": "Thomas",
+      "explanation": "Source-grounded AI practice item. The passage supports «Thomas». Full sentence: Thomas and Kilmann extended that grid with a rating system for five modes of behavior. (source_id=wiki_en_conflict_resolution). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_conflict_resolution",
+      "sourceIds": [
+        "wiki_en_conflict_resolution"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_conflict_resolution",
+          "passage": "Thomas and Kilmann extended that grid with a rating system for five modes of behavior."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_conflict_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_conflict"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Conflict and conflict resolution — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Conflict_resolution",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_conflict_resolution",
+        "wiki_en_peacebuilding"
+      ],
+      "bodyText": "# Conflict and conflict resolution\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Conflict and conflict resolution」 (pol_conflict) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nConflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.\nCommitted group members attempt to resolve group conflicts by actively communicating information about their conflicting motives or ideologies to the rest of group (e.g., intentions; reasons for holding certain beliefs) and by engaging in collective negotiation. Dimensions of resolution typically parallel the dimensions of conflict in the way the conflict is processed.\nCognitive resolution is the way disputants understand and view the conflict, with beliefs, perspectives, understandings and attitudes. Emotional resolution is in the way disputants feel about a conflict, the emotional energy. Behavioral resolution is reflective of how the disputants act, their behavior. Ultimately a wide range of methods and procedures for addressing conflict exist, i\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Conflict and conflict resolution\n- [inferred_not_official] Explain core ideas of Conflict and conflict resolution\n- [inferred_not_official] Apply concepts from Conflict and conflict resolution using cited public sources\n\n## Core concepts and definitions\nConflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.\nCommitted group members attempt to resolve group conflicts by actively communicating information about their conflicting motives or ideologies to the rest of group (e.g., intentions; reasons for holding certain beliefs) and by engaging in collective negotiation. Dimensions of resolution typically parallel the dimensions of conflict in the way the conflict is processed.\nCognitive resolution is the way disputants understand and view the conflict, with beliefs, perspectives, understandings and attitudes. Emotional resolution is in the way disputants feel about a conflict, the emotional energy. Behavioral resolution is reflective of how the disputants act, their behavior. Ultimately a wide range of methods and procedures for addressing conflict exist, including negotiation, mediation, mediation-arbitration, diplomacy, and creative peacebuilding.\n\nIn contrast, yielding, \"accommodating\", smoothing or suppression conflict styles are characterized by a high level of concern for others and a low level of concern for oneself. This passive pro-social approach emerges when individuals derive personal satisfaction from meeting the needs of others and have a general concern for maintaining stable, positive social relationships. When faced with conflict, individuals with an accommodating conflict style tend to harmonize into others' demands out of respect for the social relationship. With this sense of yielding to the conflict, individuals fall back to others' input instead of finding solutions with their own intellectual resolution.\nCompetitive\n(Source: https://en.wikipedia.org/wiki/Conflict_resolution)\n\n## Historical or systematic development\nRuble and Thomas transposed the managerial grid model in terms of conflict resolution. They adapted the classification scheme to dimensions identified in conflict research that represent a range of behaviors beyond the dichotomy between cooperation and competition. The X-axis evaluates  cooperativity, the extent by which mutual goals are achieved. The Y-axis evaluates assertiveness, how parties insist on carrying their own objectives.\nThomas and Kilmann extended that grid with a rating system for five modes of behavior. When parties are assertive but their objectives lack compatibility, they become competitive; when parties are assertive toward compatible objectives, they can be collaborating; when no party prioritizes objectives that are mutually exclusive, they can display avoidance; parties can be  accommodating when assertiveness is low but cooperativity is high; when there is no real bias toward assertiveness and cooperativity, compromising can obtain. \nHowever, not every style leads to an acceptable result in every situation. For example, a collaboration does not work if the goals of the two conflict parties are immutable and mutually exclusive. The different styles have different advantages and disadvantages. Depending on the situation, different conflict styles can be considered desirable to achieve the best results.\n\nThe competitive, \"fighting\" or forcing conflict style maximizes individual assertiveness (i.e., concern for self) and minimizes empathy (i.e., concern for others). Groups consisting of competitive members generally enjoy seeking domination over others, and typically see conflict as a \"win or lose\" predicament. Fighters tend to force others to accept their personal views by employing competitive power tactics (arguments, insults, accusations or even violence) that foster intimidation.\nConciliation\n(Source: https://en.wikipedia.org/wiki/Peacebuilding)\n\n## Applications, evidence, and Sri Lankan / comparative context\nCharacterized by joking, changing or avoiding the topic, or even denying that a problem exists, the conflict avoidance style is used when an individual has withdrawn in dealing with the other party, when one is uncomfortable with conflict, or due to cultural contexts. During conflict, these avoiders adopt a \"wait and see\" attitude, often allowing conflict to phase out on its own without any personal involvement. By neglecting to address high-conflict situations, avoiders risk allowing problems to fester or spin out of control.\nAccommodating\n\nThe conciliation, \"compromising\", bargaining or negotiation conflict style is typical of individuals who possess an intermediate level of concern for both personal and others' outcomes. Compromisers value fairness and, in doing so, anticipate mutual give-and-take interactions. By accepting some demands put forth by others, compromisers believe this agreeableness will encourage others to meet them halfway, thus promoting conflict resolution. This conflict style can be considered an extension of both \"yielding\" and \"cooperative\" strategies.\nCooperation\n(Source: https://en.wikipedia.org/wiki/Conflict_resolution)\n\n## Key terms\n- **Conflict resolution**: Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.\n- **Peacebuilding**: Ultimately a wide range of methods and procedures for addressing conflict exist, including negotiation, mediation, mediation-arbitration, diplomacy, and creative peacebuilding.\n- **Conflict**: Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.\n- **resolution**: Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Conflict and conflict resolution, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Conflict and conflict resolution can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Conflict and conflict resolution\n- Conflict and conflict resolution is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_conflict_resolution: Conflict resolution — https://en.wikipedia.org/wiki/Conflict_resolution (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:27:16.711467+00:00; checksum 70ccad0d5793…)\n- wiki_en_peacebuilding: Peacebuilding — https://en.wikipedia.org/wiki/Peacebuilding (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:27:18.551201+00:00; checksum 2133de8b0ddf…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:39.158885+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

@@ -1,0 +1,792 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_constitution_1978_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Sri Lankan Constitution of 1978",
+        "Constitution",
+        "Explanations",
+        "Constitution of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lankan Constitution of 1978"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Constitution of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_constitution_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_constitution_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_constitution_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_constitution_of_sri_lanka",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «Sirimavo Bandaranaike came to office as the world's first woman Prime Minister in May 1970.»?",
+      "options": [
+        "Constitution",
+        "Sirimavo Bandaranaike",
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sirimavo Bandaranaike"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Constitution of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lankan Constitution of 1978"
+        }
+      ],
+      "correctAnswerOrRubric": "Sirimavo Bandaranaike",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sirimavo Bandaranaike». Full sentence: Sirimavo Bandaranaike came to office as the world's first woman Prime Minister in May 1970. (source_id=wiki_en_sri_lankan_constitution_of_1978). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_constitution_of_1978",
+      "sourceIds": [
+        "wiki_en_sri_lankan_constitution_of_1978"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_constitution_of_1978",
+          "passage": "Sirimavo Bandaranaike came to office as the world's first woman Prime Minister in May 1970."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «Her United Front Government used the parliament as a Constituent Assembly and drafted a new Republican Constitution.»?",
+      "options": [
+        "Her United Front Government",
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978",
+        "Constitution"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Her United Front Government"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Constitution of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lankan Constitution of 1978"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Constitution"
+        }
+      ],
+      "correctAnswerOrRubric": "Her United Front Government",
+      "explanation": "Source-grounded AI practice item. The passage supports «Her United Front Government». Full sentence: Her United Front Government used the parliament as a Constituent Assembly and drafted a new Republican Constitution. (source_id=wiki_en_constitution_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_constitution_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_constitution_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_constitution_of_sri_lanka",
+          "passage": "Her United Front Government used the parliament as a Constituent Assembly and drafted a new Republican Constitution."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «This Constitution provided for a unicameral legislature named the National State Assembly with a term of office of 6 years and Sovereignty was entirely vested in it.»?",
+      "options": [
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978",
+        "Constitution",
+        "National State Assembly"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Constitution of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lankan Constitution of 1978"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "National State Assembly"
+        }
+      ],
+      "correctAnswerOrRubric": "National State Assembly",
+      "explanation": "Source-grounded AI practice item. The passage supports «National State Assembly». Full sentence: This Constitution provided for a unicameral legislature named the National State Assembly with a term of office of 6 years and Sovereignty was entirely vested in it. (source_id=wiki_en_sri_lankan_constitution_of_1978). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_constitution_of_1978",
+      "sourceIds": [
+        "wiki_en_sri_lankan_constitution_of_1978"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_constitution_of_1978",
+          "passage": "This Constitution provided for a unicameral legislature named the National State Assembly with a term of office of 6 years and Sovereignty was entirely vested in it."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «A nominal President with a term of office of 4 years was appointed as the Head of State by the Prime Minister, Head of the Cabinet of Ministers responsible to the National State assembly.»?",
+      "options": [
+        "Sri Lankan Constitution of 1978",
+        "Constitution",
+        "President",
+        "Constitution of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lankan Constitution of 1978"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "President"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Constitution of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "President",
+      "explanation": "Source-grounded AI practice item. The passage supports «President». Full sentence: A nominal President with a term of office of 4 years was appointed as the Head of State by the Prime Minister, Head of the Cabinet of Ministers responsible to the National State assembly. (source_id=wiki_en_constitution_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_constitution_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_constitution_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_constitution_of_sri_lanka",
+          "passage": "A nominal President with a term of office of 4 years was appointed as the Head of State by the Prime Minister, Head of the Cabinet of Ministers responsible to the National State assembly."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «This constitution containing a declaration of fundamental rights and freedom was amended on 11 February 1975 to change the basis of delimitation of constituencies from 75,000 persons per electorate to…»?",
+      "options": [
+        "Constitution",
+        "February",
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "February"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Constitution of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lankan Constitution of 1978"
+        }
+      ],
+      "correctAnswerOrRubric": "February",
+      "explanation": "Source-grounded AI practice item. The passage supports «February». Full sentence: This constitution containing a declaration of fundamental rights and freedom was amended on 11 February 1975 to change the basis of delimitation of constituencies from 75,000 persons per electorate to 90,000 persons. (source_id=wiki_en_sri_lankan_constitution_of_1978). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_constitution_of_1978",
+      "sourceIds": [
+        "wiki_en_sri_lankan_constitution_of_1978"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_constitution_of_1978",
+          "passage": "This constitution containing a declaration of fundamental rights and freedom was amended on 11 February 1975 to change the basis of delimitation of constituencies from 75,000 persons per electorate to 90,000 persons."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «Jayewardene who came to office in July 1977 with a five-sixths majority passed the second amendment to the 1972 Constitution on 4 October 1977, which made the presidency an Executive post.»?",
+      "options": [
+        "Jayewardene",
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978",
+        "Constitution"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Jayewardene"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Constitution of Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lankan Constitution of 1978"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Constitution"
+        }
+      ],
+      "correctAnswerOrRubric": "Jayewardene",
+      "explanation": "Source-grounded AI practice item. The passage supports «Jayewardene». Full sentence: Jayewardene who came to office in July 1977 with a five-sixths majority passed the second amendment to the 1972 Constitution on 4 October 1977, which made the presidency an Executive post. (source_id=wiki_en_constitution_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_constitution_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_constitution_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_constitution_of_sri_lanka",
+          "passage": "Jayewardene who came to office in July 1977 with a five-sixths majority passed the second amendment to the 1972 Constitution on 4 October 1977, which made the presidency an Executive post."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «The Soulbury Constitution provided a parliamentary form of Government for Ceylon and  for a Judicial Service Commission and a Public Service Commission.»?",
+      "options": [
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978",
+        "Constitution",
+        "Government"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Constitution of Sri Lanka"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lankan Constitution of 1978"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Government"
+        }
+      ],
+      "correctAnswerOrRubric": "Government",
+      "explanation": "Source-grounded AI practice item. The passage supports «Government». Full sentence: The Soulbury Constitution provided a parliamentary form of Government for Ceylon and  for a Judicial Service Commission and a Public Service Commission. (source_id=wiki_en_sri_lankan_constitution_of_1978). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_constitution_of_1978",
+      "sourceIds": [
+        "wiki_en_sri_lankan_constitution_of_1978"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_constitution_of_1978",
+          "passage": "The Soulbury Constitution provided a parliamentary form of Government for Ceylon and  for a Judicial Service Commission and a Public Service Commission."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «Minority rights were safeguarded by Article 29(2) of the Constitution.»?",
+      "options": [
+        "Sri Lankan Constitution of 1978",
+        "Constitution",
+        "Minority",
+        "Constitution of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lankan Constitution of 1978"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Minority"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Constitution of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Minority",
+      "explanation": "Source-grounded AI practice item. The passage supports «Minority». Full sentence: Minority rights were safeguarded by Article 29(2) of the Constitution. (source_id=wiki_en_constitution_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_constitution_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_constitution_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_constitution_of_sri_lanka",
+          "passage": "Minority rights were safeguarded by Article 29(2) of the Constitution."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «The governor-general, the representative of the monarch of Ceylon, the Senate and the House of Representatives exercised legislative power.»?",
+      "options": [
+        "Constitution",
+        "Ceylon",
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Ceylon"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Constitution of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lankan Constitution of 1978"
+        }
+      ],
+      "correctAnswerOrRubric": "Ceylon",
+      "explanation": "Source-grounded AI practice item. The passage supports «Ceylon». Full sentence: The governor-general, the representative of the monarch of Ceylon, the Senate and the House of Representatives exercised legislative power. (source_id=wiki_en_sri_lankan_constitution_of_1978). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_constitution_of_1978",
+      "sourceIds": [
+        "wiki_en_sri_lankan_constitution_of_1978"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_constitution_of_1978",
+          "passage": "The governor-general, the representative of the monarch of Ceylon, the Senate and the House of Representatives exercised legislative power."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «== Background to the 1978 Constitution ==\nBefore the 1977 general election, the UNP had sought a mandate from the people to adopt a new constitution.»?",
+      "options": [
+        "Sri Lankan Constitution of 1978",
+        "Constitution",
+        "Background",
+        "Constitution of Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lankan Constitution of 1978"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Background"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Constitution of Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Background",
+      "explanation": "Source-grounded AI practice item. The passage supports «Background». Full sentence: == Background to the 1978 Constitution ==\nBefore the 1977 general election, the UNP had sought a mandate from the people to adopt a new constitution. (source_id=wiki_en_sri_lankan_constitution_of_1978). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lankan_constitution_of_1978",
+      "sourceIds": [
+        "wiki_en_sri_lankan_constitution_of_1978"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lankan_constitution_of_1978",
+          "passage": "== Background to the 1978 Constitution ==\nBefore the 1977 general election, the UNP had sought a mandate from the people to adopt a new constitution."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_constitution_1978_q13",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_constitution_1978",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Constitution of 1978 and selected amendments, which term or name is supported by this passage: «Accordingly, a select committee was appointed to consider the revision of the existing Constitution.»?",
+      "options": [
+        "Constitution",
+        "Accordingly",
+        "Constitution of Sri Lanka",
+        "Sri Lankan Constitution of 1978"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Constitution"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Accordingly"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Constitution of Sri Lanka"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lankan Constitution of 1978"
+        }
+      ],
+      "correctAnswerOrRubric": "Accordingly",
+      "explanation": "Source-grounded AI practice item. The passage supports «Accordingly». Full sentence: Accordingly, a select committee was appointed to consider the revision of the existing Constitution. (source_id=wiki_en_constitution_of_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_constitution_of_sri_lanka",
+      "sourceIds": [
+        "wiki_en_constitution_of_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_constitution_of_sri_lanka",
+          "passage": "Accordingly, a select committee was appointed to consider the revision of the existing Constitution."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_constitution_1978_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_constitution_1978"
+      ],
+      "language": "en",
+      "grade": "13",
+      "resourceType": "teaching_package",
+      "title": "Constitution of 1978 and selected amendments — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Constitution_of_Sri_Lanka",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_constitution_of_sri_lanka",
+        "wiki_en_sri_lankan_constitution_of_1978"
+      ],
+      "bodyText": "# Constitution of 1978 and selected amendments\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Constitution of 1978 and selected amendments」 (pol_constitution_1978) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nThe Constitution of the Democratic Socialist Republic of Sri Lanka (Sinhala: ශ්‍රී ලංකා ආණ්ඩුක්‍රම ව්‍යවස්ථාව, romanized: Śrī Laṅkā āndukrama vyavasthāva, Tamil: இலங்கைச் சனநாயக சோசலிசக் குடியரசின் அரசமைப்பு, romanized: Ilaṅkaic caṉanāyaka cōcalicak kuṭiyaraciṉ aracamaippu) has been the constitution of the island nation of Sri Lanka since its original promulgation by the National State Assembly on 7 September 1978. As of October 2022 it has been formally amended 21 times.\nIt is Sri Lanka's second republican constitution, replacing the Sri Lankan Constitution of 1972, its third constitution since the country gained  independence within the British Commonwealth as the Dominion of Ceylon in 1948, and its fourth constitution overall.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Constitution of 1978 and selected amendments\n- [inferred_not_official] Explain core ideas of Constitution of 1978 and selected amendments\n- [inferred_not_official] Apply concepts from Constitution of 1978 and selected amendments using cited public sources\n\n## Core concepts and definitions\nThe Constitution of the Democratic Socialist Republic of Sri Lanka (Sinhala: ශ්‍රී ලංකා ආණ්ඩුක්‍රම ව්‍යවස්ථාව, romanized: Śrī Laṅkā āndukrama vyavasthāva, Tamil: இலங்கைச் சனநாயக சோசலிசக் குடியரசின் அரசமைப்பு, romanized: Ilaṅkaic caṉanāyaka cōcalicak kuṭiyaraciṉ aracamaippu) has been the constitution of the island nation of Sri Lanka since its original promulgation by the National State Assembly on 7 September 1978. As of October 2022 it has been formally amended 21 times.\nIt is Sri Lanka's second republican constitution, replacing the Sri Lankan Constitution of 1972, its third constitution since the country gained  independence within the British Commonwealth as the Dominion of Ceylon in 1948, and its fourth constitution overall.\n\nSirimavo Bandaranaike came to office as the world's first woman Prime Minister in May 1970. Her United Front Government used the parliament as a Constituent Assembly and drafted a new Republican Constitution. It was promulgated on 22 May 1972.  This Constitution provided for a unicameral legislature named the National State Assembly with a term of office of 6 years and Sovereignty was entirely vested in it. A nominal President with a term of office of 4 years was appointed as the Head of State by the Prime Minister, Head of the Cabinet of Ministers responsible to the National State assembly. Ceylon was replaced by republic of Sri Lanka (Resplendent Island). This constitution containing a declaration of fundamental rights and freedom was amended on 11 February 1975 to change the basis of delimitation of constituencies from 75,000 persons per electorate to 90,000 persons. J. R. Jayewardene who came to office in July 1977 with a five-sixths majority passed the second amendment to the 1972 Constitution on 4 October 1977, which made the presidency an Executive post.\n(Source: https://en.wikipedia.org/wiki/Constitution_of_Sri_Lanka)\n\n## Historical or systematic development\nUnder the Soulbury Constitution, which consisted of The Ceylon Independence Act, 1947 and The Ceylon (Constitution and Independence) Orders in Council 1947, Sri Lanka was then known as Ceylon. The Soulbury Constitution provided a parliamentary form of Government for Ceylon and  for a Judicial Service Commission and a Public Service Commission. Minority rights were safeguarded by Article 29(2) of the Constitution. The governor-general, the representative of the monarch of Ceylon, the Senate and the House of Representatives exercised legislative power. The House of Representatives consisted of 101 Members, of which 95 were elected by universal suffrage and 6 were nominated by the Governor-General. That total number was increased to 151 by the 1959 Delimitation Commission and the term of the House was five years\nThe S. W. R. D. Bandaranaike Government set up a Joint Select Committee of the Senate and the House of Representatives to consider a revision of the Constitution on 10 January 1958 but the committee was unable to come to a final conclusion on account of the propagation of Parliament on 23 May 1959. A similar attempt by the Dudley Senanayake Government failed due to such a propagation on 22 June 1968 too. The Senate consisted of 30 members (15 elected by the House and 15 by the Governor-General) was abolished on 2 October 1971.\nAmendments\n\nClause 3 of the amendment specifically stated that:\"The person holding the office of Prime Minister at the commencement of this amendment shall assume the office of the President of the Republic and shall exercise and perform the powers and functions pertaining to that office.\"Under its provisions, then Prime Minister Jayawardene automatically took office as the first Executive President of Sri Lanka on 4 February 1978.\n(Source: https://en.wikipedia.org/wiki/Sri_Lankan_Constitution_of_1978)\n\n## Applications, evidence, and Sri Lankan / comparative context\n29 of 1954 on 06.07.1954 to amend section 29(2) to enable enactment of Act Nos.35 & 36 of 1954\n35 of 1954 on 16.07.1954 to increase the number of Members to 105 for a specified period and to terminate the services of the then existing Delimitation Commissioners.\n36 of 1954 on 16.07.1954 to make provision for the election of Members of the House of Representatives to represent persons registered as citizens of Ceylon under the Indian and Pakistani Residents (Citizenship) Act No.3 of 1949.\n4 of 1959 on 06.02.1959 to appoint a Delimitation Commission; to amend section 47 regarding delegation of power to Parliamentary Secretaries and to repeal Act Nos. 35 &36 of 1954.\n71 of 1961 on 30.12.1961 to include \"Election judge\" under section 55.\n8 of 1964 on 12.03.1964 to place the post of Commissioner of Elections in the Constitution and to make financial provision to conduct elections.\n29 of 1970 on 18.11.1970 to permit public officers (other than those in specified categories) to contest elections, and to make them eligible to be elected or nominated to the Senate.\n36 of 1971 on 02.10.1971 to abolish the Senate.\n\n\"Parliament of Sri Lanka - Constitution\". www.parliament.lk.\nConstitution of the Democratic Socialist Republic of Sri Lanka with Amendments incorporated up to the 19th Amendment\n(Source: https://en.wikipedia.org/wiki/Constitution_of_Sri_Lanka)\n\n## Key terms\n- **Constitution of Sri Lanka**: Constitution of Sri Lanka: a key idea for Constitution of 1978 and selected amendments (see cited sources; AI-authored gloss).\n- **Sri Lankan Constitution of 1978**: Sri Lankan Constitution of 1978: a key idea for Constitution of 1978 and selected amendments (see cited sources; AI-authored gloss).\n- **Constitution**: It is Sri Lanka's second republican constitution, replacing the Sri Lankan Constitution of 1972, its third constitution since the country gained  independence within the British Commonwealth as the Dominion of Ceylon in 1948, and its fourth constitution overall.\n- **selected**: selected: a key idea for Constitution of 1978 and selected amendments (see cited sources; AI-authored gloss).\n- **amendments**: Amendments\n\n29 of 1954 on 06.07.1954 to amend section 29(2) to enable enactment of Act Nos.35 & 36 of 1954\n35 of 1954 on 16.07.1954 to increase the number of Members to 105 for a specified period and to terminate the services of the then existing Delimitation Commissioners.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Constitution of 1978 and selected amendments, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Constitution of 1978 and selected amendments can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Constitution of 1978 and selected amendments\n- Constitution of 1978 and selected amendments is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_constitution_of_sri_lanka: Constitution of Sri Lanka — https://en.wikipedia.org/wiki/Constitution_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:28:12.031572+00:00; checksum 647d7eeccd74…)\n- wiki_en_sri_lankan_constitution_of_1978: Constitution of Sri Lanka — https://en.wikipedia.org/wiki/Sri_Lankan_Constitution_of_1978 (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:28:13.371526+00:00; checksum 647d7eeccd74…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:40.729885+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 2
+}

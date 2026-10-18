@@ -1,0 +1,31 @@
+{
+  "run_id": "c4_index_20261013T182822_1322cfa5",
+  "registry_path": "backend/ml/data/arts_content/corpus_registry.json",
+  "n_registered": 13,
+  "n_indexable": 13,
+  "n_blocked_pending": 0,
+  "domain_retrieval_status": "ready",
+  "generated_fixtures_separated": true,
+  "generated_path": "backend/ml/data/arts_content/generated_awaiting_review",
+  "indexing_note": "Index construction is implementation/indexing, not language-model training",
+  "sinhala_query_support": "not_claimed",
+  "topic_classifier_scope": "closed_set_generated_nl \u2014 does not gate domain retrieval; topics outside NL taxonomy remain retrievable",
+  "n_chunks": 63,
+  "index_path": "backend/ml/data/arts_content/indexes/c4_index_20261013T182822_1322cfa5/domain_knowledge_index.joblib",
+  "index_sha256": "958a3a494c3b959afd71278199f0d6e721065a77b855fbe2da7e776eee918389",
+  "document_ids": [
+    "wiki_en_anuradhapura",
+    "wiki_en_buddhism_sri_lanka",
+    "wiki_en_economics",
+    "wiki_en_forms_of_government",
+    "wiki_en_geography_sri_lanka",
+    "wiki_en_opportunity_cost",
+    "wiki_en_physical_geography",
+    "wiki_en_political_ideology",
+    "wiki_en_politics_sri_lanka",
+    "wiki_en_polonnaruwa",
+    "wiki_en_sri_lanka_history",
+    "wiki_en_supply_demand",
+    "wiki_en_urbanization"
+  ]
+}

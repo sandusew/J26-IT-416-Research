@@ -1,0 +1,35 @@
+{
+    "consultation":  {
+                         "_id":  "6ad19af324fd2192711d16d1",
+                         "consultationId":  "con_b0a8af12-d",
+                         "studentId":  "demo_s0001",
+                         "teacherId":  "demo_t0001",
+                         "subjectId":  "sub_history",
+                         "requestedSlotStart":  "2026-10-19T03:33:07.177Z",
+                         "requestedSlotEnd":  "2026-10-19T04:33:07.189Z",
+                         "state":  "approved",
+                         "meetingUrl":  null,
+                         "providerMeetingId":  null,
+                         "meetingProvider":  null,
+                         "meetingIntegrationStatus":  "unconfigured",
+                         "notifications":  [
+                                               {
+                                                   "type":  "student_request_recorded",
+                                                   "at":  "2026-10-16T03:33:07.275Z"
+                                               },
+                                               {
+                                                   "type":  "approved_but_meeting_create_failed",
+                                                   "at":  "2026-10-16T03:33:07.490Z",
+                                                   "error":  "meeting_provider_not_selected"
+                                               },
+                                               {
+                                                   "type":  "state_approved",
+                                                   "at":  "2026-10-16T03:33:07.492Z"
+                                               }
+                                           ],
+                         "dataOrigin":  "synthetic_operational",
+                         "createdAt":  "2026-10-16T03:33:07.275Z",
+                         "updatedAt":  "2026-10-16T03:33:07.493Z",
+                         "__v":  1
+                     }
+}

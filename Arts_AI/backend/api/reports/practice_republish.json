@@ -1,0 +1,39 @@
+{
+  "generated_at_utc": "2026-10-15T04:07:29.346Z",
+  "exportPath": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\api\\reports\\exports\\published_practice_before_republish_2026-10-15T04-03-51-087Z.json",
+  "withdrawn": {
+    "questions": 486,
+    "resources": 45
+  },
+  "import": {
+    "nAccepted": 585,
+    "nRejected": 0
+  },
+  "batchEligibleQuestions": 540,
+  "batchEligibleResources": 45,
+  "published": 585,
+  "publishFailed": 0,
+  "strayUnpublished": 0,
+  "strayCheckBeforeCleanup": 540,
+  "coverage": {
+    "authenticApprovedQuestions": 0,
+    "authenticApprovedResources": 0,
+    "publishedPracticeQuestions": 540,
+    "publishedPracticeResources": 45,
+    "unpublishedDraftQuestions": 631,
+    "unpublishedDraftResources": 0,
+    "testFixtureQuestions": 0,
+    "testFixtureResources": 0,
+    "teacherReviewedQuestions": 0,
+    "teacherReviewedResources": 0,
+    "aiAuthoredPublishedQuestions": 540,
+    "note": "Publication does not increase authenticApproved* or teacherReviewed* counts"
+  },
+  "mongo": {
+    "source": "dotenv_file",
+    "isAtlas": true,
+    "database": "arts_ai",
+    "hostHint": "cluster0.ote0uca.mongodb.net"
+  },
+  "note": "Only repaired batch items published; superseded drafts retained for history/frozen assigns"
+}

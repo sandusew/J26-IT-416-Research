@@ -1,0 +1,41 @@
+{
+    "twinVersion":  1,
+    "nAttempts":  63,
+    "observed":  {
+                     "hist_sl_rajarata_politics":  {
+                                                       "meanScore":  0.4166666666666667,
+                                                       "nAttempts":  12,
+                                                       "provenance":  "server_quiz_attempts_authentic"
+                                                   },
+                     "geo_climate":  {
+                                         "meanScore":  0.4166666666666667,
+                                         "nAttempts":  12,
+                                         "provenance":  "server_quiz_attempts_authentic"
+                                     },
+                     "pol_forms_gov":  {
+                                           "meanScore":  0.4166666666666667,
+                                           "nAttempts":  12,
+                                           "provenance":  "server_quiz_attempts_authentic"
+                                       },
+                     "eco_demand_supply":  {
+                                               "meanScore":  0.4166666666666667,
+                                               "nAttempts":  12,
+                                               "provenance":  "server_quiz_attempts_authentic"
+                                           },
+                     "hist_sl_sources":  {
+                                             "meanScore":  0.6,
+                                             "nAttempts":  5,
+                                             "provenance":  "server_quiz_attempts_authentic"
+                                         },
+                     "hist_sl_geography":  {
+                                               "meanScore":  0.4,
+                                               "nAttempts":  5,
+                                               "provenance":  "server_quiz_attempts_authentic"
+                                           },
+                     "hist_sl_prehistoric":  {
+                                                 "meanScore":  0.4,
+                                                 "nAttempts":  5,
+                                                 "provenance":  "server_quiz_attempts_authentic"
+                                             }
+                 }
+}

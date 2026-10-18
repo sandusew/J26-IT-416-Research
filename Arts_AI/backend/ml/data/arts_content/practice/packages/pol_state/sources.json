@@ -1,0 +1,46 @@
+[
+  {
+    "source_id": "wiki_en_state_polity",
+    "title": "State (polity) (Wikipedia extract)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/State_(polity)",
+    "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+    "edition_or_revision": "pageid=28151",
+    "subject_id": "sub_political",
+    "topic_id": "pol_state",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "32afd342063bae3c4828ac51c27db625d7f777b4d1194d835dcfda64073411a3",
+    "origin": "local_approved_or_pending"
+  },
+  {
+    "source_id": "blocked_State_(polity)",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "blocked_Sovereignty",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_nation_state",
+    "title": "Nation state",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Nation_state",
+    "retrieved_at_utc": "2026-10-14T17:27:05.031512+00:00",
+    "edition_or_revision": "pageid=21627",
+    "subject_id": "sub_political",
+    "topic_id": "pol_state",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "b86986a16b936f08ec230ca67f64098e7f7527eea2de1e0c07ecc4399ad6ad2f",
+    "origin": "wikipedia_api"
+  }
+]

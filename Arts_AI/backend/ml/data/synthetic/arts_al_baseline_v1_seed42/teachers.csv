@@ -1,0 +1,13 @@
+teacher_id,display_name,is_synthetic_fixture,data_origin,generator_version,scenario_id,seed
+syn_t000,Demo Teacher 1,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t001,Demo Teacher 2,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t002,Demo Teacher 3,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t003,Demo Teacher 4,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t004,Demo Teacher 5,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t005,Demo Teacher 6,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t006,Demo Teacher 7,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t007,Demo Teacher 8,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t008,Demo Teacher 9,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t009,Demo Teacher 10,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t010,Demo Teacher 11,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42
+syn_t011,Demo Teacher 12,True,synthetic_operational,0.1.0,arts_al_baseline_v1,42

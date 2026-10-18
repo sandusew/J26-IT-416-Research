@@ -1,0 +1,180 @@
+In microeconomics, supply and demand is an economic model of price determination in a market. It postulates that, holding all else equal, the unit price for a particular good or other traded item in a perfectly competitive market, will vary until it settles at the market-clearing price, where the quantity demanded equals the quantity supplied such that an economic equilibrium is achieved for price and quantity transacted. The concept of supply and demand forms the theoretical basis of modern economics.
+In situations where a firm has market power, its decision on how much output to bring to market influences the market price, in violation of perfect competition. There, a more complicated model should be used; for example, an oligopoly or differentiated-product model. Likewise, where a buyer has market power, models such as monopsony will be more accurate.
+In macroeconomics, as well, the aggregate demand-aggregate supply model has been used to depict how the quantity of total output and the aggregate price level may be determined in equilibrium.
+However, the Sonnenschein-Mantel-Debreu theorem demonstrates that aggregate demand functions do not necessarily inherit the properties of individual rationality, meaning that market-wide supply and demand curves can theoretically take almost any shape. This result implies that the "Law of Demand" may fail at the macro level, challenging the assumption that competitive economies naturally gravitate toward a unique or stable equilibrium.
+
+
+== Graphical representations ==
+
+
+=== Supply schedule ===
+
+A supply schedule, depicted graphically as a supply curve, is a table that shows the relationship between the price of a good and the quantity supplied by producers. Under the assumption of perfect competition, supply is determined by marginal cost: Firms will produce additional output as long as the cost of extra production is less than the market price.
+A rise in the cost of raw materials would decrease supply, shifting the supply curve to the left because at each possible price a smaller quantity would be supplied. This shift may also be thought of as an upwards shift in the supply curve, because the price must rise for producers to supply a given quantity.  A fall in production costs would increase supply, shifting the supply curve to the right or down.
+Mathematically, a supply curve is represented by a supply function, giving the quantity supplied as a function of its price and as many other variables as desired to better explain quantity supplied. The two most common specifications are:
+1) linear supply function, e.g., the slanted line 
+
+  
+    
+      
+        Q
+        (
+        P
+        )
+        =
+        3
+        P
+        −
+        6
+      
+    
+    {\displaystyle Q(P)=3P-6}
+  
+, and
+2) the constant-elasticity supply function (also called isoelastic or log-log or loglinear supply function), e.g., the smooth curve
+
+  
+    
+      
+        Q
+        (
+        P
+        )
+        =
+        5
+        
+          P
+          
+            0.5
+          
+        
+      
+    
+    {\displaystyle Q(P)=5P^{0.5}}
+  
+
+which can be rewritten as 
+
+  
+    
+      
+        log
+        ⁡
+        Q
+        (
+        P
+        )
+        =
+        log
+        ⁡
+        5
+        +
+        0.5
+        log
+        ⁡
+        P
+      
+    
+    {\displaystyle \log Q(P)=\log 5+0.5\log P}
+  
+
+The concept of a supply curve assumes that firms are perfect competitors, having no influence over the market price. This is because each point on the supply curve answers the question, "If this firm is faced with this potential price, how much output will it sell?" If a firm has market power—in violation of the perfect competitor model—its decision on how much output to bring to market influences the market price. Thus the firm is not "faced with" any given price, and a more complicated model, e.g., a monopoly or oligopoly or differentiated-product model, should be used.
+Economists distinguish between the supply curve of an individual firm and the market supply curve. The market supply curve shows the total quantity supplied by all firms, so it is the sum of the quantities supplied by all suppliers at each potential price (that is, the individual firms' supply curves are added horizontally).
+Economists distinguish between short-run and long-run supply curve. Short run refers to a time period during which one or more inputs are fixed (typically physical capital), and the number of firms in the industry is also fixed (if it is a market supply curve). Long run refers to a time period during which new firms enter or existing firms exit  and all inputs can be adjusted fully to any price change. Long-run supply curves are flatter than short-run counterparts (with quantity more sensitive to price, more elastic supply).
+Common determinants of supply are:
+
+Prices of inputs, including wages
+The technology used, productivity
+Firms' expectations about future prices
+Number of suppliers (for a market supply curve)
+
+
+=== Demand schedule ===
+
+A demand schedule, depicted graphically as a demand curve, represents the amount of a certain good that buyers are willing and able to purchase at various prices, assuming all other determinants of demand are held constant, such as income, tastes and preferences, and the prices of substitute and complementary goods. Generally, consumers will buy an additional unit as long as the marginal value of the extra unit is more than the market price they pay. According to the law of demand, the demand curve is always downward-sloping, meaning that as the price decreases, consumers will buy more of the good.
+Mathematically, a demand curve is represented by a demand function, giving the quantity demanded as a function of its price and as many other variables as desired to better explain  quantity demanded. The two most common specifications are linear demand, e.g.,  the slanted line 
+
+  
+    
+      
+        Q
+        (
+        P
+        )
+        =
+        32
+        −
+        2
+        P
+      
+    
+    {\displaystyle Q(P)=32-2P}
+  
+
+and the constant-elasticity demand function (also called isoelastic or log-log or loglinear demand function), e.g., the smooth curve
+
+  
+    
+      
+        Q
+        (
+        P
+        )
+        =
+        3
+        
+          P
+          
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle Q(P)=3P^{-2}}
+  
+
+which can be rewritten as 
+
+  
+    
+      
+        log
+        ⁡
+        Q
+        (
+        P
+        )
+        =
+        log
+        ⁡
+        3
+        −
+        2
+        log
+        ⁡
+        P
+      
+    
+    {\displaystyle \log Q(P)=\log 3-2\log P}
+  
+
+As a matter of historical convention, a demand curve is drawn with price on the vertical y-axis and demand on the horizontal x-axis. In keeping with modern convention, a demand curve would instead be drawn with price on the x-axis and demand on the y-axis, because price is the independent variable and demand is the variable that is dependent upon price.
+Just as the supply curve parallels the marginal cost curve, the demand curve parallels marginal utility, measured in dollars. Consumers will be willing to buy a given quantity of a good, at a given price, if the marginal utility of additional consumption is equal to the opportunity cost determined by the price, that is, the marginal utility of alternative consumption choices. The demand schedule is defined as the willingness and ability of a consumer to purchase a given product at a certain time.
+The demand curve is generally downward-sloping, but for some goods it is upward-sloping. Two such types of goods have been given definitions and names that are in common use: Veblen goods, goods which because of fashion or signalling are more attractive at higher prices, and Giffen goods, which, by virtue of being inferior goods that absorb a large part of a consumer's income (e.g., staples such as the classic example of potatoes in Ireland), may see an increase in quantity demanded when the price rises. The reason the law of demand is violated for Giffen goods is that the rise in the price of the good has a strong income effect, sharply reducing the purchasing power of the consumer so that he switches away from luxury goods to the Giffen good, e.g., when the price of potatoes rises, the Irish peasant can no longer afford meat and eats more potatoes to cover for the lost calories.
+As with the supply curve, the concept of a demand curve requires that the purchaser be a perfect competitor—that is, that the purchaser have no influence over the market price. This is true because each point on the demand curve answers the question, "If buyers are faced with this potential price, how much of the product will they purchase?" But, if a buyer has market power (that is, the amount he buys influences the price), he is not "faced with" any given price, and  we must use a more complicated model, of monopsony.
+As with supply curves, economists distinguish between the demand curve for an individual and the demand curve for a market.  The market demand curve is obtained by adding the  quantities from the individual demand curves at each price.
+Common determinants of demand are:
+
+Income
+Tastes and preferences
+Prices of related goods and services
+Consumers' expectations about future prices and incomes
+Number of potential consumers
+Advertising
+
+
+=== History of the curves ===
+
+
+[Extract truncated for local indexing.]

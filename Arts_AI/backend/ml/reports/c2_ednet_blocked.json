@@ -1,0 +1,7 @@
+{
+  "run_id": "c2_ednet_20261013T030208_1cd0c65e",
+  "status": "blocked",
+  "reason": "EdNet subset missing. Acquire authentic KT1 and run download_ednet_subset().",
+  "data_category": "authentic_public",
+  "note": "Authentic EdNet KT1 not available. Public-track experiment NOT completed. Synthetic replacements were NOT used."
+}

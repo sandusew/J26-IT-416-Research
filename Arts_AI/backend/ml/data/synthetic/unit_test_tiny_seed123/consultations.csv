@@ -1,0 +1,3 @@
+consultation_id,student_id,teacher_id,subject_id,requested_slot_start,requested_slot_end,state,meeting_url,meeting_integration_status,notes,created_at,updated_at,data_origin,generator_version,scenario_id,seed,split_membership
+con00001,syn_s0005,syn_t000,sub_history,2025-01-20T10:00:00+05:30,2025-01-20T10:30:00+05:30,requested,,unconfigured,Synthetic demo fixture,2025-01-20T10:00:00+05:30,2025-01-20T10:00:00+05:30,synthetic_operational,0.1.0,sparse_history,123,train
+con00002,syn_s0012,syn_t001,sub_history,2025-01-20T10:00:00+05:30,2025-01-20T10:30:00+05:30,requested,,unconfigured,Synthetic demo fixture,2025-01-20T10:00:00+05:30,2025-01-20T10:00:00+05:30,synthetic_operational,0.1.0,sparse_history,123,validation

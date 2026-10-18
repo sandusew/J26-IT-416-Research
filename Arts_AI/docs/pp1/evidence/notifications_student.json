@@ -1,0 +1,754 @@
+{
+    "notifications":  [
+                          {
+                              "_id":  "6ad19af224fd2192711d16b1",
+                              "notificationId":  "ntf_cq_cq_683532a9-4",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_683532a9-4",
+                                              "score":  2,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-16T03:33:06.264Z",
+                              "updatedAt":  "2026-10-16T03:33:06.264Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad19af124fd2192711d167e",
+                              "notificationId":  "ntf_711df3d0-1",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_683532a9-4",
+                                              "topicId":  "hist_sl_geography",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-16T03:33:05.011Z",
+                              "updatedAt":  "2026-10-16T03:33:05.011Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad19acf24fd2192711d1665",
+                              "notificationId":  "ntf_a8db316a-b",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_7b6d2347-c",
+                                              "topicId":  "hist_sl_sources",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-16T03:32:31.977Z",
+                              "updatedAt":  "2026-10-16T03:32:31.977Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad10a5210fb86d83dfac29a",
+                              "notificationId":  "ntf_cq_cq_40249fd8-4",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_40249fd8-4",
+                                              "score":  3,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T17:16:02.032Z",
+                              "updatedAt":  "2026-10-15T17:16:02.032Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad10a1810fb86d83dfac267",
+                              "notificationId":  "ntf_0fbc5b9c-b",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_40249fd8-4",
+                                              "topicId":  "hist_sl_sources",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T17:15:04.283Z",
+                              "updatedAt":  "2026-10-15T17:15:04.283Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051e4e8f9691ab458ceca",
+                              "notificationId":  "ntf_cq_cq_b167813b-b",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_b167813b-b",
+                                              "score":  1,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:09:08.132Z",
+                              "updatedAt":  "2026-10-15T04:09:08.132Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051e2e8f9691ab458cea7",
+                              "notificationId":  "ntf_5b2e7373-c",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_b167813b-b",
+                                              "topicId":  "eco_demand_supply",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:09:06.910Z",
+                              "updatedAt":  "2026-10-15T04:09:06.910Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051e2e8f9691ab458ce8e",
+                              "notificationId":  "ntf_cq_cq_95fc5796-d",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_95fc5796-d",
+                                              "score":  1,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:09:06.219Z",
+                              "updatedAt":  "2026-10-15T04:09:06.219Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051e1e8f9691ab458ce6b",
+                              "notificationId":  "ntf_aa7b23cb-5",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_95fc5796-d",
+                                              "topicId":  "pol_forms_gov",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:09:05.028Z",
+                              "updatedAt":  "2026-10-15T04:09:05.028Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051e0e8f9691ab458ce52",
+                              "notificationId":  "ntf_cq_cq_55826674-6",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_55826674-6",
+                                              "score":  1,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:09:04.303Z",
+                              "updatedAt":  "2026-10-15T04:09:04.303Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051dfe8f9691ab458ce2f",
+                              "notificationId":  "ntf_c3dba0d1-e",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_55826674-6",
+                                              "topicId":  "geo_climate",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:09:03.120Z",
+                              "updatedAt":  "2026-10-15T04:09:03.120Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051dee8f9691ab458ce16",
+                              "notificationId":  "ntf_cq_cq_0ca693e9-0",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_0ca693e9-0",
+                                              "score":  1,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:09:02.437Z",
+                              "updatedAt":  "2026-10-15T04:09:02.437Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051dde8f9691ab458cdf3",
+                              "notificationId":  "ntf_cba49103-a",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_0ca693e9-0",
+                                              "topicId":  "hist_sl_rajarata_politics",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:09:01.257Z",
+                              "updatedAt":  "2026-10-15T04:09:01.257Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051dae8f9691ab458cdcb",
+                              "notificationId":  "ntf_cq_cq_f3116f44-f",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_f3116f44-f",
+                                              "score":  1,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:58.559Z",
+                              "updatedAt":  "2026-10-15T04:08:58.559Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051d9e8f9691ab458cdb0",
+                              "notificationId":  "ntf_b8d5675a-7",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_f3116f44-f",
+                                              "topicId":  "eco_demand_supply",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:57.289Z",
+                              "updatedAt":  "2026-10-15T04:08:57.289Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051d8e8f9691ab458cda1",
+                              "notificationId":  "ntf_cq_cq_9f02c808-9",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_9f02c808-9",
+                                              "score":  1,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:56.537Z",
+                              "updatedAt":  "2026-10-15T04:08:56.537Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051d7e8f9691ab458cd86",
+                              "notificationId":  "ntf_75a40bd4-1",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_9f02c808-9",
+                                              "topicId":  "pol_forms_gov",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:55.471Z",
+                              "updatedAt":  "2026-10-15T04:08:55.471Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051d6e8f9691ab458cd77",
+                              "notificationId":  "ntf_cq_cq_c8c18ab0-3",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_c8c18ab0-3",
+                                              "score":  1,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:54.741Z",
+                              "updatedAt":  "2026-10-15T04:08:54.741Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051d5e8f9691ab458cd5c",
+                              "notificationId":  "ntf_7b350102-9",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_c8c18ab0-3",
+                                              "topicId":  "geo_climate",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:53.663Z",
+                              "updatedAt":  "2026-10-15T04:08:53.663Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051d4e8f9691ab458cd4d",
+                              "notificationId":  "ntf_cq_cq_5eda45fa-3",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_submitted",
+                              "payload":  {
+                                              "assignmentId":  "cq_5eda45fa-3",
+                                              "score":  1,
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:52.837Z",
+                              "updatedAt":  "2026-10-15T04:08:52.837Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051d3e8f9691ab458cd32",
+                              "notificationId":  "ntf_3f7507dd-d",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_5eda45fa-3",
+                                              "topicId":  "hist_sl_rajarata_politics",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:51.399Z",
+                              "updatedAt":  "2026-10-15T04:08:51.399Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051bae8f9691ab458cd18",
+                              "notificationId":  "ntf_6c0672ae-8",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_a9b9a869-8",
+                                              "topicId":  "eco_development",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:26.990Z",
+                              "updatedAt":  "2026-10-15T04:08:26.990Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051bae8f9691ab458cd07",
+                              "notificationId":  "ntf_4c66b7e7-0",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_ab2a19ff-c",
+                                              "topicId":  "eco_intl_trade",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:26.674Z",
+                              "updatedAt":  "2026-10-15T04:08:26.674Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051bae8f9691ab458ccf6",
+                              "notificationId":  "ntf_a571d942-a",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_542624bd-8",
+                                              "topicId":  "eco_gov_policy",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:26.226Z",
+                              "updatedAt":  "2026-10-15T04:08:26.226Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b9e8f9691ab458cce5",
+                              "notificationId":  "ntf_8e713796-2",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_a6eb301e-c",
+                                              "topicId":  "eco_money_banking",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:25.802Z",
+                              "updatedAt":  "2026-10-15T04:08:25.802Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b9e8f9691ab458ccd4",
+                              "notificationId":  "ntf_e7d11105-d",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_ae7cf8c8-2",
+                                              "topicId":  "eco_national_income",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:25.550Z",
+                              "updatedAt":  "2026-10-15T04:08:25.550Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b9e8f9691ab458ccc3",
+                              "notificationId":  "ntf_4477ebd4-c",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_184efd44-0",
+                                              "topicId":  "eco_demand_supply",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:25.156Z",
+                              "updatedAt":  "2026-10-15T04:08:25.156Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b8e8f9691ab458ccb2",
+                              "notificationId":  "ntf_5364b4f2-f",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_7a5ff1fe-2",
+                                              "topicId":  "eco_scarcity_choice",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:24.871Z",
+                              "updatedAt":  "2026-10-15T04:08:24.871Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b8e8f9691ab458cca1",
+                              "notificationId":  "ntf_ccf45fb1-8",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_413f448d-5",
+                                              "topicId":  "eco_intro",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:24.547Z",
+                              "updatedAt":  "2026-10-15T04:08:24.547Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b8e8f9691ab458cc90",
+                              "notificationId":  "ntf_25753bfc-2",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_844497e5-b",
+                                              "topicId":  "pol_citizen",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:24.126Z",
+                              "updatedAt":  "2026-10-15T04:08:24.126Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b7e8f9691ab458cc7f",
+                              "notificationId":  "ntf_6df4f223-9",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_d794e971-d",
+                                              "topicId":  "pol_public_policy",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:23.711Z",
+                              "updatedAt":  "2026-10-15T04:08:23.711Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b7e8f9691ab458cc6e",
+                              "notificationId":  "ntf_83830771-c",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_bebf43be-0",
+                                              "topicId":  "pol_international",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:23.326Z",
+                              "updatedAt":  "2026-10-15T04:08:23.326Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b6e8f9691ab458cc5d",
+                              "notificationId":  "ntf_b90414cf-b",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_33511cab-1",
+                                              "topicId":  "pol_parties",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:22.980Z",
+                              "updatedAt":  "2026-10-15T04:08:22.980Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b6e8f9691ab458cc4c",
+                              "notificationId":  "ntf_8921be3b-2",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_6dbfef88-e",
+                                              "topicId":  "pol_constitution_1978",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:22.674Z",
+                              "updatedAt":  "2026-10-15T04:08:22.674Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b6e8f9691ab458cc3b",
+                              "notificationId":  "ntf_965e2b04-7",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_7cb8c0a5-3",
+                                              "topicId":  "pol_comparative",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:22.372Z",
+                              "updatedAt":  "2026-10-15T04:08:22.372Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b6e8f9691ab458cc2a",
+                              "notificationId":  "ntf_68f6ccc7-f",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_c9612509-7",
+                                              "topicId":  "pol_democracy",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:22.037Z",
+                              "updatedAt":  "2026-10-15T04:08:22.037Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b5e8f9691ab458cc19",
+                              "notificationId":  "ntf_adc28e23-2",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_2f80cf54-b",
+                                              "topicId":  "pol_westminster",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:21.585Z",
+                              "updatedAt":  "2026-10-15T04:08:21.585Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b5e8f9691ab458cc08",
+                              "notificationId":  "ntf_da45ed94-3",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_6b0d4a64-5",
+                                              "topicId":  "pol_colonial",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:21.172Z",
+                              "updatedAt":  "2026-10-15T04:08:21.172Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b4e8f9691ab458cbf7",
+                              "notificationId":  "ntf_5c688ddf-f",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_f8ba9b3f-d",
+                                              "topicId":  "pol_conflict",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:20.761Z",
+                              "updatedAt":  "2026-10-15T04:08:20.761Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b4e8f9691ab458cbe6",
+                              "notificationId":  "ntf_c3f5dead-b",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_19766b88-e",
+                                              "topicId":  "pol_ideologies",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:20.420Z",
+                              "updatedAt":  "2026-10-15T04:08:20.420Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b3e8f9691ab458cbd5",
+                              "notificationId":  "ntf_70dae6e5-a",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_9e68aeba-2",
+                                              "topicId":  "pol_forms_gov",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:19.975Z",
+                              "updatedAt":  "2026-10-15T04:08:19.975Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b3e8f9691ab458cbc4",
+                              "notificationId":  "ntf_9b77f2f7-b",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_d31f6800-4",
+                                              "topicId":  "pol_state",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:19.542Z",
+                              "updatedAt":  "2026-10-15T04:08:19.542Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b3e8f9691ab458cbb3",
+                              "notificationId":  "ntf_36bbfef9-8",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_1b9b6d26-3",
+                                              "topicId":  "pol_subfields",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:19.031Z",
+                              "updatedAt":  "2026-10-15T04:08:19.031Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b2e8f9691ab458cba2",
+                              "notificationId":  "ntf_33e86f3c-4",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_21123690-c",
+                                              "topicId":  "pol_nature",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:18.616Z",
+                              "updatedAt":  "2026-10-15T04:08:18.616Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b2e8f9691ab458cb91",
+                              "notificationId":  "ntf_fecd7305-1",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_2fc7a83b-3",
+                                              "topicId":  "geo_practical_maps",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:18.219Z",
+                              "updatedAt":  "2026-10-15T04:08:18.219Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b1e8f9691ab458cb80",
+                              "notificationId":  "ntf_7de60963-2",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_861a59c1-3",
+                                              "topicId":  "geo_agriculture",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:17.817Z",
+                              "updatedAt":  "2026-10-15T04:08:17.817Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b1e8f9691ab458cb6f",
+                              "notificationId":  "ntf_e7b60eec-6",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_a5552387-7",
+                                              "topicId":  "geo_settlement_urban",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:17.401Z",
+                              "updatedAt":  "2026-10-15T04:08:17.401Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b1e8f9691ab458cb5e",
+                              "notificationId":  "ntf_40ca44ac-5",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_ad7ffab1-7",
+                                              "topicId":  "geo_population",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:17.004Z",
+                              "updatedAt":  "2026-10-15T04:08:17.004Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b0e8f9691ab458cb4d",
+                              "notificationId":  "ntf_7837ce0e-7",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_3bb6da44-5",
+                                              "topicId":  "geo_climate",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:16.566Z",
+                              "updatedAt":  "2026-10-15T04:08:16.566Z",
+                              "__v":  0
+                          },
+                          {
+                              "_id":  "6ad051b0e8f9691ab458cb3c",
+                              "notificationId":  "ntf_f8477e7b-d",
+                              "userId":  "demo_s0001",
+                              "type":  "canonical_quiz_assigned",
+                              "payload":  {
+                                              "assignmentId":  "cq_9a9d4125-f",
+                                              "topicId":  "geo_landforms",
+                                              "isTestFixture":  false
+                                          },
+                              "read":  false,
+                              "createdAt":  "2026-10-15T04:08:16.161Z",
+                              "updatedAt":  "2026-10-15T04:08:16.161Z",
+                              "__v":  0
+                          }
+                      ]
+}

@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-10-15T04:02:44.724125+00:00",
+  "review_kinds_performed": [
+    "structural_schema",
+    "near_duplicate_jaccard",
+    "boilerplate_grounding_filter",
+    "source_support_heuristic",
+    "distinct_logical_id_check"
+  ],
+  "review_kinds_not_performed": [
+    "teacher_factual_validation",
+    "psychometric_calibration",
+    "official_past_paper_provenance_check"
+  ],
+  "eligible_questions_after_repair": 540,
+  "eligible_resources_after_repair": 45,
+  "topics_with_ge_8_questions": 45,
+  "topics_with_ge_12_questions": 45,
+  "n_topics_in_scope": 45,
+  "deficit_fill": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\reports\\practice_deficit_fill.json",
+  "combined_batch": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\data\\arts_content\\practice\\batches\\combined_import_batch.json",
+  "remaining_uncertainties": [
+    "Source-support heuristic is lexical, not teacher verification",
+    "Wikipedia extracts may be shallow for some A/L competencies",
+    "Distractor quality is improved but not expert-reviewed"
+  ]
+}

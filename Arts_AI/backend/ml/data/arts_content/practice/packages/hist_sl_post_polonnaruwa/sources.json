@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "blocked_Kingdom_of_Dambadeniya",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_kingdom_of_kotte",
+    "title": "Kingdom of Kotte",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kotte",
+    "retrieved_at_utc": "2026-10-14T17:23:11.033000+00:00",
+    "edition_or_revision": "pageid=23590052",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_post_polonnaruwa",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "eafa6e3ffa76a0bdb4a6107bcb6087c88810c52752463907d73bf2a4965c2859",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_kingdom_of_sitawaka",
+    "title": "Kingdom of Sitawaka",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sitawaka",
+    "retrieved_at_utc": "2026-10-14T17:23:12.431859+00:00",
+    "edition_or_revision": "pageid=18395822",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_post_polonnaruwa",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "1e04e21664a2e7b77aadb76def1936305fe785a8adb518bc393237cc240d7600",
+    "origin": "wikipedia_api"
+  }
+]

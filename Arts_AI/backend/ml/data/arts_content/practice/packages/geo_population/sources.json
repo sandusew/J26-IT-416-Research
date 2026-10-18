@@ -1,0 +1,24 @@
+[
+  {
+    "source_id": "wiki_en_demography",
+    "title": "Demography",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Demography",
+    "retrieved_at_utc": "2026-10-14T17:31:12.228545+00:00",
+    "edition_or_revision": "pageid=45642",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_population",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "de5b457ef4dbb0f182cf65d249a9cd45b0efac7205a06a9aae94f9c2ef277035",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "blocked_Population_of_Sri_Lanka",
+    "error": "missing extract: Population_of_Sri_Lanka",
+    "blocked": true
+  }
+]

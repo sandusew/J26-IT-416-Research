@@ -1,0 +1,191 @@
+{
+  "generated_at_utc": "2026-10-15T04:09:00.490Z",
+  "api": "http://127.0.0.1:4000",
+  "ml": "http://127.0.0.1:8000",
+  "config_mongo": {
+    "source": "dotenv_file",
+    "isAtlas": true,
+    "database": "arts_ai",
+    "hostHint": "cluster0.ote0uca.mongodb.net",
+    "redactedUri": "mongodb+srv://msideshan_db_user:***@cluster0.ote0uca.mongodb.net/arts_ai?retryWrites=true&w=majority"
+  },
+  "passed": 20,
+  "failed": 0,
+  "steps": [
+    {
+      "name": "api_health",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "api_ready_mongo_atlas",
+      "ok": true,
+      "detail": {
+        "status": 200,
+        "mongodb": "up",
+        "identity": {
+          "isAtlas": true,
+          "database": "arts_ai",
+          "hostHint": "cluster0.ote0uca.mongodb.net",
+          "source": "dotenv_file",
+          "redactedUri": "mongodb+srv://msideshan_db_user:***@cluster0.ote0uca.mongodb.net/arts_ai?retryWrites=true&w=majority"
+        }
+      }
+    },
+    {
+      "name": "ml_ready_domain_index",
+      "ok": true,
+      "detail": {
+        "domain": "c4_index_20261014T173535_894e48ef",
+        "chunks": 295,
+        "ranker": "c2_rank_rev_20261013T105157_40d91e8c",
+        "topic": "c4_topic_nl_20261013T105116_04964504"
+      }
+    },
+    {
+      "name": "auth_demo_student",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "auth_demo_teacher",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "published_practice_available",
+      "ok": true,
+      "detail": {
+        "publishedPracticeQuestions": 540,
+        "publishedPracticeResources": 45,
+        "authenticApprovedQuestions": 0,
+        "teacherReviewedQuestions": 0
+      }
+    },
+    {
+      "name": "authentic_not_inflated",
+      "ok": true,
+      "detail": 0
+    },
+    {
+      "name": "assign_hist_sl_rajarata_politics",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "n": 2,
+        "labels": [
+          "AI-authored practice content (source-grounded)",
+          "Not teacher-reviewed"
+        ]
+      }
+    },
+    {
+      "name": "submit_hist_sl_rajarata_politics",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "score": 1
+      }
+    },
+    {
+      "name": "assign_geo_climate",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "n": 2,
+        "labels": [
+          "AI-authored practice content (source-grounded)",
+          "Not teacher-reviewed"
+        ]
+      }
+    },
+    {
+      "name": "submit_geo_climate",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "score": 1
+      }
+    },
+    {
+      "name": "assign_pol_forms_gov",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "n": 2,
+        "labels": [
+          "AI-authored practice content (source-grounded)",
+          "Not teacher-reviewed"
+        ]
+      }
+    },
+    {
+      "name": "submit_pol_forms_gov",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "score": 1
+      }
+    },
+    {
+      "name": "assign_eco_demand_supply",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "n": 2,
+        "labels": [
+          "AI-authored practice content (source-grounded)",
+          "Not teacher-reviewed"
+        ]
+      }
+    },
+    {
+      "name": "submit_eco_demand_supply",
+      "ok": true,
+      "detail": {
+        "status": 201,
+        "score": 1
+      }
+    },
+    {
+      "name": "recommendations",
+      "ok": true,
+      "detail": {
+        "n": 8
+      }
+    },
+    {
+      "name": "domain_chat_extractive",
+      "ok": true,
+      "detail": {
+        "status": 200,
+        "corpus": "domain",
+        "citations": 5,
+        "answer_type": "extractive_template"
+      }
+    },
+    {
+      "name": "strict_reviewed_only_empty",
+      "ok": true,
+      "detail": "canonical_question_bank_unavailable"
+    },
+    {
+      "name": "generation_provider_not_faked",
+      "ok": true,
+      "detail": {
+        "default": "extractive_template",
+        "live_command": "cd backend/ml; .\\.venv\\Scripts\\python.exe scripts\\smoke_generation_live.py --live",
+        "note": "blocked_missing_configuration is not a pass"
+      }
+    },
+    {
+      "name": "meeting_provider_not_faked",
+      "ok": true,
+      "detail": {
+        "live_command": "cd backend/api; node scripts\\smoke_meeting_live.js --live",
+        "note": "meetingUrl remains null when unconfigured"
+      }
+    }
+  ],
+  "note": "Non-destructive verification; demo users; AI-authored practice may be used"
+}

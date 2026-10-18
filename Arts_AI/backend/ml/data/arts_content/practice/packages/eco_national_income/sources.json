@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "wiki_en_national_income",
+    "title": "National income (Wikipedia extract)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/National_income",
+    "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+    "edition_or_revision": "pageid=49808",
+    "subject_id": "sub_economics",
+    "topic_id": "eco_national_income",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "9f210a2d1b526bc818b9f7450d471e1ee084b4e525fb135d91a399f8f8678ad3",
+    "origin": "local_approved_or_pending"
+  },
+  {
+    "source_id": "blocked_National_income",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "blocked_Gross_domestic_product",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  }
+]

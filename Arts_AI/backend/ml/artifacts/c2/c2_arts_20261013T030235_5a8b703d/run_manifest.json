@@ -1,0 +1,93 @@
+{
+  "run_id": "c2_arts_20261013T030235_5a8b703d",
+  "component": "c2",
+  "task": "arts_simulated_recommendation",
+  "config_name": "c2_recommendation.yaml",
+  "config": {},
+  "data_hashes": {},
+  "sample_counts": {
+    "train_rows": 52,
+    "val_rows": 13,
+    "test_rows": 20
+  },
+  "feature_schema": [
+    "difficulty",
+    "rank",
+    "scen_baseline",
+    "scen_declining",
+    "scen_improving",
+    "scen_late_joining",
+    "scen_missing_data",
+    "scen_sparse_history",
+    "score"
+  ],
+  "split_manifest_path": null,
+  "seeds": {
+    "split": 42
+  },
+  "hyperparameters": {},
+  "dependency_versions": {},
+  "metrics": {
+    "data_category": "synthetic_learner",
+    "subjects_provisional": true,
+    "candidate_set_size": 20,
+    "relevance_definition": "simulated open+complete within 7 days OR next-topic prerequisite readiness",
+    "outcome_definition": "simulated learning gain on topic post-assessment (simulation assumption only)",
+    "baseline_random_relevance_rate_test": 0.7,
+    "prerequisite_policy": "implemented",
+    "scoring_model_trained": true,
+    "validation": {
+      "n": 13,
+      "relevance_rate": 0.7692307692307693,
+      "ap": 0.888470695970696,
+      "roc_auc": 0.6333333333333333
+    },
+    "test": {
+      "n": 20,
+      "relevance_rate": 0.7,
+      "ap": 0.799366480735344,
+      "roc_auc": 0.5595238095238095
+    },
+    "scenario_variations_test": {
+      "cold_start": {
+        "ap": null,
+        "roc_auc": null,
+        "n": 0
+      },
+      "sparse_history": {
+        "n": 4,
+        "relevance_rate": 0.75,
+        "ap": 1.0,
+        "roc_auc": 1.0
+      },
+      "improving": {
+        "ap": null,
+        "roc_auc": null,
+        "n": 0
+      },
+      "declining": {
+        "n": 8,
+        "relevance_rate": 0.75,
+        "ap": 0.8357142857142856,
+        "roc_auc": 0.5
+      },
+      "inactive": {
+        "ap": null,
+        "roc_auc": null,
+        "n": 0
+      }
+    },
+    "note": "Results measure ranking under simulation assumptions only. Not real student recommendation effectiveness."
+  },
+  "artifact_paths": {
+    "model": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c2\\c2_arts_20261013T030235_5a8b703d\\arts_candidate_scorer.joblib",
+    "chart": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c2\\c2_arts_20261013T030235_5a8b703d\\arts_recommend.png"
+  },
+  "artifact_hashes": {
+    "model": "ac2f7b331628c3a4f8b8ad25439286979c1a5a61332c3c2a13ff71f16e63a9ea"
+  },
+  "model_card_path": "C:\\Users\\Deshan\\Documents\\GitHub\\Softedge\\client121\\Arts_AI\\backend\\ml\\artifacts\\c2\\c2_arts_20261013T030235_5a8b703d\\model_card.json",
+  "status": "completed",
+  "notes": "SYNTHETIC evaluation only",
+  "created_at": "2026-10-13T03:02:35.797233+00:00"
+}

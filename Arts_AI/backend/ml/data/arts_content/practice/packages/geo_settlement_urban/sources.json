@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "wiki_en_urbanization",
+    "title": "Urbanization (Wikipedia extract)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Urbanization",
+    "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+    "edition_or_revision": "pageid=56114",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_settlement_urban",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "b1bde49e62674e83f8b91bc13267fda79c1c9d27577c300d58f1ca059f1c7849",
+    "origin": "local_approved_or_pending"
+  },
+  {
+    "source_id": "blocked_Urbanization",
+    "error": "HTTP Error 429: Too Many Requests",
+    "blocked": true
+  },
+  {
+    "source_id": "wiki_en_settlement_geography",
+    "title": "Settlement geography",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Settlement_geography",
+    "retrieved_at_utc": "2026-10-14T17:26:11.035673+00:00",
+    "edition_or_revision": "pageid=33566568",
+    "subject_id": "sub_geography",
+    "topic_id": "geo_settlement_urban",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "d3bb65f2d7f27e570de47b7bf531ae3f16e8a0040c854a742d94be450d724b38",
+    "origin": "wikipedia_api"
+  }
+]

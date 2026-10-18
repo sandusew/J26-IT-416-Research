@@ -1,0 +1,43 @@
+{
+  "generated_at_utc": "2026-10-13T18:32:45.953349+00:00",
+  "ranker_run_id": "c2_rank_rev_20261013T105157_40d91e8c",
+  "bundle_run_id": "c2_rank_rev_20261013T105157_40d91e8c",
+  "ml_base": "http://127.0.0.1:8000",
+  "score_http_status": 200,
+  "http_ok": true,
+  "trainedScorerUsed": true,
+  "modelVersion": "c2_rank_rev_20261013T105157_40d91e8c",
+  "feature_cols": [
+    "difficulty",
+    "stu_open_rate"
+  ],
+  "parity_all_matched": true,
+  "parity": [
+    {
+      "resource_id": "res_a",
+      "direct": 0.5014992594122472,
+      "http": 0.5014992594122472,
+      "match": true
+    },
+    {
+      "resource_id": "res_b",
+      "direct": 0.3322982799918648,
+      "http": 0.3322982799918648,
+      "match": true
+    },
+    {
+      "resource_id": "res_c",
+      "direct": 0.414375617848897,
+      "http": 0.414375617848897,
+      "match": true
+    }
+  ],
+  "empty_candidates": {
+    "status": 200,
+    "ok": true,
+    "trainedScorerUsed": true,
+    "n_scores": 0
+  },
+  "express_gateway": null,
+  "note": "Simulation-trained ranker; not real-student effectiveness. Opt-in only."
+}

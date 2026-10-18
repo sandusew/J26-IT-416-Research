@@ -1,0 +1,37 @@
+component: c3_risk
+seed: 42
+
+oulad_primary:
+  target: final_result_binary
+  positive_class: Fail
+  negative_classes: [Pass, Distinction]
+  exclude_classes: [Withdrawn]
+  observation_cutoff_days: 13
+  population_limitation: "Withdrawn students excluded; results apply to students who remained enrolled"
+  features_at_cutoff_only: true
+  models:
+    - dummy_stratified
+    - logistic_regression
+    - lightgbm
+  metrics:
+    - confusion_matrix
+    - precision
+    - recall
+    - f1
+    - roc_auc
+    - pr_auc
+  calibration: true
+  policy_bands:
+    note: "High/Medium/Low are policy thresholds on predicted probability, NOT ground-truth labels"
+    high: 0.6
+    medium: 0.35
+    low: 0.0
+
+uci_benchmark:
+  enabled: true
+  target: G3_binarized_pass_fail
+  note: "Separate benchmark; no weekly event histories"
+
+arts_synthetic_risk:
+  enabled: true
+  note: "Evaluated separately; measures performance under simulation assumptions only"

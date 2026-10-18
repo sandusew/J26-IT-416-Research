@@ -1,0 +1,791 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_eco_national_income_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Gross domestic product",
+        "National",
+        "Explanations",
+        "National income"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "National"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "National income"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_national_income_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «All are specially concerned with counting the total amount of goods and services produced within the economy and by various sectors.»?",
+      "options": [
+        "National",
+        "counting",
+        "National income",
+        "Gross domestic product"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "National"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "counting"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Gross domestic product"
+        }
+      ],
+      "correctAnswerOrRubric": "counting",
+      "explanation": "Source-grounded AI practice item. The passage supports «counting». Full sentence: All are specially concerned with counting the total amount of goods and services produced within the economy and by various sectors. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "All are specially concerned with counting the total amount of goods and services produced within the economy and by various sectors."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_national_income_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted.»?",
+      "options": [
+        "defined",
+        "National income",
+        "Gross domestic product",
+        "National"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "defined"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "National"
+        }
+      ],
+      "correctAnswerOrRubric": "defined",
+      "explanation": "Source-grounded AI practice item. The passage supports «defined». Full sentence: The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_national_income_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «For instance, some measures count only goods & services that are exchanged for money, excluding bartered goods, while other measures may attempt to include bartered goods by imputing monetary values t…»?",
+      "options": [
+        "National income",
+        "Gross domestic product",
+        "National",
+        "count"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "National"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "count"
+        }
+      ],
+      "correctAnswerOrRubric": "count",
+      "explanation": "Source-grounded AI practice item. The passage supports «count». Full sentence: For instance, some measures count only goods & services that are exchanged for money, excluding bartered goods, while other measures may attempt to include bartered goods by imputing monetary values to them. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "For instance, some measures count only goods & services that are exchanged for money, excluding bartered goods, while other measures may attempt to include bartered goods by imputing monetary values to them."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_national_income_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «In order to count a good or service, it is necessary to assign value to it.»?",
+      "options": [
+        "National income",
+        "Gross domestic product",
+        "National",
+        "service"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "National"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "service"
+        }
+      ],
+      "correctAnswerOrRubric": "service",
+      "explanation": "Source-grounded AI practice item. The passage supports «service». Full sentence: In order to count a good or service, it is necessary to assign value to it. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "In order to count a good or service, it is necessary to assign value to it."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_national_income_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «The value that the measures of national income and output assign to a good or service is its market value – the price it fetches when bought or sold.»?",
+      "options": [
+        "Gross domestic product",
+        "income",
+        "national",
+        "National income"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "income"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "national"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "National income"
+        }
+      ],
+      "correctAnswerOrRubric": "national",
+      "explanation": "Source-grounded AI practice item. The passage supports «national». Full sentence: The value that the measures of national income and output assign to a good or service is its market value – the price it fetches when bought or sold. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "The value that the measures of national income and output assign to a good or service is its market value – the price it fetches when bought or sold."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_national_income_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «The actual usefulness of a product (its use-value) is not measured – assuming the use-value to be any different from its market value.»?",
+      "options": [
+        "National",
+        "product",
+        "National income",
+        "Gross domestic product"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "National"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "product"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Gross domestic product"
+        }
+      ],
+      "correctAnswerOrRubric": "product",
+      "explanation": "Source-grounded AI practice item. The passage supports «product». Full sentence: The actual usefulness of a product (its use-value) is not measured – assuming the use-value to be any different from its market value. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "The actual usefulness of a product (its use-value) is not measured – assuming the use-value to be any different from its market value."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_eco_national_income_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «The expenditure method is based on the idea that all products are bought by somebody or some organisation.»?",
+      "options": [
+        "based",
+        "National income",
+        "Gross domestic product",
+        "National"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "based"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "National"
+        }
+      ],
+      "correctAnswerOrRubric": "based",
+      "explanation": "Source-grounded AI practice item. The passage supports «based». Full sentence: The expenditure method is based on the idea that all products are bought by somebody or some organisation. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "The expenditure method is based on the idea that all products are bought by somebody or some organisation."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_national_income_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «Therefore, we sum up the total amount of money people and organisations spend in buying things.»?",
+      "options": [
+        "National income",
+        "Gross domestic product",
+        "National",
+        "Therefore"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "National"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Therefore"
+        }
+      ],
+      "correctAnswerOrRubric": "Therefore",
+      "explanation": "Source-grounded AI practice item. The passage supports «Therefore». Full sentence: Therefore, we sum up the total amount of money people and organisations spend in buying things. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "Therefore, we sum up the total amount of money people and organisations spend in buying things."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_national_income_q07",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «Usually, expenditures by private individuals, expenditures by businesses, and expenditures by government are calculated separately and then summed to give the total expenditure.»?",
+      "options": [
+        "Gross domestic product",
+        "National",
+        "Usually",
+        "National income"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "National"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Usually"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "National income"
+        }
+      ],
+      "correctAnswerOrRubric": "Usually",
+      "explanation": "Source-grounded AI practice item. The passage supports «Usually». Full sentence: Usually, expenditures by private individuals, expenditures by businesses, and expenditures by government are calculated separately and then summed to give the total expenditure. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "Usually, expenditures by private individuals, expenditures by businesses, and expenditures by government are calculated separately and then summed to give the total expenditure."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_national_income_q08",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «Also, a correction term must be introduced to account for imports and exports outside the boundary.»?",
+      "options": [
+        "National",
+        "Also",
+        "National income",
+        "Gross domestic product"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "National"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Also"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Gross domestic product"
+        }
+      ],
+      "correctAnswerOrRubric": "Also",
+      "explanation": "Source-grounded AI practice item. The passage supports «Also». Full sentence: Also, a correction term must be introduced to account for imports and exports outside the boundary. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "Also, a correction term must be introduced to account for imports and exports outside the boundary."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_eco_national_income_q09",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicId": "eco_national_income",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for National income and macroeconomic indicators, which term or name is supported by this passage: «The income method works by summing the incomes of all producers within the boundary.»?",
+      "options": [
+        "works",
+        "National income",
+        "Gross domestic product",
+        "National"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "works"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "National income"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Gross domestic product"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "National"
+        }
+      ],
+      "correctAnswerOrRubric": "works",
+      "explanation": "Source-grounded AI practice item. The passage supports «works». Full sentence: The income method works by summing the incomes of all producers within the boundary. (source_id=wiki_en_national_income). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_national_income",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_national_income",
+          "passage": "The income method works by summing the incomes of all producers within the boundary."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_eco_national_income_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_economics",
+      "topicIds": [
+        "eco_national_income"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "National income and macroeconomic indicators — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/National_income",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_national_income"
+      ],
+      "bodyText": "# National income and macroeconomic indicators\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「National income and macroeconomic indicators」 (eco_national_income) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nA variety of measures of national income and output are used in economics to estimate total economic activity in a country or region, including gross domestic product (GDP), Gross national income (GNI), net national income (NNI), and adjusted national income (NNI adjusted for natural resource depletion – also called as NNI at factor cost). All are specially concerned with counting the total amount of goods and services produced within the economy and by various sectors. The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted. For instance, some measures count only goods & services that are exchanged for money, excluding bartered goods, while other measures may attempt to include bartered goods by imputing monetary values to them.\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: National income and macroeconomic indicators\n- [inferred_not_official] Explain core ideas of National income and macroeconomic indicators\n- [inferred_not_official] Apply concepts from National income and macroeconomic indicators using cited public sources\n\n## Core concepts and definitions\nA variety of measures of national income and output are used in economics to estimate total economic activity in a country or region, including gross domestic product (GDP), Gross national income (GNI), net national income (NNI), and adjusted national income (NNI adjusted for natural resource depletion – also called as NNI at factor cost). All are specially concerned with counting the total amount of goods and services produced within the economy and by various sectors. The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted. For instance, some measures count only goods & services that are exchanged for money, excluding bartered goods, while other measures may attempt to include bartered goods by imputing monetary values to them.\n\nIn order to count a good or service, it is necessary to assign value to it. The value that the measures of national income and output assign to a good or service is its market value – the price it fetches when bought or sold. The actual usefulness of a product (its use-value) is not measured – assuming the use-value to be any different from its market value.\n(Source: https://en.wikipedia.org/wiki/National_income)\n\n## Historical or systematic development\nArriving at a figure for the total production of goods and services in a large region like a country entails a large amount of data-collection and calculation. Although some attempts were made to estimate national incomes as long ago as the 17th century,\n\nThree strategies have been used to obtain the market values of all the goods and services produced: the product (or output) method, the expenditure method, and the income method. The product method looks at the economy on an industry-by-industry basis. The total output of the economy is the sum of the outputs of every industry. However, since an output of one industry may be used by another industry and become part of the output of that second industry, to avoid counting the item twice we use not the value output by each industry, but the value-added; that is, the difference between the value of what it puts out and what it takes in. The total value produced by the economy is the sum of the values-added by every industry.\n(Source: https://en.wikipedia.org/wiki/National_income)\n\n## Applications, evidence, and Sri Lankan / comparative context\nthe systematic keeping of national accounts, of which these figures are a part, only began in the 1930s, in the United States and some European countries. The impetus for that major statistical effort was the Great Depression and the rise of Keynesian economics, which prescribed a greater role for the government in managing an economy, and made it necessary for governments to obtain accurate information so that their interventions into the economy could proceed as well-informed as possible.\n\nThe expenditure method is based on the idea that all products are bought by somebody or some organisation. Therefore, we sum up the total amount of money people and organisations spend in buying things. This amount must equal the value of everything produced. Usually, expenditures by private individuals, expenditures by businesses, and expenditures by government are calculated separately and then summed to give the total expenditure. Also, a correction term must be introduced to account for imports and exports outside the boundary.\n(Source: https://en.wikipedia.org/wiki/National_income)\n\n## Key terms\n- **National income**: Although some attempts were made to estimate national incomes as long ago as the 17th century,\n\nthe systematic keeping of national accounts, of which these figures are a part, only began in the 1930s, in the United States and some European countries.\n- **Gross domestic product**: Sometimes the word \"Product\" is used and then some additional symbol or phrase to indicate the methodology; so, for instance, we get \"Gross Domestic Product by income\", \"GDP (income)\", \"GDP(I)\", and similar constructions.\n- **National**: Although some attempts were made to estimate national incomes as long ago as the 17th century,\n\nthe systematic keeping of national accounts, of which these figures are a part, only began in the 1930s, in the United States and some European countries.\n- **income**: The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted.\n- **macroeconomic**: macroeconomic: a key idea for National income and macroeconomic indicators (see cited sources; AI-authored gloss).\n- **indicators**: indicators: a key idea for National income and macroeconomic indicators (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to National income and macroeconomic indicators, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- National income and macroeconomic indicators can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of National income and macroeconomic indicators\n- National income and macroeconomic indicators is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_national_income: National income (Wikipedia extract) — https://en.wikipedia.org/wiki/National_income (licence CC-BY-SA-4.0; retrieved 2026-10-14T00:18:56.370952+00:00; checksum 9f210a2d1b52…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:43.669667+00:00",
+  "before_distinct": 9,
+  "after_distinct": 12,
+  "newly_authored_here": 5
+}

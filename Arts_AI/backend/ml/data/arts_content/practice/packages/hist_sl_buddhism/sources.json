@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "wiki_en_buddhism_sri_lanka",
+    "title": "Buddhism in Sri Lanka (Wikipedia extract)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Buddhism_in_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-14T00:18:56.370952+00:00",
+    "edition_or_revision": "pageid=1164480",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_buddhism",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0 Wikipedia extract already acquired locally",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "f3b745f84139ce1bf57b5b138a9c27d94338e108f58fe24db9d971da7dc54c9d",
+    "origin": "local_approved_or_pending"
+  },
+  {
+    "source_id": "wiki_en_buddhism_in_sri_lanka",
+    "title": "Buddhism in Sri Lanka",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Buddhism_in_Sri_Lanka",
+    "retrieved_at_utc": "2026-10-14T17:22:24.998078+00:00",
+    "edition_or_revision": "pageid=1164480",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_buddhism",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "9e257c45a8dd891c0bd5be4fd191a754712ef03a9aa299f373bdcd08cb46bc74",
+    "origin": "wikipedia_api"
+  },
+  {
+    "source_id": "wiki_en_mahinda_buddhist_monk",
+    "title": "Mahinda (Buddhist monk)",
+    "publisher_author": "Wikipedia contributors",
+    "url": "https://en.wikipedia.org/wiki/Mahinda_%28Buddhist_monk%29",
+    "retrieved_at_utc": "2026-10-14T17:22:26.123425+00:00",
+    "edition_or_revision": "pageid=981247",
+    "subject_id": "sub_history",
+    "topic_id": "hist_sl_buddhism",
+    "language": "en",
+    "licence": "CC-BY-SA-4.0",
+    "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+    "role": "supplemental_teaching_material",
+    "official_curriculum_reference": false,
+    "local_checksum": "a81ffabd1b16fbd55778c3ed07ba073ea57f3cf0eda925503acd236116a478b7",
+    "origin": "wikipedia_api"
+  }
+]

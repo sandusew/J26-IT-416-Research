@@ -1,0 +1,746 @@
+[
+  {
+    "questionId": "prac_pol_state_q03",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+    "options": [
+      "Sovereignty",
+      "Nation state",
+      "Explanations",
+      "State"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Nation state"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Explanations"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "State"
+      }
+    ],
+    "correctAnswerOrRubric": "Explanations",
+    "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_state_polity). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_state_polity",
+    "sourceIds": [
+      "wiki_en_state_polity"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_state_polity",
+        "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_state_q04",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «A state is a political entity that rules and governs society and the population within a definite territory, or in other words, it is referred to as the country itself with various administrative divi…»?",
+    "options": [
+      "Nation state",
+      "entity",
+      "State",
+      "Sovereignty"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Nation state"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "entity"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Sovereignty"
+      }
+    ],
+    "correctAnswerOrRubric": "entity",
+    "explanation": "Source-grounded AI practice item. The passage supports «entity». Full sentence: A state is a political entity that rules and governs society and the population within a definite territory, or in other words, it is referred to as the country itself with various administrative divisions. (source_id=wiki_en_nation_state). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_nation_state",
+    "sourceIds": [
+      "wiki_en_nation_state"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_nation_state",
+        "passage": "A state is a political entity that rules and governs society and the population within a definite territory, or in other words, it is referred to as the country itself with various administrative divisions."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_state_q05",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «Governments are considered as an apparatus, representative, or instrument of states as such the term is used as a metonym for them in governmental topics.»?",
+    "options": [
+      "Governments",
+      "State",
+      "Sovereignty",
+      "Nation state"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Governments"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Nation state"
+      }
+    ],
+    "correctAnswerOrRubric": "Governments",
+    "explanation": "Source-grounded AI practice item. The passage supports «Governments». Full sentence: Governments are considered as an apparatus, representative, or instrument of states as such the term is used as a metonym for them in governmental topics. (source_id=wiki_en_state_polity). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_state_polity",
+    "sourceIds": [
+      "wiki_en_state_polity"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_state_polity",
+        "passage": "Governments are considered as an apparatus, representative, or instrument of states as such the term is used as a metonym for them in governmental topics."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_state_q06",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «It is widely defined by the legitimacy of its sole discretion in the use of offensive and defensive force.»?",
+    "options": [
+      "State",
+      "Sovereignty",
+      "Nation state",
+      "legitimacy"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Nation state"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "legitimacy"
+      }
+    ],
+    "correctAnswerOrRubric": "legitimacy",
+    "explanation": "Source-grounded AI practice item. The passage supports «legitimacy». Full sentence: It is widely defined by the legitimacy of its sole discretion in the use of offensive and defensive force. (source_id=wiki_en_nation_state). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_nation_state",
+    "sourceIds": [
+      "wiki_en_nation_state"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_nation_state",
+        "passage": "It is widely defined by the legitimacy of its sole discretion in the use of offensive and defensive force."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_state_q09",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «Over time, varied forms of states developed that used many different justifications for their existence (such as divine right, the theory of the social contract, etc.).»?",
+    "options": [
+      "Over",
+      "State",
+      "Sovereignty",
+      "Nation state"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Over"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Nation state"
+      }
+    ],
+    "correctAnswerOrRubric": "Over",
+    "explanation": "Source-grounded AI practice item. The passage supports «Over». Full sentence: Over time, varied forms of states developed that used many different justifications for their existence (such as divine right, the theory of the social contract, etc.). (source_id=wiki_en_state_polity). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.6,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_state_polity",
+    "sourceIds": [
+      "wiki_en_state_polity"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_state_polity",
+        "passage": "Over time, varied forms of states developed that used many different justifications for their existence (such as divine right, the theory of the social contract, etc.)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_state_q10",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «Today, the modern nation state is the predominant form of state to which people are subject.»?",
+    "options": [
+      "State",
+      "Sovereignty",
+      "Nation state",
+      "Today"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Nation state"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Today"
+      }
+    ],
+    "correctAnswerOrRubric": "Today",
+    "explanation": "Source-grounded AI practice item. The passage supports «Today». Full sentence: Today, the modern nation state is the predominant form of state to which people are subject. (source_id=wiki_en_nation_state). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_nation_state",
+    "sourceIds": [
+      "wiki_en_nation_state"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_nation_state",
+        "passage": "Today, the modern nation state is the predominant form of state to which people are subject."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_state_q11",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «Sovereign states have sovereignty; any ingroup's claim to have a state faces some practical limits via the degree to which other states recognize them as such.»?",
+    "options": [
+      "Sovereignty",
+      "Nation state",
+      "Sovereign",
+      "State"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Nation state"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sovereign"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "State"
+      }
+    ],
+    "correctAnswerOrRubric": "Sovereign",
+    "explanation": "Source-grounded AI practice item. The passage supports «Sovereign». Full sentence: Sovereign states have sovereignty; any ingroup's claim to have a state faces some practical limits via the degree to which other states recognize them as such. (source_id=wiki_en_state_polity). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_state_polity",
+    "sourceIds": [
+      "wiki_en_state_polity"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_state_polity",
+        "passage": "Sovereign states have sovereignty; any ingroup's claim to have a state faces some practical limits via the degree to which other states recognize them as such."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_state_q12",
+    "version": "2",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «Satellite states are states that have de facto sovereignty but are often indirectly controlled by another state.»?",
+    "options": [
+      "Nation state",
+      "Satellite",
+      "State",
+      "Sovereignty"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Nation state"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Satellite"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Sovereignty"
+      }
+    ],
+    "correctAnswerOrRubric": "Satellite",
+    "explanation": "Source-grounded AI practice item. The passage supports «Satellite». Full sentence: Satellite states are states that have de facto sovereignty but are often indirectly controlled by another state. (source_id=wiki_en_nation_state). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_nation_state",
+    "sourceIds": [
+      "wiki_en_nation_state"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_nation_state",
+        "passage": "Satellite states are states that have de facto sovereignty but are often indirectly controlled by another state."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+  },
+  {
+    "questionId": "prac_pol_state_q01",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «A city-state, which is both smaller than a \"nation\" in the sense of a \"large sovereign country\" and which may or may not be dominated by all or part of a single \"nation\" in the sense of a common ethni…»?",
+    "options": [
+      "smaller",
+      "State",
+      "Sovereignty",
+      "Nation state"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "smaller"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Nation state"
+      }
+    ],
+    "correctAnswerOrRubric": "smaller",
+    "explanation": "Source-grounded AI practice item. The passage supports «smaller». Full sentence: A city-state, which is both smaller than a \"nation\" in the sense of a \"large sovereign country\" and which may or may not be dominated by all or part of a single \"nation\" in the sense of a common ethnicity or culture. (source_id=wiki_en_state_polity). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.5,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_state_polity",
+    "sourceIds": [
+      "wiki_en_state_polity"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_state_polity",
+        "passage": "A city-state, which is both smaller than a \"nation\" in the sense of a \"large sovereign country\" and which may or may not be dominated by all or part of a single \"nation\" in the sense of a common ethnicity or culture."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_state_q02",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «A federated state, which may or may not be a nation-state, and which is only partially self-governing within a larger federation (for example, the state boundaries of Bosnia and Herzegovina are drawn …»?",
+    "options": [
+      "Sovereignty",
+      "Nation state",
+      "Bosnia",
+      "State"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "Nation state"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Bosnia"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "State"
+      }
+    ],
+    "correctAnswerOrRubric": "Bosnia",
+    "explanation": "Source-grounded AI practice item. The passage supports «Bosnia». Full sentence: A federated state, which may or may not be a nation-state, and which is only partially self-governing within a larger federation (for example, the state boundaries of Bosnia and Herzegovina are drawn along ethnic lines, but those of the United States are not). (source_id=wiki_en_nation_state). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.7,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_nation_state",
+    "sourceIds": [
+      "wiki_en_nation_state"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_nation_state",
+        "passage": "A federated state, which may or may not be a nation-state, and which is only partially self-governing within a larger federation (for example, the state boundaries of Bosnia and Herzegovina are drawn along ethnic lines, but those of the United States are not)."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_state_q07",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «== History ==\n\n\n=== Origins ===\n\nThe origins and early history of nation-states are disputed.»?",
+    "options": [
+      "Nation state",
+      "History",
+      "State",
+      "Sovereignty"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "Nation state"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "History"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Sovereignty"
+      }
+    ],
+    "correctAnswerOrRubric": "History",
+    "explanation": "Source-grounded AI practice item. The passage supports «History». Full sentence: == History ==\n\n\n=== Origins ===\n\nThe origins and early history of nation-states are disputed. (source_id=wiki_en_state_polity). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.3,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_state_polity",
+    "sourceIds": [
+      "wiki_en_state_polity"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_state_polity",
+        "passage": "== History ==\n\n\n=== Origins ===\n\nThe origins and early history of nation-states are disputed."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  },
+  {
+    "questionId": "prac_pol_state_q08",
+    "version": "3",
+    "curriculumVersion": "nie_al_arts_provisional_v0.1",
+    "subjectId": "sub_political",
+    "topicId": "pol_state",
+    "language": "en",
+    "grade": "12",
+    "questionType": "mcq",
+    "prompt": "According to the cited public source for The State, which term or name is supported by this passage: «It was with these intellectual discoveries and technological advances that the nation-state arose.»?",
+    "options": [
+      "discoveries",
+      "State",
+      "Sovereignty",
+      "Nation state"
+    ],
+    "optionIds": [
+      {
+        "optionId": "opt_1",
+        "text": "discoveries"
+      },
+      {
+        "optionId": "opt_2",
+        "text": "State"
+      },
+      {
+        "optionId": "opt_3",
+        "text": "Sovereignty"
+      },
+      {
+        "optionId": "opt_4",
+        "text": "Nation state"
+      }
+    ],
+    "correctAnswerOrRubric": "discoveries",
+    "explanation": "Source-grounded AI practice item. The passage supports «discoveries». Full sentence: It was with these intellectual discoveries and technological advances that the nation-state arose. (source_id=wiki_en_nation_state). Not a past paper; not teacher-reviewed.",
+    "maxMarks": 1,
+    "difficulty": 0.4,
+    "difficultyBasis": "author_estimate",
+    "sourceReference": "wiki_en_nation_state",
+    "sourceIds": [
+      "wiki_en_nation_state"
+    ],
+    "supportingPassages": [
+      {
+        "source_id": "wiki_en_nation_state",
+        "passage": "It was with these intellectual discoveries and technological advances that the nation-state arose."
+      }
+    ],
+    "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+    "contentOrigin": "ai_authored_source_grounded",
+    "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+    "mappingBasis": "inferred_provisional_registry_topic",
+    "mappingStatus": "canonical_direct",
+    "mappingConfidence": "medium_inferred",
+    "reviewStatus": "draft",
+    "humanReviewStatus": "unreviewed",
+    "automatedValidation": "passed",
+    "learnerAvailability": "draft",
+    "isTestFixture": false,
+    "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+  }
+]

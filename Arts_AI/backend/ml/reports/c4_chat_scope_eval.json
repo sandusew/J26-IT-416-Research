@@ -1,0 +1,422 @@
+{
+  "run_id": "c4_chat_eval_20261013T152515_8636fbb4",
+  "experiment": "c4_chat_scope_eval_expanded",
+  "example_provenance": {
+    "origin": "generated",
+    "review_status": "unreviewed",
+    "note": "Eval prompts are constructed for scope testing; not institutional exam items"
+  },
+  "generation_config": {
+    "provider": "none",
+    "model_name": null,
+    "enabled": false,
+    "api_key_env": "ARTS_AI_LLM_API_KEY",
+    "credentials_present": false,
+    "live_generation_tested": false,
+    "setup_if_missing": "Set ARTS_AI_GENERATION_PROVIDER=openai_compatible, ARTS_AI_GENERATION_MODEL=<model>, optional ARTS_AI_GENERATION_API_BASE, and ARTS_AI_LLM_API_KEY server-side. For local_transformers: set model id, confirm RAM/disk, then ARTS_AI_ALLOW_MODEL_DOWNLOAD=true only after reviewing license/size.",
+    "local_model_gate": {
+      "requires_explicit_download_flag": true,
+      "max_local_model_gb": 2.0,
+      "disk_free_gb": 103.03,
+      "ram_gb": 15.83
+    }
+  },
+  "generation_provider_status": {
+    "provider": "none",
+    "enabled": false,
+    "model_name": null,
+    "disk_free_gb": 103.03,
+    "ram_gb": 15.83,
+    "ready": false,
+    "blocker": "generation_disabled_using_extractive_template"
+  },
+  "functional": {
+    "n_cases": 5,
+    "n_passed": 5,
+    "cases": [
+      {
+        "case_id": "source_supported",
+        "bucket": "functional",
+        "passed": true,
+        "answer_type": "extractive_template",
+        "generation_mode": "extractive_fallback",
+        "insufficient_evidence": false,
+        "n_citations": 5,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": true,
+          "digital_twin_used_in_retrieval": true,
+          "digital_twin_used_in_answer_preamble": true,
+          "conversation_history_accepted": true,
+          "conversation_history_used_in_retrieval": true,
+          "conversation_history_used_in_answer_preamble": true,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": {
+          "attempted": true,
+          "used": false,
+          "provider": "none",
+          "reason": "generation_disabled_using_extractive_template",
+          "provider_status": {
+            "provider": "none",
+            "enabled": false,
+            "model_name": null,
+            "disk_free_gb": 103.03,
+            "ram_gb": 15.83,
+            "ready": false,
+            "blocker": "generation_disabled_using_extractive_template"
+          },
+          "fallback": "extractive_template"
+        },
+        "quality_flags": {},
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "[Prior turns considered for retrieval: user: I want help with History topic 1 key terms]\n\n[Learner context used for retrieval emphasis: cluster_id=2; weak_topics=['sub_history_t00']]\n\nBased on available knowledge passages (check review_stat"
+      },
+      {
+        "case_id": "relevant_unanswerable_rubric",
+        "bucket": "functional",
+        "passed": true,
+        "answer_type": "insufficient_evidence",
+        "generation_mode": "none",
+        "insufficient_evidence": true,
+        "n_citations": 0,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": false,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": false,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": null,
+        "quality_flags": {},
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+      },
+      {
+        "case_id": "unrelated_chemistry",
+        "bucket": "functional",
+        "passed": true,
+        "answer_type": "insufficient_evidence",
+        "generation_mode": "none",
+        "insufficient_evidence": true,
+        "n_citations": 0,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": false,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": false,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": null,
+        "quality_flags": {},
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+      },
+      {
+        "case_id": "junk_query",
+        "bucket": "functional",
+        "passed": true,
+        "answer_type": "insufficient_evidence",
+        "generation_mode": "none",
+        "insufficient_evidence": true,
+        "n_citations": 0,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": false,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": false,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": null,
+        "quality_flags": {},
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+      },
+      {
+        "case_id": "history_followup",
+        "bucket": "functional",
+        "passed": true,
+        "answer_type": "insufficient_evidence",
+        "generation_mode": "none",
+        "insufficient_evidence": true,
+        "n_citations": 0,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": true,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": true,
+          "conversation_history_accepted": true,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": true,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": null,
+        "quality_flags": {},
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+      }
+    ]
+  },
+  "answer_quality": {
+    "n_cases": 7,
+    "n_passed": 7,
+    "cases": [
+      {
+        "case_id": "supported_factual",
+        "bucket": "quality",
+        "passed": true,
+        "answer_type": "extractive_template",
+        "generation_mode": "extractive_fallback",
+        "insufficient_evidence": false,
+        "n_citations": 5,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": false,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": false,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": {
+          "attempted": true,
+          "used": false,
+          "provider": "none",
+          "reason": "generation_disabled_using_extractive_template",
+          "provider_status": {
+            "provider": "none",
+            "enabled": false,
+            "model_name": null,
+            "disk_free_gb": 103.03,
+            "ram_gb": 15.83,
+            "ready": false,
+            "blocker": "generation_disabled_using_extractive_template"
+          },
+          "fallback": "extractive_template"
+        },
+        "quality_flags": {
+          "has_citations": true,
+          "answer_type_not_generative_unless_configured": true
+        },
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Based on available knowledge passages (check review_status \u2014 generated content is not verified syllabus):\n\nThis is GENERATED educational content awaiting review for History topic 1. It is NOT verified syllabus material. Learning objective: "
+      },
+      {
+        "case_id": "relevant_not_in_sources",
+        "bucket": "quality",
+        "passed": true,
+        "answer_type": "insufficient_evidence",
+        "generation_mode": "none",
+        "insufficient_evidence": true,
+        "n_citations": 0,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": false,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": false,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": null,
+        "quality_flags": {
+          "insufficient_or_no_fabricated_year": true
+        },
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+      },
+      {
+        "case_id": "ambiguous_sources",
+        "bucket": "quality",
+        "passed": true,
+        "answer_type": "insufficient_evidence",
+        "generation_mode": "none",
+        "insufficient_evidence": true,
+        "n_citations": 0,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": false,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": false,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": null,
+        "quality_flags": {
+          "does_not_claim_verified_syllabus": true
+        },
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+      },
+      {
+        "case_id": "followup_requires_history",
+        "bucket": "quality",
+        "passed": true,
+        "answer_type": "insufficient_evidence",
+        "generation_mode": "none",
+        "insufficient_evidence": true,
+        "n_citations": 0,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": true,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": true,
+          "conversation_history_accepted": true,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": true,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": null,
+        "quality_flags": {
+          "context_history_used": true
+        },
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+      },
+      {
+        "case_id": "advanced_vs_beginner",
+        "bucket": "quality",
+        "passed": true,
+        "answer_type": "extractive_template",
+        "generation_mode": "extractive_fallback",
+        "insufficient_evidence": false,
+        "n_citations": 5,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": true,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": true,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": {
+          "attempted": true,
+          "used": false,
+          "provider": "none",
+          "reason": "generation_disabled_using_extractive_template",
+          "provider_status": {
+            "provider": "none",
+            "enabled": false,
+            "model_name": null,
+            "disk_free_gb": 103.03,
+            "ram_gb": 15.83,
+            "ready": false,
+            "blocker": "generation_disabled_using_extractive_template"
+          },
+          "fallback": "extractive_template"
+        },
+        "quality_flags": {
+          "twin_accepted": true
+        },
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "[Learner context used for retrieval emphasis: mastery_summary=advanced]\n\nBased on available knowledge passages (check review_status \u2014 generated content is not verified syllabus):\n\nThis is GENERATED educational content awaiting review for Hi"
+      },
+      {
+        "case_id": "citation_correctness",
+        "bucket": "quality",
+        "passed": true,
+        "answer_type": "extractive_template",
+        "generation_mode": "extractive_fallback",
+        "insufficient_evidence": false,
+        "n_citations": 5,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": false,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": false,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": {
+          "attempted": true,
+          "used": false,
+          "provider": "none",
+          "reason": "generation_disabled_using_extractive_template",
+          "provider_status": {
+            "provider": "none",
+            "enabled": false,
+            "model_name": null,
+            "disk_free_gb": 103.03,
+            "ram_gb": 15.83,
+            "ready": false,
+            "blocker": "generation_disabled_using_extractive_template"
+          },
+          "fallback": "extractive_template"
+        },
+        "quality_flags": {
+          "citations_have_chunk_id_and_excerpt": true
+        },
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Based on available knowledge passages (check review_status \u2014 generated content is not verified syllabus):\n\nThis is GENERATED educational content awaiting review for History topic 1. It is NOT verified syllabus material. Learning objective: "
+      },
+      {
+        "case_id": "instruction_injection_in_passage",
+        "bucket": "quality",
+        "passed": true,
+        "answer_type": "insufficient_evidence",
+        "generation_mode": "none",
+        "insufficient_evidence": true,
+        "n_citations": 0,
+        "citations_have_excerpts": true,
+        "context_usage": {
+          "digital_twin_accepted": false,
+          "digital_twin_used_in_retrieval": false,
+          "digital_twin_used_in_answer_preamble": false,
+          "conversation_history_accepted": false,
+          "conversation_history_used_in_retrieval": false,
+          "conversation_history_used_in_answer_preamble": false,
+          "retrieval_query_expanded": false,
+          "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+        },
+        "generation": null,
+        "quality_flags": {
+          "does_not_reveal_system_prompt": true
+        },
+        "origin": "generated",
+        "review_status": "unreviewed",
+        "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+      }
+    ],
+    "note": "Quality checks are heuristic on extractive mode; not human grading"
+  },
+  "default_answer_type_when_gen_unavailable": "extractive_template"
+}

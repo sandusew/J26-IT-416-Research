@@ -1,0 +1,122 @@
+{
+  "topic_id": "hist_sl_sources",
+  "subject_id": "sub_history",
+  "topic_title": "Sources for Sri Lankan history",
+  "grade": "12",
+  "language": "en",
+  "content_origin": "ai_authored_source_grounded",
+  "human_review": "unreviewed",
+  "is_test_fixture": false,
+  "sections": [
+    {
+      "heading": "Core concepts and definitions",
+      "text": "Mahāvaṃsa (Pali: මහාවංස, romanized: Mahāvaṃsa) is the historical chronicle of Sri Lanka until the period of Mahasena of Anuradhapura. It was written in the style of an epic poem written in the Pali language. It relates the history of Sri Lanka from its legendary beginnings up to the reign of Mahasena of Anuradhapura covering the period between the arrival of Prince Vijaya from India in 543 BCE to his reign and later updated by different writers. It was first composed by a Buddhist monk named Mahānāma at the Mahavihāraya Temple in Anuradhapura in the 5th or 6th-century.\nThe Mahāvaṃsa first came to the attention of Western researchers around 1809, when Sir Alexander Johnston, Chief Justice of the British Ceylon, sent manuscripts of it and other Sri Lankan chronicles (written in mainly Sinhala language being the main language of Sri Lanka) to Europe for translation and publication. Eugène Burnouf produced a Romanized transliteration and translation into Latin in 1826, but these garnered relatively little attention. Working from Johnston's manuscripts, Edward Upham published an English translation in 1833, but it was marked by several errors in translation and interpretation, among them suggesting that the Buddha was born in Sri Lanka and built a monastery atop Adam's Peak. The first printed edition and widely read English translation was published in 1837 by George Turnour, a historian and officer of the Ceylon Civil Service who translated 38 chapters. Louis Corneille Wijesinghe completed the remaining 62 chapters and reviewed Turnour's work, publishing in 1889. A German translation of the Mahavamsa was completed by Wilhelm Geiger in 1912. This was then translated into English by Mabel Haynes Bode, and revised by Geiger.\nIn 2023, the Mahāvaṃsa was listed an item of globally important documentary heritage on UNESCO’s Memory of the World Programme's International Register.\n\nThe explanation lies in Dhammakitti's conception of the way in which his task was to be achieved. From literary sources, from what he had read he drew an ideal picture of an Indian king. The man whose glorification was his aim must correspond to this picture. He must have all the qualities belonging to an Indian king and employ all the methods of statecraft which political science prescribes or recommends. All these individual traits the compiler combines with the data furnished by tradition, without question as to probability or improbability of these. \nThat there is a certain amount of truth contained in the text is corroborated by numerous carvings, edicts and monuments still extant in Sri Lanka today – e.g., Parakramabahu's wars with Gajabahu II and Manabharana are attested to by at least one rock-carving from this period. Furthermore Geiger also believes that the Culavamsa 'does not consciously relate ... false [information]' but also he believes it has exaggerations, embellishments, suppresses the facts and invent stories, so need to deal with it caution and he said it is possible to find the correct informations in Culawamsa by separating these exaggerations and others. \nThe primary source for Parakramabahu's reign is the Cūḷavaṃsa.",
+      "source_ids": [
+        "wiki_en_mahavamsa"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Mahavamsa"
+    },
+    {
+      "heading": "Historical or systematic development",
+      "text": "The Buddha's Visits to Sri Lanka: This material recounts three legendary visits by the Buddha to the island of Sri Lanka. These stories describe the Buddha subduing or driving away the Yakkhas (Yakshas) and Nagas that were inhabiting the island and delivering a prophecy that Sri Lanka will become an important Buddhist center. These visits are not mentioned in the Pali Canon or other early sources.\n Chronicles of Kings of Sri Lanka: This material consists of genealogies and lineages of Sri Lankan kings, sometimes with stories about their succession or notable incidents in their reigns. This material may have been derived from earlier royal chronicles and king lists that were recorded orally in vernacular languages, and are a significant source of material about the history of Sri Lanka and nearby Indian kingdoms.\n History of the Buddhist Sangha: This section of the Mahavamsa deals with the mission sent by Emperor Ashoka to Sri Lanka, the transplantation of the bodhi tree, and the founding of the Mahavihara. It includes the names of prominent monks and nuns in the early Sri Lankan sangha. It also includes accounts of the early Buddhist councils and the first recording of the Pali canon in writing. This is a significant source of material about the development of the early Buddhist community and includes the names of missionaries dispatched to various regions of South and Southeast Asia, some of which have been confirmed by inscriptions and other archaeological evidence.\nChronicles of Sri Lanka: This material begins with the immigration of Prince Vijaya from India with his retinue and continues until the reign of King Mahasena, recounting wars, succession disputes, the building of stupas and reliquaries, and other notable incidents. An extensive chronicle of the war between the Sinhala King Dutthagamani and Tamil invader, and later king, Elara (861 verses in the Mahavamsa compared with 13 verses in the Dipavamsa) may represent the incorporation of a popular epic from the vernacular tradition.\nWhile much of the contents of the Mahavamsa is derived from expansions of the material found in the Dipavamsa, several passages specifically dealing with the Abhayagiri vihara are omitted, suggesting that the Mahavamsa was more specifically associated with the Mahavihara.",
+      "source_ids": [
+        "wiki_en_culavamsa"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Culavamsa"
+    },
+    {
+      "heading": "Applications, evidence, and Sri Lankan / comparative context",
+      "text": "The Cūḷavaṃsa or Chulavamsa (Pāli: \"Lesser Chronicle\") is a historical record, written in the Pali language, of the monarchs of Sri Lanka. It covers the period from the 4th century to 1815. The Cūḷavaṃsa was compiled over many years by Buddhist monks, and displays a variety of epic styles. It is generally considered to be a sequel to the Mahavamsa (\"Great Chronicle\") written in the 6th century by the monk Mahanama. The Mahavamsa and the Cūḷavaṃsa are sometimes thought of as a single work (referred to as the \"Mahavamsa\") spanning over two millennia of Sri Lankan history.",
+      "source_ids": [
+        "wiki_en_mahavamsa"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Mahavamsa"
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "Historiography of Sri Lanka",
+      "definition": "Historiography of Sri Lanka: a key idea for Sources for Sri Lankan history (see cited sources; AI-authored gloss).",
+      "source_ids": [
+        "wiki_en_mahavamsa"
+      ]
+    },
+    {
+      "term": "Mahavamsa",
+      "definition": "A German translation of the Mahavamsa was completed by Wilhelm Geiger in 1912.",
+      "source_ids": [
+        "wiki_en_mahavamsa"
+      ]
+    },
+    {
+      "term": "Culavamsa",
+      "definition": "The Culavamsa was compiled by several authors of different periods.",
+      "source_ids": [
+        "wiki_en_mahavamsa"
+      ]
+    },
+    {
+      "term": "Sources",
+      "definition": "These visits are not mentioned in the Pali Canon or other early sources.",
+      "source_ids": [
+        "wiki_en_mahavamsa"
+      ]
+    },
+    {
+      "term": "Lankan",
+      "definition": "Chronicles of Kings of Sri Lanka: This material consists of genealogies and lineages of Sri Lankan kings, sometimes with stories about their succession or notable incidents in their reigns.",
+      "source_ids": [
+        "wiki_en_mahavamsa"
+      ]
+    },
+    {
+      "term": "history",
+      "definition": "It relates the history of Sri Lanka from its legendary beginnings up to the reign of Mahasena of Anuradhapura covering the period between the arrival of Prince Vijaya from India in 543 BCE to his reign and later updated by different writers.",
+      "source_ids": [
+        "wiki_en_mahavamsa"
+      ]
+    }
+  ],
+  "source_ids": [
+    "wiki_en_mahavamsa",
+    "wiki_en_culavamsa"
+  ],
+  "sources_meta": [
+    {
+      "source_id": "wiki_en_mahavamsa",
+      "title": "Mahāvaṃsa",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Mahavamsa",
+      "retrieved_at_utc": "2026-10-14T17:19:51.006584+00:00",
+      "edition_or_revision": "pageid=981122",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_sources",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "a36e6edef879c0dbce434e608958c038ee736a31438fee1faa0b5fac0895da2b",
+      "origin": "wikipedia_api"
+    },
+    {
+      "source_id": "wiki_en_culavamsa",
+      "title": "Cūḷavaṃsa",
+      "publisher_author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Culavamsa",
+      "retrieved_at_utc": "2026-10-14T17:19:52.666141+00:00",
+      "edition_or_revision": "pageid=2508028",
+      "subject_id": "sub_history",
+      "topic_id": "hist_sl_sources",
+      "language": "en",
+      "licence": "CC-BY-SA-4.0",
+      "permission_evidence": "CC-BY-SA-4.0; attribution required; local truncated extract",
+      "role": "supplemental_teaching_material",
+      "official_curriculum_reference": false,
+      "local_checksum": "81beffe171ac4f98cba3fd2e3543a1f478f4c6135a4233ed6928c19f47be3798",
+      "origin": "wikipedia_api"
+    }
+  ],
+  "content_hash": "a41026acc063ff16e38f0bd6884f716fd5026f794a5e399f473051585ba956e7",
+  "authored_at_utc": "2026-10-14T17:22:23.563165+00:00"
+}

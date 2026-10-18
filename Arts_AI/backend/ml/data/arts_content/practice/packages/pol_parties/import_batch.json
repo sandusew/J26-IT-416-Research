@@ -1,0 +1,751 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_pol_parties_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "United National Party",
+        "Sri Lanka Freedom Party",
+        "Explanations",
+        "Political party"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "United National Party"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka Freedom Party"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political party"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_sri_lanka_freedom_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lanka_freedom_party",
+      "sourceIds": [
+        "wiki_en_sri_lanka_freedom_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lanka_freedom_party",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «A political party is an organization that coordinates candidates to compete in elections and participate in governance.»?",
+      "options": [
+        "Sri Lanka Freedom Party",
+        "organization",
+        "Political party",
+        "United National Party"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lanka Freedom Party"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "organization"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political party"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "United National Party"
+        }
+      ],
+      "correctAnswerOrRubric": "organization",
+      "explanation": "Source-grounded AI practice item. The passage supports «organization». Full sentence: A political party is an organization that coordinates candidates to compete in elections and participate in governance. (source_id=wiki_en_political_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_party",
+      "sourceIds": [
+        "wiki_en_political_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_party",
+          "passage": "A political party is an organization that coordinates candidates to compete in elections and participate in governance."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «It is common for the members of a party to hold similar ideas about politics, and parties may promote specific ideological or policy goals.»?",
+      "options": [
+        "party",
+        "Political party",
+        "United National Party",
+        "Sri Lanka Freedom Party"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "party"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Political party"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "United National Party"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lanka Freedom Party"
+        }
+      ],
+      "correctAnswerOrRubric": "party",
+      "explanation": "Source-grounded AI practice item. The passage supports «party». Full sentence: It is common for the members of a party to hold similar ideas about politics, and parties may promote specific ideological or policy goals. (source_id=wiki_en_united_national_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_united_national_party",
+      "sourceIds": [
+        "wiki_en_united_national_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_united_national_party",
+          "passage": "It is common for the members of a party to hold similar ideas about politics, and parties may promote specific ideological or policy goals."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «Political parties have become a major part of the politics of almost every country, as modern party organizations developed and spread around the world over the last few centuries.»?",
+      "options": [
+        "Political party",
+        "United National Party",
+        "Sri Lanka Freedom Party",
+        "Political"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Political party"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "United National Party"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lanka Freedom Party"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political"
+        }
+      ],
+      "correctAnswerOrRubric": "Political",
+      "explanation": "Source-grounded AI practice item. The passage supports «Political». Full sentence: Political parties have become a major part of the politics of almost every country, as modern party organizations developed and spread around the world over the last few centuries. (source_id=wiki_en_sri_lanka_freedom_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lanka_freedom_party",
+      "sourceIds": [
+        "wiki_en_sri_lanka_freedom_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lanka_freedom_party",
+          "passage": "Political parties have become a major part of the politics of almost every country, as modern party organizations developed and spread around the world over the last few centuries."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q07",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «Although some countries have no political parties, this is extremely rare.»?",
+      "options": [
+        "United National Party",
+        "Sri Lanka Freedom Party",
+        "Although",
+        "Political party"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "United National Party"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka Freedom Party"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Although"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political party"
+        }
+      ],
+      "correctAnswerOrRubric": "Although",
+      "explanation": "Source-grounded AI practice item. The passage supports «Although». Full sentence: Although some countries have no political parties, this is extremely rare. (source_id=wiki_en_political_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_party",
+      "sourceIds": [
+        "wiki_en_political_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_party",
+          "passage": "Although some countries have no political parties, this is extremely rare."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q08",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «Parties are important in the politics of autocracies as well as democracies, although democracies usually have more political parties than autocracies.»?",
+      "options": [
+        "Sri Lanka Freedom Party",
+        "Parties",
+        "Political party",
+        "United National Party"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Sri Lanka Freedom Party"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Parties"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Political party"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "United National Party"
+        }
+      ],
+      "correctAnswerOrRubric": "Parties",
+      "explanation": "Source-grounded AI practice item. The passage supports «Parties». Full sentence: Parties are important in the politics of autocracies as well as democracies, although democracies usually have more political parties than autocracies. (source_id=wiki_en_united_national_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_united_national_party",
+      "sourceIds": [
+        "wiki_en_united_national_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_united_national_party",
+          "passage": "Parties are important in the politics of autocracies as well as democracies, although democracies usually have more political parties than autocracies."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "true_false",
+      "prompt": "True or false for Political party system of Sri Lanka: «Political party system of Sri Lanka is isolated from other Arts subjects» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Political party system of Sri Lanka. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_party",
+      "sourceIds": [
+        "wiki_en_political_party",
+        "wiki_en_united_national_party"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "true_false",
+      "prompt": "True or false for Political party system of Sri Lanka: «Political party system of Sri Lanka can be reduced to a single date or slogan» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Political party system of Sri Lanka. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_party",
+      "sourceIds": [
+        "wiki_en_political_party",
+        "wiki_en_united_national_party"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "true_false",
+      "prompt": "True or false for Political party system of Sri Lanka: «Listing names alone demonstrates understanding of Political party system of Sri Lanka» is a sound interpretation of the cited sources.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "True"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswerOrRubric": "False",
+      "explanation": "False — listed as a common misconception in the AI-authored package for Political party system of Sri Lanka. Prefer source-grounded explanations. Unreviewed practice.",
+      "maxMarks": 1,
+      "difficulty": 0.35,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_party",
+      "sourceIds": [
+        "wiki_en_political_party",
+        "wiki_en_united_national_party"
+      ],
+      "supportingPassages": [],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_pol_parties_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «This involved a nationalist, democratic and socialist program which saw the SLFP achieve a huge victory at the 1956 elections and is seen by many observers as a social revolution resulting in the ecli…»?",
+      "options": [
+        "Westernised",
+        "Political party",
+        "United National Party",
+        "Sri Lanka Freedom Party"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Westernised"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Political party"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "United National Party"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lanka Freedom Party"
+        }
+      ],
+      "correctAnswerOrRubric": "Westernised",
+      "explanation": "Source-grounded AI practice item. The passage supports «Westernised». Full sentence: This involved a nationalist, democratic and socialist program which saw the SLFP achieve a huge victory at the 1956 elections and is seen by many observers as a social revolution resulting in the eclipse of the Westernised elite. (source_id=wiki_en_political_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_political_party",
+      "sourceIds": [
+        "wiki_en_political_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_political_party",
+          "passage": "This involved a nationalist, democratic and socialist program which saw the SLFP achieve a huge victory at the 1956 elections and is seen by many observers as a social revolution resulting in the eclipse of the Westernised elite."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_parties_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «Bandaranaike's term of office include the reverting of major defence facilities from British to local control, initiating a shift in Sri Lanka's foreign policy from the West to the Non-Aligned Movemen…»?",
+      "options": [
+        "Political party",
+        "United National Party",
+        "Sri Lanka Freedom Party",
+        "Bandaranaike"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Political party"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "United National Party"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Sri Lanka Freedom Party"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Bandaranaike"
+        }
+      ],
+      "correctAnswerOrRubric": "Bandaranaike",
+      "explanation": "Source-grounded AI practice item. The passage supports «Bandaranaike». Full sentence: Bandaranaike's term of office include the reverting of major defence facilities from British to local control, initiating a shift in Sri Lanka's foreign policy from the West to the Non-Aligned Movement and lowering the voting age from 21 to 18 years of age. (source_id=wiki_en_united_national_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_united_national_party",
+      "sourceIds": [
+        "wiki_en_united_national_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_united_national_party",
+          "passage": "Bandaranaike's term of office include the reverting of major defence facilities from British to local control, initiating a shift in Sri Lanka's foreign policy from the West to the Non-Aligned Movement and lowering the voting age from 21 to 18 years of age."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_pol_parties_q12",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicId": "pol_parties",
+      "language": "en",
+      "grade": "13",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Political party system of Sri Lanka, which term or name is supported by this passage: «Working people, a core base of support for the party, also benefited through the setting up of an Employee's Provident Fund and the empowerment of peasants through the Paddy Lands Act.»?",
+      "options": [
+        "United National Party",
+        "Sri Lanka Freedom Party",
+        "Working",
+        "Political party"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "United National Party"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka Freedom Party"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Working"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Political party"
+        }
+      ],
+      "correctAnswerOrRubric": "Working",
+      "explanation": "Source-grounded AI practice item. The passage supports «Working». Full sentence: Working people, a core base of support for the party, also benefited through the setting up of an Employee's Provident Fund and the empowerment of peasants through the Paddy Lands Act. (source_id=wiki_en_sri_lanka_freedom_party). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_sri_lanka_freedom_party",
+      "sourceIds": [
+        "wiki_en_sri_lanka_freedom_party"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_sri_lanka_freedom_party",
+          "passage": "Working people, a core base of support for the party, also benefited through the setting up of an Employee's Provident Fund and the empowerment of peasants through the Paddy Lands Act."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_pol_parties_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_political",
+      "topicIds": [
+        "pol_parties"
+      ],
+      "language": "en",
+      "grade": "13",
+      "resourceType": "teaching_package",
+      "title": "Political party system of Sri Lanka — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Political_party",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_political_party",
+        "wiki_en_united_national_party",
+        "wiki_en_sri_lanka_freedom_party"
+      ],
+      "bodyText": "# Political party system of Sri Lanka\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Political party system of Sri Lanka」 (pol_parties) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nA political party is an organization that coordinates candidates to compete in elections and participate in governance. It is common for the members of a party to hold similar ideas about politics, and parties may promote specific ideological or policy goals.\nPolitical parties have become a major part of the politics of almost every country, as modern party organizations developed and spread around the world over the last few centuries. Although some countries have no political parties, this is extremely rare. Most countries have several parties, while others only have one. Parties are important in the politics of autocracies as well as democracies, although democracies usually have more political parties than autocracies. Autocracies often have a single party that governs the country, and some political scientists consider competition between two or more parties to be an essential part \n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate understanding of: Political party system of Sri Lanka\n- [inferred_not_official] Explain core ideas of Political party system of Sri Lanka\n- [inferred_not_official] Apply concepts from Political party system of Sri Lanka using cited public sources\n\n## Core concepts and definitions\nA political party is an organization that coordinates candidates to compete in elections and participate in governance. It is common for the members of a party to hold similar ideas about politics, and parties may promote specific ideological or policy goals.\nPolitical parties have become a major part of the politics of almost every country, as modern party organizations developed and spread around the world over the last few centuries. Although some countries have no political parties, this is extremely rare. Most countries have several parties, while others only have one. Parties are important in the politics of autocracies as well as democracies, although democracies usually have more political parties than autocracies. Autocracies often have a single party that governs the country, and some political scientists consider competition between two or more parties to be an essential part of democracy.\nParties can develop from existing divisions in society, like the divisions between lower and upper classes, and they streamline the process of making political decisions by encouraging their members to cooperate. Political parties usually include a party leader, who has primary responsibility for the activities of the party; party executives, who may select the leader and who perform administrative and organizational tasks; and party members, who may volunteer to help the party, donate money to it, and vote for its candidates. There are many different ways in which political parties can be structured and interact with the electorate. The contributions that citizens give to political parties are often regulated by law, and parties will sometimes govern in a way that favours the people who donate time and money to them. In some cases, a political party tightly cooperates with affiliated or subordinate organizations of a different type, such as a trade union, a youth organization, or a party militia (armed wing).\nMany political parties are motivated by ideological goals. It is common for democratic elections to feature liberal, conservative, and socialist parties; other common ideologies of very large political parties include communism, populism, nationalism, and Islamism. Political parties in different countries will often adopt similar colours and symbols to identify themselves with a particular ideology. However, many political parties have no ideological affiliation and may instead be primarily engaged in patronage, clientelism, the advancement of a specific political entrepreneur, or be a \"big tent\", in that they wish to attract voters who have a variety of positions on issues.\n\nThe United National Party (UNP; Sinhala: එක්සත් ජාතික පක්ෂය, romanized: Eksath Jāthika Pakshaya, Tamil: ஐக்கிய தேசியக் கட்சி, romanized: Aikkiya Tēciyak Kaṭci) is a centre-right political party in Sri Lanka. Founded by D. S. Senanayake in 1946, the party was one of Sri Lanka's two major political parties for several decades and has governed the country for much of its independent history, either on its own or in coalition.\nThe party experienced a major split ahead of the 2020 parliamentary election, when more than three-quarters of its parliamentary group contested under the Samagi Jana Balawegaya alliance, and won only a single national list seat in Parliament. In 2022, the party returned to government after Ranil Wickremesinghe, who has led the party since 1994, was appointed prime minister and was later elected president by Parliament.\n(Source: https://en.wikipedia.org/wiki/Political_party)\n\n## Historical or systematic development\nSome scholars argue that the first modern political parties developed in early modern Britain in the 17th century, after the Exclusion Crisis and the Glorious Revolution. The Whig faction originally organized itself around support for Protestant constitutional monarchy as opposed to absolute rule, whereas the conservative Tory faction (originally the Royalist or Cavalier faction of the English Civil War) supported a strong monarchy, and these two groups structured disputes in the politics of the United Kingdom throughout the 18th century The Rockingham Whigs have been identified as the first modern political party, because they retained a coherent party label and motivating principles even while out of power.\nAt the end of the century, the United States also developed a party system, called the First Party System. Although the framers of the 1787 United States Constitution did not all anticipate that American political disputes would be primarily organized around political parties, political controversies in the early 1790s over the extent of federal government powers saw the emergence of two proto-political parties: the Federalist Party and the Democratic-Republican Party.\n\nThe UNP was founded by D. S. Senanayake in 1946 by amalgamating three right-leaning, pro-dominion parties from the majority Sinhalese community and minority Tamil and Muslim communities. Senanayake had earlier resigned from the Ceylon National Congress due to its revised aim in achieving independence from the British Empire. The UNP represented the business community and the landed gentry, though Senanayake appealed to landless people by adopting populist policies. His agricultural policies allowed many landless people to relocate under productive colonization schemes, which resulted in Sri Lankan agricultural production rising.\nIn the country's very first parliamentary elections in 1947, the UNP won a plurality of seats. After forming a coalition government with the All Ceylon Tamil Congress, Senanayake became the first Prime Minister of Ceylon. Ceylon would gain independence as the Dominion of Ceylon the next year. Senanayake's pivotal role in the Sri Lankan independence movement would earn him the title of \"Father of the Nation\".\nSenanayake refused knighthood, but maintained good relations with Britain and was a Privy Counsellor. He launched major irrigation and hydro-power projects such as the Gal Oya project (which relocated over 250,000 people), Udawalawa tank, Senanayaka tank, and several other multipurpose projects. He also renovated historic sites in Anuradhapura and Polonnaruwa and played a major role in the Colombo plan. During his tenure, free education commenced and the University of Peradeniya opened.\nHowever, his government proceeded to disenfranchise the plantation workers of Indian descent, the Indian Tamils, using the Ceylon Citizenship Act of 1948 and the Parliamentary Elections Amendment Act of 1949. These measures were intended primarily to electorally undermine leftist parties in Sri Lanka.\n(Source: https://en.wikipedia.org/wiki/United_National_Party)\n\n## Applications, evidence, and Sri Lankan / comparative context\nOne of the core explanations for the existence of political parties is that they arise from pre-existing divisions among people: society is divided in a certain way, and a party is formed to organize that division into the electoral competition. By the 1950s, economists and political scientists had shown that party organizations could take advantage of the distribution of voters' preferences over political issues, adjusting themselves in response to what voters believe in order to become more competitive. Beginning in the 1960s, academics began identifying the social cleavages in different countries that might have given rise to specific parties, such as religious cleavages in specific countries that may have produced religious parties there.\nThe theory that parties are produced by social cleavages has drawn several criticisms. Some authors have challenged it on empirical grounds, either finding no evidence for the claim that parties emerge from existing cleavages, or arguing that the claim is not empirically testable. Others note that while social cleavages might cause political parties to exist, this obscures the opposite effect: that political parties also cause changes in the underlying social cleavages. A further objection is that, if the explanation for where parties come from is that they emerge from existing social cleavages, then the theory is an incomplete story of where political parties come from unless it also explains the origins of these social cleavages.\n\nAfter Dudley Senanayake's death in 1973, Jayewardene became the leader of the UNP and reorganized the party at the grassroots level.\nThe United Front faced general disaffection from its economic policies and its brutal crackdown against a 1971 Marxist–Leninist insurrection by the Janatha Vimukthi Peramuna (JVP). The UNP, which promised each person with an 8-pound (3.6 kg) cereal ration, returned to power in 1977 with an unprecedented five-sixths majority in parliament.\nJayewardene was elected president by Parliament and, in 1978, introduced a new constitution which transformed the presidency into an executive post with sweeping powers.\nThe UNP introduced sweeping policy changes, including a more capitalistic liberal economic system. Free-trade zones such as in Katunayaka and Biyagama attracted foreign investment and generated employment. The government undertook massive development work to promote hydroelectricity and agriculture. Reservoirs were built at Victoria, Randenigala, Rantambe and Kotmale, while Maduru Oya and Lunugamwehera reservoirs were reconstructed. He awarded \"Swarnabhoomi\" land deeds to people and established administration centres such as Isurupaya and Sethsiripaya to create the new administrative capital in Sri Jayawardanapura Kotte, where a new Parliament Building was constructed.\nIn schools, the Mahapola scholarship programme was launched, free school books were provided, and information technology was introduced. Jayawardene's administration created the University of Ruhuna and Eastern University as well as the medical faculty of University of Jaffna. Bandaranayake International Airport was modernized and Air Lanka was created. He also modernized the military and created the Police Special Task Force.\nBy 1987, the Sri Lankan military had cornered the Liberation Tigers of Tamil Eelam (LTTE) in Jaffna and were confident of bringing an end to the civil war. However, due to internal pressure, airdropped supplies to the besieged LTTE.\n(Source: https://en.wikipedia.org/wiki/Sri_Lanka_Freedom_Party)\n\n## Key terms\n- **Political party**: A political party is an organization that coordinates candidates to compete in elections and participate in governance.\n- **United National Party**: Bandaranaike in 1951, the party was one of Sri Lanka's two main parties from the 1950s to the 2010s, serving as the main rival of the centre-right United National Party.\n- **Sri Lanka Freedom Party**: Bandaranaike, a Buddhist nationalist leader known for his centre-left views, defected from the UNP to form the Sri Lanka Freedom Party (SLFP) as a balancing force between the UNP and Marxist parties.\n- **Political**: A political party is an organization that coordinates candidates to compete in elections and participate in governance.\n- **party**: A political party is an organization that coordinates candidates to compete in elections and participate in governance.\n- **system**: At the end of the century, the United States also developed a party system, called the First Party System.\n- **Lanka**: Senanayake in 1946, the party was one of Sri Lanka's two major political parties for several decades and has governed the country for much of its independent history, either on its own or in coalition.\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Political party system of Sri Lanka, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Political party system of Sri Lanka can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Political party system of Sri Lanka\n- Political party system of Sri Lanka is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_political_party: Political party — https://en.wikipedia.org/wiki/Political_party (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:28:15.271913+00:00; checksum ed9066b2ffa7…)\n- wiki_en_united_national_party: United National Party — https://en.wikipedia.org/wiki/United_National_Party (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:28:16.762671+00:00; checksum 5fbfaffa87ad…)\n- wiki_en_sri_lanka_freedom_party: Sri Lanka Freedom Party — https://en.wikipedia.org/wiki/Sri_Lanka_Freedom_Party (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:28:18.296948+00:00; checksum 2c3e0707a310…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:41.087338+00:00",
+  "before_distinct": 12,
+  "after_distinct": 12,
+  "newly_authored_here": 3
+}

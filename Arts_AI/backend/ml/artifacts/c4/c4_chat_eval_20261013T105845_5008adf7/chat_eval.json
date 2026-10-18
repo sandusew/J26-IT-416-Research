@@ -1,0 +1,124 @@
+{
+  "run_id": "c4_chat_eval_20261013T105845_5008adf7",
+  "experiment": "c4_chat_scope_eval",
+  "generation_provider_status": {
+    "provider": "none",
+    "enabled": false,
+    "model_name": null,
+    "disk_free_gb": 88.62,
+    "ram_gb": 15.83,
+    "ready": false,
+    "blocker": "generation_disabled_using_extractive_template"
+  },
+  "default_answer_type_when_gen_unavailable": "extractive_template",
+  "n_cases": 5,
+  "n_passed": 4,
+  "cases": [
+    {
+      "case_id": "source_supported",
+      "passed": false,
+      "answer_type": "insufficient_evidence",
+      "generation_mode": "none",
+      "insufficient_evidence": true,
+      "n_citations": 0,
+      "citations_have_excerpts": true,
+      "context_usage": {
+        "digital_twin_accepted": true,
+        "digital_twin_used_in_retrieval": false,
+        "digital_twin_used_in_answer_preamble": true,
+        "conversation_history_accepted": true,
+        "conversation_history_used_in_retrieval": false,
+        "conversation_history_used_in_answer_preamble": true,
+        "retrieval_query_expanded": false,
+        "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+      },
+      "generation": null,
+      "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+    },
+    {
+      "case_id": "relevant_unanswerable",
+      "passed": true,
+      "answer_type": "insufficient_evidence",
+      "generation_mode": "none",
+      "insufficient_evidence": true,
+      "n_citations": 0,
+      "citations_have_excerpts": true,
+      "context_usage": {
+        "digital_twin_accepted": false,
+        "digital_twin_used_in_retrieval": false,
+        "digital_twin_used_in_answer_preamble": false,
+        "conversation_history_accepted": false,
+        "conversation_history_used_in_retrieval": false,
+        "conversation_history_used_in_answer_preamble": false,
+        "retrieval_query_expanded": false,
+        "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+      },
+      "generation": null,
+      "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+    },
+    {
+      "case_id": "unrelated",
+      "passed": true,
+      "answer_type": "insufficient_evidence",
+      "generation_mode": "none",
+      "insufficient_evidence": true,
+      "n_citations": 0,
+      "citations_have_excerpts": true,
+      "context_usage": {
+        "digital_twin_accepted": false,
+        "digital_twin_used_in_retrieval": false,
+        "digital_twin_used_in_answer_preamble": false,
+        "conversation_history_accepted": false,
+        "conversation_history_used_in_retrieval": false,
+        "conversation_history_used_in_answer_preamble": false,
+        "retrieval_query_expanded": false,
+        "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+      },
+      "generation": null,
+      "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+    },
+    {
+      "case_id": "junk_query",
+      "passed": true,
+      "answer_type": "insufficient_evidence",
+      "generation_mode": "none",
+      "insufficient_evidence": true,
+      "n_citations": 0,
+      "citations_have_excerpts": true,
+      "context_usage": {
+        "digital_twin_accepted": false,
+        "digital_twin_used_in_retrieval": false,
+        "digital_twin_used_in_answer_preamble": false,
+        "conversation_history_accepted": false,
+        "conversation_history_used_in_retrieval": false,
+        "conversation_history_used_in_answer_preamble": false,
+        "retrieval_query_expanded": false,
+        "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+      },
+      "generation": null,
+      "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+    },
+    {
+      "case_id": "history_followup",
+      "passed": true,
+      "answer_type": "insufficient_evidence",
+      "generation_mode": "none",
+      "insufficient_evidence": true,
+      "n_citations": 0,
+      "citations_have_excerpts": true,
+      "context_usage": {
+        "digital_twin_accepted": true,
+        "digital_twin_used_in_retrieval": false,
+        "digital_twin_used_in_answer_preamble": true,
+        "conversation_history_accepted": true,
+        "conversation_history_used_in_retrieval": false,
+        "conversation_history_used_in_answer_preamble": true,
+        "retrieval_query_expanded": false,
+        "note": "Twin/history boost re-ranking and answer preamble; primary BM25 uses the user question"
+      },
+      "generation": null,
+      "answer_excerpt": "Insufficient reviewed evidence in the knowledge base to answer confidently."
+    }
+  ],
+  "note": "Junk-query alone is insufficient; suite includes source-supported, relevant-but-unanswerable, unrelated, and history+twin context checks."
+}

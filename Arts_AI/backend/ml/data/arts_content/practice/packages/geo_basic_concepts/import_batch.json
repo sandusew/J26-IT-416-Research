@@ -1,0 +1,793 @@
+{
+  "dryRun": false,
+  "note": "Deficit-fill v3 — distinct logical IDs; unreviewed AI practice; not fixtures",
+  "questions": [
+    {
+      "questionId": "prac_geo_basic_concepts_q03",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.»?",
+      "options": [
+        "Human geography",
+        "Physical geography",
+        "Explanations",
+        "Geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Explanations"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Geography"
+        }
+      ],
+      "correctAnswerOrRubric": "Explanations",
+      "explanation": "Source-grounded AI practice item. The passage supports «Explanations». Full sentence: Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_physical_geography",
+      "sourceIds": [
+        "wiki_en_physical_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_physical_geography",
+          "passage": "Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q04",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes.»?",
+      "options": [
+        "Physical geography",
+        "Sri Lanka",
+        "Geography",
+        "Human geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Sri Lanka"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Human geography"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes. (source_id=wiki_en_geography_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_geography_sri_lanka",
+      "sourceIds": [
+        "wiki_en_geography_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_geography_sri_lanka",
+          "passage": "Sri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q05",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water.»?",
+      "options": [
+        "square",
+        "Geography",
+        "Human geography",
+        "Physical geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "square"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Physical geography"
+        }
+      ],
+      "correctAnswerOrRubric": "square",
+      "explanation": "Source-grounded AI practice item. The passage supports «square». Full sentence: The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water. (source_id=wiki_en_human_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_human_geography",
+      "sourceIds": [
+        "wiki_en_human_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_human_geography",
+          "passage": "The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q06",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania.»?",
+      "options": [
+        "Geography",
+        "Human geography",
+        "Physical geography",
+        "Sri Lanka"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctAnswerOrRubric": "Sri Lanka",
+      "explanation": "Source-grounded AI practice item. The passage supports «Sri Lanka». Full sentence: The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_physical_geography",
+      "sourceIds": [
+        "wiki_en_physical_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_physical_geography",
+          "passage": "The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q09",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480.»?",
+      "options": [
+        "According",
+        "Geography",
+        "Human geography",
+        "Physical geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "According"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Physical geography"
+        }
+      ],
+      "correctAnswerOrRubric": "According",
+      "explanation": "Source-grounded AI practice item. The passage supports «According». Full sentence: According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_physical_geography",
+      "sourceIds": [
+        "wiki_en_physical_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_physical_geography",
+          "passage": "According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q10",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama.»?",
+      "options": [
+        "Geography",
+        "Human geography",
+        "Physical geography",
+        "Rama"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Rama"
+        }
+      ],
+      "correctAnswerOrRubric": "Rama",
+      "explanation": "Source-grounded AI practice item. The passage supports «Rama». Full sentence: The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama. (source_id=wiki_en_geography_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_geography_sri_lanka",
+      "sourceIds": [
+        "wiki_en_geography_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_geography_sri_lanka",
+          "passage": "The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q11",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «The island contains relatively limited strata of sedimentation surrounding its ancient uplands.»?",
+      "options": [
+        "Human geography",
+        "Physical geography",
+        "relatively",
+        "Geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "relatively"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Geography"
+        }
+      ],
+      "correctAnswerOrRubric": "relatively",
+      "explanation": "Source-grounded AI practice item. The passage supports «relatively». Full sentence: The island contains relatively limited strata of sedimentation surrounding its ancient uplands. (source_id=wiki_en_human_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_human_geography",
+      "sourceIds": [
+        "wiki_en_human_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_human_geography",
+          "passage": "The island contains relatively limited strata of sedimentation surrounding its ancient uplands."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q12",
+      "version": "2",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «The northwest coast is part of the deep Cauvery (Kaveri) River Basin of southeast India, which has been collecting sediments from the highlands of India and Sri Lanka since the breakup of Gondwanaland…»?",
+      "options": [
+        "Physical geography",
+        "Cauvery",
+        "Geography",
+        "Human geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Cauvery"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Human geography"
+        }
+      ],
+      "correctAnswerOrRubric": "Cauvery",
+      "explanation": "Source-grounded AI practice item. The passage supports «Cauvery». Full sentence: The northwest coast is part of the deep Cauvery (Kaveri) River Basin of southeast India, which has been collecting sediments from the highlands of India and Sri Lanka since the breakup of Gondwanaland. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.4,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_physical_geography",
+      "sourceIds": [
+        "wiki_en_physical_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_physical_geography",
+          "passage": "The northwest coast is part of the deep Cauvery (Kaveri) River Basin of southeast India, which has been collecting sediments from the highlands of India and Sri Lanka since the breakup of Gondwanaland."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v2_repaired"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q01",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «However, by the mid-19th century, environmental determinism was under attack for lacking methodological rigor associated with modern science, and later as a means to justify racism and imperialism.»?",
+      "options": [
+        "However",
+        "Geography",
+        "Human geography",
+        "Physical geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "However"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Physical geography"
+        }
+      ],
+      "correctAnswerOrRubric": "However",
+      "explanation": "Source-grounded AI practice item. The passage supports «However». Full sentence: However, by the mid-19th century, environmental determinism was under attack for lacking methodological rigor associated with modern science, and later as a means to justify racism and imperialism. (source_id=wiki_en_geography_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_geography_sri_lanka",
+      "sourceIds": [
+        "wiki_en_geography_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_geography_sri_lanka",
+          "passage": "However, by the mid-19th century, environmental determinism was under attack for lacking methodological rigor associated with modern science, and later as a means to justify racism and imperialism."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q02",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «A similar concern with both human and physical aspects is apparent during the later 19th and first half of the 20th centuries, focused on regional geography.»?",
+      "options": [
+        "Geography",
+        "Human geography",
+        "Physical geography",
+        "human"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "human"
+        }
+      ],
+      "correctAnswerOrRubric": "human",
+      "explanation": "Source-grounded AI practice item. The passage supports «human». Full sentence: A similar concern with both human and physical aspects is apparent during the later 19th and first half of the 20th centuries, focused on regional geography. (source_id=wiki_en_human_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.6,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_human_geography",
+      "sourceIds": [
+        "wiki_en_human_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_human_geography",
+          "passage": "A similar concern with both human and physical aspects is apparent during the later 19th and first half of the 20th centuries, focused on regional geography."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q07",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «The goal of regional geography was to delineate space into regions and then to understand and describe the unique characteristics of each region in both human and physical terms.»?",
+      "options": [
+        "Human geography",
+        "Physical geography",
+        "delineate",
+        "Geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Human geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "delineate"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Geography"
+        }
+      ],
+      "correctAnswerOrRubric": "delineate",
+      "explanation": "Source-grounded AI practice item. The passage supports «delineate». Full sentence: The goal of regional geography was to delineate space into regions and then to understand and describe the unique characteristics of each region in both human and physical terms. (source_id=wiki_en_physical_geography). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.7,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_physical_geography",
+      "sourceIds": [
+        "wiki_en_physical_geography"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_physical_geography",
+          "passage": "The goal of regional geography was to delineate space into regions and then to understand and describe the unique characteristics of each region in both human and physical terms."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    },
+    {
+      "questionId": "prac_geo_basic_concepts_q08",
+      "version": "3",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicId": "geo_basic_concepts",
+      "language": "en",
+      "grade": "12",
+      "questionType": "mcq",
+      "prompt": "According to the cited public source for Basic concepts of Geography, which term or name is supported by this passage: «With links to possibilism and cultural ecology, some of the same notions of the environment's causal effect on society and culture remain in environmental determinism.»?",
+      "options": [
+        "Physical geography",
+        "cultural",
+        "Geography",
+        "Human geography"
+      ],
+      "optionIds": [
+        {
+          "optionId": "opt_1",
+          "text": "Physical geography"
+        },
+        {
+          "optionId": "opt_2",
+          "text": "cultural"
+        },
+        {
+          "optionId": "opt_3",
+          "text": "Geography"
+        },
+        {
+          "optionId": "opt_4",
+          "text": "Human geography"
+        }
+      ],
+      "correctAnswerOrRubric": "cultural",
+      "explanation": "Source-grounded AI practice item. The passage supports «cultural». Full sentence: With links to possibilism and cultural ecology, some of the same notions of the environment's causal effect on society and culture remain in environmental determinism. (source_id=wiki_en_geography_sri_lanka). Not a past paper; not teacher-reviewed.",
+      "maxMarks": 1,
+      "difficulty": 0.3,
+      "difficultyBasis": "author_estimate",
+      "sourceReference": "wiki_en_geography_sri_lanka",
+      "sourceIds": [
+        "wiki_en_geography_sri_lanka"
+      ],
+      "supportingPassages": [
+        {
+          "source_id": "wiki_en_geography_sri_lanka",
+          "passage": "With links to possibilism and cultural ecology, some of the same notions of the environment's causal effect on society and culture remain in environmental determinism."
+        }
+      ],
+      "provenance": "ai_authored_source_grounded_practice_not_past_paper",
+      "contentOrigin": "ai_authored_source_grounded",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "dataOrigin": "ai_authored_practice_bank_v3_deficit_fill"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "prac_geo_basic_concepts_pkg",
+      "version": "1",
+      "curriculumVersion": "nie_al_arts_provisional_v0.1",
+      "subjectId": "sub_geography",
+      "topicIds": [
+        "geo_basic_concepts"
+      ],
+      "language": "en",
+      "grade": "12",
+      "resourceType": "teaching_package",
+      "title": "Basic concepts of Geography — AI-authored practice package",
+      "difficulty": 0.5,
+      "difficultyBasis": "author_estimate",
+      "prerequisiteTopicIds": [],
+      "sourceDocumentIdOrUrl": "https://en.wikipedia.org/wiki/Geography_of_Sri_Lanka",
+      "availability": "draft",
+      "permissionStatus": "ai_authored_with_cc_by_sa_source_attribution",
+      "usagePermissionOrLicense": "AI-authored text; underlying extracts CC-BY-SA-4.0",
+      "mappingBasis": "inferred_provisional_registry_topic",
+      "mappingStatus": "canonical_direct",
+      "mappingConfidence": "medium_inferred",
+      "reviewStatus": "draft",
+      "humanReviewStatus": "unreviewed",
+      "automatedValidation": "passed",
+      "learnerAvailability": "draft",
+      "isTestFixture": false,
+      "contentOrigin": "ai_authored_source_grounded",
+      "dataOrigin": "ai_authored_practice_bank_v1",
+      "provenance": "ai_authored_source_grounded_teaching_package",
+      "sourceIds": [
+        "wiki_en_geography_sri_lanka",
+        "wiki_en_human_geography",
+        "wiki_en_physical_geography"
+      ],
+      "bodyText": "# Basic concepts of Geography\n\n## Content provenance\ncontent_origin=ai_authored_source_grounded; human_review=unreviewed; not a test fixture.\n\n## Overview\nThis AI-authored practice package supports the provisional topic 「Basic concepts of Geography」 (geo_basic_concepts) for English-medium study. Explanations are grounded in openly licensed public encyclopedia extracts and are not teacher-reviewed syllabus notes or official NIE teaching text.\n\nSri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes. The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water. Its coastline is 1,340 kilometres (830 mi) long. The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania. Dozens of offshore islands account for the remaining 1552 km2 area. The largest offshore island, Jaffna Island is separated by Chundikulam lagoon and Mannar Island, is linked to Adam's Bridge, a land connection to the Indian mainland, which is now mostly submerged with only a chain of limestone shoals remaining above sea level. According to temple records, this natural\n\n## Learning objectives (inferred — not official NIE verbatim extracts)\n- [inferred_from_provisional_registry_structure_not_official_verbatim] Demonstrate competency related to: Basic concepts of Geography\n- [inferred_not_official] Explain core ideas of Basic concepts of Geography\n- [inferred_not_official] Apply concepts from Basic concepts of Geography using cited public sources\n\n## Core concepts and definitions\nSri Lanka, formerly called Ceylon, is an island country in the Indian Ocean, southeast of the Indian subcontinent, in a strategic location near major sea lanes. The nation has a total area of 65,610 square kilometres (25,330 sq mi), with 64,630 square kilometres (24,950 sq mi) of land and 980 square kilometres (380 sq mi) of water. Its coastline is 1,340 kilometres (830 mi) long. The main island of Sri Lanka has an area of 64, 058 km2; it is the twenty-fifth largest island in the world by area, similar in size to Tasmania. Dozens of offshore islands account for the remaining 1552 km2 area. The largest offshore island, Jaffna Island is separated by Chundikulam lagoon and Mannar Island, is linked to Adam's Bridge, a land connection to the Indian mainland, which is now mostly submerged with only a chain of limestone shoals remaining above sea level. According to temple records, this natural causeway was formerly whole, but was breached by a violent storm (probably a cyclone) in 1480. The formation is also known as Rama's Bridge, as according to Hindu mythology, it was constructed during the rule of Lord Rama.\n\nThe island contains relatively limited strata of sedimentation surrounding its ancient uplands. Aside from recent deposits along river valleys, only two small fragments of Jurassic (140 to 190 million years ago) sediment occur in Puttalam District, while a more extensive belt of Miocene (5 to 20 million years ago) limestone is found along the northwest coast, overlain in many areas by Pleistocene (1 million years ago) deposits. The northwest coast is part of the deep Cauvery (Kaveri) River Basin of southeast India, which has been collecting sediments from the highlands of India and Sri Lanka since the breakup of Gondwanaland.\n(Source: https://en.wikipedia.org/wiki/Geography_of_Sri_Lanka)\n\n## Historical or systematic development\nSri Lanka's climate includes tropical monsoons; the northeast monsoon (December to March), and the southwest monsoon (June to October). Its terrain is mostly low, flat to rolling plain, with the mountainous upcountry in the south-central interior. The highest point is Pidurutalagala at 2,524 m (8,281 ft). Natural resources include limestone, graphite, mineral sands, gems, phosphates, and clay.\n\nExtensive faulting and erosion over time have produced a wide range of topographic features. Three zones are distinguishable by elevation: the Central Highlands, the plains, and the coastal belt.\n(Source: https://en.wikipedia.org/wiki/Human_geography)\n\n## Applications, evidence, and Sri Lankan / comparative context\nMore than 90% of Sri Lanka's surface lies on Precambrian strata, some of it dating back 2 billion years. The granulite facies rocks of the Highland Series (gneisses, sillimanite-graphite gneisses, quartzite, marbles, and some charnockites) make up most of the island and the amphibolite facies gneisses, granites, and granitic gneisses of the Vijayan Series occur in the eastern and southeastern lowlands. Jurassic sediments are present today in very small areas near the western coast and Miocene limestones underlie the northwestern part of the country and extend south in a relatively narrow belt along the west coast. The metamorphic rock surface was created by the transformation of ancient sediments under intense heat and pressure during mountain-building processes. The theory of plate tectonics suggests that these rocks and related rocks forming most of south India were part of a single southern landmass called Gondwanaland. Beginning about 200 million years ago, forces within the Earth's mantle began to separate the lands of the Southern Hemisphere, and a crustal plate supporting both India and Sri Lanka moved toward the northeast. About 45 million years ago, the Indian plate collided with the Asian landmass, raising the Himalayas in northern India, and it continues to advance slowly to the present time. Sri Lanka does not experience earthquakes or major volcanic events because it rides on the center of the plate.\n\nThe south-central part of Sri Lanka—the rugged Central Highlands—is the heart of the country. The core of this area is a high plateau, running north–south for approximately 65 kilometers. This area includes Sri Lanka's highest mountains. (Pidurutalagala is the highest at 2,524 m) At the plateau's southern end, mountain ranges stretch 50 kilometers to the west toward Adam's Peak (2,243 meters) and 50 kilometers to the east toward Namunukula (2,036 m). Flanking the high central ridges are two lower plateaus. On the west is the Hatton Plateau, a deeply dissected series of ridges sloping downward toward the north. On the east, the Uva Basin consists of rolling hills covered with grasses, traversed by some deep valleys and gorges. To the north, separated from the main body of mountains and plateaus by broad valleys, lies the Knuckles Massif: steep escarpments, deep gorges, and peaks rising to more than 1,800 meters. South of Adam's Peak lie the parallel ridges of the Rakwana Hills, with several peaks over 1,400 meters. The land descends from the Central Highlands to a series of escarpments and ledges at 400 to 500 meters above sea level before sloping down toward the coastal plains.\n(Source: https://en.wikipedia.org/wiki/Physical_geography)\n\n## Key terms\n- **Geography**: [Extract truncated for local indexing.]\n\nHuman geography, also known as anthropogeography, is a branch of geography that studies how people interact with habitats.\n- **Human geography**: [Extract truncated for local indexing.]\n\nHuman geography, also known as anthropogeography, is a branch of geography that studies how people interact with habitats.\n- **Physical geography**: [Extract truncated.]\n\nPhysical geography, also known as physiography or natural geography, is one of the three main branches of geography.\n- **Basic**: Basic: a key idea for Basic concepts of Geography (see cited sources; AI-authored gloss).\n- **concepts**: concepts: a key idea for Basic concepts of Geography (see cited sources; AI-authored gloss).\n\n## Worked example / application\nWorked application: Using the cited sources, identify one concrete example related to Basic concepts of Geography, state the concept it illustrates, and note one limitation of the source (e.g. encyclopedia summary depth). Do not invent dates or quotations absent from the cited passages.\n\n## Common misconceptions\n- Basic concepts of Geography can be reduced to a single date or slogan\n- Listing names alone demonstrates understanding of Basic concepts of Geography\n- Basic concepts of Geography is isolated from other Arts subjects\n\n## Revision summary\nRevision summary: (1) Restate the topic focus in one sentence. (2) List three key terms with definitions tied to sources. (3) Name one misconception and why it is misleading. (4) Cite at least one source URL used above.\n\n## Source references\n- wiki_en_geography_sri_lanka: Geography of Sri Lanka (Wikipedia extract) — https://en.wikipedia.org/wiki/Geography_of_Sri_Lanka (licence CC-BY-SA-4.0; retrieved 2026-10-13T17:57:36.405884+00:00; checksum 83db5d478f14…)\n- wiki_en_human_geography: Human geography — https://en.wikipedia.org/wiki/Human_geography (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:25:04.819280+00:00; checksum 193879442318…)\n- wiki_en_physical_geography: Physical geography — https://en.wikipedia.org/wiki/Physical_geography (licence CC-BY-SA-4.0; retrieved 2026-10-14T17:25:06.155724+00:00; checksum d0a38e8dcc59…)"
+    }
+  ],
+  "filled_at_utc": "2026-10-15T04:02:34.755869+00:00",
+  "before_distinct": 10,
+  "after_distinct": 12,
+  "newly_authored_here": 4
+}
