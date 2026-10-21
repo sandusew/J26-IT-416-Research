@@ -6,7 +6,7 @@ import type { TwinResponse } from '../api/types'
 import { ErrorState, PageHeader, SuccessBanner } from '../components/ui'
 import { formatColombo } from '../lib/format'
 import curriculum from '../data/curriculum.en.json'
-
+  
 type CurriculumFile = { subjects: Array<{ subjectId: string; subjectName: string }> }
 const subjects = (curriculum as CurriculumFile).subjects
 
