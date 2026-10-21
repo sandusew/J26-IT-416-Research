@@ -22,7 +22,7 @@ describe('LoginPage', () => {
   beforeEach(() => {
     login.mockReset()
   })
-
+     
   it('requires credentials before submit and calls login', async () => {
     const user = userEvent.setup()
     render(
