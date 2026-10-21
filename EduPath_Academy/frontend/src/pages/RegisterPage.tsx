@@ -128,6 +128,6 @@ export default function RegisterPage() {
           <Link to="/login" className="text-[#4c3ad6] hover:underline">Back to sign in</Link>
         </p>
       </div>
-    </div>
+    </div>  
   )
 }
