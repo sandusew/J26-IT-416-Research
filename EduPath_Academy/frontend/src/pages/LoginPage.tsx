@@ -37,7 +37,7 @@ export default function LoginPage() {
       setSubmitting(false)
     }
   }
-
+   
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-[#6d5efc] via-[#4c3ad6] to-[#24145f] px-4">
       <div className="card w-full max-w-md">
