@@ -14,7 +14,7 @@ export default function LoginPage() {
 
   const [username, setUsername] = useState('')
   const [password, setPassword] = useState('')
-  const [submitting, setSubmitting] = useState(false)
+  const [submitting, setSubmitting] = useState(false)   
   const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
