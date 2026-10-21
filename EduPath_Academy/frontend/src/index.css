@@ -16,6 +16,7 @@
   --font-display: 'Segoe UI', 'Source Sans 3', ui-sans-serif, system-ui, sans-serif;
 }
 
+
 @layer base {
   html {
     @apply antialiased text-navy-900 bg-sand-50;
