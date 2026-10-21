@@ -66,7 +66,7 @@ export default function ProfilePage() {
       setSaving(false)
     }
   }
-
+       
   return (
     <div className="space-y-4">
       <PageHeader title="Student profile" subtitle="Account details are separate from your learning summary." />
@@ -134,7 +134,7 @@ export default function ProfilePage() {
           <p className="mt-2 text-sm text-navy-800/70">No initial assessment is stored for this account.</p>
         )}
       </section>
-
+  
       <section className="card">
         <h2 className="font-bold text-navy-950">Observed learning summary</h2>
         {period?.statusLabel ? <p className="mt-2 text-sm font-medium">{String(period.statusLabel)}</p> : null}
