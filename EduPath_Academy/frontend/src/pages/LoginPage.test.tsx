@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event'
 import { MemoryRouter } from 'react-router-dom'
 import LoginPage from './LoginPage'
 
-const login = vi.fn()
+const login = vi.fn()    
 
 vi.mock('../auth/AuthContext', () => ({
   useAuth: () => ({
