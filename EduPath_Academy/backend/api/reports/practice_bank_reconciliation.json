@@ -19,7 +19,7 @@
     "duplicate_keys_in_batch": [],
     "n_topics": 45
   },
-  
+
   "atlas": {
     "n_ai_question_rows": 1171,
     "n_unique_logical_questionIds": 541,
@@ -45,6 +45,7 @@
     "batch_present_not_published": 0,
     "published_not_in_batch": 0
   },
+
   "batch_missing_in_atlas": [],
   "batch_present_not_published_sample": [],
   "published_not_in_batch_sample": [],
@@ -53,6 +54,7 @@
   "total_deficit_slots": 0,
   "deficit_topics": [],
   "topic_rows": [
+    
     {
       "topicId": "eco_demand_supply",
       "batch_questions": 12,
