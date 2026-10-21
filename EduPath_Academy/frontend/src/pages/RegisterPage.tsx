@@ -7,7 +7,7 @@ import { ErrorState } from '../components/ui'
 import curriculum from '../data/curriculum.en.json'
 
 type CurriculumFile = { subjects: Array<{ subjectId: string; subjectName: string }> }
-const subjects = (curriculum as CurriculumFile).subjects
+const subjects = (curriculum as CurriculumFile).subjects  
 
 export default function RegisterPage() {
   const { register, token, user } = useAuth()
