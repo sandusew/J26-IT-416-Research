@@ -82,3 +82,5 @@ describe('ChatPage failure and retry', () => {
     expect(screen.queryByText('Late answer')).not.toBeInTheDocument()
   })
 })
+
+
