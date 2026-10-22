@@ -8,7 +8,7 @@ import { PageHeader, LoadingState, EmptyState, ErrorState, Badge, SuccessBanner 
 import { formatColombo, isHttpUrl, subjectLabel } from '../lib/format'
 import curriculum from '../data/curriculum.en.json'
 
-type CurriculumFile = { subjects: Array<{ subjectId: string; subjectName: string }> }
+type CurriculumFile = { subjects: Array<{ subjectId: string; subjectName: string }> }   
 const subjects = (curriculum as CurriculumFile).subjects
 
 type Teacher = { teacherId: string; username: string; displayName: string }
