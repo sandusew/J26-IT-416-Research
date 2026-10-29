@@ -12,7 +12,7 @@ The project is organized into four connected research components. Each component
 
 The platform aims to make learning support more personalized by combining student learning behaviour, resource recommendations, academic progress analytics, and contextual academic support.
 
-```
+```mermaid
 flowchart TD
     A[Student uses learning platform] --> B[1. Student Behaviour Analysis and Cognitive Digital Twin]
     B --> C[Student profile, behaviour patterns, strengths and weak areas]
